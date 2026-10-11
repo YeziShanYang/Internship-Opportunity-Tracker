@@ -1599,15 +1599,23 @@ class Phase2PageWatchTests(_IsolatedState, unittest.TestCase):
         self.assertTrue(second.changes[0].is_discovery_candidate)
 
         # A programme going away must not read as a find. Baseline the page *with* a
-        # freshman line, then remove it: the only "Freshman" text is in the removed
+        # freshman line, then replace it: the only "Freshman" text is in the removed
         # side, so the change must not be a discovery candidate.
         had = self.PAGE.replace("</body>", "<p>Freshman track is open.</p></body>")
         base = _check_page(self._src(source_id="gone"), FakeHTMLClient(had))
         store.write_snapshot("gone", base.snapshot_text, ext="txt")
-        third = _check_page(self._src(source_id="gone"), FakeHTMLClient(self.PAGE))
+        closed = self.PAGE.replace("</body>", "<p>Applications reopen in spring.</p></body>")
+        third = _check_page(self._src(source_id="gone"), FakeHTMLClient(closed))
         self.assertEqual(len(third.changes), 1)
         self.assertFalse(third.changes[0].is_discovery_candidate,
                          "a closure must not be flagged as a discovery")
+
+        # With nothing added at all there is nothing to go and do, so no row -- the
+        # page-level form of the removed-posting rule -- and the drop is reported.
+        fourth = _check_page(self._src(source_id="gone"), FakeHTMLClient(self.PAGE))
+        self.assertEqual(fourth.changes, [])
+        self.assertIn((parse_page.PAGE_CHURN, 1),
+                      [(f.filter_id, f.removed) for f in fourth.filters])
 
     def test_14_9q_a_one_line_json_feed_diffs_per_record(self):
         """Four watched sources are vendor JSON feeds served as a single line. A line

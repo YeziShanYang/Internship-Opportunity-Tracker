@@ -21,7 +21,7 @@ Pure. No network, no disk: `previous` arrives as an argument, which is what lift
 """
 from __future__ import annotations
 
-import difflib
+import collections
 import json
 import re
 
@@ -196,24 +196,167 @@ _COUNTDOWN_UNIT = re.compile(r"^(days?|hours?|hrs?|minutes?|mins?|seconds?|secs?
 _COUNTDOWN_VALUE = re.compile(r"^\d{1,3}$")
 
 
+# A line that names a posting, as a job list prints one: "Summer 2027 Internship - Embedded
+# Software Engineering", "2027 Summer Intern: Video Operations Tools and Automation".
+# Banks say "Summer Analyst" with no "intern" anywhere. Bounded in length so Built In's
+# one-paragraph card summaries ("Tax interns support client engagements by ...") are not
+# read as titles, and a URL never is: the tal.net feeds put the posting's own link, slug
+# and all, on the line above its title.
+_POSTING_TITLE = re.compile(
+    r"(?i)\b(?:intern(?:ship)?s?|co-?ops?|apprentice(?:ship)?s?|fellowships?"
+    r"|summer\s+(?:20\d\d|analyst|associate|scholar|student)s?)\b")
+MAX_TITLE_CHARS = 160
+
+# A line with one of these is a date or a deadline, so a change to its digits is the
+# news ("Applications close October 15" -> "October 22") rather than a counter ticking.
+_DATED = re.compile(
+    r"(?i)\b(?:jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\b"
+    r"|deadline|\bdue\b|\bclos|\bopen|apply\s+by|\d{1,2}/\d{1,2}")
+_DIGITS = re.compile(r"\d[\d,.]*")
+
+
+def _signature(line: str) -> tuple[str, ...]:
+    """A line's words as a sorted bag, digits masked unless the line is a date.
+
+    Two lines with one signature say the same thing: Getro's and Consider's boards
+    reshuffle every card's skill tags daily ("Git SciPy Pandas" -> "SciPy Pandas Git"),
+    and their headers recount ("18,442 jobs" -> "18,457 jobs").
+    """
+    words = line.lower().split()
+    if not _DATED.search(line):
+        words = [_DIGITS.sub("#", word) for word in words]
+    return tuple(sorted(words))
+
+
+def _minus(lines: list[str], other: collections.Counter, key=lambda line: line) -> list[str]:
+    """`lines` without one occurrence per count in `other`, in order."""
+    remaining = collections.Counter(other)
+    out = []
+    for line in lines:
+        if remaining[key(line)] > 0:
+            remaining[key(line)] -= 1
+        else:
+            out.append(line)
+    return out
+
+
+def page_news(old: list[str], new: list[str]) -> tuple[list[str], list[str]]:
+    """(added, removed) lines once reordering and churn are taken out.
+
+    A multiset difference rather than a sequence diff. A sequence diff reports a moved
+    block as removed in one place and added in another, and job lists move blocks all
+    the time: on 2026-10-11 Lightspeed swapped two Amca cards and MLH two hackathons,
+    which read as "40 added, 40 removed" and "10 added, 20 removed" while nothing was
+    posted or taken down. Then lines that pair up by `_signature`, and lines with no
+    letter at all (TreeHacks' banner emoji, a bare count), come off both sides.
+    """
+    added = _minus(new, collections.Counter(old))
+    removed = _minus(old, collections.Counter(new))
+    common = (collections.Counter(map(_signature, added))
+              & collections.Counter(map(_signature, removed)))
+    added = _minus(added, common, _signature)
+    removed = _minus(removed, common, _signature)
+
+    def worded(line: str) -> bool:
+        return any(ch.isalpha() for ch in line)
+
+    return [l for l in added if worded(l)], [l for l in removed if worded(l)]
+
+
+def posting_titles(lines: list[str]) -> list[str]:
+    return [
+        line for line in lines
+        if len(line) <= MAX_TITLE_CHARS and not line.startswith(("http://", "https://"))
+        and _POSTING_TITLE.search(line)
+    ]
+
+
+# The one line every posting card on a watched job list carries, by vendor: Getro's
+# "Location: Seattle, WA, USA", a16z's and Consider's "Scotts Valley, California · Posted
+# <age>", Built In's "<age> Saved". A new one is a new card even when its title never
+# says "intern" -- these boards are filtered to internships server-side, and on
+# 2026-10-07 a16z listed "Founders Associate - CEO Office" that way.
+_CARD_ANCHOR = re.compile(r"^Location:|Posted <age>$|^<age> Saved$")
+
+
+def new_postings(added: list[str], new: list[str]) -> list[str]:
+    """What a job list gained, named the way the digest should print it.
+
+    Posting titles among the added lines, plus one name per added card anchor: the
+    posting title among the three lines above the anchor, or failing that the two lines
+    directly above it (Getro and a16z put title and company there).
+    """
+    names = posting_titles(added)
+    wanted = collections.Counter(line for line in added if _CARD_ANCHOR.search(line))
+    for index, line in enumerate(new):
+        if wanted[line] <= 0:
+            continue
+        wanted[line] -= 1
+        above = new[max(0, index - 3):index]
+        titled = posting_titles(above)
+        names.append(titled[-1] if titled else " · ".join(above[-2:]))
+    return list(dict.fromkeys(name for name in names if name))
+
+
+def is_job_list(source: dict[str, str]) -> bool:
+    """Whether the row is marked as a list of postings rather than a programme page.
+
+    A mark on the row rather than a count of title lines, because the count does not
+    separate the two: measured over the snapshots on 2026-10-11, Thrive's board carries
+    13 distinct posting titles and Stanford's symsys-summer programme page 22. On a job
+    list a change is news only when it adds a posting -- its other lines (skill tags,
+    salary bands, "Showing 12 out of 18") move daily and name nothing to apply to. A
+    programme page has no postings to look for, so its own text stays the signal.
+    """
+    return (source.get("job_list") or "").strip().lower() == "true"
+
+
+# The two reasons a page that moved still produces no row, as HEALTH names them.
+PAGE_CHURN = "page-churn"
+PAGE_NO_POSTING = "page-no-new-posting"
+
+
+def page_verdict(old: list[str], new: list[str], job_list: bool = False) -> str:
+    """Why a moved page has no row, or "" when it has one.
+
+    Separate from `diff_pages` so `assess` can report the drop: every filter reports
+    what it removed, and a page that changed every day while printing nothing would
+    otherwise be indistinguishable from one that stopped changing.
+    """
+    if old == new:
+        return ""
+    added, _ = page_news(old, new)
+    if not added:
+        # Nothing was added, or nothing but reordering and counters. A page that only
+        # lost lines has nothing new to apply to, which is the removed-posting rule.
+        return PAGE_CHURN
+    # A discovery phrase keeps the row even without a title line: "Discovery Day
+    # applications are open" is the news a firm's careers page exists to carry.
+    discovery = snapshot.DISCOVERY_PATTERN.search(" ".join(added))
+    if job_list and not new_postings(added, new) and not discovery:
+        return PAGE_NO_POSTING
+    return ""
+
+
 def diff_pages(
     source_id: str, old: list[str], new: list[str], source: dict[str, str]
 ) -> list[models.Change]:
-    """At most one Change per page per run.
+    """At most one Change per page per run, and none for a page with no news.
 
     Page diffs are lumpy -- a nav tweak moves forty lines -- so one Change per changed
     line would drown the digest and burn the classification budget on boilerplate.
+
+    A job list that gained postings is keyed on them, so the digest names the posting
+    rather than printing "page updated". "page updated" is kept for a programme page,
+    which has no postings to name -- its own text is the only sign that something moved.
     """
-    matcher = difflib.SequenceMatcher(a=old, b=new, autojunk=False)
-    added: list[str] = []
-    removed: list[str] = []
-    for tag, i1, i2, j1, j2 in matcher.get_opcodes():
-        if tag in ("insert", "replace"):
-            added.extend(new[j1:j2])
-        if tag in ("delete", "replace"):
-            removed.extend(old[i1:i2])
+    job_list = is_job_list(source)
+    if page_verdict(old, new, job_list):
+        return []
+    added, removed = page_news(old, new)
     if not added and not removed:
         return []
+    titles = new_postings(added, new) if job_list else []
 
     blob = " ".join(added)
     flaggable = len(added) <= MAX_FLAGGED_ADDED_LINES
@@ -229,6 +372,12 @@ def diff_pages(
         body.append(f"... {len(added)} added and {len(removed)} removed lines in total.")
 
     program_name = source.get("program_names", "")
+    name = program_name or source_id
+    if titles:
+        more = f" (+{len(titles) - 1} more)" if len(titles) > 1 else ""
+        key = f"{name}: {titles[0]}{more}"
+    else:
+        key = f"{name} ({len(added)} added, {len(removed)} removed)"
     return [
         models.Change(
             source_id=source_id,
@@ -237,7 +386,7 @@ def diff_pages(
             # runs on purpose: `enrich` and `screen` look themselves up by this, and a
             # key that folded in the added/removed counts would change every morning.
             change_id=clock.change_id(source_id, "page"),
-            key=f"{program_name or source_id} ({len(added)} added, {len(removed)} removed)",
+            key=key,
             detail="\n".join(body),
             url=source.get("url", ""),
             program_name=program_name,
@@ -339,10 +488,27 @@ def assess(
             extra=extra,
         )
 
+    old_lines = previous.splitlines()
+    verdict = page_verdict(old_lines, lines, is_job_list(source))
+    reasons = {
+        PAGE_CHURN: "the page moved, but only by reordering, recounting or removing "
+                    "lines, so nothing on it is new",
+        PAGE_NO_POSTING: "a job list changed, but none of the added lines is a posting "
+                         "(skill tags, salary bands, page furniture)",
+    }
+    filters = [
+        models.FilterReport(
+            stage="process", filter_id=filter_id, considered=int(old_lines != lines),
+            removed=int(verdict == filter_id), source_id=source_id, reason=reason,
+            samples=(source_id,) if verdict == filter_id else (),
+        )
+        for filter_id, reason in reasons.items()
+    ]
     return models.SourceResult(
         source_id=source_id,
         ok=True,
-        changes=diff_pages(source_id, previous.splitlines(), lines, source),
+        changes=diff_pages(source_id, old_lines, lines, source),
+        filters=filters,
         snapshot_text=text,
         snapshot_ext="txt",
         content_length=len(text),

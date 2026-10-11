@@ -269,6 +269,7 @@ def add(entries: list[dict], dry_run: bool, source_article: str = "") -> int:
                     program_names=name,
                     selector=source.get("selector", ""),
                     render_js="true" if source.get("render_js") else "false",
+                    job_list="true" if source.get("job_list") else "false",
                     consecutive_failures="0",
                     signal=source.get("signal", "high"),
                     notes=source.get("notes", ""),

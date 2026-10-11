@@ -50,7 +50,11 @@ def usage_line(usage: models.Usage) -> str | None:
 
 # Most filters count rows; a bulk source's unreadable-board report counts boards, and
 # nothing was removed -- the rows were carried forward.
-FILTER_UNITS = {"bulk-board-unreadable": "boards unreadable"}
+FILTER_UNITS = {
+    "bulk-board-unreadable": "boards unreadable",
+    "page-churn": "changed pages dropped",
+    "page-no-new-posting": "changed pages dropped",
+}
 NAME_SAMPLES = {"bulk-board-unreadable"}
 
 

@@ -146,6 +146,11 @@ SOURCE_COLUMNS = [
     "program_names",
     "selector",
     "render_js",
+    # true for a page_text row that is a list of postings (a VC portfolio board, a Built
+    # In search, an ATS feed) rather than a programme page. A change to it is reported
+    # only when an added line is a posting, and is named by that posting; see
+    # process.parse_page.page_verdict.
+    "job_list",
     "last_success",
     "consecutive_failures",
     # When we last actually tried. Distinct from last_success because the circuit
