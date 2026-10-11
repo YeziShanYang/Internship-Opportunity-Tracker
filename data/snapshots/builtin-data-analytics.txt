@@ -31,6 +31,17 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+Spectrum
+2027 Summer Intern: Video Operations Tools and Automation
+<age> Saved
+In-Office
+Greenwood Village, CO, USA
+Internship
+Internship
+Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
+Supports data analysis, monitoring, and automation projects within AI Operations. Analyzes operational data, prepares datasets, identifies improvement opportunities, assists with automation that reduces manual monitoring, documents practices, gathers requirements, shares findings, and communicates technical work to nontechnical audiences.
+Top Skills:
+Ai Operations Tooling Automation Scripting Operational Data Monitoring Python SQL
 Citadel
 Quantitative Research Engineer - PhD Intern (US)
 <age> Saved
@@ -81,6 +92,10 @@ Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Tec
 Summer interns support business analytics and digital transformation initiatives by building dashboards, analyzing datasets, developing visualizations, researching digital product enhancements, and assisting with automation and process improvement. The role involves translating data into actionable insights, collaborating with professionals, and using technology to support business decisions. Candidates must be enrolled in an accredited four-year institution and graduate between December 2027 and May 2030.
 Top Skills:
 Excel Power BI Python SQL Tableau
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 IDeaS
 Research Analyst Intern
 <age> Saved
@@ -92,10 +107,6 @@ Software &#x2022; Analytics &#x2022; Hospitality
 Research Analyst Intern supporting global alliance initiatives through strategic research, partnership analysis, data-driven recommendations, and stakeholder presentations. The role involves identifying business challenges, proposing solutions, tracking projects, preparing reports, and collaborating with international teams and executives using tools such as Wrike, Salesforce, Microsoft Forms, and PowerPoint.
 Top Skills:
 Microsoft Forms Microsoft Powerpoint Salesforce Wrike
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 Atlassian
 Data Engineer Intern, 2027 Summer U.S.
 <age> Saved
@@ -135,19 +146,6 @@ eCommerce &#x2022; Mobile &#x2022; Payments
 Business Intelligence Interns will conduct exploratory data analysis, create ad hoc reports, and support the development, migration, and improvement of dashboards using Looker and Databricks. They will gather requirements, build visualizations, test dashboard accuracy and usability, identify data inconsistencies, and document findings while collaborating with team members on business initiatives.
 Top Skills:
 Databricks Looker Power BI Python SQL Tableau
-Spectrum
-2027 Summer Intern: Associate Data Analyst&#x200B; (Customer Operations)
-<age> Saved
-In-Office
-Stamford, CT, USA
-31K-33K Annually
-Internship
-31K-33K Annually
-Internship
-Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
-Paid, full-time data analyst internship supporting business planning and data operations. Responsibilities include documenting data definitions, business rules, and data quality requirements; integrating data from multiple sources; completing roadmap projects to improve process efficiency; and identifying data-driven strategies to enhance business performance. Interns also participate in professional development, networking, mentorship, community service, and final presentations.
-Top Skills:
-Microsoft Access Excel MS Office Microsoft Powerpoint Microsoft Word
 Perchwell
 Data Analytics Engineering Intern
 <age> Saved

@@ -2,7 +2,7 @@ Jobs at Lightspeed Venture Partners Companies | Lightspeed Venture Partners
 Menu 01 About 02 Team 03 Companies 04 Founder Experience 05 Stories 06 Launch 07 Research Hub
 Faction Gaming LP Login Events Lighthouse Contact Portfolio Jobs
 Careers
-519 companies. 16,769 jobs.
+519 companies. 16,768 jobs.
 Jobs Companies
 Filter jobs by skills and more
 Roles
@@ -30,7 +30,7 @@ Los Angeles Posted <age>
 Satellite Platform
 Defense &amp; Space, Manufacturing
 Seed, 10–100 employees
-Troubleshooting Research Volunteer Management Advisor Compliance Spacecraft Interviews Aerospace Export Controls Quality Assurance
+Advisor Research Interviews Export Controls Spacecraft Volunteer Management Quality Assurance Aerospace Compliance Troubleshooting
 Apply
 #LI-DNI K2 Space Platform Engineering Intern – Summer 2027
 Always confirm salary details from the job posting.
@@ -39,7 +39,7 @@ Los Angeles Posted <age>
 Satellite Platform
 Defense &amp; Space, Manufacturing
 Seed, 10–100 employees
-Research Volunteer Management Advisor Compliance Spacecraft Interviews Aerospace Export Controls
+Advisor Research Interviews Export Controls Spacecraft Volunteer Management Aerospace Compliance
 Apply
 #LI-DNI K2 Space Supply Chain Internship - Summer 2027
 Always confirm salary details from the job posting.
@@ -48,7 +48,7 @@ Los Angeles Posted <age>
 Operations
 Defense &amp; Space, Manufacturing
 Seed, 10–100 employees
-Finance Advisor Compliance SQL Spacecraft SAP ERP Supply Chain Management Interviews Export Controls
+Advisor Interviews Spacecraft Export Controls SQL SAP ERP Supply Chain Management Compliance Finance
 Apply
 #LI-DNI Amca Electrical Engineering Internship (Winter Spring 2027)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -56,19 +56,7 @@ Similar jobs pay USD 35,000 - 85,000 / year
 El Segundo, CA Posted <age>
 Engineering
 Series A, 10–100 employees
-Troubleshooting Electronic circuit simulation Infrastructure Vehicles Spring Altium Designer Electrical Design Team Leadership Robotics EDA
-Apply
-#LI-DNI Amca Sourcing Intern, Supply Chain (Summer 2027)
-El Segundo Posted <age>
-Supply Chain
-Series A, 10–100 employees
-Prototyping Infrastructure Avionics PCBA Vehicles Procurement Aviation C Supply Chain Management Coatings
-Apply
-#LI-DNI Amca Engineering Internship, Supply Chain (Summer 2027)
-El Segundo, CA Posted <age>
-Supply Chain
-Series A, 10–100 employees
-Prototyping GD&amp;T Avionics PCBA Vehicles Infrastructure Aviation Injection Molding Supply Chain Engineering Program Management
+Team Leadership Electronic circuit simulation Altium Designer Vehicles Spring Robotics Quality Assurance EDA Infrastructure Electrical Design
 Apply
 #LI-DNI Amca Software Engineering Internship (Summer 2027)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -76,7 +64,19 @@ Similar jobs pay USD 45,000 - 115,000 / year
 El Segundo, CA Posted <age>
 Software
 Series A, 10–100 employees
-Infrastructure Prototyping Avionics Quality Assurance Aviation Vehicles
+Avionics Vehicles Quality Assurance Prototyping Infrastructure Aviation
+Apply
+#LI-DNI Amca Engineering Internship, Supply Chain (Summer 2027)
+El Segundo, CA Posted <age>
+Supply Chain
+Series A, 10–100 employees
+GD&amp;T Avionics Supplier Quality Vehicles Quality Assurance Injection Molding Supply Chain Engineering Supply Chain Management Program Management Prototyping
+Apply
+#LI-DNI Amca Sourcing Intern, Supply Chain (Summer 2027)
+El Segundo Posted <age>
+Supply Chain
+Series A, 10–100 employees
+Avionics Procurement Vehicles Quality Assurance Infrastructure Supply Chain Management Machining Prototyping PCBA Coatings
 Apply
 #LI-DNI Amca Growth Internship (Summer 2027)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -84,27 +84,13 @@ Similar jobs pay USD 40,000 - 100,000 / year
 El Segundo, CA Posted <age>
 Growth
 Series A, 10–100 employees
-Prototyping Research Avionics Vehicles Infrastructure Aviation Business Development Visual Design Government Relations Mergers &amp; Acquisitions
+Avionics Business Development Research Mergers &amp; Acquisitions Vehicles Government Relations Quality Assurance Prototyping Cancer Biology Infrastructure
 Apply
 #LI-DNI Amca Production Operations Internship (Summer 2027)
 El Segundo, CA Posted <age>
 Production Operations
 Series A, 10–100 employees
-Prototyping Infrastructure Avionics Quality Assurance Aviation Machining Vehicles
-Apply
-#LI-DNI Amca Engineering Internship, Business Operations (Summer 2027)
-El Segundo, CA Posted <age>
-Business Operations
-Series A, 10–100 employees
-Business Operations Procurement Attention to Detail DoD Aerospace Government Contracting Cancer Biology
-Apply
-#LI-DNI Amca Mechanical Engineering Intern (Summer 2027)
-Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
-Similar jobs pay USD 40,000 - 85,000 / year
-El Segundo, CA Posted <age>
-Engineering
-Series A, 10–100 employees
-Troubleshooting Prototyping Infrastructure Physics Solid Mechanics GD&amp;T Aviation Spring Finite Element Analysis SolidWorks
+Avionics Vehicles Quality Assurance Machining Prototyping Infrastructure Aviation
 Apply
 #LI-DNI Amca Electrical Engineering Internship (Summer 2027)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -112,7 +98,7 @@ Similar jobs pay USD 35,000 - 85,000 / year
 El Segundo, CA Posted <age>
 Engineering
 Series A, 10–100 employees
-Troubleshooting Electronic circuit simulation Prototyping Infrastructure Avionics Vehicles Aviation PCB design KiCad Altium Designer
+Avionics Team Leadership Electronic circuit simulation Altium Designer OrCAD Aviation Vehicles KiCad PCB design Robotics
 Apply
 #LI-DNI Amca Business Operations Internship (Summer 2027)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -120,14 +106,28 @@ Similar jobs pay USD 45,000 - 150,000 / year
 El Segundo, CA Posted <age>
 Business Operations
 Series A, 10–100 employees
-Business Operations Procurement Attention to Detail DoD Aerospace Government Contracting Cancer Biology
+DoD Procurement Cancer Biology Aerospace Government Contracting Attention to Detail Business Operations
+Apply
+#LI-DNI Amca Engineering Internship, Business Operations (Summer 2027)
+El Segundo, CA Posted <age>
+Business Operations
+Series A, 10–100 employees
+DoD Procurement Cancer Biology Aerospace Government Contracting Attention to Detail Business Operations
+Apply
+#LI-DNI Amca Mechanical Engineering Intern (Summer 2027)
+Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
+Similar jobs pay USD 40,000 - 85,000 / year
+El Segundo, CA Posted <age>
+Engineering
+Series A, 10–100 employees
+Avionics Vehicles Aviation Fluid Dynamics GD&amp;T CAD Infrastructure Aerospace Troubleshooting Solid Mechanics
 Apply
 #LI-DNI Manex AI Founders Associate Intern - People &amp; Talent (f/m/d)
 Munich, Bavaria, Germany, Munich Posted <age>
 Leadership
 AI, Enterprise Software
 Seed, 10–100 employees
-Voter Targeting/Outreach Marketing Recruiting Employer Branding LinkedIn Interviews Artificial Intelligence
+Artificial Intelligence Interviews Marketing LinkedIn Employer Branding Recruiting Voter Targeting/Outreach
 Apply
 #LI-DNI Skild AI Social Media Intern
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -136,7 +136,7 @@ San Mateo Posted <age>
 Marketing
 AI, Research
 Growth, 10–100 employees
-Data Driven Robotics Social Media Artificial Intelligence Machine Learning
+Artificial Intelligence Machine Learning Robotics Data Driven Social Media
 Apply
 Show more jobs Back to top
 Share these results

@@ -21,11 +21,6 @@ Vercel Ship 26 | San Francisco
 Thu, Oct 15 · 9:00 AM PDT
 Palace of Fine Arts
 Vercel will host a hands-on event where developers will explore building, deploying, and scaling AI agents with industry experts leading the charge. Attendees can participate in person or tune in online to dive into the latest agent frameworks and connect with fellow builders pushing the boundaries of AI development.
-Oct 11
-The Harness Engineering &amp; Model Wrangling Hackathon
-Sun, Oct 11 · 9:00 AM PDT
-San Francisco, CA
-Developers will build persistent-memory and self-evolving AI agents with MongoDB Atlas and Vector Search, tackling long-term context, reliability, and rewritable guardrails. Ecosystem judges will assess the projects and their approaches to agents that adapt over time.
 Oct 12
 Open Intelligence Summit
 Mon, Oct 12 · 9:00 AM PDT
@@ -51,86 +46,86 @@ Tech Week
 Mon, Oct 5 · 9:00 AM PDT LIVE
 San Francisco, CA
 Bond’s curated guide will track the full Tech Week 2026 schedule from October 5–11, with Bond AI’s approved picks clearly marked.
-Oct 9
-AI Native Summit - TechWeek 2026
-Fri, Oct 9 · 10:00 AM PDT LIVE
-847 Howard St
-AI Native Summit 2026 will bring together AI engineers, founders, and infrastructure experts for two intense days of deep technical talks, hands-on build labs, and a community-driven hackathon finals with a growing $50,000+ prize pool, spotlighting serious builders shaping the future of AI-native systems.
-Oct 9
-Future of Work Hackathon: Building from the Farm
-Fri, Oct 9 · 4:00 PM PDT LIVE
-San Francisco, CA
-This overnight build will bring developers, technical founders, product builders, students, and enterprise operators together to create practical AI-native systems, with hands-on mentorship from engineers and mentors from Google, Apple, and NVIDIA. Supported by Replit and ElevenLabs, the event will offer participating teams credits and swag, with premium plans, additional prizes, and an exclusive Replit office visit with engineering mentors for the overall winner.
-Oct 10
-Friends in Product Walk
-Sat, Oct 10 · 8:00 AM PDT
-Golden Gate Park
-During SF Tech Week, product leaders, founders, designers, engineers, investors, and builders will connect on a relaxed morning walk, trading conversation partners and ideas about product and AI. The 60–75-minute route will make space for quick introductions, deeper one-on-ones, and informal coffee networking.
-Oct 10
-Vecty: The Balance Sheet Ride
-Sat, Oct 10 · 8:00 AM PDT
-San Francisco, CA
-Vecty, an AI-native accounting platform, will host a no-drop, all-levels 45-minute morning spin followed by coffee and informal networking with founders, finance leaders, investors, and Vecty’s CPAs. Attendees can get practical startup tax and accounting advice, and one startup present will be drawn to receive $5,000 in Vecty services.
-Oct 10
-Oasis Multi-Agent Hackathon
-Sat, Oct 10 · 9:00 AM PDT
-San Francisco, CA
-Engineers, researchers, and builders will spend a full day using Oasis to create working multi-agent apps, coordinating models from Claude, OpenAI, and other frameworks with policies, approvals, and Slack or iMessage hand-offs. Oasis mentors, workspace, food, and prizes for standout builds will support participants of all experience levels as part of #SFTechWeek.
-Oct 10
-Build For Her
-Sat, Oct 10 · 9:00 AM PDT
-San Francisco, CA
-BUILD FOR HER will bring 30–40 women across engineering, AI and data, product, design, research, and subject-matter expertise together for a one-day social impact hackathon. Multidisciplinary teams will tackle challenges in women’s health, economic mobility, and safety, then present a working prototype or demonstrable solution to a panel of judges.
-Oct 10
-Talk to Users Hackathon
-Sat, Oct 10 · 9:00 AM PDT
-House of AI
-Twenty technical teams will spend 12 hours building in one vertical, testing with matched real-world users and iterating before a final demo, with $10K+ in prizes and millions of credits at stake. Teams will also get one-on-one guidance from a16z Speedrun and YC founders, including startup CEOs, CTOs, and a CPO.
-Oct 10
-AI x Pre-Construction Hackathon
-Sat, Oct 10 · 9:00 AM PDT
-San Francisco, CA
-Blueprints AI will host a 32-hour hackathon tackling pre-construction challenges with AI, from code compliance to blueprint generation and permit review. Engineers, architects, designers, builders, and other AEC innovators will build and demo solutions, backed by Dell and NVIDIA hardware and infrastructure.
-Oct 10
-BUILD FOR HER A WOMEN’S SOCIAL IMPACT HACKATHON #SFTechWeek
-Sat, Oct 10 · 9:00 AM PDT
-San Francisco, CA
-On October 10, Build For Her will bring 30–40 women together for a Tech Week Hack Week builder-track social impact hackathon focused on women’s health, economic mobility, and safety. Engineers, product and design professionals, researchers, and experts in healthcare, fintech, policy, and more will contribute their skills, no hackathon experience required, as part of RoamHer’s first experiences.
 Oct 10
 Alignment 2026 ｜Valley101 Annual Tech Summit - Live from the AI Frontier, Uncut
-Sat, Oct 10 · 9:00 AM PDT
+Sat, Oct 10 · 9:00 AM PDT LIVE
 Plug and Play Tech Center
 Alignment 2026 will bring together founders, researchers, investors, and decision-makers building real-world AI on October 10th and 11th, delivering an immersive tech experience designed with visual storytelling, live demos, and cutting-edge content that goes beyond the typical summit format. Expect around 2,000 industry professionals, engineers, C-suite leaders, top investors, and media influencers diving deep into AI and frontier technology innovation.
 Oct 10
 AI Hackathon
-Sat, Oct 10 · 9:30 AM PDT
+Sat, Oct 10 · 9:30 AM PDT LIVE
 San Francisco, CA
 A weekend AI buildathon will bring students, engineers, founders, career switchers, and curious beginners together to create and demo real projects, with mentors, models, and meals provided. The event will be part of #SFTechWeek, connecting participants across the tech ecosystem.
 Oct 10
+INTERFACE: Hack the Space Between
+Sat, Oct 10 · 11:00 AM PDT LIVE
+2 Marina Blvd
+INTERFACE will be a 24-hour hackathon where talented student developers use hardware and APIs to invent new ways for people to interact with machines, the world, and each other. As part of #SFTechWeek, the event will spotlight creative ideas shaping the next generation of interfaces.
+Oct 11
+Multi Model Hackathon - #SFTechWeek
+Sun, Oct 11 · 9:00 AM PDT
+Frontier Tower
+BuilderBase, Women in AI, and AI Collective will bring engineers, AI practitioners, designers, and technical founders together for a day of building and live demos focused on useful products that combine multiple models, agents, or modalities. Participants will test real-world ideas with support from AI and developer-tool sponsors including Anbaric, Base44, Prelint, and Swytchcode.
+Oct 11
+Multi Model Hackathon
+Sun, Oct 11 · 9:00 AM PDT
+Frontier Tower
+Builderbase, AI Collective, and AI Tinkerers will host a hackathon as part of SF Tech Week, with support from OpenAI/Nebius, Base44, Supabase, Matrix OS, and Apify. Prize details and judges and mentors will be announced later.
+Oct 11
+The AI-Native Talent Hunt with Codex - #SFTechWeek
+Sun, Oct 11 · 9:00 AM PDT
+San Francisco, CA
+You&#x27;ll compete live on real enterprise problems using AI agents of your choice, with your solution process and results evaluated against engineers, PMs, analysts, and ops folks across multiple tracks—top performers get direct interviews with Fortune 500 and AI-native companies plus a shot at $5K in prizes.
+Oct 11
 AI-Native Startup Hackathon
-Sat, Oct 10 · 10:00 AM PDT
+Sun, Oct 11 · 9:00 AM PDT
 San Francisco, CA
-Founders, developers, designers, students, marketers, and entrepreneurs will turn an idea into a launch-ready startup in a one-day challenge using Kylon and AI teammates. Teams will validate a customer problem, build an MVP and AI-powered organization, shape a go-to-market plan, and pitch their venture to judges and investors.
-Oct 10
-Exited Founders and QP Allocators: Coastal Walk and Coffee
-Sat, Oct 10 · 10:00 AM PDT
+Founders, builders, students, and entrepreneurs will turn an idea into a launch-ready startup in a one-day challenge, using Kylon and AI teammates to validate a problem, build an MVP, shape a business, and pitch to judges and investors. Teams will be evaluated on customer validation, product quality, market potential, AI-powered execution, and the strength of their final demo and pitch.
+Oct 11
+The Brain Optimization Summit- Tech Week 2026
+Sun, Oct 11 · 9:30 AM PDT
+135 Mississippi St
+Top neuroscientists and biotech innovators will explore breakthrough therapeutics, AI applications, and emerging technologies designed to enhance cognitive function and brain health throughout the day.
+Oct 11
+Brain Optimization Summit
+Sun, Oct 11 · 9:30 AM PDT
+135 Mississippi St
+This all-day event will explore how AI is advancing brain optimization, neurological disease prevention and treatment, and neurotechnology tools. Stanford Professor and inventor Dr. Ronjon Nag, alongside CEOs, researchers, and physicians from neurotech and health tech companies, will share insights into the field’s latest developments.
+Oct 11
+`touch ./GRASS` the Outdoor Voice Coding Hackathon
+Sun, Oct 11 · 9:45 AM PDT
 San Francisco, CA
-A capped, off-the-record coastal walk will bring together 10 AI founders with exit experience and 10 Qualified Purchaser allocators for candid discussion of AI markets, company fundamentals, exits, and portfolio strategy. Hosted by Equity X Investments, LLC, a Registered Investment Adviser, the event will feature individually vetted participants and peer-level networking.
-Oct 10
-Creative Data Hackathon
-Sat, Oct 10 · 10:00 AM PDT
+Openbase’s third OUTDOORS hackathon will bring developers, founders, students, and voice-AI enthusiasts together to build apps and startups by directing coding agents from their phones, with Openbase or their own tools. Hosted with Maritime and Sundai Club as part of SF Tech Week, the event will feature team formation, a build sprint, final demos, and community networking.
+Oct 11
+Raisable Founders &amp; Investors Hike
+Sun, Oct 11 · 10:00 AM PDT
 San Francisco, CA
-Teams will spend a day building and presenting creative ways to showcase data, with prizes for the sharpest and most original approaches. Hosted by cala.ai, a knowledge layer for AI agents, the event will be part of SF Tech Week.
-Oct 10
-AI on Trial: The Liability Moot Court by Ollive
-Sat, Oct 10 · 10:00 AM PDT
+Raisable will cap SF Tech Week 2026 with an intimate Sunday morning hike for 20–30 founders, investors, researchers, and tech leaders. The curated Silicon Valley community brings together 300+ VCs, serial founders, and senior operators, with past events featuring investors from Microsoft M12, Samsung NEXT, and Fusion Fund and researchers from Stanford and Carnegie Mellon.
+Oct 11
+B@BHacks 2.0
+Sun, Oct 11 · 10:00 AM PDT
 San Francisco, CA
-AI founders, insurers, general counsels, and litigators will put an AI agent failure on trial in an interactive moot court, debating negligence, indemnity, liability caps, and insurance coverage. The audience will weigh the evidence and deliver a verdict on who should pay when AI causes harm.
-Oct 10
-Production Agent Lab - Workshop
-Sat, Oct 10 · 10:00 AM PDT
+B@BHacks 2.0 will bring together the top 1% of builders for a high-caliber hackathon, with more than $10,000 in cash prizes.
+Oct 11
+AI in the Wild: Founders Edition
+Sun, Oct 11 · 10:00 AM PDT
+San Francisco Botanical Garden
+LGBTQ+ entrepreneurs will explore how AI is transforming the startup landscape while strolling through lush gardens in this one-of-a-kind networking experience. Expect real conversations about innovation and business with fellow founders who are building the future.
+Oct 11
+touch ./GRASS x Building the Future of AI Agents
+Sun, Oct 11 · 10:00 AM PDT
 San Francisco, CA
-This hands-on AI engineering workshop day will feature four technical sessions, practical demos, and real workflows for evaluating emerging approaches to agent infrastructure. Nimble’s Head of FDE and Director of Solution Consulting Amaury Desrosiers and Comet AI Research Engineer and Developer Advocate Abby Morgan will lead workshops on live-web research agents and designing, debugging, and measuring agent loops.
+Openbase, Maritime, and Sundai Club will host a full-day hackathon exploring voice-controlled, mobile AI agents and new ways to build beyond the desk. Participants will prototype agent-powered tools and workflows, with Sundai Club bringing a builder community founded by hackers from MIT and Harvard.
+Oct 11
+Shopping 3.0: the AI Commerce Hackathon with Arcade
+Sun, Oct 11 · 10:00 AM PDT
+TIAT: The Intersection of Art and Technology
+Arcade’s Tech Week hackathon will give developers, designers, and artists access to its product-generation APIs to build consumer apps, commerce tools, and other made-to-order product experiences. Judges include Forerunner Ventures’ Kirsten Green and Minted founder and Arcade CEO Mariam Naficy, with $10,000 and $5,000 prizes for the top two teams.
+Oct 11
+Recursive Self Improvement Hack: Evals
+Sun, Oct 11 · 10:00 AM PDT
+San Francisco, CA
+Sundai Club, an MIT/Harvard AI hacker group with 110+ consecutive weekly builds, will focus this Sunday on creating self-improving AI systems, exploring how harnesses and better evaluations can drive progress. Participants will pitch ideas, form teams, build, and present their projects in a single day.
 Oct 17
 The Recursive Agents Hackathon
 Sat, Oct 17 · 9:00 AM PDT

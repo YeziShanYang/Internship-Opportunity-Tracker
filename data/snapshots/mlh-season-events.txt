@@ -12,20 +12,10 @@ HackNC
 OCT 09 - 11
 Chapel Hill, North Carolina, US
 In-Person
-Bhilai , Chhattisgarh
-HackBIOS
-OCT 09 - 10
-Bhilai, Chhattisgarh, IN
-In-Person
 Flushing , New York
 Hack Knight
 OCT 09 - 11
 Flushing, New York, US
-In-Person
-Saltillo , Coahuila
-Hackathon TecNM Campus Saltillo 2026
-OCT 09 - 10
-Saltillo, Coahuila, MX
 In-Person
 Atlanta , Georgia
 Hacklanta
@@ -367,6 +357,16 @@ Los Angeles, California, US
 In-Person
 Past Events
 2026
+Saltillo , Coahuila
+Hackathon TecNM Campus Saltillo 2026
+OCT 09 - 10
+Saltillo, Coahuila, MX
+In-Person
+Bhilai , Chhattisgarh
+HackBIOS
+OCT 09 - 10
+Bhilai, Chhattisgarh, IN
+In-Person
 Dearborn , Michigan
 Hack Dearborn 5: Conjure Reality
 OCT 03 - 04
@@ -478,16 +478,6 @@ HackHers @GSU
 SEP 18 - 19
 Atlanta, , GA , US
 In-Person DIVERSITY
-Lubbock , Texas
-HackWesTX 26
-SEP 12 - 13
-Lubbock, Texas, US
-In-Person
-Pittsburgh , PA
-HackCMU
-SEP 11 - 12
-Pittsburgh, PA, US
-In-Person
 24 past events shown
 Footer
 Major League Hacking We help run the global hacker community. It&#x27;s our mission to empower hackers, just like you.
