@@ -93,6 +93,10 @@ ALWAYS: list[str] = [
     "Stanford Pre-Collegiate Studies (SUMaC RC/TA) refuses the Actions runner. Its "
     "residential page offers an interest form for the Summer 2027 cycle - fill it in once "
     "and SPCS emails you when hiring opens: spcs.stanford.edu/residential-program-positions",
+    "Stanford's SOLO portal and the Digital Economy Lab refuse the Actions runner, so "
+    "nothing watches them. Check SOLO's freshman research list weekly - "
+    "solo.stanford.edu/opportunities?class=16&type%5B%5D=2 - and the Lab's "
+    "digitaleconomy.stanford.edu/about/careers-and-opportunities now and then.",
     "Kaggle competitions are always open and rolling - browse kaggle.com/competitions "
     "when you want a project, not on a deadline.",
 ]
