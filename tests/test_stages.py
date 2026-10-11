@@ -22,6 +22,7 @@ import run
 from core import models, paths
 from persist import artifacts
 from process import parse_ats, suppress
+from process import snapshot as snap
 
 
 def _change(key: str, program_name: str = "") -> models.Change:
@@ -40,8 +41,8 @@ class FilterReportTests(unittest.TestCase):
         self.assertEqual(len(kept), 1)
         self.assertEqual(
             {r.filter_id for r in reports},
-            {suppress.DISAPPEARED, suppress.DUPLICATE, suppress.MUTED,
-             suppress.APPLIED},
+            {suppress.DISAPPEARED, suppress.CLOSED, suppress.DUPLICATE,
+             suppress.MUTED, suppress.APPLIED},
         )
         self.assertTrue(all(r.removed == 0 for r in reports))
 
@@ -130,6 +131,31 @@ class FilterReportTests(unittest.TestCase):
         self.assertEqual(
             sum(r.removed for r in reports), 1, "the drop must be counted exactly once"
         )
+
+    def test_a_posting_its_list_marks_closed_is_dropped_and_counted(self):
+        """aprameyak and vanshb03 keep a closed posting's row and swap its link for 🔒.
+
+        On 2026-10-11 eighteen of those reached the digest as rows with no link: ten
+        closures that the differ read as edited rows, and eight closed duplicates added
+        under an en-dash spelling. A closure is a removal in a different shape.
+        """
+        old = snap.parse_snapshot(
+            "# rows\nS\tAcme / Intern @ NY\tCompany=Acme; Application/Link=[Apply](https://x.io/j/1)\n")
+        new = snap.parse_snapshot(
+            "# rows\nS\tAcme / Intern @ NY\tCompany=Acme; Application/Link=🔒\n"
+            "S\tAcme / Intern – Data @ NY\tCompany=Acme; Application/Link=🔒\n"
+            "S\tBeta / Intern @ SF\tCompany=Beta; Application/Link=[Apply](https://y.io/j/2)\n")
+        changes = snap.diff_snapshots("s", old, new)
+        self.assertEqual(len(changes), 3)
+        kept, reports = suppress.suppress(changes, muted=set(), applied={})
+        self.assertEqual([c.key for c in kept], ["Beta / Intern @ SF"])
+        self.assertEqual(suppress.removed_by(reports, suppress.CLOSED), 2)
+
+    def test_a_padlock_beside_a_live_link_is_not_a_closure(self):
+        """The link is the test, not the emoji: a row that still links somewhere has
+        something to apply to."""
+        self.assertFalse(snap.is_closed("Company=Acme; Status=🔒 soon; [Apply](https://x.io/j/1)"))
+        self.assertTrue(snap.is_closed("Company=Acme; Application/Link=🔒"))
 
     def test_every_report_accounts_for_exactly_what_it_dropped(self):
         changes = [_change("a", "Muted One"), _change("b", "Live One"), _change("c")]

@@ -241,8 +241,12 @@ def _previous_live_ids(sources: list[dict[str, str]]) -> dict[str, set[str]]:
         if not text:
             continue
         parsed = snap.parse_snapshot(text)
+        # A row its list marks closed is still in the snapshot, and would otherwise
+        # keep its pin for as long as the list keeps the row -- which on aprameyak is
+        # indefinitely.
         out[source_id] = {
             clock.change_id(source_id, row.identity) for row in parsed.rows
+            if not snap.is_closed(row.value)
         }
     return out
 

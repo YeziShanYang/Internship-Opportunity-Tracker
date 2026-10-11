@@ -90,6 +90,18 @@ _URL = re.compile(r"https?://[^\s)\]]+")
 _FETCHABLE_POSTING = re.compile(r"https://simplify\.jobs/p/[0-9a-fA-F-]+")
 
 
+# How two of the watched aggregators mark a posting that has closed: the row stays and
+# its apply link becomes a padlock. Measured 2026-10-11 across every committed snapshot,
+# 3,035 rows carry it (aprameyak 2,984, vanshb03 51) and none of them still has a link.
+# The no-link half of the test is what keeps a row that merely mentions the emoji.
+_CLOSED_MARKER = "\U0001f512"
+
+
+def is_closed(value: str) -> bool:
+    """True when a row's value says the posting is closed and offers no link to it."""
+    return _CLOSED_MARKER in value and not _URL.search(value)
+
+
 def _recover_posting_url(value: str) -> str:
     """Best effort, for a row read back out of a committed snapshot.
 
@@ -174,6 +186,7 @@ def diff_snapshots(source_id: str, old: Snapshot, new: Snapshot) -> list[models.
                 detail=f"New row: {row.value}",
                 url=row.url,
                 posting_url=row.posting_url,
+                closed=is_closed(row.value),
                 is_discovery_candidate=bool(DISCOVERY_PATTERN.search(f"{row.key} {row.value}")),
                 rolling=bool(ROLLING_PATTERN.search(f"{row.key} {row.value}")),
             )
@@ -206,6 +219,7 @@ def diff_snapshots(source_id: str, old: Snapshot, new: Snapshot) -> list[models.
                     detail=f"Was: {before}\nNow: {after}",
                     url=new_by_key[key].url,
                     posting_url=new_by_key[key].posting_url,
+                    closed=is_closed(after),
                     is_discovery_candidate=bool(DISCOVERY_PATTERN.search(f"{key} {after}")),
                     rolling=bool(ROLLING_PATTERN.search(f"{key} {after}")),
                 )

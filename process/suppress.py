@@ -18,6 +18,7 @@ from core import clock, models, text
 MUTED = "muted-programme"
 APPLIED = "applied-tsv"
 DISAPPEARED = "removed-posting"
+CLOSED = "closed-posting"
 DUPLICATE = "duplicate-posting"
 
 # Enough removed keys to audit a filter that has started over-matching, few enough that
@@ -114,7 +115,7 @@ def suppress(
 
     # A posting that has left the board is not an opportunity: the owner cannot apply to
     # it, so it costs a line and offers nothing to do with it. Dropped first because
-    # it is the most fundamental of the three statements -- the other two say "you are
+    # it is the most fundamental of the statements -- the mute filters say "you are
     # not being shown this", this one says "there is nothing there".
     #
     # Dropped here rather than in the renderer so the rows never reach `enrich` or
@@ -129,6 +130,21 @@ def suppress(
     reports.append(_report(
         DISAPPEARED, considered, dropped,
         "no longer on the source. A posting that has gone cannot be applied to",
+    ))
+
+    # The same fact in a different shape: the row is still on the list, but the list
+    # has replaced its apply link with a padlock. On 2026-10-11 eighteen of these
+    # reached the digest -- ten in the table and eight in RULED OUT -- as rows with no
+    # link, because a closure reads to the differ as an edited row and a closed
+    # duplicate added under an en-dash reads as a new one. Either way there is
+    # nothing to apply to. Before `enrich` and `classify`, for the reason above.
+    considered = len(changes)
+    dropped = [change for change in changes if change.closed]
+    changes = [change for change in changes if not change.closed]
+    reports.append(_report(
+        CLOSED, considered, dropped,
+        "still listed, but the list marks the posting closed (🔒) and gives no link "
+        "to it",
     ))
 
     # One row per opportunity, not one row per source. The watchlist overlaps on

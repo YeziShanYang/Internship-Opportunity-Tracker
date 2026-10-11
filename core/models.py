@@ -45,6 +45,11 @@ class Change:
     # though it were an opportunity. Flagged rather than pattern-matched downstream,
     # because only the producer knows.
     structural: bool = False
+    # The row is still listed but its source marks it closed: aprameyak and vanshb03
+    # replace the apply link with 🔒 rather than deleting the row. Such a row has no
+    # link to print and nothing to apply to, so it is dropped with the removals. Set by
+    # the producer, which is the only place that still has the row's own value.
+    closed: bool = False
     # Some sources hand back the full posting body in the same response that lists it
     # -- Greenhouse `content=true`, Lever and Ashby `descriptionPlain`. Carrying it
     # here lets the classifier judge real requirements without a second HTTP request,

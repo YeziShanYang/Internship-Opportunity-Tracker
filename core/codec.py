@@ -28,7 +28,7 @@ import typing
 
 # Bump when any artifact shape changes in a way that is not additive-with-a-default.
 # Every artifact carries it, and reading an older one is an error rather than a guess.
-VERSION = 2
+VERSION = 3
 
 
 class ArtifactError(RuntimeError):
