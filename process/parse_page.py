@@ -210,9 +210,22 @@ MAX_TITLE_CHARS = 160
 # A line with one of these is a date or a deadline, so a change to its digits is the
 # news ("Applications close October 15" -> "October 22") rather than a counter ticking.
 _DATED = re.compile(
-    r"(?i)\b(?:jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\b"
+    r"(?i)\b(?:jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?"
+    r"|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\b"
     r"|deadline|\bdue\b|\bclos|\bopen|apply\s+by|\d{1,2}/\d{1,2}")
 _DIGITS = re.compile(r"\d[\d,.]*")
+# A calendar year is never a counter. "Summer 2027 Internship" -> "Summer 2028 Internship"
+# is the programme opening for its next cycle, the one change on a programme page that
+# most needs reporting, and masking it would pair the two lines off as churn.
+_YEAR = re.compile(r"(?<![\d,.])(?:19|20)\d\d(?![\d,])")
+
+
+def _mask(word: str) -> str:
+    years = _YEAR.findall(word)
+    masked = _DIGITS.sub("#", _YEAR.sub("Y", word))
+    for year in years:
+        masked = masked.replace("Y", year, 1)
+    return masked
 
 
 def _signature(line: str) -> tuple[str, ...]:
@@ -220,11 +233,12 @@ def _signature(line: str) -> tuple[str, ...]:
 
     Two lines with one signature say the same thing: Getro's and Consider's boards
     reshuffle every card's skill tags daily ("Git SciPy Pandas" -> "SciPy Pandas Git"),
-    and their headers recount ("18,442 jobs" -> "18,457 jobs").
+    and their headers recount ("18,442 jobs" -> "18,457 jobs"). A year is kept, so a
+    programme rolling over to its next cycle is news.
     """
     words = line.lower().split()
     if not _DATED.search(line):
-        words = [_DIGITS.sub("#", word) for word in words]
+        words = [_mask(word) for word in words]
     return tuple(sorted(words))
 
 

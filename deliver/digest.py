@@ -34,6 +34,31 @@ from deliver import health, urgency
 from enrich import bodies as enrich_bodies
 from process import parse_readme
 
+def _rollover_line(sources: dict[str, dict]) -> str | None:
+    """Warn that the class-standing rules and season-named sources are for last season.
+
+    Nothing else would: a ruled-out sophomore programme still prints in RULED OUT
+    looking deliberate, and a 2027 list that has gone quiet passes every health check.
+    """
+    soon = (datetime.date.fromisoformat(clock.today_iso())
+            + datetime.timedelta(days=profile.ROLLOVER_WARN_DAYS)).isoformat()
+    if clock.recruiting_cycle(soon) <= profile.RULES_CYCLE:
+        return None
+    season = str(profile.RULES_CYCLE)
+    named = sorted(sid for sid, row in sources.items()
+                   if row.get("method") != "manual"
+                   and (season in sid or season in row.get("url", "")))
+    return (
+        f"⚠ The Summer {profile.RULES_CYCLE + 1} season is starting, and this tracker "
+        f"is still set up for Summer {profile.RULES_CYCLE}. The class-standing rules "
+        "assume a first-year (OWNER_PROFILE, classify.SYSTEM_PROMPT rules 1 and 6, "
+        "screen/rules.py sophomore and advanced-standing), so sophomore programmes are "
+        f"being ruled out. Season-named sources to replace with next year's lists: "
+        f"{', '.join(named) or 'none'}; also paths.SIMPLIFY_LISTINGS_URL. Then bump "
+        "RULES_CYCLE in core/profile.py."
+    )
+
+
 def _stale_profile_line() -> str | None:
     """Nag when the owner profile has not been reviewed in a while.
 
@@ -444,9 +469,9 @@ def render(
         body.append(f"- {reminder}")
     for reminder in calendar_reminders.ALWAYS:
         body.append(f"- {reminder}")
-    stale = _stale_profile_line()
-    if stale:
-        body.append(f"- {stale}")
+    for line in (_rollover_line(sources), _stale_profile_line()):
+        if line:
+            body.append(f"- {line}")
     body.append("")
 
     body.append("## ■ HEALTH")

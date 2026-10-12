@@ -56,7 +56,10 @@ SEARCH_QUERIES = (
     "underclassmen internships in:name,description",
     "freshman sophomore internship in:name,description",
     "quant internships in:name,description",
-    "Summer 2027 Internships in:name",
+    # This season's and next season's lists, so a new year's trackers are proposed as
+    # soon as they are created rather than after someone notices the old ones went quiet.
+    f"Summer {clock.recruiting_cycle()} Internships in:name",
+    f"Summer {clock.recruiting_cycle() + 1} Internships in:name",
     "quantitative finance internship list in:name,description",
 )
 

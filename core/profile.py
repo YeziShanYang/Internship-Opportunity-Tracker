@@ -18,6 +18,15 @@ from __future__ import annotations
 PROFILE_LAST_REVIEWED = "2026-09-30"
 PROFILE_REVIEW_AFTER_DAYS = 183  # ~6 months
 
+# The hiring season (`clock.recruiting_cycle`) the class-standing rules were written for.
+# Several are only true of one year: the profile below, prompt rules 1 and 6, and the
+# screen's `sophomore-title` and `advanced-standing` rules all describe a first-year
+# applying for Summer 2027, and the aggregator sources are named for that season. Next
+# season the owner is a sophomore and those rules rule out exactly the right postings,
+# silently. The digest warns from `ROLLOVER_WARN_DAYS` before the cycle passes this.
+RULES_CYCLE = 2027
+ROLLOVER_WARN_DAYS = 45
+
 # The identity-gate sentence is deliberately general rather than an enumeration of
 # demographic attributes. This repository is public, and a profile that itemised the
 # owner's gender, race, orientation and financial-aid status would publish all of it to

@@ -95,5 +95,18 @@ class PageNewsTests(unittest.TestCase):
         self.assertEqual(change.key, "VC portfolio internships: Lio · Founders Associate - CEO Office")
 
 
+class SeasonRolloverTests(unittest.TestCase):
+    def test_a_year_change_on_a_programme_page_is_news(self):
+        """"Summer 2027" -> "Summer 2028" is the programme opening its next cycle."""
+        old = ["Summer 2027 Internship Program", "Quantitative Trader Intern (Summer 2027)"]
+        new = ["Summer 2028 Internship Program", "Quantitative Trader Intern (Summer 2028)"]
+        added, _ = parse_page.page_news(old, new)
+        self.assertEqual(added, new)
+        self.assertEqual(parse_page.page_verdict(old, new), "")
+
+    def test_a_counter_still_is_not(self):
+        self.assertEqual(parse_page.page_news(["2,027 jobs"], ["2,031 jobs"]), ([], []))
+
+
 if __name__ == "__main__":
     unittest.main()
