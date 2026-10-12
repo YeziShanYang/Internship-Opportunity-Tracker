@@ -46,6 +46,7 @@ AGENT_FORBIDDEN_ELIGIBLE = {"YES"}
 VALID_CATEGORIES = {
     "Quant firm program", "Competition", "Tech internship", "Research / math",
     "Stanford-only", "Conference / other", "Local (St. Louis)", "Tracker / resource",
+    "Finance program",
 }
 
 MANUAL_COLUMNS = ["name", "category", "url", "coverage", "why_manual", "how_to_check", "when_to_check"]
