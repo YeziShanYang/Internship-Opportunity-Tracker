@@ -18,6 +18,16 @@ Job Location (Descending)
 Overview (Ascending)
 Overview (Descending)
 Job Title
+Quantitative Trader &ndash; Equity Derivatives
+GTS is seeking a Quantitative Trader &ndash; Equity Derivatives to join our Wholesale Market Making team. In this role, you will be responsible for managing and optimizing systematic trading strategies across traditional and decentralized markets, with a focus on risk management, execution quality, and trading performance. Working closely with quantitative researchers, traders, and engineers, you will leverage your understanding of derivatives pricing, market microstructure, and quantitative analysis to make real-time trading decisions, enhance existing strategies, and identify new market opportunities. This is a highly...
+Job Location
+US-NY-New York
+Job Title
+Senior Block Options Trader
+GTS is seeking an experienced Block Options Trader to help build and grow a block-options trading capability within our Wholesale Market Making business. The role will provide liquidity and risk-transfer solutions to institutional, broker-dealer and wealth-management counterparties across single-name and ETF options.&nbsp; This is a risk-taking and franchise-building role, not simply an execution position. The trader will price, facilitate and execute large and complex transactions, commit capital where appropriate, manage the resulting volatility and directional risk, and help establish GTS as a trusted liquidity...
+Job Location
+US-NY-New York
+Job Title
 Senior DeFi Trading Systems Engineer
 GTS is seeking a Senior DeFi Trading Systems Engineer to help build and scale our decentralized finance trading infrastructure. In this role, you will work closely with quantitative traders, researchers, and engineers to design, develop, and optimize high-performance trading systems supporting automated market making, liquidity provision, and on-chain execution across decentralized exchanges and protocols. The ideal candidate combines deep C++ engineering expertise with hands-on institutional DeFi experience and a strong understanding of smart contracts, AMM mechanics, and blockchain execution. This is an opportunity to solve complex technical challenges at the intersection of quantitative...
 Job Location
@@ -42,6 +52,13 @@ The International ETF team at GTS is seeking a Senior Quantitative Researcher to
 &nbsp;
 Our team makes markets and manages risk across equity products spanning dozens of countries, time zones, and currencies. Working closely with traders and quantitative developers, you will build models from first principles, deploy them into production, and measure their impact on live trading.
 &nbsp;
+Job Location
+US-NY-New York
+Job Title
+Entity Controller / Financial and Operations Principal
+GTS is seeking an experienced Entity Controller/Financial and Operations Principal to own financial reporting, regulatory compliance, and audit management for one or more of our registered broker-dealer entities. This role sits at the intersection of technical accounting, financial systems, and regulatory reporting, and serves as the primary point of contact for external auditors and regulators.
+&nbsp;
+The ideal candidate brings deep broker-dealer accounting expertise,...
 Job Location
 US-NY-New York
 Job Title

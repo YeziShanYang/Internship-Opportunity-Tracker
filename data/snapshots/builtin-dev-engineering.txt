@@ -31,6 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Citadel
+Software Engineer - Intern (US)
+<age> Saved
+In-Office
+4 Locations
+5K-6K Annually
+Internship
+5K-6K Annually
+Internship
+Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
+11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
+Top Skills:
+Distributed Computing Machine Learning Natural Language Processing Web Frameworks
 Micron Technology
 Intern - IT Software Engineer
 <age> Saved
@@ -81,6 +94,10 @@ Cloud &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x202
 Build and deploy full-stack internal enterprise applications and tooling for Cloudflare’s People & Places organization. Responsibilities include developing production features, writing and reviewing code, integrating APIs and data persistence, working in sprint-based teams, using AI-assisted coding tools, managing tickets and blockers, and demonstrating products to leadership. Interns will contribute to AI-agent foundations and ship production-deployed software.
 Top Skills:
 APIs Cloudflare Infrastructure Cursor Data Persistence Deployment Edge Computing Figma Git HTTP JavaScript Mcps Opencode React Serverless Computing Svelte Typescript Vue Windsurf
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Revel
 Internship: Full Stack Software Engineer
 <age> Saved
@@ -92,10 +109,6 @@ Aerospace &#x2022; Hardware &#x2022; Robotics &#x2022; Software
 Build and improve full-stack software for engineers operating mission-critical hardware. Responsibilities include developing React and TypeScript/JavaScript interfaces, contributing to backend services and APIs, creating reliable data flows, debugging across systems, writing tested code, and collaborating on greenfield products. The intern will work closely with software engineers and operators while gaining experience across frontend, backend, databases, and hardware-connected systems.
 Top Skills:
 C&#x2B;&#x2B; JavaScript Next.Js Node.js Python React Rust SQL Typescript
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Hex
 Product Engineer Intern
 <age> Saved
@@ -146,19 +159,6 @@ Agency &#x2022; Fintech &#x2022; Payments &#x2022; Sharing Economy &#x2022; Soci
 Paid summer internship for current undergraduate, graduate, or doctoral students in computer science or software engineering. Interns work 40 hours weekly for 10–12 weeks on project-based assignments, gaining exposure to Federal Reserve operations and collaborating with subject matter experts. Responsibilities may include interpreting data, developing insights, presenting information, supporting decisions, and contributing to departmental initiatives in an onsite or hybrid environment.
 Top Skills:
 Excel Microsoft Word
-MetLife
-2027 METx Global Technology Internship Program
-<age> Saved
-Hybrid
-Cary, NC, USA
-28K-30K Hourly
-Internship
-28K-30K Hourly
-Internship
-Fintech &#x2022; Information Technology &#x2022; Insurance &#x2022; Financial Services &#x2022; Big Data Analytics
-Participate in a 10-week Global Technology internship involving software development, Agile delivery, UI/UX improvements, project analysis, infrastructure engineering, AI, and cloud technologies. Interns will receive training and mentorship, contribute to enterprise technology projects, collaborate cross-functionally, and present project outcomes. The role requires in-person availability in Cary, North Carolina or another listed office for at least three days per week.
-Top Skills:
-AI Azure Devops C# Cloud Platforms Cobol Git Java JavaScript Powershell Python Typescript
 1
 2
 3

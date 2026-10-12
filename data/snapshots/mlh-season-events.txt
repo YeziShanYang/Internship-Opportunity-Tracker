@@ -7,51 +7,6 @@ Filter events This Month Next Month Diversity Focused
 Region North America Europe/UK Asia Pacific
 Upcoming Events
 2026
-Chapel Hill , North Carolina
-HackNC
-OCT 09 - 11
-Chapel Hill, North Carolina, US
-In-Person
-Flushing , New York
-Hack Knight
-OCT 09 - 11
-Flushing, New York, US
-In-Person
-Atlanta , Georgia
-Hacklanta
-OCT 09 - 11
-Atlanta, Georgia, US
-In-Person
-Orlando , Florida
-Knight Hacks IX
-OCT 09 - 11
-Orlando, Florida, US
-In-Person
-Houston , Texas
-CodeRED Orion
-OCT 10 - 11
-Houston, Texas, US
-In-Person
-Princeton , New Jersey
-hackPHS
-OCT 10 - 11
-Princeton, New Jersey, US
-In-Person HIGH SCHOOL
-Piscataway , New Jersey
-HackRU
-OCT 10 - 11
-Piscataway, New Jersey , US
-In-Person
-Columbia , SC
-Palmetto Hacks
-OCT 10 - 11
-Columbia, SC, US
-In-Person
-Ghaziabad , Uttar Pradesh
-Innohacks 4.0
-OCT 10 - 11
-Ghaziabad, Uttar Pradesh, IN
-In-Person
 Gainesville , Florida
 SwampHacks XII
 OCT 16 - 18
@@ -357,15 +312,60 @@ Los Angeles, California, US
 In-Person
 Past Events
 2026
+Ghaziabad , Uttar Pradesh
+Innohacks 4.0
+OCT 10 - 11
+Ghaziabad, Uttar Pradesh, IN
+In-Person
+Columbia , SC
+Palmetto Hacks
+OCT 10 - 11
+Columbia, SC, US
+In-Person
+Piscataway , New Jersey
+HackRU
+OCT 10 - 11
+Piscataway, New Jersey , US
+In-Person
+Princeton , New Jersey
+hackPHS
+OCT 10 - 11
+Princeton, New Jersey, US
+In-Person HIGH SCHOOL
+Houston , Texas
+CodeRED Orion
+OCT 10 - 11
+Houston, Texas, US
+In-Person
+Orlando , Florida
+Knight Hacks IX
+OCT 09 - 11
+Orlando, Florida, US
+In-Person
+Atlanta , Georgia
+Hacklanta
+OCT 09 - 11
+Atlanta, Georgia, US
+In-Person
 Saltillo , Coahuila
 Hackathon TecNM Campus Saltillo 2026
 OCT 09 - 10
 Saltillo, Coahuila, MX
 In-Person
+Flushing , New York
+Hack Knight
+OCT 09 - 11
+Flushing, New York, US
+In-Person
 Bhilai , Chhattisgarh
 HackBIOS
 OCT 09 - 10
 Bhilai, Chhattisgarh, IN
+In-Person
+Chapel Hill , North Carolina
+HackNC
+OCT 09 - 11
+Chapel Hill, North Carolina, US
 In-Person
 Dearborn , Michigan
 Hack Dearborn 5: Conjure Reality
@@ -433,51 +433,6 @@ TigerHacks
 SEP 25 - 27
 Columbia, Missouri, US
 In-Person
-Miami , Florida
-ShellHacks
-SEP 25 - 27
-Miami, Florida, US
-In-Person
-Atlanta , GA
-HackGT 13
-SEP 25 - 27
-Atlanta, GA, US
-In-Person
-Kalyani , West Bengal
-HackNex Season 2
-SEP 25 - 26
-Kalyani, West Bengal, IN
-In-Person
-Williamsburg , Virginia
-&amp;HACKS XII
-SEP 25 - 27
-Williamsburg, Virginia, US
-In-Person
-Pittsburgh , PA
-SteelHacks XIII
-SEP 19 - 20
-Pittsburgh, PA, US
-In-Person
-Baltimore , Maryland
-HopHacks
-SEP 18 - 20
-Baltimore, Maryland, US
-In-Person
-Blacksburg , Virginia
-VTHacks 14
-SEP 18 - 20
-Blacksburg, Virginia, US
-In-Person
-Waterloo , Ontario
-Hack the North
-SEP 18 - 20
-Waterloo, Ontario, CA
-In-Person
-Atlanta, , GA
-HackHers @GSU
-SEP 18 - 19
-Atlanta, , GA , US
-In-Person DIVERSITY
 24 past events shown
 Footer
 Major League Hacking We help run the global hacker community. It&#x27;s our mission to empower hackers, just like you.

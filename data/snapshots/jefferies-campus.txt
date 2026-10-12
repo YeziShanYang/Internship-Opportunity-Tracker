@@ -122,12 +122,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1961
 Title:2027 Human Resources Summer Analyst Program – Jersey City, Compensation and Benefits
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1943-2027-Financial-Controllers-Summer-Analyst-Program-New-York-and-Jersey-City/en-GB
-2027 Financial Controllers Summer Analyst Program – New York and Jersey City
-<timestamp>
-<timestamp>
-ID:1943
-Title:2027 Financial Controllers Summer Analyst Program – New York and Jersey City
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1792-2027-Investment-Banking-Summer-Internship-Programme-London/en-GB
 2027 Investment Banking Summer Internship Programme - London
 <timestamp>

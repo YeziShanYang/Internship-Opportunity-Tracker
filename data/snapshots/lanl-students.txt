@@ -1091,8 +1091,8 @@ Intelligence and Space Research Division Undergraduate Internship IRC146105 ISR-
 Mechanical and Electrochemical Undergraduate Student IRC146029 MPA-11 / Materials Synthesis and Integrated Devices Los Alamos, NM
 Undergraduate Computational Nuclear Engineer or Software Developer IRC146028 NEN-5 / Nuclear Systems Los Alamos, NM
 PWDI Administrative Scholars Internship Program IRC145910 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
-High Performance Computing Undergraduate Student IRC145851 HPC-DO/High Performance Computing Los Alamos, NM
 Undergraduate Student IRC145847 Product Realization and Reliability Office (PRRO) Los Alamos, NM
+High Performance Computing Undergraduate Student IRC145851 HPC-DO/High Performance Computing Los Alamos, NM
 PWDI Scholars Internship Program IRC145845 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Fire Protection Undergraduate Student ST IRC145404 ES-FP/Fire Protection-Group Office Los Alamos, NM
 Load more jobs Load more jobs
