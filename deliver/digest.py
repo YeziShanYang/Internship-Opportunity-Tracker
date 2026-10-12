@@ -81,8 +81,8 @@ ROLLING_NOTE = "rolling — closes when full"
 # Past this many sources, a filter line reports the count instead of the names.
 MAX_FILTER_SOURCES = 6
 
-# The first column is the tier and the reason for it, since 2026-10-08: "High · closes
-# Oct 10 (2 days)", "Medium · rolling, no close date". The tiers were ACT NOW and WORTH A
+# The first column is the tier and the reason for it, since 2026-10-08: "High · startup /
+# small firm", "Medium · large firm". The tiers were ACT NOW and WORTH A
 # LOOK before that, and nothing on the row said which test had put it there.
 PRIORITY_HIGH = f"**{urgency.HIGH}**"
 PRIORITY_MEDIUM = urgency.MEDIUM
@@ -220,7 +220,6 @@ def _notes(judgment: models.Judgment) -> str:
         ("Deadline", _deadline_note(judgment)),
         ("Year", judgment.class_year),
         ("Location", judgment.location),
-        ("Size", "small firm" if judgment.employer_size == "small" else ""),
     ]
     if not judgment.classified:
         items.append(("", "⚠ unverified — open the page"))
@@ -346,19 +345,13 @@ def render(
     today = clock.today_iso()
     health_lines, escalated = health.source_lines(results, sources)
 
-    # Small firms first within each tier, since 2026-09-30: large employers hire
-    # juniors and seniors, so the rows a first-year can realistically land go on top.
-    # A stable sort, so the order within each group is unchanged and trimming from the
-    # end still drops the least interesting row.
-    def by_size(rows: list[models.Judgment]) -> list[models.Judgment]:
-        return sorted(rows, key=lambda j: j.employer_size != "small")
-
+    # Each tier is sorted by its reason, best first (`urgency.order`). A stable sort, so
+    # the order within a reason is unchanged and trimming from the end still drops the
+    # least interesting row.
     underclass = [j for j in judgments if urgency.in_top_block(j)]
-    high = by_size([j for j in judgments if urgency.is_urgent(j)])
-    medium = sorted(
-        by_size([j for j in judgments if j.relevant and not urgency.is_urgent(j)
-                 and not urgency.in_top_block(j)]),
-        key=urgency.medium_order)
+    high = sorted([j for j in judgments if urgency.is_urgent(j)], key=urgency.order)
+    medium = sorted([j for j in judgments if j.relevant and not urgency.is_urgent(j)
+                     and not urgency.in_top_block(j)], key=urgency.order)
     ruled_out = [j for j in judgments if not j.relevant]
 
     if escalated:

@@ -285,8 +285,8 @@ class AcceptanceTests(_IsolatedState, unittest.TestCase):
         return result
 
     # --- 14.2 -------------------------------------------------------------------
-    def test_14_2_edited_snapshot_surfaces_as_high(self):
-        """Hand-edit a stored snapshot to simulate a page change -> High."""
+    def test_14_2_edited_snapshot_surfaces_in_the_digest(self):
+        """Hand-edit a stored snapshot to simulate a page change -> a digest row."""
         self._baseline()
         # Simulate the previous run not having seen the Jane Street row.
         path = store.snapshot_path("nuft-2027", "tsv")
@@ -305,10 +305,9 @@ class AcceptanceTests(_IsolatedState, unittest.TestCase):
         self.assertTrue(change.rolling, "Jane Street must be flagged rolling (rule 4)")
 
         judgments = classify.classify(result.changes, {"nuft-2027": self.source}).judgments
-        self.assertTrue(any(urgency.is_urgent(j) for j in judgments), "rolling change must be urgent")
         _, body = digest.render(judgments, _metrics(result), {"nuft-2027": self.source})
-        self.assertIn("**High**", body)
         self.assertIn("| Jane Street | [QT]", body)
+        self.assertIn(digest.ROLLING_NOTE, body, "the rolling firm is still said to fill early")
 
     # --- 14.3 -------------------------------------------------------------------
     def test_14_3_a_404_is_health_not_a_change(self):
@@ -996,70 +995,64 @@ class PostingFilterTests(_IsolatedState, unittest.TestCase):
         self.assertIn("filtered out by the classifier", body)
 
     def test_14_7g2_eligible_is_not_the_same_as_urgent(self):
-        """ACT NOW is only useful while it stays short.
+        """High is the rows a first-year is likeliest to land, not every eligible row.
 
         Classifying every source made every eligible job-board row "confidently
-        relevant", which promoted 22 generic internships into ACT NOW and emptied
-        WORTH A LOOK. High now needs a dated reason; see deliver.urgency.rank.
+        relevant", which once promoted 22 generic internships into the top tier. Merely
+        eligible is still Medium; see deliver.urgency.rank.
         """
-        def judge(**kw):
+        def judge(size="", class_year="", **kw):
             change = models.Change(source_id="simplify-2027", kind="added",
                                   key="ACME / Software Engineer Intern", detail="x", **kw)
             return models.Judgment(change=change, relevant=True, outcome=models.MODEL,
-                                     confidence="high")
+                                     confidence="high", employer_size=size,
+                                     class_year=class_year)
 
-        self.assertFalse(urgency.is_urgent(judge()),
-                         "merely eligible is Medium, not High")
-        self.assertTrue(urgency.is_urgent(judge(rolling=True)),
-                        "rolling firms close when full")
-        self.assertTrue(urgency.is_urgent(judge(is_discovery_candidate=True)),
-                        "first-year-targeted rows are the point of the tool")
+        self.assertEqual(urgency.rank(judge()), (urgency.MEDIUM, urgency.SIZE_UNKNOWN))
+        self.assertEqual(urgency.rank(judge("large")), (urgency.MEDIUM, urgency.LARGE))
+        self.assertEqual(urgency.rank(judge("small")), (urgency.HIGH, urgency.SMALL))
+        self.assertEqual(urgency.rank(judge(is_discovery_candidate=True)),
+                         (urgency.HIGH, urgency.DISCOVERY))
+        self.assertEqual(
+            urgency.rank(judge("large", "freshman, sophomore, junior, or senior")),
+            (urgency.HIGH, urgency.OPEN_TO_FIRST_YEARS),
+            "naming first-years in a wider list is not a pin, but it is the best odds")
+        self.assertEqual(urgency.rank(judge("large", "at least sophomore standing")),
+                         (urgency.MEDIUM, urgency.LARGE), "sophomore is not first-year")
+        self.assertFalse(urgency.is_urgent(judge(rolling=True)),
+                         "a named rolling firm is a deadline fact, not the owner's odds")
 
-    def test_14_7g3_a_near_deadline_is_urgent_and_a_far_one_is_not(self):
-        """The other half of the rule, and the reason ACT NOW was empty of
-        opportunities on 2026-09-13.
+    def test_14_7g3_a_deadline_never_sets_the_tier(self):
+        """The digest is read the morning a posting appears and applied to that day.
 
-        Both surviving urgency tests read regexes over the snapshot row -- a title, a
-        location and some links -- while the deadline sits in the posting body `enrich`
-        had already fetched. On simplify-2027, which supplies nearly all the volume, 7
-        of 592 rows mention a class year at all, so no row on that source could be
-        promoted however urgent it was: the 2026-09-13 digest carried 18 real
-        opportunities and put none of them in ACT NOW.
+        Until 2026-10-11 a close date inside 21 days made a row High; 80-90% of every
+        table read "Medium · no deadline stated", so the split sorted nothing.
         """
         today = clock.today_iso()
-        soon = (datetime.date.fromisoformat(today)
-                + datetime.timedelta(days=urgency.URGENT_WITHIN_DAYS - 1)).isoformat()
-        far = (datetime.date.fromisoformat(today)
-               + datetime.timedelta(days=urgency.URGENT_WITHIN_DAYS + 30)).isoformat()
-        past = (datetime.date.fromisoformat(today)
-                - datetime.timedelta(days=1)).isoformat()
+        soon = (datetime.date.fromisoformat(today) + datetime.timedelta(days=2)).isoformat()
 
-        def judge(deadline):
+        def judge(deadline, size=""):
             return models.Judgment(
                 change=models.Change(source_id="simplify-2027", kind="added",
                                      key="ACME / Software Engineer Intern", detail="x"),
                 relevant=True, outcome=models.MODEL, confidence="high",
-                deadline=deadline)
+                deadline=deadline, employer_size=size)
 
-        self.assertTrue(urgency.is_urgent(judge(soon)), "closing inside the window")
-        self.assertFalse(urgency.is_urgent(judge("rolling")),
-                         "most postings say rolling, so on its own it is Medium (2026-10-08)")
-        self.assertEqual(urgency.rank(judge("rolling")), (urgency.MEDIUM, "rolling, no close date"))
-        tier, reason = urgency.rank(judge(soon))
-        self.assertEqual(tier, urgency.HIGH)
-        self.assertTrue(reason.startswith("closes "), reason)
-        self.assertEqual(urgency.rank(judge(past)), (urgency.MEDIUM, "deadline passed"))
-        self.assertFalse(urgency.is_urgent(judge(far)),
-                         "an autumn close date is WORTH A LOOK, or the block floods")
-        self.assertFalse(urgency.is_urgent(judge(past)),
-                         "a lapsed deadline must not sit in ACT NOW forever")
-        self.assertFalse(urgency.is_urgent(judge("apply early!")),
-                         "an unparseable deadline never promotes a row")
+        for deadline in (soon, "rolling", "apply early!", ""):
+            with self.subTest(deadline):
+                self.assertEqual(urgency.rank(judge(deadline, "large")),
+                                 (urgency.MEDIUM, urgency.LARGE))
+                self.assertEqual(urgency.rank(judge(deadline, "small")),
+                                 (urgency.HIGH, urgency.SMALL))
+        self.assertEqual(urgency.rank(models.Judgment(
+            change=models.Change(source_id="s", kind="added", key="k", detail="d"),
+            relevant=True, employer_size="small")), (urgency.MEDIUM, urgency.UNVERIFIED),
+            "an unclassified row has no size to trust")
         self.assertFalse(
             urgency.is_urgent(models.Judgment(
                 change=models.Change(source_id="s", kind="added", key="k", detail="d"),
-                relevant=False, outcome=models.MODEL, deadline="rolling")),
-            "a ruled-out row is never urgent, whatever its deadline")
+                relevant=False, outcome=models.MODEL, employer_size="small")),
+            "a ruled-out row is never High")
 
     def test_14_7g4_an_unparseable_deadline_is_still_shown_to_the_owner(self):
         """It cannot promote a row, so it must not vanish either -- otherwise the
@@ -1855,19 +1848,19 @@ class Phase2SuppressionTests(_IsolatedState, unittest.TestCase):
         from the document structure into the row order and needs asserting: every ACT
         NOW row sits above every WORTH A LOOK row.
         """
-        rolling = models.Judgment(
+        small = models.Judgment(
             change=models.Change(
                 source_id="js", kind="added", key="SWE Intern @ NYC", detail="x",
-                url="https://example.com/a", rolling=True,
+                url="https://example.com/a",
             ),
-            program_name="Jane Street", relevant=True, outcome=models.MODEL,
-            confidence="high", why="First-year eligible.",
+            program_name="Some Startup", relevant=True, outcome=models.MODEL,
+            confidence="high", why="First-year eligible.", employer_size="small",
         )
         ordinary = models.Judgment(
             change=models.Change(source_id="b", kind="added", key="Quant Intern", detail="x"),
             program_name="Some Firm", relevant=True, outcome=models.MODEL, confidence="low",
         )
-        _, body = digest.render([ordinary, rolling], [], {})
+        _, body = digest.render([ordinary, small], [], {})
 
         self.assertIn("## \u25a0 OPPORTUNITIES (2)", body)
         self.assertIn("| Priority | Company | Position | Notes |", body)
@@ -1876,8 +1869,8 @@ class Phase2SuppressionTests(_IsolatedState, unittest.TestCase):
         rows = [line for line in body.splitlines() if line.startswith("| ")]
         urgencies = [row.split("|")[1].strip() for row in rows[1:]]
         self.assertEqual(
-            urgencies, ["**High** · rolling firm, fills early", "Medium · no deadline stated"],
-            "the rolling item is urgent and must be rendered above the ordinary one",
+            urgencies, ["**High** · startup / small firm", "Medium · size unknown"],
+            "the small firm is High and must be rendered above the ordinary one",
         )
         self.assertIn("[SWE Intern @ NYC](https://example.com/a)", body)
 
@@ -2708,7 +2701,7 @@ class BodyLimitTests(_IsolatedState, unittest.TestCase):
     def test_the_trim_keeps_the_urgent_rows_and_the_footers(self):
         """Trimming from the end is what makes it safe: the table is already sorted."""
         judgments = self._judgments(400, "B" * 300)
-        judgments[0].change.rolling = True  # a named rolling firm is High, so it sorts first
+        judgments[-1].employer_size = "small"  # a small firm is High, so it sorts first
         _, body = digest.render(judgments, [], {})
         self.assertIn("**High**", body, "the urgent row must survive the trim")
         self.assertIn("■ CALENDAR", body)

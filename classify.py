@@ -204,16 +204,18 @@ an empty bullet is simply not shown, whereas a wrong one is read as fact:
   is "any undergraduate". This is the field the owner scans first.
 * `location` -- where the role sits, as written: "New York, NY", "London, UK",
   "remote", "Chicago or NYC". Several locations is fine; list them.
-* `employer_size` -- `small` for a startup, a small or mid-size company, or a small
-  trading firm (roughly under a couple of thousand employees); `large` for a big
-  established employer; the empty string when you cannot tell. The digest sorts
-  `small` rows first, so do not guess.
+* `employer_size` -- `small` for a startup or a company of roughly under 1,000
+  employees, including a small trading firm: the employers that take first- and
+  second-year interns. `large` for a big established employer, and for any firm whose
+  internships run through a structured junior-year campus pipeline whatever its
+  headcount (Jane Street, Citadel, Hudson River Trading, Google). The empty string when
+  you cannot tell. `small` puts a row in the digest's High tier, so do not guess.
 * `deadline` -- when applications close. Exactly one of: the word `rolling` when the
   posting says it reviews on a rolling basis or closes when full; an ISO `YYYY-MM-DD`
   date when it states or clearly implies one; or the empty string when it states none.
   Do NOT invent a date, and do not put prose here -- a phrase like "apply early" goes
-  in `why`. `rolling` and a near date are what put a row in ACT NOW, so a guess here
-  costs the owner a wasted morning or a missed opening.
+  in `why`. The deadline is printed for the owner to read, so a guess here is a false
+  fact on the row.
 
 Do NOT suggest a next step, an action, or advice. The digest is a list of things to go
 and look at, not a plan; "consider applying; seek referrals" is a sentence that

@@ -18,10 +18,10 @@ _Built for first- or second-years, plus Stanford's own programmes. A posting sta
 |---|---|---|---|
 | **High** · source blind | aqr-internship-program | SOURCE BLIND — 4 failures running | not quiet, blind. Last success never. redirected to what looks like an error page: https://www.aqr.com/About-Us/Our-Internship-Program -> https://www.aqr.com/404. |
 | **High** · source blind | crabel-careers | SOURCE BLIND — 5 failures running | not quiet, blind. Last success never. quarantined for 24h after 5 consecutive failures, retry after 2026-09-13T07:00+00:00 — it has never succeeded, so check the URL rather than waiting |
-| **High** · rolling firm, fills early | Jane Street FTTP | [Quantitative Trader @ New York](https://janestreet.test/1) | • **Deadline:** rolling — closes when full<br>• **Year:** all undergraduate years<br>• **Location:** New York, NY |
-| Medium · closes Mar 31 | Millennium Campus | [2027 Quantitative Researcher Intern \| Austin](https://campusjobs.mlp.com/1) | • **Deadline:** 2027-03-31<br>• **Year:** Bachelor's, no year stated<br>• **Location:** Austin, TX |
-| Medium · no deadline stated | Optiver FutureFocus | [page updated (3 added, 1 removed)](https://optiver.com/working-at-optiver/career-opportunities/?level=student) | • **Location:** Chicago, IL or Amsterdam, NL |
-| Medium · no deadline stated | Millennium Campus | 2027 Applied AI Engineer Intern, New York | • low confidence, kept deliberately |
+| Medium · size unknown | Jane Street FTTP | [Quantitative Trader @ New York](https://janestreet.test/1) | • **Deadline:** rolling — closes when full<br>• **Year:** all undergraduate years<br>• **Location:** New York, NY |
+| Medium · size unknown | Optiver FutureFocus | [page updated (3 added, 1 removed)](https://optiver.com/working-at-optiver/career-opportunities/?level=student) | • **Location:** Chicago, IL or Amsterdam, NL |
+| Medium · size unknown | Millennium Campus | [2027 Quantitative Researcher Intern \| Austin](https://campusjobs.mlp.com/1) | • **Deadline:** 2027-03-31<br>• **Year:** Bachelor's, no year stated<br>• **Location:** Austin, TX |
+| Medium · size unknown | Millennium Campus | 2027 Applied AI Engineer Intern, New York | • low confidence, kept deliberately |
 | Medium · unverified | Millennium Campus | 2027 Data Engineer Intern, Miami | • ⚠ unverified — open the page |
 
 <details><summary>■ RULED OUT (1)</summary>

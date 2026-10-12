@@ -197,7 +197,6 @@ without anyone noticing, and that has already happened twice here.
 | `MAX_CHANGE_RATIO` | $0.25$ | An aggregator reporting more than 25% of its rows changed has restructured, not restocked. Collapse to one line instead of believing it. |
 | `MIN_CHANGES_TO_COLLAPSE` | $25$ | Both conditions must trip, so a small repo legitimately turning over doesn't get collapsed. |
 | `MAX_CHANGES_PER_BOARD` | $25$ | The same guard for ATS boards, flat rather than proportional — boards don't post 100 real roles overnight. |
-| `URGENT_WITHIN_DAYS` | $21$ | A stated close date inside this window makes a row High. |
 | `QUARANTINE_AFTER_FAILURES` | $3$ | Three consecutive failures and the source backs off: $6 \to 12 \to 24 \to 48$ h, capped at $72$. |
 | `FAILURE_ESCALATION_THRESHOLD` | $3$ | Three failures also escalates the source **into the High tier**, not into a footnote. |
 | `MIN_TEXT_HTML_RATIO` | $0.0015$ | Text-to-HTML floor. Catches a JavaScript shell serving 221 characters out of 402KB. |
@@ -342,11 +341,18 @@ had already read. The fix was to make urgency ask the evidence: a posting that s
 reviews on a rolling basis, or a stated close date inside 21 days.
 
 That overshot too. By 2026-10-08, "the posting says rolling" was what put 10 of the 18
-High rows there, because most postings say it. Now a rolling posting is Medium unless the
-firm is one of the few known to fill early. The tiers are called High and Medium, and every
-row prints the reason it got its tier ("closes Oct 10 (2 days)", "rolling, no close
-date"), so a wrong call is visible on the row. Postings built for first-years have their own
-block above the table rather than competing with deadlines.
+High rows there, because most postings say it. The tiers were renamed High and Medium, and
+every row prints the reason it got its tier, so a wrong call is visible on the row.
+Postings built for first-years have their own block above the table.
+
+The fourth version dropped deadlines from ranking altogether. The digest is read the
+morning a posting appears and applied to that day, so a close date sorts nothing: across
+three digests 80-90% of rows read "Medium · no deadline stated". The tier is now the
+reader's odds as a first-year. High means a discovery programme, a posting whose class-year
+line names first-years even inside a wider list, or a startup or small firm. Medium means
+size unknown, then large employers that recruit through junior-year pipelines, then rows the
+classifier never saw. The deadline is still printed in the Notes cell. On the same three
+digests High held 4-28 rows (18-29%).
 
 The rule I settled on is that **every test for urgency must be a dated reason, never a
 quality judgment.** "This is a great opportunity" is not a reason to put something at the

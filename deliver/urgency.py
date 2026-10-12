@@ -11,7 +11,6 @@ surface and not in another; the classifier has no opinion about it.
 """
 from __future__ import annotations
 
-import datetime
 import re
 from urllib.parse import urlsplit
 
@@ -20,18 +19,19 @@ from screen import rules as screen_rules
 
 # The word the model returns for "reviews on a rolling basis / closes when full". One
 # constant because two modules compare against it and a typo in either would silently
-# stop promoting the most time-critical rows there are.
+# stop the digest saying so.
 ROLLING = "rolling"
 
 HIGH = "High"
 MEDIUM = "Medium"
 
-# A stated deadline this close is same-day news. Three weeks is the window in which the
-# owner still has to write an application rather than merely note one: shorter and a
-# posting found on a Friday would be WORTH A LOOK until the Monday it expired, longer
-# and every Summer 2027 posting with an autumn close date lands in ACT NOW at once,
-# which is the flood this rule already had to be narrowed once to prevent.
-URGENT_WITHIN_DAYS = 21
+# A class-year phrase that names first-years at all, even inside a floor or a list that
+# runs on to seniors ("freshman, sophomore, junior, or senior"). Not enough to pin --
+# see `NOT_TARGETED` -- but it is the employer saying in writing that it takes them,
+# which is the best evidence of the owner's odds short of a programme built for them.
+# "Sophomore" is not here: the owner is a first-year.
+FIRST_YEARS_NAMED = re.compile(
+    r"first.?year|1st.?year|freshm[ae]n|underclass", re.IGNORECASE)
 
 # Who the posting is *for*. Deliberately narrower than `snapshot.DISCOVERY_PATTERN`,
 # which also matches insight/discovery/ignite/launch and exists to spot a candidate new
@@ -133,67 +133,56 @@ def is_rolling(judgment: models.Judgment) -> bool:
     return judgment.deadline.strip().lower() == ROLLING
 
 
-def _closes(deadline: str, days: int) -> str:
-    """"closes Oct 10 (2 days)" inside the High window; past it, only the date."""
-    date = datetime.date.fromisoformat(deadline)
-    if days > URGENT_WITHIN_DAYS:
-        return f"closes {date:%b} {date.day}"
-    when = "today" if days == 0 else "1 day" if days == 1 else f"{days} days"
-    return f"closes {date:%b} {date.day} ({when})"
+# The reasons, best first. A row's position in this list is its sort key within its
+# tier, so the order is the ranking: trimming the table from the end drops the row a
+# first-year is least likely to land.
+DISCOVERY = "discovery programme"
+OPEN_TO_FIRST_YEARS = "open to first-years"
+SMALL = "startup / small firm"
+SIZE_UNKNOWN = "size unknown"
+LARGE = "large firm"
+UNVERIFIED = "unverified"
+_ORDER = (DISCOVERY, OPEN_TO_FIRST_YEARS, SMALL, SIZE_UNKNOWN, LARGE, UNVERIFIED)
 
 
 def rank(judgment: models.Judgment) -> tuple[str, str]:
     """(tier, reason) for a relevant judgment. The reason is printed beside the tier.
 
-    High is only useful while it stays short, so every High reason is a *dated* one,
-    never a quality judgement: a stated close date inside `URGENT_WITHIN_DAYS`, a firm on
-    the named rolling list, or a discovery programme. Underclassman postings are not
-    ranked here at all -- they have their own block; see `targets_underclassmen`.
+    The tier is the owner's odds of landing the role, not its deadline. The digest is
+    read the morning a posting appears and applied to that day, so a close date sorts
+    nothing: until 2026-10-11 High meant "closes within 21 days or a named rolling
+    firm", and 80-90% of every table read "Medium · no deadline stated". The deadline is
+    still printed in the Notes cell as a fact.
 
-    **A posting that merely says it reviews on a rolling basis is Medium.** It was High
-    from 2026-09-13 until 2026-10-08, when it accounted for 10 of the 18 opportunities in
-    the block -- National Life, Centene, TikTok -- because most postings say it. A rule
-    every posting satisfies sorts nothing. The named firms on `ROLLING_PATTERN` stay
-    High, because there the claim is measured (Jane Street has filled by late October).
-    Within Medium a rolling posting still sorts first; see `medium_order`.
-
-    A deadline the codec could not parse never promotes a row. It is still printed in
-    the Notes cell, so it can still be read by hand.
+    High, best first: a confidently classified discovery programme; a posting whose
+    class-year line names first-years even in a wider list; a startup or small firm.
+    Medium: size unknown, then large employers, which recruit through junior-year
+    pipelines, then anything the classifier never saw. Postings built *for*
+    underclassmen are not ranked here -- they have their own block; see
+    `targets_underclassmen`.
     """
     change = judgment.change
-    days = clock.days_until(judgment.deadline)
-    if days is not None and 0 <= days <= URGENT_WITHIN_DAYS:
-        return HIGH, _closes(judgment.deadline, days)
-    if change.rolling:
-        return HIGH, "rolling firm, fills early"
-    if change.is_discovery_candidate and judgment.classified \
-            and judgment.confidence in ("medium", "high"):
-        return HIGH, "discovery programme"
     if not judgment.classified:
-        return MEDIUM, "unverified"
-    if is_rolling(judgment):
-        return MEDIUM, "rolling, no close date"
-    if days is not None and days > URGENT_WITHIN_DAYS:
-        return MEDIUM, _closes(judgment.deadline, days)
-    if days is not None:
-        return MEDIUM, "deadline passed"
-    return MEDIUM, "no deadline stated"
+        return MEDIUM, UNVERIFIED
+    if change.is_discovery_candidate and judgment.confidence in ("medium", "high"):
+        return HIGH, DISCOVERY
+    if FIRST_YEARS_NAMED.search(judgment.class_year) \
+            and not screen_rules.sophomore_only(judgment.class_year):
+        return HIGH, OPEN_TO_FIRST_YEARS
+    if judgment.employer_size == "small":
+        return HIGH, SMALL
+    if judgment.employer_size == "large":
+        return MEDIUM, LARGE
+    return MEDIUM, SIZE_UNKNOWN
 
 
-def medium_order(judgment: models.Judgment) -> int:
-    """Sort key within Medium: rolling first, then dated, then undated, then unverified."""
-    reason = rank(judgment)[1]
-    if reason.startswith("rolling"):
-        return 0
-    if reason.startswith("closes"):
-        return 1
-    if reason == "unverified":
-        return 3
-    return 2
+def order(judgment: models.Judgment) -> int:
+    """Sort key within a tier: the reason's place in `_ORDER`."""
+    return _ORDER.index(rank(judgment)[1])
 
 
 def is_urgent(judgment: models.Judgment) -> bool:
-    """High tier: relevant, not in the top block, and a dated reason."""
+    """High tier: relevant, not in the top block, and a High reason."""
     if not judgment.relevant or in_top_block(judgment):
         return False
     return rank(judgment)[0] == HIGH
