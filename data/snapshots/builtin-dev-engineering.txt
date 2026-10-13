@@ -31,6 +31,45 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Expedia Group
+Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle
+<age> Saved
+Hybrid
+Seattle, WA, USA
+45-54 Hourly
+Internship
+45-54 Hourly
+Internship
+AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2022; Travel &#x2022; Generative AI
+Develop and test scalable software components, services, APIs, and web applications under experienced engineers’ guidance. Interns will practice coding, unit testing, debugging, system and data modeling, and fundamental algorithms while collaborating with cross-functional teams. The role includes exposure to AI-enabled solutions, mentorship, technical training, and meaningful projects supporting Expedia Group’s travel platforms.
+Top Skills:
+Ai/Ml Java Kotlin Python
+Expedia Group
+Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle
+<age> Saved
+Hybrid
+Austin, TX, USA
+45-54 Hourly
+Internship
+45-54 Hourly
+Internship
+AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2022; Travel &#x2022; Generative AI
+Software Development Engineer Interns will design, develop, test, and debug scalable software components and services for Expedia Group’s web and e-commerce platforms. They will contribute to API design, data modeling, unit testing, code reviews, and system improvements while collaborating with mentors and cross-functional teams. Interns will apply data structures, algorithms, object-oriented programming, and AI-enabled tools to deliver business-critical features under experienced engineering guidance.
+Top Skills:
+Ai/Ml Systems APIs Databases E-Commerce Platforms Java Kotlin Python Web Applications
+Expedia Group
+Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle
+<age> Saved
+Hybrid
+San Jose, CA, USA
+45K-54K Hourly
+Internship
+45K-54K Hourly
+Internship
+AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2022; Travel &#x2022; Generative AI
+Develop and test mobile application features for iOS and/or Android under experienced engineers’ guidance. Apply software engineering practices, participate in system and API design, data modeling, debugging, monitoring, and performance improvements. Collaborate with designers, mentors, and cross-functional partners to deliver reliable mobile experiences. Learn to use AI-driven tools and safely integrate AI/ML-enabled solutions.
+Top Skills:
+Ai/Ml Android APIs iOS Unit Testing
 Citadel
 Software Engineer - Intern (US)
 <age> Saved
@@ -70,6 +109,10 @@ Big Data &#x2022; Fintech &#x2022; Mobile &#x2022; Payments &#x2022; Financial S
 Engineering interns develop, ship, test, and monitor production code through a meaningful project tailored to team needs. They collaborate with mentors and managers, contribute to real engineering systems, and present their work at the end of the internship. Projects may involve data pipelines, automated testing, financial platforms, frontend applications, APIs, deployment, and cloud technologies.
 Top Skills:
 Angularjs Api Development AWS C C&#x2B;&#x2B; Deployment Frameworks Java JavaScript Python React Testing Frameworks
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 BAE Systems, Inc.
 Software Engineering Intern III, Summer 2027 (Onsite)
 <age> Saved
@@ -94,10 +137,6 @@ Cloud &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x202
 Build and deploy full-stack internal enterprise applications and tooling for Cloudflare’s People & Places organization. Responsibilities include developing production features, writing and reviewing code, integrating APIs and data persistence, working in sprint-based teams, using AI-assisted coding tools, managing tickets and blockers, and demonstrating products to leadership. Interns will contribute to AI-agent foundations and ship production-deployed software.
 Top Skills:
 APIs Cloudflare Infrastructure Cursor Data Persistence Deployment Edge Computing Figma Git HTTP JavaScript Mcps Opencode React Serverless Computing Svelte Typescript Vue Windsurf
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 Revel
 Internship: Full Stack Software Engineer
 <age> Saved
@@ -146,19 +185,6 @@ Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing T
 An 11-week technology internship embedded within Liberty Mutual's agile tech teams. Interns will contribute to real customer-facing and backend software projects, gaining experience in modern engineering practices, AI-assisted development tools, planning, coding, testing, and delivery. The program emphasizes collaboration, continuous learning, critical thinking, and customer-focused innovation.
 Top Skills:
 AI Ai-Assisted Development Tools Version Control
-Federal Reserve Bank of Chicago
-Summer 2027 Intern-Computer Science and Software Engineering
-<age> Saved
-Hybrid
-Chicago, IL, USA
-20-33 Hourly
-Internship
-20-33 Hourly
-Internship
-Agency &#x2022; Fintech &#x2022; Payments &#x2022; Sharing Economy &#x2022; Social Impact
-Paid summer internship for current undergraduate, graduate, or doctoral students in computer science or software engineering. Interns work 40 hours weekly for 10–12 weeks on project-based assignments, gaining exposure to Federal Reserve operations and collaborating with subject matter experts. Responsibilities may include interpreting data, developing insights, presenting information, supporting decisions, and contributing to departmental initiatives in an onsite or hybrid environment.
-Top Skills:
-Excel Microsoft Word
 1
 2
 3

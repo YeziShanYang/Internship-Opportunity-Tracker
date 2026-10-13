@@ -6,7 +6,7 @@ a16z
 Software Is Eating the World
 X LinkedIn Substack
 © 2026 Andreessen Horowitz . All Portfolio Jobs Companies Disclosures
-689 companies. 18,436 jobs. It’s time to build.
+690 companies. 18,436 jobs. It’s time to build.
 All Portfolio Jobs Jobs by Company a16z Jobs a16z TalentPlace
 Filter jobs by role and more
 Roles
@@ -15,27 +15,27 @@ Location
 country:us
 Company Stage
 Seed, Venture
-Industry
-Search industries
+Focus Areas
+Search focus areas
 Internships only Remote options All jobs
 Salary Any
 Posted <age>
 Country:us Seed Venture Clear filters
-45 jobs
+55 jobs
 Heron Power
 Intern, Power Electronics Controls Engineer (Spring 2027)
 Scotts Valley, California, United States · Posted <age>
-American Dynamism, Enterprise · Series B · 51–200 employees
+American Dynamism · Series B · 51–200 employees
 Apply Interested
 Heron Power
 Intern, Graphic Design
 Scotts Valley, California, United States · Posted <age>
-American Dynamism, Enterprise · Series B · 51–200 employees
+American Dynamism · Series B · 51–200 employees
 Apply Interested
 Lio
 Founders Associate - CEO Office
 $25 – $35 per hour • The compensation range listed reflects the expected salary band for this position. Final compensation is determined on an individual basis and may vary depending on factors such as experience, qualifications, skills, and location. · New York Office, New York City, New York, USA · Posted <age>
-Consumer, AI · Series A · 201–500 employees
+Enterprise · Venture · 21 employees
 Apply Interested
 Amca
 Electrical Engineering Internship (Winter Spring 2027)
@@ -45,12 +45,12 @@ Apply Interested
 Heron Power
 Intern, Medium Voltage Test Engineering
 Scotts Valley, California, United States · Posted <age>
-American Dynamism, Enterprise · Series B · 51–200 employees
+American Dynamism · Series B · 51–200 employees
 Apply Interested
 Heron Power
 Intern, Electronics Design Engineer, Summer 2027
 Scotts Valley, California, United States · Posted <age>
-American Dynamism, Enterprise · Series B · 51–200 employees
+American Dynamism · Series B · 51–200 employees
 Apply Interested
 Amca
 Sourcing Intern, Supply Chain (Summer 2027)
@@ -75,7 +75,7 @@ Apply Interested
 Heron Power
 Intern, Electrical Engineering (Compliance) - Spring 2027
 Scotts Valley, California, United States · Posted <age>
-American Dynamism, Enterprise · Series B · 51–200 employees
+American Dynamism · Series B · 51–200 employees
 Apply Interested
 Amca
 Growth Internship (Summer 2027)
@@ -87,30 +87,55 @@ Data Science Internship (Current PhD) - Summer 2027
 Lehi, UT · Posted <age>
 Consumer · Series B · 51–200 employees
 Apply Interested
+Apex Space
+Sensors Team Internship (Spring or Summer 2027)
+$45 per hour · Los Angeles, California, United States · Posted <age>
+American Dynamism · Venture · 156 employees
+Apply Interested
 Cowboy Space Corporation
 Intern, Software Engineering, 2027
 San Carlos, California, United States · Posted <age>
 American Dynamism · Series B · 51–200 employees
 Apply Interested
+Shield AI
+Summer 2027 - Mechanical Engineering Intern
+USD 38–65 · Seattle, Washington, Dallas, Texas · Posted <age>
+American Dynamism, Enterprise · Venture · 1207 employees
+Apply Interested
 Ventrilo
 Software Engineer Intern
 Salary range USD 30 - 40 / hour · Menlo Park, CA · Posted <age>
-AI · Seed · 2–10 employees
+Enterprise, Infra · Seed · 2–10 employees
 Apply Interested
 Cowboy Space Corporation
 Intern, Launch &amp; Satellite 2027
 Kent, Washington, United States · Posted <age>
 American Dynamism · Series B · 51–200 employees
 Apply Interested
-ConductorAI
-Software Engineer Intern
-New York City, New York, United States · Posted <age>
-American Dynamism, AI, Enterprise · Series A · 11–50 employees
-Apply Interested
 Cowboy Space Corporation
 Internship 2027
 Kent, Washington, United States · Posted <age>
 American Dynamism · Series B · 51–200 employees
+Apply Interested
+Apex Space
+Avionics Test Engineering Internship (Spring 2027)
+$45 per hour · Los Angeles, California, United States · Posted <age>
+American Dynamism · Venture · 156 employees
+Apply Interested
+Apex Space
+Propulsion Internship (Summer 2027)
+$45 per hour · Los Angeles, California, United States · Posted <age>
+American Dynamism · Venture · 156 employees
+Apply Interested
+Shield AI
+Summer 2027 - Software Engineer Intern
+USD 37–97 · San Diego, California, Washington, D.C., Dallas, Texas… · Posted <age>
+American Dynamism, Enterprise · Venture · 1207 employees
+Apply Interested
+Apex Space
+Simulation Software Engineering Internship (Spring or Summer 2027)
+$45 per hour · Los Angeles, California, United States · Posted <age>
+American Dynamism · Venture · 156 employees
 Apply Interested
 Amca
 Electrical Engineering Internship (Summer 2027)
@@ -121,30 +146,5 @@ Amca
 Mechanical Engineering Intern (Summer 2027)
 USD 30–50 (Hourly Pay Range) · El Segundo, CA · Posted <age>
 American Dynamism · Series B · 201–500 employees
-Apply Interested
-Neighbor
-Software Engineer Intern 2027
-Lehi, UT · Posted <age>
-Consumer · Series B · 51–200 employees
-Apply Interested
-Northwood Space
-Mechanical Engineering Intern (2027 Summer Internship)
-$36 per hour · Torrance, CA, Los Angeles, CA, California, USA · Posted <age>
-American Dynamism, Enterprise · Series B · 51–200 employees
-Apply Interested
-Northwood Space
-Software Engineering Intern (2027 Summer Internship)
-$36 per hour · Torrance, CA, Los Angeles, CA, California, USA · Posted <age>
-American Dynamism, Enterprise · Series B · 51–200 employees
-Apply Interested
-Northwood Space
-Embedded Software Engineering Intern (2027 Summer Internship)
-$36 per hour · Torrance, CA, Los Angeles, CA, California, USA · Posted <age>
-American Dynamism, Enterprise · Series B · 51–200 employees
-Apply Interested
-Northwood Space
-Electrical Engineering Intern (2027 Summer Internship)
-$36 · Torrance, CA, Los Angeles, CA, California, USA · Posted <age>
-American Dynamism, Enterprise · Series B · 51–200 employees
 Apply Interested
 Show more jobs

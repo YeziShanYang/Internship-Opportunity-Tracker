@@ -21,16 +21,11 @@ SF Research Summit
 Wed, Oct 14 · 9:00 AM PDT
 AWS Builder Loft
 Research leaders, principal investigators, and technologists will explore AI in research, foundation models, and open data through a hands-on technical workshop and focused discussion. The summit will also create opportunities to exchange ideas with peers.
-Oct 15
-HUMANOID HUB Conference
-Thu, Oct 15 · 10:00 AM PDT
-First Market Tower
-HUMANOID HUB will bring robotics engineers, founders, researchers, and investors together for two days of live humanoid demos, hands-on showcases, technical talks, and panels on AI, hardware, autonomy, and commercialization. Speakers include leaders from 1X Technologies, Google DeepMind, Skild AI, Dyna Robotics, OpenMind, and Physical Intelligence.
-Oct 13
-AI is already making decisions at work. The question is which ones stay human
-Tue, Oct 13 · 5:30 PM PDT
-3333 Coyote Hill Rd
-Dr. Paula Goldman, Salesforce&#x27;s Chief Ethical &amp; Humane Use Officer and trained anthropologist, will keynote on her new book *Manage the Machine*, sharing global research on what separates successful AI implementations from risky ones—spoiler: it&#x27;s keeping people at the center. Dr. Caroline Simard, Dean of Northeastern University Silicon Valley and tech industry inclusion researcher, joins the conversation, followed by a book signing and reception where everyone walks away with a free copy.
+Oct 12
+Open Intelligence Summit
+Mon, Oct 12 · 9:00 AM PDT LIVE
+The Midway
+On October 12–13, AI founders, builders, and researchers will explore open weights, data, agents, infrastructure, and tooling, and how openness can drive more choice, better economics, faster innovation, and greater control.
 Oct 15
 Vercel Ship 26 | San Francisco
 Thu, Oct 15 · 9:00 AM PDT
@@ -38,9 +33,14 @@ Palace of Fine Arts
 Vercel will host a hands-on event where developers will explore building, deploying, and scaling AI agents with industry experts leading the charge. Attendees can participate in person or tune in online to dive into the latest agent frameworks and connect with fellow builders pushing the boundaries of AI development.
 Oct 15
 Humanoid Hub Conference
-Thu, Oct 15 · 9:30 AM PDT
+Thu, Oct 15 · 9:20 AM PDT
 First Market Tower
 HUMANOID HUB will bring together robotics engineers, founders, researchers, and investors for two days of hands-on demos, technical talks, and panels on embodied AI, autonomy, hardware, and commercialization. Speakers will include experienced leaders from 1X Technologies, Google DeepMind, Skild AI, Dyna Robotics, and Physical Intelligence.
+Oct 16
+UNIONAI SST Global Launch
+Fri, Oct 16 · 2:00 PM PDT
+Sunnyvale, CA
+UNIONAI will unveil its next-generation solid-state transformer and showcase high-efficiency power innovations for AI data centers, with a focus on the shift to 800 VDC architecture. Industry leaders, technology partners, investors, and AI infrastructure professionals will explore the ecosystem through a partnership signing, panel discussions, and live Q&amp;A.
 Oct 23
 Intelligence at Work Hackathon
 Fri, Oct 23 · 8:30 AM PDT
@@ -51,41 +51,6 @@ Open Intelligence Summit
 Mon, Oct 12 · 9:00 AM PDT LIVE
 The Midway
 On October 12–13, AI founders, builders, and researchers will explore open weights, data, agents, infrastructure, and tooling, and how openness can drive more choice, better economics, faster innovation, and greater control.
-Oct 12
-Open Intelligence Summit: Hands-On Workshop Day
-Mon, Oct 12 · 9:00 AM PDT LIVE
-The Midway
-MLH and DigitalOcean’s hands-on Open Intelligence Summit Workshop Day will have AI builders deploy agents, route between open models, and experiment with open weights alongside technical mentors. Designed for founders, engineers, and researchers already shipping with AI, the program will turn the open stack’s Build, Serve, and Run layers into working projects.
-Oct 12
-Open Intelligence Summit
-Mon, Oct 12 · 9:00 AM PDT LIVE
-The Midway
-On October 12–13, AI founders, builders, and researchers will explore open weights, data, agents, infrastructure, and tooling, and how openness can drive more choice, better economics, faster innovation, and greater control.
-Oct 12
-AI/Tech Investing Summit and VIP Investor Dinner
-Mon, Oct 12 · 12:00 PM PDT
-Crossroads Auditorium
-Early- and growth-stage startups will connect with accredited investors to explore funding opportunities across AI, enterprise, healthtech, and broader technology ventures.
-Oct 12
-Company Brain Hackathon: Build an AI Agent That Knows Your Organization
-Mon, Oct 12 · 1:00 PM PDT
-135 Constitution Dr
-Participants will spend a 4-hour afternoon building an AI-powered knowledge system that connects company information across documents, tools, and processes, guided by Dave Nielsen (Head of DevRel at Cognee AI and Head of Events at AI Alliance) and featuring live demos and hands-on hackathon rounds. The event brings together developers, startup founders, and AI learners for practical building experience with agent-based systems, complete with networking, refreshments, and judging.
-Oct 12
-AI Creator Salon with Michelle Phan
-Mon, Oct 12 · 3:00 PM PDT
-San Francisco, CA
-Michelle Phan is bringing the final Vibe Code Mama Tech Week Tour stop with an intimate creator lab where founders, creators, and operators will get hands-on with AI tools, explore real workflow demos, and workshop how generative AI is reshaping brand-building and content creation. You&#x27;ll walk away with practical tactics, fresh connections, and concrete ideas for leveraging AI in your creative and business endeavors.
-Oct 12
-The Future of Work Social Mixer + Open Demos: Worktech, Robotics &amp; Agentic AI
-Mon, Oct 12 · 5:00 PM PDT
-San Francisco, CA
-On October 11th, founders, operators, investors, and builders passionate about work tech, agentic AI, and robotics will pitch their origin stories and demo innovations that aim to shape the future of human-AI collaboration in the workplace, all under the guidance of career expert Natalia Bielczyk, PhD. This event will mix powerful networking, one-on-one investor chats, and a festival vibe with music and urban tech displays.
-Oct 13
-Claude Code Hands-On Workshop
-Tue, Oct 13 · 5:48 AM PDT
-2900 Maxwell Ave
-A hands-on Claude Code workshop will cover terminal setup, interface tips, and practical coding tasks for developers and curious hobbyists. Attendees will explore how the tool works in a real development workflow, with no prior expertise required.
 Oct 13
 AWS Community Day: AI Edition. Building the Future of AI
 Tue, Oct 13 · 9:00 AM PDT
@@ -107,11 +72,6 @@ Tue, Oct 13 · 3:00 PM PDT
 Frontier Tower
 Open-source developers, artists, and tinkerers will connect around ComfyUI and the Comfy Developer Platform’s Open Call, a challenge to recreate subscription-based creative tools with open-source alternatives. Backed by ComfyUI, Runpod, NVIDIA, LTX, and Black Forest Labs, the challenge will offer a $10,000 grand prize, a GeForce RTX 5090, and additional prizes.
 Oct 13
-Foundry Live: Agentic AI Demo Night
-Tue, Oct 13 · 5:00 PM PDT
-Microsoft Reactor
-Local startups will showcase practical agentic AI applications, with demos running from 6–7 p.m. and time for networking before and after. The evening will highlight emerging tools and uses shaping the next phase of generative AI.
-Oct 13
 Mahjong Party for AI Builders
 Tue, Oct 13 · 5:00 PM PDT
 San Francisco, CA
@@ -122,25 +82,60 @@ Tue, Oct 13 · 5:00 PM PDT
 Menlo Park, CA
 Women founders and leaders will explore how to pursue big ambitions without sacrificing health, energy, or well-being, through candid talks and interactive conversations on burnout, AI, and sustainable success. Speakers bring deep expertise across healthcare, behavioral health, technology, entrepreneurship, and AI, including a clinical pharmacist, a behavioral researcher with 20+ years in tech, and a public health leader with 21 years of experience.
 Oct 13
-SF Research Summit
-Tue, Oct 13 · 5:00 PM PDT
-AWS Builder Loft
-Research leaders, principal investigators, and technologists will explore practical AI applications, get hands-on with foundation models, and examine how shared, open data can accelerate discovery.
-Oct 13
 Agentic + AI Observability Meetup
 Tue, Oct 13 · 5:00 PM PDT
 San Francisco, CA
 Software engineers and AI builders will dig into debugging, optimizing, and scaling agentic systems with talks from Databricks and OpenAI engineers covering how to extract actionable insights from production traces and automatically improve agent behavior. The evening will feature hands-on discussion of multi-step agent architectures, real-world failure patterns, and practical evaluation frameworks for keeping AI systems healthy in production.
+Oct 13
+Foundry Live: Agentic AI Demo Night
+Tue, Oct 13 · 5:00 PM PDT
+Microsoft Reactor
+Local startups will showcase practical agentic AI applications, with demos running from 6–7 p.m. and time for networking before and after. The evening will highlight emerging tools and uses shaping the next phase of generative AI.
+Oct 13
+Real World AI: Connect, Invest &amp; Scale in Taiwan
+Tue, Oct 13 · 5:30 PM PDT
+Phelan Building
+Taiwan’s Ministry of Economic Affairs, Industrial Development Administration, and Taiwan Corporate Venture Capital Forum will host a TechCrunch side event connecting corporate VC teams, strategic and venture investors, and innovation leaders with Taiwanese founders. The event will spotlight emerging real-world AI technologies and opportunities for investment and partnership.
+Oct 13
+Attacks Never Arrive: Happy Hour with Trotta
+Tue, Oct 13 · 5:30 PM PDT
+San Francisco, CA
+Trotta will host a happy hour on October 13 where founders, operators, and CISOs can unwind with views of the San Francisco skyline while learning about their pre-delivery security platform that blocks phishing, BEC, deepfakes, and prompt injection across email, messaging, voice, and video in under 100ms.
+Oct 13
+Meetup - Happy Hour
+Tue, Oct 13 · 5:30 PM PDT
+Palo Alto, CA
+AI Snack Club members will meet in person for drinks and conversation, connecting with others in the AI community.
+Oct 13
+AI is already making decisions at work. The question is which ones stay human
+Tue, Oct 13 · 5:30 PM PDT
+3333 Coyote Hill Rd
+Dr. Paula Goldman, Salesforce&#x27;s Chief Ethical &amp; Humane Use Officer and trained anthropologist, will keynote on her new book *Manage the Machine*, sharing global research on what separates successful AI implementations from risky ones—spoiler: it&#x27;s keeping people at the center. Dr. Caroline Simard, Dean of Northeastern University Silicon Valley and tech industry inclusion researcher, joins the conversation, followed by a book signing and reception where everyone walks away with a free copy.
 Oct 13
 Roast My Deck - the AI picks apart your deck live. Then the investors do
 Tue, Oct 13 · 5:30 PM PDT
 San Francisco, CA
 This founder-focused fundraising event will pair candid insights from exited founders turned investors with live AI-and-investor feedback on five selected startup pitches. Panelists include PandaDoc founder Mikita Mikado and experienced early-stage investors backing companies from pre-seed through Series A.
 Oct 13
-Attacks Never Arrive: Happy Hour with Trotta
-Tue, Oct 13 · 5:30 PM PDT
+AI Alignment
+Tue, Oct 13 · 6:00 PM PDT
+O’Reilly’s Pub
+This upcoming event will explore AI alignment as a foundation for building safer, more capable systems, and why it may offer a stronger framework than Asimov’s Three Laws.
+Oct 13
+Founder Friends
+Tue, Oct 13 · 6:00 PM PDT
 San Francisco, CA
-Trotta will host a happy hour on October 13 where founders, operators, and CISOs can unwind with views of the San Francisco skyline while learning about their pre-delivery security platform that blocks phishing, BEC, deepfakes, and prompt injection across email, messaging, voice, and video in under 100ms.
+Metronome Co-Founder and CEO Scott Woody will share how his firsthand experience as Dropbox’s Director of Engineering inspired a usage-based billing platform trusted by leading SaaS companies and later acquired by Stripe. The evening will feature a fireside chat and Q&amp;A on building billing infrastructure for the AI era, with startup and venture perspectives from Pilot, Singapore Global Network, and Hustle Fund.
+Oct 13
+AI Builder&#x27;s Night
+Tue, Oct 13 · 6:00 PM PDT
+Local Edition
+AI leaders and builders from Braintrust, Modal, Kernel, and TypeSafe will share relaxed conversations over food and cocktails, with no pitches or panels, just an informal evening for exchanging ideas.
+Oct 13
+Agentic Memory Meetup: Architecture, Demo &amp; a Sales Enablement Tool
+Tue, Oct 13 · 6:00 PM PDT
+San Francisco, CA
+Aperture Nexus founder Vishakha Gupta will demo her open source memory layer that solves AI agents&#x27; session amnesia problem, with real practitioners like Sonam Gupta (Sr. Developer Advocate at Telnyx) showing production use cases and a panel discussion to follow. Bring your questions for this hands-on working session diving into actual architecture and how teams are already building with it.
 Oct 17
 The Recursive Agents Hackathon
 Sat, Oct 17 · 9:00 AM PDT

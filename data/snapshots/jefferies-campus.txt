@@ -2,6 +2,24 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-1/brand-4/candidate/jobboard/vac
 Campus Opportunities
 Jefferies
 <timestamp>
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2018-2027-Equity-Sales-Trading-Summer-Analyst-High-Touch-Trading-Hong-Kong/en-GB
+2027 Equity Sales &amp; Trading Summer Analyst – High Touch Trading – Hong Kong
+<timestamp>
+<timestamp>
+ID:2018
+Title:2027 Equity Sales &amp; Trading Summer Analyst – High Touch Trading – Hong Kong
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2019-2027-Investment-Banking-Off-Cycle-Internship-Programme-Paris-Consumer-Team-July-start/en-GB
+2027 Investment Banking Off Cycle Internship Programme Paris – Consumer Team (July start)
+<timestamp>
+<timestamp>
+ID:2019
+Title:2027 Investment Banking Off Cycle Internship Programme Paris – Consumer Team (July start)
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2020-2027-Investment-Banking-Off-Cycle-Internship-Programme-Paris-Generalist-Team-July-start/en-GB
+2027 Investment Banking Off-Cycle Internship Programme Paris - Generalist Team (July start)
+<timestamp>
+<timestamp>
+ID:2020
+Title:2027 Investment Banking Off-Cycle Internship Programme Paris - Generalist Team (July start)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2013-2027-Investment-Banking-Off-Cycle-Internship-Programme-Saudi-Arabia-MENA-January-June/en-GB
 2027 Investment Banking Off Cycle Internship Programme - Saudi Arabia, MENA (January - June)
 <timestamp>
@@ -296,12 +314,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1912
 Title:2027 Investment Banking Summer Associate Program – New York, Generalist
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1914-2027-Investment-Banking-Summer-Associate-Program-Chicago-Industrials-Group/en-GB
-2027 Investment Banking Summer Associate Program – Chicago, Industrials Group
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1914-2027-Investment-Banking-Summer-Associate-Program-Chicago-or-New-York-Industrials-Group/en-GB
+2027 Investment Banking Summer Associate Program – Chicago or New York, Industrials Group
 <timestamp>
 <timestamp>
 ID:1914
-Title:2027 Investment Banking Summer Associate Program – Chicago, Industrials Group
+Title:2027 Investment Banking Summer Associate Program – Chicago or New York, Industrials Group
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1769-2027-Investment-Banking-Off-Cycle-Internship-Stockholm-Q1/en-GB
 2027 Investment Banking Off-Cycle Internship - Stockholm (Q1)
 <timestamp>

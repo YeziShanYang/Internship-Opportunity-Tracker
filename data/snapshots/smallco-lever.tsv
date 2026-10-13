@@ -5,6 +5,7 @@ acronaviation
 advancedagrilytics
 ae-2
 anavationllc
+azul
 bisnow
 certik
 crestoperations
@@ -80,6 +81,7 @@ ae-2	Junior Functional/Business Analyst - Sept 2027 @ Heverlee - Berchem - Gent 
 ae-2	Junior Software Engineer - Sept 2027 @ Heverlee - Berchem - Gent - Hasselt - Groot-Bijgaarden - klantencontext	Type=full-time; URL=https://jobs.lever.co/ae-2/9a2941d1-7013-44a1-b356-520a14b91f86
 anavationllc	Computer Science Internship Summer 2027 @ Chantilly, VA	Type=Temporary; URL=https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7
 anavationllc	Computer Science Internship Summer 2027 @ San Antonio, TX	Type=Part Time; URL=https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b
+azul	IT Intern, AI and Operations @ Sunnyvale, CA	Type=Intern; URL=https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db
 bisnow	Events Data Intern @ Miami	Type=Intern; URL=https://jobs.lever.co/bisnow/13b5eb6e-0b4a-42e5-87e4-ce2799c9f061
 certik	Blockchain Security Expert Intern - AI Track @ New York, New York / Remote	Type=Internship; URL=https://jobs.lever.co/certik/1f446b66-1fae-4c31-9352-cde86e254754
 certik	Business Development Intern / CertiK Ambassador @ New York, New York	Type=Internship; URL=https://jobs.lever.co/certik/241dde9b-95d6-4eda-a207-a149934b16e1
@@ -94,7 +96,6 @@ crestoperations	Enterprise Technology Operations Intern @ Pineville, Louisiana	T
 crestoperations	Finance Internship @ Pineville, Louisiana	Type=Intern; URL=https://jobs.lever.co/crestoperations/a4e1fa07-80f5-4a7d-989e-b755a7ac7d7e
 crestoperations	Security Intern @ Pineville, Louisiana	URL=https://jobs.lever.co/crestoperations/c0be0317-9219-454b-bb32-f2cd471a3efd
 cscgeneration-2	Social Commerce Intern @ Cottonwood Heights, UT	Type=Intern; URL=https://jobs.lever.co/cscgeneration-2/687984bb-ae2a-4f4a-ac49-0f9d48bcb8a4
-cscgeneration-2	Software Engineer - Legacy Applications & Modernization - Intern/Part Time @ Houston, TX	Type=Part Time; URL=https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813
 dadavidson	2027 Apprentice Financial Advisor Program @ Seattle, WA	Type=Full Time; URL=https://jobs.lever.co/dadavidson/4a7490f1-f5ac-43b7-95ae-9bea34980ac8
 dadavidson	2027 Corporate Internship Program @ Seattle, WA	Type=Temporary; URL=https://jobs.lever.co/dadavidson/15bb9b88-26d6-4232-b9f9-e5b18ac58b70
 dadavidson	2027 Wealth Management Research Internship Program @ Seattle, WA	Type=Part Time; URL=https://jobs.lever.co/dadavidson/d70340d4-fe76-4de5-b0da-d9094c5a388a
@@ -115,6 +116,7 @@ dadavidson	Class of 2028 Diversified Industrials Group, Investment Banking - Sum
 dadavidson	Class of 2028 Diversified Industrials Group, Investment Banking - Summer Analyst @ Chicago, IL	Type=Temporary; URL=https://jobs.lever.co/dadavidson/7dbe89ee-e9fd-45d0-b064-cf6c26ae8c10
 dadavidson	Class of 2028 Equity Capital Markets Research Intern @ New York, NY	Type=Temporary; URL=https://jobs.lever.co/dadavidson/18eacdf7-ac6b-4111-a815-9d4afd5259e3
 dadavidson	Class of 2028 Financial Institutions Group, Investment Banking - Summer Analyst @ Chicago, IL	Type=Temporary; URL=https://jobs.lever.co/dadavidson/b47a40ae-9850-418b-98e8-3f58b6bee7c6
+dadavidson	Technology Group, Investment Banking – Summer Analyst – 2028 Grads @ New York, NY	Type=Temporary; URL=https://jobs.lever.co/dadavidson/2210a46e-aa69-47ce-959a-a2835feb6081
 dadavidson	Technology Group, Investment Banking – Summer Analyst – 2028 Grads @ Portland, OR	Type=Temporary; URL=https://jobs.lever.co/dadavidson/777160c4-9248-4f8e-bceb-71d4dd72f885
 drivetrain	Engineering Intern – Gen AI for FP&A Platform @ United States	Type=Internship; URL=https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d
 dynamiccatholic	Internship - Email Marketing @ Erlanger, Kentucky	Type=Intern; URL=https://jobs.lever.co/dynamiccatholic/09f21913-6fc3-461f-83d2-0e931f7e2495
@@ -262,13 +264,14 @@ rivr	Hardware Engineering Intern @ Zürich	Type=Internship; URL=https://jobs.lev
 rivr	Robotics Wireless & Network Engineer Intern @ Zürich	Type=Internship; URL=https://jobs.lever.co/rivr/d473e872-14bc-4dab-92cf-18334e0dcd04
 sep	Software Engineer (2027 start dates, in person) @ Westfield, IN	Type=Full-time; URL=https://jobs.lever.co/sep/f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08
 sep	Software Engineering Intern (Summer 2027, In person) @ Westfield, IN	Type=Intern; URL=https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178
-shieldai	Electrical Engineering Spring Co-op (January 2027) (R4475) @ Dallas, Texas	Type=Intern; URL=https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724
+shieldai	Electrical Engineering Intern - X-BAT Avionics (R4475) @ Dallas, Texas	Type=Intern; URL=https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724
 shieldai	Software Development Engineer - New Graduate @ San Diego, California	Type=Full Time Employee; URL=https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583
 shieldai	Summer 2027 - Advanced Manufacturing Engineering Intern @ Dallas, Texas	Type=Intern; URL=https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a
 shieldai	Summer 2027 - Electrical Engineering Co-op (June 2027) @ Dallas, Texas	Type=Intern; URL=https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6
 shieldai	Summer 2027 - Electrical Engineering Intern @ Dallas, Texas	Type=Intern; URL=https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7
 shieldai	Summer 2027 - Mechanical Engineering Intern @ Seattle, Washington	Type=Intern; URL=https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc
 shieldai	Summer 2027 - Software Engineer Intern @ San Diego, California	Type=Intern; URL=https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010
+solopulseco	RF Hardware Engineer Intern @ Peachtree Corners, GA	Type=Part-Time; URL=https://jobs.lever.co/solopulseco/28672f78-6d59-4674-8e35-ee784d5c34be
 solopulseco	Radar Digital Signal Processing (DSP) Intern/Co-Op @ Peachtree Corners, GA	Type=Co-Op; URL=https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9
 solopulseco	Software Engineer Intern/Co-op - Spring 2027 @ Peachtree Corners, GA	Type=Full-Time; URL=https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef
 solopulseco	Systems Engineering Intern @ Peachtree Corners, GA	Type=Co-Op; URL=https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51

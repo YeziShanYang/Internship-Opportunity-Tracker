@@ -122,6 +122,11 @@ CommuniHacks
 NOV 07 - 08
 Kitchener, Ontario, CA
 In-Person
+Edinburgh , Edinburgh
+HackTheBurgh
+NOV 07 - 08
+Edinburgh, Edinburgh, GB
+In-Person
 Cincinnati , Ohio
 M
 MakeUC
@@ -190,6 +195,12 @@ uOttaHack 9
 JAN 15 - 17
 Ottawa, Ontario , CA
 In-Person
+Los Angeles , CA
+QH
+QWER Hacks
+JAN 16 - 17
+Los Angeles, CA, US
+In-Person DIVERSITY
 Vancouver , British Columbia
 nwHacks
 JAN 16 - 17

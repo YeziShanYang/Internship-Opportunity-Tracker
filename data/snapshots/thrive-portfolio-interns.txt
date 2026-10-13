@@ -107,7 +107,7 @@ Retail
 View job
 Apprentice Piercer
 Studs
-Location: California, USA ; Metropolitan City of Venice, Italy ; Kinney County, TX, USA ; Campo, CA, USA
+Location: California, USA ; Metropolitan City of Venice, Italy ; Kinney County, TX, USA
 Compensation: USD 19-24 / hour
 Posted <age>
 Series B
@@ -167,7 +167,7 @@ Science and Engineering
 View job
 Apprentice Piercer
 Studs
-Location: California, USA ; Santa Clara, CA, USA ; Stevens Creek, GA, USA ; Campo, CA, USA
+Location: Santa Clara, CA, USA ; Stevens Creek, GA, USA
 Compensation: USD 19-24 / hour
 Posted <age>
 Series B

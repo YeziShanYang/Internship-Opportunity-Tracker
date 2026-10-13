@@ -150,6 +150,7 @@ AOT-RFE/Accelerator Operations and Technology Division Radio Frequency Engineeri
 AOT-RFE/Radio Frequency Engineering
 AOT-RFE/RF Engineering
 Applied Mathematics And Plasma Physics/T-5
+ASD/Advance Sources and Detectors
 ASD-TSPE/ASD Technical Support and Project Execution
 Automation, Robotics &amp; Controls
 B-DO / Bioscience
@@ -200,6 +201,7 @@ Detonation Science and Technology/Q-6
 DP-2/Detonator Production-Process Engineering
 DP-5/ Detonator Production-Production Integration Office
 DP-IPO/Detonator Production - Infrastructure Planning Office
+E-1 / Mechanical &amp; Thermal Engineering
 E-11/Weapons Product Definition
 E-11/Weapons Product Design
 E-13/Advanced Engineering Analysis
@@ -616,6 +618,7 @@ AOT-RFE/Accelerator Operations and Technology Division Radio Frequency Engineeri
 AOT-RFE/Radio Frequency Engineering
 AOT-RFE/RF Engineering
 Applied Mathematics And Plasma Physics/T-5
+ASD/Advance Sources and Detectors
 ASD-TSPE/ASD Technical Support and Project Execution
 Automation, Robotics &amp; Controls
 B-DO / Bioscience
@@ -666,6 +669,7 @@ Detonation Science and Technology/Q-6
 DP-2/Detonator Production-Process Engineering
 DP-5/ Detonator Production-Production Integration Office
 DP-IPO/Detonator Production - Infrastructure Planning Office
+E-1 / Mechanical &amp; Thermal Engineering
 E-11/Weapons Product Definition
 E-11/Weapons Product Design
 E-13/Advanced Engineering Analysis
@@ -1083,8 +1087,8 @@ Job Title
 Job Number
 Organization
 City, State
+Mechanical &amp; Thermal Engineering Undergraduate Intern IRC146237 E-1 / Mechanical &amp; Thermal Engineering Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
-Mechanical &amp; Thermal Engineering Undergraduate Intern IRC146212 E-2 / Mission Concepts Los Alamos, NM
 Undergraduate Information Technology Internship IRC146184 CIO / Chief Information Officer Los Alamos, NM
 Undergrad Student SA 1 IRC146134 PT-3 / Plutonium Assembly &amp; Welding Los Alamos, NM
 Intelligence and Space Research Division Undergraduate Internship IRC146105 ISR-DO/Intelligence and Space Research Los Alamos, NM
