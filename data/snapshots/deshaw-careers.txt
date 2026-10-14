@@ -57,6 +57,7 @@ Quantitative Strategies
 Software Development
 Strategy and Business Development
 Technology
+Trading
 Various
 Venture Studio – Internal
 Venture Studio – Portfolio
@@ -171,6 +172,9 @@ New York
 Professional and Technical Writing Coach (Full-time) : The D.&nbsp;E.&nbsp;Shaw group seeks a skilled writing coach to join its Learning & Development (L&D) team, which helps the firm’s talent excel through customized learning offerings. The&hellip;
 Human Capital
 New York
+Recruiter - Experienced Hire : The D.&nbsp;E.&nbsp;Shaw group seeks recruiters with an exceptional record of professional achievement to identify and engage top talent across the firm’s business, investment, and&hellip;
+Human Capital
+New York
 Recruiting Coordinator (2-year LTA) : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive, efficient, and technologically proficient individual to join the firm’s Recruiting team. This person will play an active role in the&hellip;
 Human Capital
 New York
@@ -181,6 +185,9 @@ Senior AI Engineer – Human Capital : The D.&nbsp;E.&nbsp;Shaw group seeks a se
 Investment Analysis
 New York
 DESIM Technical Strategist Associate : The D.&nbsp;E.&nbsp;Shaw group seeks an analytically and technically oriented individual to join the D.&nbsp;E.&nbsp;Shaw Investment Management (DESIM) group as a technical strategist&hellip;
+Investment Analysis / Trading
+New York
+Trader/Analyst : The D.&nbsp;E.&nbsp;Shaw group seeks talented individuals to join as analysts or traders in its Fundamental Investing (e.g., Fundamental Equities, Credit Opportunities) or Trading (e.g.,&hellip;
 Investor Relations
 New York
 Chief of Staff Associate – Investor Relations : The D.&nbsp;E.&nbsp;Shaw group seeks an analytical, detail-oriented, and proactive individual with an impressive record of achievement to work with the Investor Relations (IR) chief of&hellip;
@@ -227,11 +234,8 @@ Quantitative Strategies
 New York
 Software Developer : Technology is integral to virtually everything the D.&nbsp;E.&nbsp;Shaw group does, which is why we seek exceptional software developers with a range of quantitative and programming&hellip;
 Quantitative Strategies
-New York
-Systems: Cloud Engineer : The D.&nbsp;E.&nbsp;Shaw group seeks a skilled cloud platform engineer to join its Systems team. This engineer will engage directly with technologists across the firm, identifying&hellip;
-Quantitative Strategies
-New York
-Systems: Network Reliability Engineer : The D.&nbsp;E.&nbsp;Shaw group seeks a Network Reliability Engineering to join its Systems group. This is a hands-on, technical role within a cross-platform team responsible for&hellip;
+Singapore
+Systems Administrator (Singapore) : The D.&nbsp;E.&nbsp;Shaw group seeks a motivated systems administrator with an impressive record of academic and/or professional achievement to join its Systems team. This team partners&hellip;
 Quantitative Strategies / Software Development / Technology
 New York
 Technical Product Manager - Macro : The D.&nbsp;E.&nbsp;Shaw group seeks a product manager to join its Macro group. The Macro team leverages advanced technology and close collaboration between traders and developers to&hellip;
@@ -287,6 +291,12 @@ Technology
 New York
 Systems Administrator (New York) : The D.&nbsp;E.&nbsp;Shaw group seeks motivated individuals with impressive records of academic and/or professional achievement to join our Systems team as systems administrators. Systems&hellip;
 Technology
+New York
+Systems: Cloud Engineer : The D.&nbsp;E.&nbsp;Shaw group seeks a skilled cloud platform engineer to join its Systems team. This engineer will engage directly with technologists across the firm, identifying&hellip;
+Technology
+New York
+Systems: Network Reliability Engineer : The D.&nbsp;E.&nbsp;Shaw group seeks a Network Reliability Engineering to join its Systems group. This is a hands-on, technical role within a cross-platform team responsible for&hellip;
+Technology
 London
 Systems: Senior Linux Infrastructure Engineer (London) : The D. E. Shaw group seeks a senior systems engineer with extensive Linux experience to join its Platform Engineering team. This is a hands-on, technical role within a global&hellip;
 Technology
@@ -308,10 +318,23 @@ Various
 New York
 Head of Engineering & AI, Healthcare RCM Platform : The D.&nbsp;E.&nbsp;Shaw group seeks an accomplished and hands-on head of engineering & AI to join Cove’s new healthcare revenue cycle management (RCM) platform. Cove, the firm’s&hellip;
 Various
+Denver
+Sector Specialist, Fundamental Equities (Denver) : The D.&nbsp;E.&nbsp;Shaw group seeks a perceptive and finance-oriented individual to join its Fundamental Equities team as a sector specialist. This role centers on engaging with senior&hellip;
+Various
+New York To apply for this job, please email
+your resume and the job title to recruitment-nyc@world.deshaw.com .
+Software Developer, DESIM : Join our D.&nbsp;E.&nbsp;Shaw Investment Management (DESIM) group in New York.
+The D.&nbsp;E.&nbsp;Shaw group seeks talented software developers to join its (DESIM) group. Members of our&hellip;
+Various
 New York To apply for this job, please email
 your resume and the job title to recruitment-nyc@world.deshaw.com .
 Software Developer, Futures : Join our D.&nbsp;E.&nbsp;Shaw Futures team in New York.
 The D.&nbsp;E.&nbsp;Shaw group seeks software developers to join its Futures team, a quantitatively driven group focused on the&hellip;
+Various
+New York To apply for this job, please email
+your resume and the job title to recruitment-nyc@world.deshaw.com .
+Trader, Macro : Join our D.&nbsp;E.&nbsp;Shaw group in New York
+The D.&nbsp;E.&nbsp;Shaw group seeks traders to join its Macro team, focused on foreign exchange, developing, and emerging markets. The&hellip;
 Various
 New York To apply for this job, please email
 your resume and the job title to recruitment-nyc@world.deshaw.com .

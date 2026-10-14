@@ -157,8 +157,8 @@ Title:The Power to Build Legacies: Wealth Management
 Event Date:27 Oct 2026 04:00 PM EST
 Region:U.S. and Canada
 Country:United States of America
-Line of Business:MERRILL WEALTH MANAGEMENT
-Program (Event):Private Bank Program
+Line of Business:FIRMWIDE
+Program (Event):Merrill Lynch Program,Private Bank Program
 Event description:Wealth Management is about more than investments, it’s about building long-term relationships and helping clients achieve their financial goals. In this session, you’ll explore how our wealth management lines of business work with individuals and families
 Event address / venue details:Virtual
 Event Timezone:EST

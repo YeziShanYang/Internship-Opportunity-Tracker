@@ -198,6 +198,7 @@ DARHT Experiments and Radiographic Science (J-4)
 Deputy Laboratory Director for Weapons (DDW’s) Office
 Design Engineers (PFE-DE)
 Detonation Science and Technology/Q-6
+DP-1/ Detonator Production- Product Engineering
 DP-2/Detonator Production-Process Engineering
 DP-5/ Detonator Production-Production Integration Office
 DP-IPO/Detonator Production - Infrastructure Planning Office
@@ -539,8 +540,10 @@ Technical Area 55/TA55-DO
 The Dynamic Structure Design, Engineering, and Vessel Operations Group/ J-2
 The Technical Training Center (TTC) Training Systems and Standards Group
 UI-EST/UI - Electric, Steam &amp; Turbine Operations
+UI-EST/UI - Electric, Steam and Turbine Operations
 UI-RM/Utilities &amp; Infrastructure - Reinvestment and Modernization
 UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
+UI-WGW/UI - Water, Gas and Waste Water Operations
 V-14/Test Engineering
 V-21/Weapons Test Execution
 V-6/Nondestructive Testing &amp; Evaluation
@@ -666,6 +669,7 @@ DARHT Experiments and Radiographic Science (J-4)
 Deputy Laboratory Director for Weapons (DDW’s) Office
 Design Engineers (PFE-DE)
 Detonation Science and Technology/Q-6
+DP-1/ Detonator Production- Product Engineering
 DP-2/Detonator Production-Process Engineering
 DP-5/ Detonator Production-Production Integration Office
 DP-IPO/Detonator Production - Infrastructure Planning Office
@@ -1007,8 +1011,10 @@ Technical Area 55/TA55-DO
 The Dynamic Structure Design, Engineering, and Vessel Operations Group/ J-2
 The Technical Training Center (TTC) Training Systems and Standards Group
 UI-EST/UI - Electric, Steam &amp; Turbine Operations
+UI-EST/UI - Electric, Steam and Turbine Operations
 UI-RM/Utilities &amp; Infrastructure - Reinvestment and Modernization
 UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
+UI-WGW/UI - Water, Gas and Waste Water Operations
 V-14/Test Engineering
 V-21/Weapons Test Execution
 V-6/Nondestructive Testing &amp; Evaluation

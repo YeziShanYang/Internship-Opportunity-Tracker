@@ -110,8 +110,8 @@ Engineering interns develop, ship, test, and monitor production code through a m
 Top Skills:
 Angularjs Api Development AWS C C&#x2B;&#x2B; Deployment Frameworks Java JavaScript Python React Testing Frameworks
 New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
 Use For Free
 BAE Systems, Inc.
 Software Engineering Intern III, Summer 2027 (Onsite)
@@ -126,17 +126,6 @@ Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#
 Software engineering intern developing and testing Windows-based applications for aircraft tests and support equipment. Responsibilities include instrument drivers, evaluation algorithms, graphical user interfaces, self-test software, requirements, coding, integration, documentation, and lifecycle testing. The intern will collaborate with systems and hardware engineers and may work with embedded development, operating systems, algorithms, and Agile tools while participating in BAE Systems’ LEAP program.
 Top Skills:
 C# C&#x2B;&#x2B; Git Green Hills Java JavaScript JIRA Linux Matlab Python Vxworks Windows
-Cloudflare
-People Team: Software Engineer Intern (Winter/Spring 2027)
-<age> Saved
-Hybrid
-Austin, TX, USA
-Internship
-Internship
-Cloud &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity
-Build and deploy full-stack internal enterprise applications and tooling for Cloudflare’s People & Places organization. Responsibilities include developing production features, writing and reviewing code, integrating APIs and data persistence, working in sprint-based teams, using AI-assisted coding tools, managing tickets and blockers, and demonstrating products to leadership. Interns will contribute to AI-agent foundations and ship production-deployed software.
-Top Skills:
-APIs Cloudflare Infrastructure Cursor Data Persistence Deployment Edge Computing Figma Git HTTP JavaScript Mcps Opencode React Serverless Computing Svelte Typescript Vue Windsurf
 Revel
 Internship: Full Stack Software Engineer
 <age> Saved
@@ -185,6 +174,19 @@ Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing T
 An 11-week technology internship embedded within Liberty Mutual's agile tech teams. Interns will contribute to real customer-facing and backend software projects, gaining experience in modern engineering practices, AI-assisted development tools, planning, coding, testing, and delivery. The program emphasizes collaboration, continuous learning, critical thinking, and customer-focused innovation.
 Top Skills:
 AI Ai-Assisted Development Tools Version Control
+Federal Reserve Bank of Chicago
+Summer 2027 Intern-Computer Science and Software Engineering
+<age> Saved
+Hybrid
+Chicago, IL, USA
+20-33 Hourly
+Internship
+20-33 Hourly
+Internship
+Agency &#x2022; Fintech &#x2022; Payments &#x2022; Sharing Economy &#x2022; Social Impact
+Paid summer internship for current undergraduate, graduate, or doctoral students in computer science or software engineering. Interns work 40 hours weekly for 10–12 weeks on project-based assignments, gaining exposure to Federal Reserve operations and collaborating with subject matter experts. Responsibilities may include interpreting data, developing insights, presenting information, supporting decisions, and contributing to departmental initiatives in an onsite or hybrid environment.
+Top Skills:
+Excel Microsoft Word
 1
 2
 3
@@ -192,7 +194,7 @@ AI Ai-Assisted Development Tools Version Control
 5
 ...
 ...
-81
+82
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

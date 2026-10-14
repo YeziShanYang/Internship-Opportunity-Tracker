@@ -43,16 +43,6 @@ Student Research Opportunities | Stanford HAI
 Stay Up To Date
 Get the latest news, advances in research, policy work, and education program updates from HAI in your inbox weekly.
 Sign Up For Latest News
-Navigate
-About
-Events
-AI Glossary
-Careers
-Search
-Participate
-Get Involved
-Support HAI
-Contact Us
 Skip to content
 About About
 About
@@ -89,3 +79,13 @@ News
 Events
 Industry
 Centers &amp; Labs
+Navigate
+About
+Events
+AI Glossary
+Careers
+Search
+Participate
+Get Involved
+Support HAI
+Contact Us

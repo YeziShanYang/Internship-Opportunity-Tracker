@@ -63,8 +63,6 @@ Podcasts
 Highlights
 Media Contacts
 Media Library
-Media Mentions
-Media Mentions
 Publications
 Lab Report
 Fact Sheets
@@ -126,8 +124,6 @@ Podcasts
 Highlights
 Media Contacts
 Media Library
-Media Mentions
-Media Mentions
 Publications
 Lab Report
 Fact Sheets
@@ -345,8 +341,6 @@ Podcasts
 Highlights
 Media Contacts
 Media Library
-Media Mentions
-Media Mentions
 Publications
 Lab Report
 Fact Sheets

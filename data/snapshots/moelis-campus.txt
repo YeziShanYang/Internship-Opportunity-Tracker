@@ -2,12 +2,6 @@ https://moelis-careers.tal.net/vx/mobile-0/appcentre-1/brand-4/candidate/jobboar
 Events
 Moelis Careers
 <timestamp>
-https://moelis-careers.tal.net/vx/mobile-0/appcentre-ext/brand-0/candidate/so/pm/1/pl/1/opp/460-Moelis-2026-NYU-On-Campus-Presentation/en-GB
-Moelis | 2026 NYU On-Campus Presentation
-<timestamp>
-<timestamp>
-Title:Moelis | 2026 NYU On-Campus Presentation
-Event Date:13 Oct 2026 06:30 PM EDT
 https://moelis-careers.tal.net/vx/mobile-0/appcentre-ext/brand-0/candidate/so/pm/1/pl/1/opp/456-2028-Summer-Analyst-Recruiting-Moelis-x-UC-Berkeley-Corporate-Presentation/en-GB
 2028 Summer Analyst Recruiting | Moelis x UC Berkeley Corporate Presentation
 <timestamp>
@@ -50,18 +44,6 @@ Moelis Virtual Discovery Series | Veterans in Banking Panel
 <timestamp>
 Title:Moelis Virtual Discovery Series | Veterans in Banking Panel
 Event Date:9 Nov 2026 04:00 PM EST
-https://moelis-careers.tal.net/vx/mobile-0/appcentre-ext/brand-0/candidate/so/pm/1/pl/1/opp/419-Moelis-Virtual-Discovery-Series-Women-in-Banking-Panel-West-Coast/en-GB
-Moelis Virtual Discovery Series | Women in Banking Panel (West Coast)
-<timestamp>
-<timestamp>
-Title:Moelis Virtual Discovery Series | Women in Banking Panel (West Coast)
-Event Date:13 Oct 2026 05:00 PM PDT
-https://moelis-careers.tal.net/vx/mobile-0/appcentre-ext/brand-0/candidate/so/pm/1/pl/1/opp/418-Moelis-Virtual-Discovery-Series-Black-in-Banking/en-GB
-Moelis Virtual Discovery Series | Black in Banking
-<timestamp>
-<timestamp>
-Title:Moelis Virtual Discovery Series | Black in Banking
-Event Date:14 Oct 2026 03:00 PM EDT
 https://moelis-careers.tal.net/vx/mobile-0/appcentre-ext/brand-0/candidate/so/pm/1/pl/1/opp/417-Moelis-Virtual-Discovery-Series-Pride-at-Moelis-Queerness-in-the-Workplace/en-GB
 Moelis Virtual Discovery Series | Pride at Moelis - Queerness in the Workplace
 <timestamp>
