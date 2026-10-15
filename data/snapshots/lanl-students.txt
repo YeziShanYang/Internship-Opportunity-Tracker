@@ -236,6 +236,7 @@ ES-FPE/Engineering Services - Fire Protection Engineering
 ES-FPS/Engineering Services - Fire Protection Systems
 ES-LFO/Engineering Services - LANSCE Facility Operations
 Essential Balance of Plant Group (PFE-EBP)
+ES-UI/Engineering Services - Utilities &amp; Infrastructure
 ES-UPD/Engineering Services - Utilities &amp; Infrastructure Project Delivery
 ES-WFO/Engineering Services - Weapons Facilities Operations
 ES-WFO/Facility System Engineering WFO
@@ -260,6 +261,7 @@ Human Resources Labor Relations Group (HR-LR)
 Human Resources: Talent Acquisition (HR-TA)
 ICE-CS/Cloud Services
 ICE-DCS/Device Configuration Services
+ICE-FS/Field Services
 IF-DO / Institutional Facilities FOD
 IF-DSL - Institutional Facilities Data, S&amp;M, and Leased Operations
 Institutional Quality and Performance Assurance—Institutional Quality (IQPA-IQ)
@@ -707,6 +709,7 @@ ES-FPE/Engineering Services - Fire Protection Engineering
 ES-FPS/Engineering Services - Fire Protection Systems
 ES-LFO/Engineering Services - LANSCE Facility Operations
 Essential Balance of Plant Group (PFE-EBP)
+ES-UI/Engineering Services - Utilities &amp; Infrastructure
 ES-UPD/Engineering Services - Utilities &amp; Infrastructure Project Delivery
 ES-WFO/Engineering Services - Weapons Facilities Operations
 ES-WFO/Facility System Engineering WFO
@@ -731,6 +734,7 @@ Human Resources Labor Relations Group (HR-LR)
 Human Resources: Talent Acquisition (HR-TA)
 ICE-CS/Cloud Services
 ICE-DCS/Device Configuration Services
+ICE-FS/Field Services
 IF-DO / Institutional Facilities FOD
 IF-DSL - Institutional Facilities Data, S&amp;M, and Leased Operations
 Institutional Quality and Performance Assurance—Institutional Quality (IQPA-IQ)
@@ -1088,11 +1092,12 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 18
+Showing 12 out of 17
 Job Title
 Job Number
 Organization
 City, State
+Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 Mechanical &amp; Thermal Engineering Undergraduate Intern IRC146237 E-1 / Mechanical &amp; Thermal Engineering Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Undergraduate Information Technology Internship IRC146184 CIO / Chief Information Officer Los Alamos, NM
@@ -1104,9 +1109,8 @@ PWDI Administrative Scholars Internship Program IRC145910 PAT-2 / Technical And 
 Undergraduate Student IRC145847 Product Realization and Reliability Office (PRRO) Los Alamos, NM
 High Performance Computing Undergraduate Student IRC145851 HPC-DO/High Performance Computing Los Alamos, NM
 PWDI Scholars Internship Program IRC145845 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
-Fire Protection Undergraduate Student ST IRC145404 ES-FP/Fire Protection-Group Office Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 18
+Showing 12 out of 17
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

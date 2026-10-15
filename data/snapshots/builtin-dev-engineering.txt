@@ -31,6 +31,32 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+BAE Systems, Inc.
+Computer Science Intern, Summer 2027
+<age> Saved
+Hybrid
+Rockville, MD, USA
+50K-69K Annually
+Internship
+50K-69K Annually
+Internship
+Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity &#x2022; Defense
+Participate in BAE Systems’ LEAP internship program while developing scientific application software for submarine-generated data analysis. Support the full software development lifecycle, including requirements analysis, design, coding, testing, and acceptance. Collaborate with software developers, test engineers, analysts, peers, and management. Apply Java, Python, SQL, statistics, algorithm development, software testing, and engineering principles to projects supporting strategic systems programs.
+Top Skills:
+Excel Java Matlab MS Office PowerPoint Python SQL Teams Visio Word
+BAE Systems, Inc.
+Programmer Intern, Summer 2027
+<age> Saved
+Hybrid
+Washington, DC, USA
+49K-68K Annually
+Internship
+49K-68K Annually
+Internship
+Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity &#x2022; Defense
+Programmer Intern supporting enterprise software for the U.S. Navy’s Strategic Systems Programs. Responsibilities include developing applications and modules, administering COTS/GOTS software, documenting program development, resolving system issues, applying patches and upgrades, and building add-on modules. The role requires collaboration across teams, strong communication, independent work, and foundational programming knowledge. Candidates must be sophomores or later in a related degree program with a minimum 2.8 GPA.
+Top Skills:
+Abap C# C/C&#x2B;&#x2B; Configuration Management Excel Java Microsoft Office Suite Object-Oriented Programming PHP PowerPoint Relational Database Concepts SQL Visio Visual Basic Word
 Expedia Group
 Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle
 <age> Saved
@@ -44,32 +70,6 @@ AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2
 Develop and test scalable software components, services, APIs, and web applications under experienced engineers’ guidance. Interns will practice coding, unit testing, debugging, system and data modeling, and fundamental algorithms while collaborating with cross-functional teams. The role includes exposure to AI-enabled solutions, mentorship, technical training, and meaningful projects supporting Expedia Group’s travel platforms.
 Top Skills:
 Ai/Ml Java Kotlin Python
-Expedia Group
-Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle
-<age> Saved
-Hybrid
-Austin, TX, USA
-45-54 Hourly
-Internship
-45-54 Hourly
-Internship
-AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2022; Travel &#x2022; Generative AI
-Software Development Engineer Interns will design, develop, test, and debug scalable software components and services for Expedia Group’s web and e-commerce platforms. They will contribute to API design, data modeling, unit testing, code reviews, and system improvements while collaborating with mentors and cross-functional teams. Interns will apply data structures, algorithms, object-oriented programming, and AI-enabled tools to deliver business-critical features under experienced engineering guidance.
-Top Skills:
-Ai/Ml Systems APIs Databases E-Commerce Platforms Java Kotlin Python Web Applications
-Expedia Group
-Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle
-<age> Saved
-Hybrid
-San Jose, CA, USA
-45K-54K Hourly
-Internship
-45K-54K Hourly
-Internship
-AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2022; Travel &#x2022; Generative AI
-Develop and test mobile application features for iOS and/or Android under experienced engineers’ guidance. Apply software engineering practices, participate in system and API design, data modeling, debugging, monitoring, and performance improvements. Collaborate with designers, mentors, and cross-functional partners to deliver reliable mobile experiences. Learn to use AI-driven tools and safely integrate AI/ML-enabled solutions.
-Top Skills:
-Ai/Ml Android APIs iOS Unit Testing
 Citadel
 Software Engineer - Intern (US)
 <age> Saved
@@ -94,6 +94,10 @@ Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x202
 Develop and maintain software that automates semiconductor fabrication equipment and integrates with internal systems. Responsibilities include coding, testing, debugging, implementing enhancements, troubleshooting issues, documenting specifications, researching technologies, and participating in code reviews. The intern will collaborate with software engineers and other team members while gaining experience with scripting, Unix systems, APIs, version control, testing, DevOps, and monitoring tools.
 Top Skills:
 APIs Azure Devops Git Itil Perl Python Splunk Unix
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 Affirm
 IT Engineer Intern (Early Careers Summer 2027)
 <age> Saved
@@ -109,23 +113,6 @@ Big Data &#x2022; Fintech &#x2022; Mobile &#x2022; Payments &#x2022; Financial S
 Engineering interns develop, ship, test, and monitor production code through a meaningful project tailored to team needs. They collaborate with mentors and managers, contribute to real engineering systems, and present their work at the end of the internship. Projects may involve data pipelines, automated testing, financial platforms, frontend applications, APIs, deployment, and cloud technologies.
 Top Skills:
 Angularjs Api Development AWS C C&#x2B;&#x2B; Deployment Frameworks Java JavaScript Python React Testing Frameworks
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
-BAE Systems, Inc.
-Software Engineering Intern III, Summer 2027 (Onsite)
-<age> Saved
-Hybrid
-Fort Wayne, IN, USA
-41K-55K Annually
-Internship
-41K-55K Annually
-Internship
-Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity &#x2022; Defense
-Software engineering intern developing and testing Windows-based applications for aircraft tests and support equipment. Responsibilities include instrument drivers, evaluation algorithms, graphical user interfaces, self-test software, requirements, coding, integration, documentation, and lifecycle testing. The intern will collaborate with systems and hardware engineers and may work with embedded development, operating systems, algorithms, and Agile tools while participating in BAE Systems’ LEAP program.
-Top Skills:
-C# C&#x2B;&#x2B; Git Green Hills Java JavaScript JIRA Linux Matlab Python Vxworks Windows
 Revel
 Internship: Full Stack Software Engineer
 <age> Saved

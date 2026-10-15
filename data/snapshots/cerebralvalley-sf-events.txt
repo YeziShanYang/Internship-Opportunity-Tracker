@@ -21,116 +21,110 @@ Intelligence at Work Hackathon
 Fri, Oct 23 · 8:30 AM PDT
 Menlo Park, CA
 Snowflake and Anthropic will host a hands-on build day where engineers, product builders, and data teams use Claude and Snowflake to solve real business challenges with company or public data. Teams will develop ideas ranging from workflow automation to new products and customer experiences, with speakers, judges, and prizes to be announced.
+Nov 4
+Data Outpost
+Wed, Nov 4 · 8:30 AM PDT
+San Francisco
+This two-day conference will explore how AI is reshaping data work, from emerging research to practical applications inside companies. Founders, engineers, product leaders, researchers, operators, and data architects will share what they’re building and what remains unknown.&quot; to &quot;Over two days of workshops and talks hosted by MotherDuck (with Sigma, OpenAI, Stripe, Clay, Vercel, Braintrust, and many more engineering, data, and AI leaders, plan to dive deep on how AI is shaping data and how work and decisions are made for some of the fastest-growing organizations.
+Oct 15
+Humanoid Hub Conference
+Thu, Oct 15 · 9:20 AM PDT
+First Market Tower
+HUMANOID HUB will bring together robotics engineers, founders, researchers, and investors for two days of hands-on demos, technical talks, and panels on embodied AI, autonomy, hardware, and commercialization. Speakers will include experienced leaders from 1X Technologies, Google DeepMind, Skild AI, Dyna Robotics, and Physical Intelligence.
 Oct 16
 UNIONAI SST Global Launch
 Fri, Oct 16 · 2:00 PM PDT
 Plug and Play Tech Center
 UNIONAI will unveil its next-generation solid-state transformer and showcase high-efficiency power innovations for AI data centers, with a focus on the shift to 800 VDC architecture. Industry leaders, technology partners, investors, and AI infrastructure professionals will explore the ecosystem through a partnership signing, panel discussions, and live Q&amp;A.
-Oct 14
-SF Research Summit
-Wed, Oct 14 · 9:00 AM PDT
-AWS Builder Loft
-Research leaders, principal investigators, and technologists will explore AI in research, foundation models, and open data through a hands-on technical workshop and focused discussion. The summit will also create opportunities to exchange ideas with peers.
+Oct 15
+LlamaIndex x Corgi: Doc Chai Launch Party
+Thu, Oct 15 · 8:00 AM PDT
+Corgi Cafe
+LlamaIndex will debut Doc Chai, an iced toasted brown sugar chai made with traditional South Asian spices and black tea, with the first 100 drinks complimentary. The launch will feature a live DJ, LlamaIndex merch, and a gathering of builders from the SF community.
+Oct 15
+Streamline Development Using Claude Code
+Thu, Oct 15 · 8:41 AM PDT
+220 E 15th St
+Developers will get hands-on with Claude Code, testing it on real-world projects and exploring how it can streamline terminal-based workflows while identifying where human judgment remains essential. The session will focus on practical setup, troubleshooting, and sharing techniques for using AI agents in daily coding.
+Oct 15
+TiDB SCaiLE 2026
+Thu, Oct 15 · 9:00 AM PDT
+Computer History Museum
+TiDB SCaiLE 2026 will explore how unified database infrastructure can support agentic AI’s demands for massive agent scale, branching context, transactions, vectors, and analytics. Engineers and AI leaders from Atlassian, Affirm, Pinterest, Databricks, Alibaba, AWS, and other organizations will share how they’re tackling these challenges.
 Oct 15
 Vercel Ship 26 | San Francisco
 Thu, Oct 15 · 9:00 AM PDT
 Palace of Fine Arts
 Vercel will host a hands-on event where developers will explore building, deploying, and scaling AI agents with industry experts leading the charge. Attendees can participate in person or tune in online to dive into the latest agent frameworks and connect with fellow builders pushing the boundaries of AI development.
 Oct 15
+Vercel Ship
+Thu, Oct 15 · 9:00 AM PDT
+Palace of Fine Arts
+Vercel Ship 26 will bring together engineers and AI experts from Vercel, Anthropic, and Notion to dive into agent-ready infrastructure, with hands-on sessions covering everything from Tailscale&#x27;s model access to building with Vercel&#x27;s Eve framework and running Grok in production. This one-day conference on October 15 will showcase the cutting edge of AI infrastructure and autonomous agents.
+Oct 15
 Humanoid Hub Conference
 Thu, Oct 15 · 9:20 AM PDT
 First Market Tower
 HUMANOID HUB will bring together robotics engineers, founders, researchers, and investors for two days of hands-on demos, technical talks, and panels on embodied AI, autonomy, hardware, and commercialization. Speakers will include experienced leaders from 1X Technologies, Google DeepMind, Skild AI, Dyna Robotics, and Physical Intelligence.
-Oct 14
-AI Exceeding Expectations?
-Wed, Oct 14 · 8:00 AM PDT
-Yes SF Headquarters
-A panel of experts will share practical instincts for managing advanced AI within enterprise technology, followed by breakfast and discussion.
-Oct 14
-SF Research Summit
-Wed, Oct 14 · 9:00 AM PDT
-AWS Builder Loft
-Research leaders, principal investigators, and technologists will explore AI in research, foundation models, and open data through a hands-on technical workshop and focused discussion. The summit will also create opportunities to exchange ideas with peers.
-Oct 14
-Agent Builders Breakfast with 1Password x Founders Bay
-Wed, Oct 14 · 9:30 AM PDT
+Oct 15
+Orkes Shift
+Thu, Oct 15 · 10:00 AM PDT
 San Francisco, CA
-Founders Bay’s AI breakfast will bring founders, operators, and builders together for practical conversations on deploying AI systems, with a panel featuring NVIDIA Senior Product Manager Aditya Mahajan, Glean Product Designer Neel Saswade, and Clario Co-Founder and CTO Madhu Vohra. The morning will also feature Tesla’s supervised Full Self-Driving experience, showroom exploration, and networking.
-Oct 14
-Agent Builders Breakfast with 1Password x Founders Bay @ Tesla
-Wed, Oct 14 · 9:30 AM PDT
+Orkes Shift will bring engineers, architects, product managers, and engineering leaders together to explore how to add agentic capabilities to business-critical workflows without rebuilding them. The program will cover durable execution, human approvals, failure handling, and production case studies, drawing on Orkes Conductor’s origins at Netflix and use at LinkedIn, Twilio, StoneX, and Bumble.
+Oct 15
+AI Innovation &amp; Startup Networking 2026
+Thu, Oct 15 · 10:00 AM PDT
+First Market Tower
+AI enthusiasts and startup founders will swap ideas, build connections, and explore what’s next in tech.
+Oct 15
+Never Finished: Creativity, Reimagined | A Dialogue on Reinvention
+Thu, Oct 15 · 4:00 PM PDT
 San Francisco, CA
-Founders Bay’s AI Breakfast will bring founders, operators, and builders together for practical conversations on creating trusted AI agents and taking them from demos to production. Speakers include senior AI and product leaders from NVIDIA, Glean, 1Password, Clario, and Microsoft, with breakfast networking and a Tesla experience rounding out the morning.
-Oct 14
-FAST FORWARD
-Wed, Oct 14 · 10:00 AM PDT
+Tech leaders and creatives from Gap Inc., fal, and the filmmaking world will dive into how AI and digital design are reshaping creative workflows—from initial concept to final output—with CTO Sven Gerjets, fal co-founder Gorkem Yurtseven, and pioneering filmmaker Barbara Ford steering the conversation over light bites.
+Oct 15
+SmartHome solutions and AI in Real Estate
+Thu, Oct 15 · 4:00 PM PDT
+500 Folsom St 9th floor
+AI experts and real estate professionals will explore cutting-edge smart home innovations and their market impact through interactive demos and live discussions.
+Oct 15
+PickleTalk: Enterprise Operators × AI Founders (Seed to Series A)
+Thu, Oct 15 · 4:00 PM PDT
 San Francisco, CA
-Builders will race against the clock at FAST FORWARD to create AI apps, agents, and VR experiences with backing from Vercel and Meta, with Neon Postgres supporting the technical infrastructure across three competitive tracks. From breakfast through live demos, participants will ship innovations while mentors provide real-time support and judges evaluate the next generation of intelligent, adaptive tools.
-Oct 14
-The Trillion Dollar Teams — In conversation with Vinod Khosla
-Wed, Oct 14 · 4:00 PM PDT
+A 12-person evening will bring vetted seed-to-Series A founders and enterprise operators together for beginner-friendly pickleball and dinner, with candid discussion about what gets AI startups bought, and what kills a deal. Arceus, an AI-native legal service backed by Greycroft, Craft Ventures, Conviction, and South Park Commons, will partner on the event.
+Oct 15
+Fireside Chat with Tony Zhao, Sunday Robotics
+Thu, Oct 15 · 5:30 PM PDT
 San Francisco, CA
-Vinod Khosla, Khosla Ventures founder and Sun Microsystems co-founder and first CEO, will discuss hiring against a startup’s specific risks, building founding teams, and how AI may reshape talent strategy. Drawing on decades of investing in companies including OpenAI, Stripe, and DoorDash, he’ll share lessons with Outcast Ventures, an early-stage firm founded by alumni of Coatue, Kleiner Perkins, NFX, and YC.
-Oct 14
-Building Faster With Claude Code
-Wed, Oct 14 · 4:27 PM PDT
-345 Burma Rd
-Developers and curious builders will explore how Claude Code fits into real-world software workflows, with practical use cases and troubleshooting of common hurdles. The informal session will compare AI coding tools and give attendees a chance to exchange hands-on experiences.
-Oct 14
-The AI Security Panel: Unfiltered
-Wed, Oct 14 · 4:30 PM PDT
+South Park Commons will host a fireside chat with Tony Zhao, Sunday Robotics co-founder and CEO, on building general-purpose home robots. Zhao brings a UC Berkeley EECS degree, Stanford computer science PhD research in robotic manipulation behind ALOHA and ACT, and experience at Google DeepMind and Tesla Autopilot.
+Oct 15
+Beyond IQ: Culture, Creativity &amp; AI
+Thu, Oct 15 · 5:30 PM PDT
+Address shared with ticket holders
+SOMOS.tech will celebrate Hispanic Heritage Month with an in-person evening of learning and networking.
+Oct 15
+Ship SF After Hours
+Thu, Oct 15 · 5:30 PM PDT
 San Francisco, CA
-A cybersecurity panel moderated by Yahoo Finance’s Deirdre Bosa will examine AI-powered attacks, software supply-chain risks, and what defenders should do next. Snyk’s CTO Manoj Nair, OpenAI’s Technical Lead for Cyber Michael D’Angelo, Google Threat Intelligence Chief Analyst John Hultquist, and Boldstart Ventures founder Ed Sim will debate accountability and concrete steps CISOs can take by Q1 2027.
-Oct 14
-AI and Agents in Finance
-Wed, Oct 14 · 5:30 PM PDT
+Ship SF After Hours will close out the event with drinks and conversation alongside Vercel’s executive team and special guests. The private celebration will be held in partnership with AWS.
+Oct 15
+CoreWeave x NVIDIA Dynamo Meetup
+Thu, Oct 15 · 6:00 PM PDT
 San Francisco, CA
-Fintech, banking, credit and AI leaders will explore how agentic AI could reshape financial operations, and where human judgment, trust and accountability will remain essential. The panel will feature senior product and technology leaders, a CEO and 5-time exit founder with 35+ years in financial services and payments, and a former Citi professional.
-Oct 14
-ELC Annual 2026 Afterparty w/ Rootly AI
-Wed, Oct 14 · 5:30 PM PDT
+CoreWeave and NVIDIA Dynamo will present practical approaches to scaling production inference and RL post-training, including high-throughput serving, disaggregated inference, and rapid checkpoint hot-swapping. Speakers will share how CoreWeave, NVIDIA, and You.com achieved 15× faster model reloads while post-training Nemotron 3.5 Lightning.
+Oct 15
+Industrial AI Summit: The Future of Manufacturing
+Thu, Oct 15 · 6:00 PM PDT
+525 Market St
+The Industrial AI Summit will explore how AI is transforming manufacturing through robotics, computer vision, quality control, and supply chains, with a panel, startup demos, and networking. Investor Varad Mohod will moderate a conversation with founders Matt Puchalski of YC S24’s Bucket Robotics and Shan Mohta of YC S24’s Vendra, whose backgrounds include Argo AI, Skydio, Apple, and Microsoft.
+Oct 15
+Maritime Dual-Use Hackathon
+Thu, Oct 15 · 6:00 PM PDT
+Mind the Bridge
+Oct 15
+Extraordinary Founders Dinner (hosted by Andrew Yeung)
+Thu, Oct 15 · 6:30 PM PDT
 San Francisco, CA
-Engineering leaders, founders, and speakers will trade insights on scaling teams, navigating AI, and leading through high-pressure challenges during an informal networking evening. Hosted by Rootly AI, the AI-native incident response platform trusted by companies including LinkedIn, NVIDIA, and Canva, the gathering will feature craft cocktails and panoramic views.
-Oct 14
-“The Rise of Enterprise AI Agents: From Internal Copilots to Customer-Facing Services” VC Insights• Founder Pitches
-Wed, Oct 14 · 5:30 PM PDT
-Palo Alto, CA
-WeShine’s upcoming science-and-venture event will feature technical and fundraising discussions, pitches from 4–5 startups, and networking with founders, investors, and industry leaders. Speakers include Yale MBA Austin Cai, Berkeley Skydeck-backed founder Adam Cai, former Google engineer Hang Yin, and Stanford postdoc Yuxin Chen.
-Oct 14
-AI Tech Founders &amp; Investors: Pitch &amp; Connect I San Francisco
-Wed, Oct 14 · 6:00 PM PDT
-San Francisco, CA
-The event will bring together AI and tech founders, investors, and industry professionals for a curated networking experience.
-Oct 14
-The Hardware Behind AI: Where&#x27;s the Real Bottleneck?
-Wed, Oct 14 · 6:00 PM PDT
-Consulate General of the Netherlands in San Francisco
-The Consulate General of the Kingdom of the Netherlands will host a Dutch–U.S. panel and networking session on AI hardware bottlenecks, spanning chip design, architecture, packaging, and manufacturing. Food and drinks will be included.
-Oct 14
-AI Tech &amp; Startup Night
-Wed, Oct 14 · 6:00 PM PDT
-The Liberties
-AI and tech founders, investors, and builders will connect and exchange ideas, bringing together people actively shaping the industry.
-Oct 14
-Wiki3: Own Your Own AI Workshop
-Wed, Oct 14 · 6:00 PM PDT
-Hacker Dojo
-The Wiki3 AI Owners Group will offer a hands-on workshop on running AI locally, with guided Unsloth Desktop and Agent Zero setups, live demos, and time to experiment. Built around open-source tools from leading model-optimization experts, the session will cover privacy, cost, and control for beginners and experienced technologists alike.
-Oct 14
-Marketing Engineer Meetup
-Wed, Oct 14 · 6:00 PM PDT
-San Francisco, CA
-Speakers from Amplitude x Statsig, Notion, Hex, and Unify will share how AI and agentic workflows are transforming growth strategy into production-ready marketing systems. The lineup includes experienced leaders in product marketing, marketing AI strategy, GTM engineering, and growth.
-Oct 14
-Silicon After Dark
-Wed, Oct 14 · 7:00 PM PDT
-San Jose, CA
-SemiAnalysis will bring Silicon After Dark to OCP Global Summit for an evening off the conference floor, with attendance limited to approved guests.
-Oct 14
-The Living Room: COLOSSUS — AI, Control &amp; the Human Question - After Hours
-Wed, Oct 14 · 7:00 PM PDT
-San Francisco, CA
-The Living Room: A TV of Tomorrow Salon “After Hours” will pair the prescient AI thriller *Colossus: The Forbin Project* with rare clips and conversation on science fiction, technology, and humanity’s place in an AI-driven world. Creators’ short films may also be screened, spanning experimental, animated, narrative, and AI-generated work.
+Andrew Yeung, founder and &quot;Gatsby of Silicon Alley,&quot; will host an exclusive dinner on Oct 15 with co-hosts from Attio and Whop bringing together immigrant founders and category-defining builders who&#x27;ve beaten the odds. Expect a three-course meal, conversations with high-performing startup leaders, and meaningful connections with ambitious peers navigating the startup world.
 Oct 17
 The Recursive Agents Hackathon
 Sat, Oct 17 · 9:00 AM PDT

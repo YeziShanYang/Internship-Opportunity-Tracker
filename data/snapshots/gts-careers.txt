@@ -18,6 +18,12 @@ Job Location (Descending)
 Overview (Ascending)
 Overview (Descending)
 Job Title
+Data Center Engineer
+Our Information Technology team builds, maintains, and continuously improves the infrastructure supporting our trading and business operations. We value technical excellence, collaboration, continuous learning, and efficient service delivery.
+GTS is a collection of financial services companies spanning a wide array of asset classes and investment approaches, all powered by the combination of market expertise with innovative, proprietary technology. &nbsp;With roots as a quantitative trading firm continually building for the future, the GTS family of companies are able to leverage the...
+Job Location
+US-NY-New York
+Job Title
 Quantitative Trader &ndash; Equity Derivatives
 GTS is seeking a Quantitative Trader &ndash; Equity Derivatives to join our Wholesale Market Making team. In this role, you will be responsible for managing and optimizing systematic trading strategies across traditional and decentralized markets, with a focus on risk management, execution quality, and trading performance. Working closely with quantitative researchers, traders, and engineers, you will leverage your understanding of derivatives pricing, market microstructure, and quantitative analysis to make real-time trading decisions, enhance existing strategies, and identify new market opportunities. This is a highly...
 Job Location
@@ -52,13 +58,6 @@ The International ETF team at GTS is seeking a Senior Quantitative Researcher to
 &nbsp;
 Our team makes markets and manages risk across equity products spanning dozens of countries, time zones, and currencies. Working closely with traders and quantitative developers, you will build models from first principles, deploy them into production, and measure their impact on live trading.
 &nbsp;
-Job Location
-US-NY-New York
-Job Title
-Entity Controller / Financial and Operations Principal
-GTS is seeking an experienced Entity Controller/Financial and Operations Principal to own financial reporting, regulatory compliance, and audit management for one or more of our registered broker-dealer entities. This role sits at the intersection of technical accounting, financial systems, and regulatory reporting, and serves as the primary point of contact for external auditors and regulators.
-&nbsp;
-The ideal candidate brings deep broker-dealer accounting expertise,...
 Job Location
 US-NY-New York
 Job Title

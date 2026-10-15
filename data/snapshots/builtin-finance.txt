@@ -31,45 +31,119 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Finance Jobs
+Citadel
+Quantitative Trader: Equity Quantitative Research - Intern (US)
+<age> Saved
+In-Office
+3 Locations
+234K-302K Annually
+Internship
+234K-302K Annually
+Internship
+Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
+Intern will help turn quantitative research into production equities trading strategies, optimize portfolio allocation and risk, minimize trading costs and market impact, monitor performance, and perform statistical research to improve risk-adjusted returns while making real-time allocation decisions under supervision.
+Citadel
+Quantitative Researcher - Post-Doctoral Intern (US)
+<age> Saved
+In-Office
+4 Locations
+5K-6K Annually
+Internship
+5K-6K Annually
+Internship
+Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
+Conduct quantitative research for financial markets by developing valuation strategies, mathematical models, trading signals, and monetization systems. Responsibilities include translating algorithms into code, backtesting and implementing trading models, analyzing unconventional data sources, and applying statistical techniques. The 11-week post-doctoral internship involves collaboration with senior researchers in a fast-paced investment environment.
+Top Skills:
+C&#x2B;&#x2B; Machine Learning Natural Language Processing (Nlp) Pattern Recognition Python R Time-Series Analysis
+Citadel
+Equities - Citadel Associate Program - Summer Internship 2028
+<age> Saved
+In-Office
+New York, NY, USA
+3K-3K Annually
+Internship
+3K-3K Annually
+Internship
+Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
+Summer internship for undergraduate students graduating December 2028 through May 2029. Interns will develop financial modeling and company research skills, evaluate businesses and investment opportunities, analyze external data, and support long/short equities investing through investment-team rotations and mentorship.
+Top Skills:
+External Data Sources Financial Modeling Quantitative Risk Systems
 Wipfli
-Audit Internship - Summer 2027
+Audit Internship - Spring 2028
 <age> Saved
 Hybrid
-South Portland, ME, USA
+Minneapolis, MN, USA
 30-30 Hourly
 Internship
 30-30 Hourly
 Internship
 Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
-Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, management reports, and engagement deliverables; respond to client requests; gather information; analyze data; identify process improvements; and communicate issues to engagement leaders. The role provides hands-on experience across diverse client industries while developing accounting, GAAP, analytical, administrative, professional, and interpersonal skills.
-Top Skills:
-Data Analytics Gaap
-PwC
-Washington DC - Digital Assurance &amp; Transparency (DAT) - Intern - Summer 2028 - Destination CPA
+Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, and management reports; gather client information; analyze data; identify process improvements; and communicate engagement issues. The role provides hands-on experience with audit work, GAAP, client engagements, professional services software, and diverse industries while developing accounting, analytical, administrative, communication, and teamwork skills.
+Lowe&#x2019;s
+Pricing, Promotions, and Credit - Undergraduate Internship for Summer 2027
 <age> Saved
 Hybrid
-Washington, DC, USA
+Mooresville, NC, USA
+Internship
+Internship
+Consumer Web &#x2022; eCommerce &#x2022; Information Technology &#x2022; Retail &#x2022; Software &#x2022; Analytics &#x2022; App development
+Supports pricing strategy through pricing scenarios, tests, updates, financial analysis, competitive monitoring, reporting, and data-driven recommendations. The intern synthesizes multiple data sources to identify pricing opportunities, assess financial trends, and ensure alignment with pricing strategies and guardrails across Lowe’s stores and digital platforms.
+Top Skills:
+Business Intelligence Tools Excel MS Office PowerPoint SQL
+Liberty Mutual Insurance
+Surety Underwriting Internship - Summer 2027
+<age> Saved
+Hybrid
+7 Locations
+27K-29K Hourly
+Internship
+27K-29K Hourly
+Internship
+Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
+An 11-week Surety Underwriting Intern role supporting financial analysis, risk assessment, underwriting decisions, and relationship management. The intern will learn how surety bonds support businesses and infrastructure projects while participating in training, mentorship, job shadowing, professional development, and the AFSB curriculum.
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
+PwC
+Oklahoma City - Audit - Intern - Winter 2027
+<age> Saved
+Hybrid
+Oklahoma City, OK, USA
 29K-48K Hourly
 Internship
 29K-48K Hourly
 Internship
 Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
-Supports digital assurance and audit teams through basic research, internal control and governance evaluations, risk analysis, compliance activities, and application of auditing methodologies. The intern learns from experienced auditors, contributes to financial reporting and transparency projects, applies cloud engineering principles to audit processes, and collaborates with team members while developing professional skills.
+Supports financial statement audits through document review, financial data analysis, audit documentation, internal control evaluation, and risk assessment. The intern learns and applies GAAP, GAAS, and PwC audit methodologies while collaborating with audit teams and observing experienced auditors. The role provides foundational experience in financial reporting, compliance, client service, and professional audit practices.
 Top Skills:
-Cloud Engineering
-PwC
-Philadelphia - Digital Assurance &amp; Transparency (DAT) - Intern - Summer 2028 - Destination CPA
+Gaap Gaas
+ServiceNow
+Finance Intern - Undergrad Summer 2027
 <age> Saved
 Hybrid
-Philadelphia, PA, USA
-29K-48K Hourly
+Santa Clara, CA, USA
+38-38 Hourly
 Internship
-29K-48K Hourly
+38-38 Hourly
 Internship
-Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
-Supports digital assurance and audit teams through research, data analysis, compliance and governance evaluation, audit methodology application, and testing AI platforms. The intern learns from experienced auditors, contributes to audit findings, explores cloud engineering principles in audit contexts, and develops professional skills while collaborating on client assignments.
+Artificial Intelligence &#x2022; Cloud &#x2022; HR Tech &#x2022; Information Technology &#x2022; Productivity &#x2022; Software &#x2022; Automation
+Finance interns complete a 12-week summer placement within teams such as FP&A, accounting, treasury, strategic finance, or go-to-market finance. Responsibilities include analyzing financial data, building models, preparing insights, supporting budgets and forecasts, assisting with month- and quarter-close reporting, conducting variance analysis, and partnering cross-functionally. Interns also participate in workshops, networking, mentorship, and development programming while exploring AI applications in finance.
 Top Skills:
-Artificial Intelligence Cloud Engineering
+Ai Tools Automated Workflows Excel MS Office Outlook PowerPoint Word
+ServiceNow
+Finance Intern - Undergrad Summer 2027
+<age> Saved
+Hybrid
+West Palm Beach, FL, USA
+38-38 Hourly
+Internship
+38-38 Hourly
+Internship
+Artificial Intelligence &#x2022; Cloud &#x2022; HR Tech &#x2022; Information Technology &#x2022; Productivity &#x2022; Software &#x2022; Automation
+Finance interns complete a 12-week summer program within functions such as FP&A, accounting, treasury, strategic finance, or go-to-market finance. Responsibilities include analyzing financial data, building models, preparing insights, supporting budgeting and forecasting, assisting with month-end and quarter-close reporting, conducting variance analysis, and partnering cross-functionally. Interns also participate in workshops, networking, mentorship, and development programming while exploring AI applications in finance.
+Top Skills:
+Ai-Powered Tools Automated Workflows Excel MS Office Microsoft Outlook Microsoft Powerpoint Microsoft Word
 Gusto
 Finance Intern (Summer 2027)
 <age> Saved
@@ -85,32 +159,6 @@ Fintech &#x2022; HR Tech
 Finance Intern supporting Gusto’s Finance, BizOps & Strategy team through financial and operational reporting, cost and margin analysis, roadmap projects, and ad hoc analysis. The role partners cross-functionally with Customer Experience, EPD, and Corporate Development teams, translating financial data into business decisions. Interns will use Excel, Google Sheets, AI tools, and automation while communicating findings to non-finance stakeholders.
 Top Skills:
 Ai Tools Automation Excel Google Sheets
-CNA
-Finance Intern - Summer 2027
-<age> Saved
-Hybrid
-Arlington, VA, USA
-Internship
-Internship
-Cloud &#x2022; Insurance &#x2022; Professional Services &#x2022; Analytics &#x2022; Cybersecurity
-Finance intern supporting corporate business projects through stakeholder coordination, research, data analysis, communications, scheduling, note-taking, and customer support. The role requires assisting with project deliverables and general team duties while developing finance or accounting skills in an on-site Arlington environment.
-Top Skills:
-Excel MS Office Microsoft Powerpoint Microsoft Word
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
-Liberty Mutual Insurance
-Underwriting Internship Program - Global Risk Solutions - Summer 2027
-<age> Saved
-Hybrid
-6 Locations
-27K-29K Hourly
-Internship
-27K-29K Hourly
-Internship
-Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
-Participate in an 11-week commercial insurance underwriting internship. Analyze business and financial information, evaluate and price risks, support underwriting decisions, contribute to projects, and develop analytical, communication, negotiation, and decision-making skills while learning about commercial insurance products and potential career paths.
 Expedia Group
 Finance Analyst Intern - 2027 - Seattle
 <age> Saved
@@ -122,19 +170,6 @@ Internship
 Internship
 AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2022; Travel &#x2022; Generative AI
 Finance Analyst Interns support Expedia Group’s finance organization through financial planning and analysis, reporting, forecasting, business modeling, compliance, and investment proposals. They analyze data for trends, develop forecasts, collaborate with Finance and Analytics teams, engage senior stakeholders, and lead Finance Leadership Program workstreams. The internship includes mentorship, training, leadership exposure, and meaningful business projects.
-Citadel
-Finance &amp; Accounting - Intern (US)
-<age> Saved
-In-Office
-New York, NY, USA
-114K-120K Annually
-Internship
-114K-120K Annually
-Internship
-Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
-An 11-week Finance and Accounting internship offering placements in corporate accounting, fund and broker-dealer accounting, or financial reporting. Responsibilities include auditing expense reports, supporting cash receipts and journal entries, assisting with regulatory and financial reporting, monitoring compliance, overseeing accounting records and NAV calculations, supporting audits, and researching U.S. GAAP and IFRS questions. Interns also identify process improvements and collaborate with stakeholders.
-Top Skills:
-Concur Ifrs Excel U.S. Gaap
 Spectrum
 2027 Summer Intern: Strategic Tax - Income - Corporate
 <age> Saved
@@ -159,17 +194,6 @@ Big Data &#x2022; Cloud &#x2022; Fintech &#x2022; Information Technology &#x2022
 Supports daily market risk monitoring for clearing members, positions, and collateral. Builds Python scripts and reports using large datasets, applies stress-testing methodologies, follows financial markets and assesses portfolio impacts, and assists with research, data pulls, and documentation. Collaborates with quantitative risk and IT teams and presents a summer project. The internship is a 12-week hybrid program for enrolled undergraduate or graduate students.
 Top Skills:
 Bloomberg Confluence Excel JIRA PowerPoint Python SQL Word
-Lowe&#x2019;s
-Finance Intern - Undergrad Internship - Summer 2027
-<age> Saved
-Hybrid
-Mooresville, NC, USA
-Internship
-Internship
-Consumer Web &#x2022; eCommerce &#x2022; Information Technology &#x2022; Retail &#x2022; Software &#x2022; Analytics &#x2022; App development
-Finance Interns support financial analysis, business performance tracking, variance analysis, forecasting, budgeting, reporting, and dashboard development. They gain exposure to financial statements, enterprise decision-making, executive leadership, cross-functional collaboration, financial systems such as Oracle, and analysis and modeling tools during a 10-week summer internship.
-Top Skills:
-Excel Financial Reporting And Dashboard Tools MS Office Oracle PowerPoint
 1
 2
 3
@@ -177,7 +201,7 @@ Excel Financial Reporting And Dashboard Tools MS Office Oracle PowerPoint
 5
 ...
 ...
-199
+200
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

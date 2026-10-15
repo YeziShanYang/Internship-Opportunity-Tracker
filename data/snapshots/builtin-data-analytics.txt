@@ -31,6 +31,17 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+IDeaS
+Research Analyst Intern
+<age> Saved
+Hybrid
+Bloomington, MN, USA
+Internship
+Internship
+Software &#x2022; Analytics &#x2022; Hospitality
+Research Analyst Intern supporting global alliance initiatives through strategic research, partnership analysis, data-driven recommendations, and stakeholder presentations. The role involves identifying business challenges, proposing solutions, tracking projects, preparing reports, and collaborating with international teams and executives using tools such as Wrike, Salesforce, Microsoft Forms, and PowerPoint.
+Top Skills:
+Microsoft Forms Microsoft Powerpoint Salesforce Wrike
 Spectrum
 2027 Summer Intern: Video Operations Tools and Automation
 <age> Saved
@@ -79,6 +90,10 @@ Blockchain &#x2022; Fintech &#x2022; Payments &#x2022; Consulting &#x2022; Crypt
 Mastercard seeks a Data Engineering Intern to support data science capabilities for Commerce Media and Offers. The intern will help build data pipelines and cloud-based workloads, work with distributed data processing, and contribute to AI/ML and data-driven product initiatives. Candidates should have Python experience, familiarity with cloud data platforms, strong analytical and collaboration skills, and be enrolled in a qualifying bachelor's or accelerated master's program. The role is based in San Francisco and does not offer work authorization sponsorship.
 Top Skills:
 AWS Azure Databricks Pyspark Python
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 New York Life
 2027 Business Analytics &amp; Digital Transformation Summer Internship
 <age> Saved
@@ -92,21 +107,6 @@ Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Tec
 Summer interns support business analytics and digital transformation initiatives by building dashboards, analyzing datasets, developing visualizations, researching digital product enhancements, and assisting with automation and process improvement. The role involves translating data into actionable insights, collaborating with professionals, and using technology to support business decisions. Candidates must be enrolled in an accredited four-year institution and graduate between December 2027 and May 2030.
 Top Skills:
 Excel Power BI Python SQL Tableau
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
-IDeaS
-Research Analyst Intern
-<age> Saved
-Hybrid
-Bloomington, MN, USA
-Internship
-Internship
-Software &#x2022; Analytics &#x2022; Hospitality
-Research Analyst Intern supporting global alliance initiatives through strategic research, partnership analysis, data-driven recommendations, and stakeholder presentations. The role involves identifying business challenges, proposing solutions, tracking projects, preparing reports, and collaborating with international teams and executives using tools such as Wrike, Salesforce, Microsoft Forms, and PowerPoint.
-Top Skills:
-Microsoft Forms Microsoft Powerpoint Salesforce Wrike
 Atlassian
 Data Engineer Intern, 2027 Summer U.S.
 <age> Saved

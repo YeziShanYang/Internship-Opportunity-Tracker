@@ -64,7 +64,7 @@ Highlights
 Media Contacts
 Media Library
 Publications
-Lab Report
+Media Mentions
 Fact Sheets
 Social Media
 Community and Education
@@ -125,7 +125,7 @@ Highlights
 Media Contacts
 Media Library
 Publications
-Lab Report
+Media Mentions
 Fact Sheets
 Social Media
 Applying AI
@@ -342,7 +342,7 @@ Highlights
 Media Contacts
 Media Library
 Publications
-Lab Report
+Media Mentions
 Fact Sheets
 Social Media
 Community and Education

@@ -122,6 +122,12 @@ CommuniHacks
 NOV 07 - 08
 Kitchener, Ontario, CA
 In-Person
+Rochester , New York
+H
+HACK.COMS
+NOV 07 - 08
+Rochester, New York, US
+In-Person DIVERSITY
 Edinburgh , Edinburgh
 HackTheBurgh
 NOV 07 - 08
@@ -163,6 +169,11 @@ Junction
 NOV 13 - 15
 Espoo, Uusimaa, FI
 In-Person
+Princeton , New Jersey
+HackPrinceton Fall 2026
+NOV 13 - 15
+Princeton, New Jersey, US
+In-Person HARDWARE
 Brooklyn , New York
 NS
 NASA&#x27;s Space Apps Challenge NYC
@@ -178,6 +189,11 @@ Durham , County Durham
 DurHack
 NOV 14 - 15
 Durham, County Durham, GB
+In-Person
+Wellesley , Massachesetts
+WHACK (Wellesley Hackathon)
+NOV 21 - 22
+Wellesley , Massachesetts, US
 In-Person
 Lleida , Lleida, Spain
 HackEPS

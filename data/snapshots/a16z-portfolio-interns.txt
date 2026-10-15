@@ -6,7 +6,7 @@ a16z
 Software Is Eating the World
 X LinkedIn Substack
 © 2026 Andreessen Horowitz . All Portfolio Jobs Companies Disclosures
-690 companies. 18,442 jobs. It’s time to build.
+690 companies. 18,488 jobs. It’s time to build.
 All Portfolio Jobs Jobs by Company a16z Jobs a16z TalentPlace
 Filter jobs by role and more
 Roles
@@ -21,7 +21,12 @@ Internships only Remote options All jobs
 Salary Any
 Posted <age>
 Country:us Seed Venture Clear filters
-43 jobs
+44 jobs
+Tessera Labs
+Software Engineering Intern, Full Stack
+$40 – $45 · San Jose Office (HQ), San Jose, California, United States · Posted <age>
+Enterprise · Venture · 51–200 employees
+Apply Interested
 Heron Power
 Intern, Power Electronics Controls Engineer (Spring 2027)
 Scotts Valley, California, United States · Posted <age>
@@ -140,11 +145,6 @@ Apply Interested
 Northwood Space
 Embedded Software Engineering Intern (2027 Summer Internship)
 $36 per hour · Torrance, CA, Los Angeles, CA, California, USA · Posted <age>
-American Dynamism · Series B · 51–200 employees
-Apply Interested
-Northwood Space
-Electrical Engineering Intern (2027 Summer Internship)
-$36 · Torrance, CA, Los Angeles, CA, California, USA · Posted <age>
 American Dynamism · Series B · 51–200 employees
 Apply Interested
 Show more jobs
