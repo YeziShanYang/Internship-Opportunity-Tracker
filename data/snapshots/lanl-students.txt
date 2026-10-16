@@ -543,6 +543,7 @@ The Dynamic Structure Design, Engineering, and Vessel Operations Group/ J-2
 The Technical Training Center (TTC) Training Systems and Standards Group
 UI-EST/UI - Electric, Steam &amp; Turbine Operations
 UI-EST/UI - Electric, Steam and Turbine Operations
+UI-PATS/UI - Parking and Transportation Services
 UI-RM/Utilities &amp; Infrastructure - Reinvestment and Modernization
 UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
 UI-WGW/UI - Water, Gas and Waste Water Operations
@@ -1016,6 +1017,7 @@ The Dynamic Structure Design, Engineering, and Vessel Operations Group/ J-2
 The Technical Training Center (TTC) Training Systems and Standards Group
 UI-EST/UI - Electric, Steam &amp; Turbine Operations
 UI-EST/UI - Electric, Steam and Turbine Operations
+UI-PATS/UI - Parking and Transportation Services
 UI-RM/Utilities &amp; Infrastructure - Reinvestment and Modernization
 UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
 UI-WGW/UI - Water, Gas and Waste Water Operations
@@ -1106,8 +1108,8 @@ Intelligence and Space Research Division Undergraduate Internship IRC146105 ISR-
 Mechanical and Electrochemical Undergraduate Student IRC146029 MPA-11 / Materials Synthesis and Integrated Devices Los Alamos, NM
 Undergraduate Computational Nuclear Engineer or Software Developer IRC146028 NEN-5 / Nuclear Systems Los Alamos, NM
 PWDI Administrative Scholars Internship Program IRC145910 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
-Undergraduate Student IRC145847 Product Realization and Reliability Office (PRRO) Los Alamos, NM
 High Performance Computing Undergraduate Student IRC145851 HPC-DO/High Performance Computing Los Alamos, NM
+Undergraduate Student IRC145847 Product Realization and Reliability Office (PRRO) Los Alamos, NM
 PWDI Scholars Internship Program IRC145845 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Load more jobs Load more jobs
 Showing 12 out of 17
@@ -1128,6 +1130,8 @@ To request a disability accommodation, email applyhelp@lanl.gov or call (505) 66
 Employee and Retiree Resources
 &nbsp;&nbsp;|&nbsp;&nbsp;
 Terms of Use/Privacy
+&nbsp;&nbsp;|&nbsp;&nbsp;
+Frequently Asked Questions
 Managed by Triad National Security, LLC for the U.S. Dept. of Energy’s NNSA&nbsp;&nbsp;©Copyright Triad National Security, LLC. All Rights Reserved.
 Terms of Use and Privacy Policy
 Open job in new tab

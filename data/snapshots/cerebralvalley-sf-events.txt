@@ -28,7 +28,7 @@ San Francisco
 This two-day conference will explore how AI is reshaping data work, from emerging research to practical applications inside companies. Founders, engineers, product leaders, researchers, operators, and data architects will share what they’re building and what remains unknown.&quot; to &quot;Over two days of workshops and talks hosted by MotherDuck (with Sigma, OpenAI, Stripe, Clay, Vercel, Braintrust, and many more engineering, data, and AI leaders, plan to dive deep on how AI is shaping data and how work and decisions are made for some of the fastest-growing organizations.
 Oct 15
 Humanoid Hub Conference
-Thu, Oct 15 · 9:20 AM PDT
+Thu, Oct 15 · 9:20 AM PDT LIVE
 First Market Tower
 HUMANOID HUB will bring together robotics engineers, founders, researchers, and investors for two days of hands-on demos, technical talks, and panels on embodied AI, autonomy, hardware, and commercialization. Speakers will include experienced leaders from 1X Technologies, Google DeepMind, Skild AI, Dyna Robotics, and Physical Intelligence.
 Oct 16
@@ -37,99 +37,98 @@ Fri, Oct 16 · 2:00 PM PDT
 Plug and Play Tech Center
 UNIONAI will unveil its next-generation solid-state transformer and showcase high-efficiency power innovations for AI data centers, with a focus on the shift to 800 VDC architecture. Industry leaders, technology partners, investors, and AI infrastructure professionals will explore the ecosystem through a partnership signing, panel discussions, and live Q&amp;A.
 Oct 15
-LlamaIndex x Corgi: Doc Chai Launch Party
-Thu, Oct 15 · 8:00 AM PDT
-Corgi Cafe
-LlamaIndex will debut Doc Chai, an iced toasted brown sugar chai made with traditional South Asian spices and black tea, with the first 100 drinks complimentary. The launch will feature a live DJ, LlamaIndex merch, and a gathering of builders from the SF community.
-Oct 15
-Streamline Development Using Claude Code
-Thu, Oct 15 · 8:41 AM PDT
-220 E 15th St
-Developers will get hands-on with Claude Code, testing it on real-world projects and exploring how it can streamline terminal-based workflows while identifying where human judgment remains essential. The session will focus on practical setup, troubleshooting, and sharing techniques for using AI agents in daily coding.
-Oct 15
-TiDB SCaiLE 2026
-Thu, Oct 15 · 9:00 AM PDT
-Computer History Museum
-TiDB SCaiLE 2026 will explore how unified database infrastructure can support agentic AI’s demands for massive agent scale, branching context, transactions, vectors, and analytics. Engineers and AI leaders from Atlassian, Affirm, Pinterest, Databricks, Alibaba, AWS, and other organizations will share how they’re tackling these challenges.
-Oct 15
-Vercel Ship 26 | San Francisco
-Thu, Oct 15 · 9:00 AM PDT
-Palace of Fine Arts
-Vercel will host a hands-on event where developers will explore building, deploying, and scaling AI agents with industry experts leading the charge. Attendees can participate in person or tune in online to dive into the latest agent frameworks and connect with fellow builders pushing the boundaries of AI development.
-Oct 15
-Vercel Ship
-Thu, Oct 15 · 9:00 AM PDT
-Palace of Fine Arts
-Vercel Ship 26 will bring together engineers and AI experts from Vercel, Anthropic, and Notion to dive into agent-ready infrastructure, with hands-on sessions covering everything from Tailscale&#x27;s model access to building with Vercel&#x27;s Eve framework and running Grok in production. This one-day conference on October 15 will showcase the cutting edge of AI infrastructure and autonomous agents.
-Oct 15
 Humanoid Hub Conference
-Thu, Oct 15 · 9:20 AM PDT
+Thu, Oct 15 · 9:20 AM PDT LIVE
 First Market Tower
 HUMANOID HUB will bring together robotics engineers, founders, researchers, and investors for two days of hands-on demos, technical talks, and panels on embodied AI, autonomy, hardware, and commercialization. Speakers will include experienced leaders from 1X Technologies, Google DeepMind, Skild AI, Dyna Robotics, and Physical Intelligence.
 Oct 15
-Orkes Shift
-Thu, Oct 15 · 10:00 AM PDT
-San Francisco, CA
-Orkes Shift will bring engineers, architects, product managers, and engineering leaders together to explore how to add agentic capabilities to business-critical workflows without rebuilding them. The program will cover durable execution, human approvals, failure handling, and production case studies, drawing on Orkes Conductor’s origins at Netflix and use at LinkedIn, Twilio, StoneX, and Bumble.
-Oct 15
-AI Innovation &amp; Startup Networking 2026
-Thu, Oct 15 · 10:00 AM PDT
-First Market Tower
-AI enthusiasts and startup founders will swap ideas, build connections, and explore what’s next in tech.
-Oct 15
-Never Finished: Creativity, Reimagined | A Dialogue on Reinvention
-Thu, Oct 15 · 4:00 PM PDT
-San Francisco, CA
-Tech leaders and creatives from Gap Inc., fal, and the filmmaking world will dive into how AI and digital design are reshaping creative workflows—from initial concept to final output—with CTO Sven Gerjets, fal co-founder Gorkem Yurtseven, and pioneering filmmaker Barbara Ford steering the conversation over light bites.
-Oct 15
-SmartHome solutions and AI in Real Estate
-Thu, Oct 15 · 4:00 PM PDT
-500 Folsom St 9th floor
-AI experts and real estate professionals will explore cutting-edge smart home innovations and their market impact through interactive demos and live discussions.
-Oct 15
-PickleTalk: Enterprise Operators × AI Founders (Seed to Series A)
-Thu, Oct 15 · 4:00 PM PDT
-San Francisco, CA
-A 12-person evening will bring vetted seed-to-Series A founders and enterprise operators together for beginner-friendly pickleball and dinner, with candid discussion about what gets AI startups bought, and what kills a deal. Arceus, an AI-native legal service backed by Greycroft, Craft Ventures, Conviction, and South Park Commons, will partner on the event.
-Oct 15
-Fireside Chat with Tony Zhao, Sunday Robotics
-Thu, Oct 15 · 5:30 PM PDT
-San Francisco, CA
-South Park Commons will host a fireside chat with Tony Zhao, Sunday Robotics co-founder and CEO, on building general-purpose home robots. Zhao brings a UC Berkeley EECS degree, Stanford computer science PhD research in robotic manipulation behind ALOHA and ACT, and experience at Google DeepMind and Tesla Autopilot.
-Oct 15
-Beyond IQ: Culture, Creativity &amp; AI
-Thu, Oct 15 · 5:30 PM PDT
-Address shared with ticket holders
-SOMOS.tech will celebrate Hispanic Heritage Month with an in-person evening of learning and networking.
-Oct 15
-Ship SF After Hours
-Thu, Oct 15 · 5:30 PM PDT
-San Francisco, CA
-Ship SF After Hours will close out the event with drinks and conversation alongside Vercel’s executive team and special guests. The private celebration will be held in partnership with AWS.
-Oct 15
-CoreWeave x NVIDIA Dynamo Meetup
-Thu, Oct 15 · 6:00 PM PDT
-San Francisco, CA
-CoreWeave and NVIDIA Dynamo will present practical approaches to scaling production inference and RL post-training, including high-throughput serving, disaggregated inference, and rapid checkpoint hot-swapping. Speakers will share how CoreWeave, NVIDIA, and You.com achieved 15× faster model reloads while post-training Nemotron 3.5 Lightning.
-Oct 15
-Industrial AI Summit: The Future of Manufacturing
-Thu, Oct 15 · 6:00 PM PDT
-525 Market St
-The Industrial AI Summit will explore how AI is transforming manufacturing through robotics, computer vision, quality control, and supply chains, with a panel, startup demos, and networking. Investor Varad Mohod will moderate a conversation with founders Matt Puchalski of YC S24’s Bucket Robotics and Shan Mohta of YC S24’s Vendra, whose backgrounds include Argo AI, Skydio, Apple, and Microsoft.
-Oct 15
 Maritime Dual-Use Hackathon
-Thu, Oct 15 · 6:00 PM PDT
+Thu, Oct 15 · 6:00 PM PDT LIVE
 Mind the Bridge
-Oct 15
-Extraordinary Founders Dinner (hosted by Andrew Yeung)
-Thu, Oct 15 · 6:30 PM PDT
+Oct 16
+Open Source AI Week
+Fri, Oct 16 · 12:00 AM PDT LIVE
+Civil War Parade Ground
+Oct 16
+Open Source AI Week 2026
+Fri, Oct 16 · 12:00 AM PDT LIVE
+San Francisco Bay Area, CA
+A grassroots week-long open-source AI celebration will bring together developers, researchers, and tech enthusiasts for talks, workshops, hackathons, and debates exploring the cutting edge of accessible artificial intelligence. The community-organized event will showcase innovation through independent hosted sessions, competitions, and recognition of standout projects and contributors.
+Oct 16
+The Kickoff Party — Open Source AI Week
+Fri, Oct 16 · 9:00 AM PDT
 San Francisco, CA
-Andrew Yeung, founder and &quot;Gatsby of Silicon Alley,&quot; will host an exclusive dinner on Oct 15 with co-hosts from Attio and Whop bringing together immigrant founders and category-defining builders who&#x27;ve beaten the odds. Expect a three-course meal, conversations with high-performing startup leaders, and meaningful connections with ambitious peers navigating the startup world.
+Open Source AI Week 2026 will kick off with a community party bringing together developers, researchers, and AI builders for ten days of open-source innovation. It&#x27;s the perfect opportunity to network with the people shaping the future of open-source AI before diving into the main events.
+Oct 16
+NVIDIA RTX SPARK | Launch Celebration
+Fri, Oct 16 · 10:00 AM PDT
+Best Buy
+NVIDIA RTX Spark will launch with hands-on laptop demos, a fireside chat featuring local tech founders, and a meet-and-greet with tech creator iJustine. A raffle will feature five ASUS ProArt P14 laptops signed by NVIDIA CEO and founder Jensen Huang, alongside limited-edition swag bags.
+Oct 16
+THE RUNWAY a morning founder run (An Nayal at TechCrunch Disrupt Week)
+Fri, Oct 16 · 10:00 AM PDT
+Embarcadero Plaza
+A flat morning run followed by coffee will bring together founders and investors in town for Disrupt for relaxed networking. Host An Nayal, who built and exited Flamme and is now building Agniverse and Handler, will lead the event.
+Oct 16
+Mastering Claude Code for Developers
+Fri, Oct 16 · 10:22 AM PDT
+QMFF+RH West Alameda
+Developers will get hands-on with Claude Code, explore practical workflow use cases, and troubleshoot setup questions together. The informal, technical session will suit both experienced users and developers curious about getting started.
+Oct 16
+Crusoe Field Day: Build, Train, Deploy
+Fri, Oct 16 · 1:00 PM PDT
+Civil War Parade Ground
+Crusoe Field Day will bring developers, builders, and the Crusoe team together for model-themed games that race from raw data to production, followed by food and drinks. Participants will compete in randomly assigned teams and vie for prizes while connecting with the AI-building community.
+Oct 16
+UNIONAI SST Global Launch
+Fri, Oct 16 · 2:00 PM PDT
+Plug and Play Tech Center
+UNIONAI will unveil its next-generation solid-state transformer and showcase high-efficiency power innovations for AI data centers, with a focus on the shift to 800 VDC architecture. Industry leaders, technology partners, investors, and AI infrastructure professionals will explore the ecosystem through a partnership signing, panel discussions, and live Q&amp;A.
+Oct 16
+Maritime Dual-Use Hackathon
+Fri, Oct 16 · 4:30 PM PDT
+Mind the Bridge
+The Fincantieri Maritime Dual-Use Hackathon will bring engineers, developers, founders, researchers, and designers together for 36 hours to prototype solutions in maritime cybersecurity, vessel design, and software-defined ships, using Qualcomm and Arduino hardware. Fincantieri experts and mentors will support teams, with a Qualcomm-powered laptop prize and possible follow-on development for promising concepts.
+Oct 16
+Maritime Dual-Use Hackathon | Software-Defined Vessels
+Fri, Oct 16 · 5:30 PM PDT
+Mind the Bridge Innovation Center
+Hackers and builders will tackle real-world maritime security challenges alongside Navy engineers and defense innovators over an intense 48-hour sprint that&#x27;ll produce working prototypes and launch potential ventures. Whether you&#x27;re an engineer, designer, or founder, this dual-use hackathon brings together the brains to solve everything from underwater infrastructure protection to autonomous maritime systems.
+Oct 16
+Open Together: AI Builders Unite
+Fri, Oct 16 · 6:00 PM PDT
+The Midway
+AI builders will gather for Open Source AI Week&#x27;s kick-off party, featuring community demos of projects built with open models, followed by a dance party with DJs celebrating the freedom and decentralization of AI development. The night will showcase what happens when the community takes control of their tech stack, with opportunities to demo your work and connect with fellow builders pushing the open AI movement forward.
+Oct 16
+Monthly Happy Hour Networking
+Fri, Oct 16 · 6:30 PM PDT
+Blackbird
+Gay, bi, and pan men working in tech will gather for a happy hour focused on networking, conversation, and building community.
+Oct 16
+Open House / Open Build / Open Repair Projects Workshop
+Fri, Oct 16 · 6:30 PM PDT
+Circuit Launch
+The monthly open house will bring together makers of all experience levels to work on robotics, AI, and electronics projects, troubleshoot repairs with Fixit Clinic guidance, and take part in AI discussions. Families and first-time repairers are welcome; specialized equipment use will require certification.
+Oct 17
+MITAI Conference 2026: Age of Agency
+Sat, Oct 17 · 8:00 AM PDT
+Computer History Museum
+MIT&#x27;s 10th Annual AI Conference will bring together 500+ researchers, engineers, and founders to explore agentic AI through keynotes, panels, and live demos featuring some of the field&#x27;s sharpest minds. Expect substantive discussions and cutting-edge demos—zero corporate sales pitches.
 Oct 17
 The Recursive Agents Hackathon
 Sat, Oct 17 · 9:00 AM PDT
 San Francisco, CA
 Teams of up to four will build persistent AI agents that plan, delegate, recover from errors, and operate with minimal oversight using Crusoe Managed Inference, NVIDIA infrastructure, and open models like Nemotron. Approved participants will compete for $25,000 in cash prizes and an NVIDIA RTX 5090.
+Oct 17
+ExecuTorch Hackathon — Open Source AI Week
+Sat, Oct 17 · 9:00 AM PDT
+San Francisco, CA
+Developers and AI researchers will compete in a two-day ExecuTorch hackathon across three hardware tracks—Snapdragon X Elite PCs, Samsung Galaxy devices, or Arduino boards—to build cutting-edge on-device AI applications using PyTorch&#x27;s efficient edge deployment framework. Winning teams snag Meta AI glasses and premium hardware for each member.
+Oct 17
+AI War Room - Edition - Saturday, 10:00 AM
+Sat, Oct 17 · 10:00 AM PDT
+JOE &amp; THE JUICE
+The AI community will explore what 2026 may bring across models, agents, systems, ethics, law, business, and art. Attendees will share projects and discuss the latest trends shaping the rapidly evolving AI landscape.
 Oct 23
 Intelligence at Work Hackathon
 Fri, Oct 23 · 8:30 AM PDT

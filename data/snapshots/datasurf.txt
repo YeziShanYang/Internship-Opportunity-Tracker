@@ -87,7 +87,6 @@ How to Apply
 Apply Now for DataSURF 2026
 Students must be logged in through their Stanford account to access the application.
 Applications for DataSURF 2026 are due by February 8, 2026 at 11:59pm (PST).
-We strongly recommend that students concurrently apply to the Data Science for Social Good (DSSG) program to maximize opportunities. Those who would like to participate in DSSG need to complete a separate application, which is expected to open in winter 2026.
 Questions about DataSURF may be directed to datasciencemajor-inquiries [at] lists.stanford.edu ( datasciencemajor-inquiries[at]lists[dot]stanford[dot]edu ) .
 What are students saying about DataSURF?
 We surveyed participants from the summer 2023, 2024, and 2025 cohorts -- when the program was still known as SURP-Stats. Each year,&nbsp; all &nbsp;respondents reported that their research experience was intellectually interesting, meaningful, and beneficial, and they&nbsp; all&nbsp; said they would recommend SURP-Stats to a friend.

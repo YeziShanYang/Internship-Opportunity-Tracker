@@ -3,9 +3,7 @@ Skip to main content Participate Organizers Community About DEV Attend For Busin
 Sign In
 2027
 Find, compete, and earn points at the largest, most diverse hacker events in the world.
-Filter events This Month Next Month Diversity Focused
-Region North America Europe/UK Asia Pacific
-Upcoming Events
+Filter events This Month Next Month Diversity Focused Region Upcoming Events
 2026
 Gainesville , Florida
 SwampHacks XII
@@ -102,6 +100,11 @@ HackUTD
 NOV 07 - 08
 Richardson, Texas, US
 In-Person
+Hamilton , Ontario
+BioHacks
+NOV 07 - 08
+Hamilton, Ontario, CA
+In-Person
 New York , New York
 MakeCU
 NOV 07 - 08
@@ -185,6 +188,11 @@ HackUMass
 NOV 13 - 15
 Amherst, MA, US
 In-Person
+Arlington , Texas
+HackUTA
+NOV 14 - 15
+Arlington, Texas, US
+In-Person HARDWARE
 Durham , County Durham
 DurHack
 NOV 14 - 15

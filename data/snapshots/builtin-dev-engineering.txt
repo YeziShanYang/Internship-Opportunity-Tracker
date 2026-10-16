@@ -31,32 +31,43 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+T-Mobile
+Summer 2027 Software Engineering Intern
+<age> Saved
+In-Office
+Bellevue, WA, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+Participate in an 11-week paid software engineering internship with mentorship and hands-on projects. Responsibilities include designing, developing, testing, maintaining, debugging, and improving software applications; writing documented code; participating in code reviews; collaborating with cross-functional teams; and learning modern development practices, tools, frameworks, Agile, and CI/CD.
+Top Skills:
+Agile C&#x2B;&#x2B; Ci/Cd Java JavaScript Python
 BAE Systems, Inc.
-Computer Science Intern, Summer 2027
+C4ISR - Software Engineering Intern, Summer 2027 (Onsite)
 <age> Saved
 Hybrid
-Rockville, MD, USA
-50K-69K Annually
+Wayne, NJ, USA
+51K-69K Annually
 Internship
-50K-69K Annually
+51K-69K Annually
 Internship
 Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity &#x2022; Defense
-Participate in BAE Systems’ LEAP internship program while developing scientific application software for submarine-generated data analysis. Support the full software development lifecycle, including requirements analysis, design, coding, testing, and acceptance. Collaborate with software developers, test engineers, analysts, peers, and management. Apply Java, Python, SQL, statistics, algorithm development, software testing, and engineering principles to projects supporting strategic systems programs.
+Software engineering intern supporting the design, development, integration, testing, troubleshooting, and documentation of software for aerospace and defense systems. The role involves Agile development, algorithm and data analysis, object-oriented programming, and collaboration with experienced engineering professionals. Candidates must be pursuing a relevant bachelor’s degree, entering their sophomore through senior year, and be eligible for a U.S. Department of War security clearance.
 Top Skills:
-Excel Java Matlab MS Office PowerPoint Python SQL Teams Visio Word
-BAE Systems, Inc.
-Programmer Intern, Summer 2027
+Agile Artificial Intelligence Bitbucket C# C&#x2B;&#x2B; Git Gitlab Java Real-Time Embedded Systems Unix/Linux Windows
+Ericsson
+Integration Engineer Intern
 <age> Saved
-Hybrid
-Washington, DC, USA
-49K-68K Annually
+In-Office
+Plano, TX, USA
 Internship
-49K-68K Annually
 Internship
-Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity &#x2022; Defense
-Programmer Intern supporting enterprise software for the U.S. Navy’s Strategic Systems Programs. Responsibilities include developing applications and modules, administering COTS/GOTS software, documenting program development, resolving system issues, applying patches and upgrades, and building add-on modules. The role requires collaboration across teams, strong communication, independent work, and foundational programming knowledge. Candidates must be sophomores or later in a related degree program with a minimum 2.8 GPA.
+Cloud &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Machine Learning &#x2022; Software &#x2022; Cybersecurity &#x2022; Infrastructure as a Service (IaaS)
+Supports the configuration, integration, migration, testing, and verification of systems, networks, APIs, and data flows. Develops automation scripts, primarily in Python, and explores AI/ML, generative AI, RAG, and agent-based solutions for engineering workflows. Assists with pre-sales analysis, troubleshooting, documentation, quality improvements, and post-project activities while collaborating with experienced engineers.
 Top Skills:
-Abap C# C/C&#x2B;&#x2B; Configuration Management Excel Java Microsoft Office Suite Object-Oriented Programming PHP PowerPoint Relational Database Concepts SQL Visio Visual Basic Word
+Agent Evaluation Ai Agents Ai/Ml APIs Cloud Services Data Pipelines Generative Ai Git Guardrails Java JavaScript Large Language Models Prompt Design Python Retrieval-Augmented Generation (Rag) Software Automation Software Testing Structured Outputs Tool Calling
 Expedia Group
 Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle
 <age> Saved
@@ -83,6 +94,10 @@ Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Bi
 11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
 Top Skills:
 Distributed Computing Machine Learning Natural Language Processing Web Frameworks
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Micron Technology
 Intern - IT Software Engineer
 <age> Saved
@@ -94,10 +109,6 @@ Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x202
 Develop and maintain software that automates semiconductor fabrication equipment and integrates with internal systems. Responsibilities include coding, testing, debugging, implementing enhancements, troubleshooting issues, documenting specifications, researching technologies, and participating in code reviews. The intern will collaborate with software engineers and other team members while gaining experience with scripting, Unix systems, APIs, version control, testing, DevOps, and monitoring tools.
 Top Skills:
 APIs Azure Devops Git Itil Perl Python Splunk Unix
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Affirm
 IT Engineer Intern (Early Careers Summer 2027)
 <age> Saved
@@ -148,32 +159,6 @@ Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-D
 Paid, full-time software engineering internship supporting Microsoft 365 collaboration platforms. Interns will administer and troubleshoot SharePoint Online, OneDrive, Power Apps, and Power Automate; respond to support tickets; work with business users to gather requirements; develop applications and workflows; research technologies; and document solutions. The role includes mentorship, professional development, networking, and cross-functional projects.
 Top Skills:
 CSS Excel HTML JavaScript Microsoft 365 Onedrive Power Apps Power Automate Powershell Python Sharepoint Online
-Liberty Mutual Insurance
-2027 TechStart Summer Internship Program
-<age> Saved
-Hybrid
-4 Locations
-31K-37K Hourly
-Internship
-31K-37K Hourly
-Internship
-Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
-An 11-week technology internship embedded within Liberty Mutual's agile tech teams. Interns will contribute to real customer-facing and backend software projects, gaining experience in modern engineering practices, AI-assisted development tools, planning, coding, testing, and delivery. The program emphasizes collaboration, continuous learning, critical thinking, and customer-focused innovation.
-Top Skills:
-AI Ai-Assisted Development Tools Version Control
-Federal Reserve Bank of Chicago
-Summer 2027 Intern-Computer Science and Software Engineering
-<age> Saved
-Hybrid
-Chicago, IL, USA
-20-33 Hourly
-Internship
-20-33 Hourly
-Internship
-Agency &#x2022; Fintech &#x2022; Payments &#x2022; Sharing Economy &#x2022; Social Impact
-Paid summer internship for current undergraduate, graduate, or doctoral students in computer science or software engineering. Interns work 40 hours weekly for 10–12 weeks on project-based assignments, gaining exposure to Federal Reserve operations and collaborating with subject matter experts. Responsibilities may include interpreting data, developing insights, presenting information, supporting decisions, and contributing to departmental initiatives in an onsite or hybrid environment.
-Top Skills:
-Excel Microsoft Word
 1
 2
 3
@@ -181,7 +166,7 @@ Excel Microsoft Word
 5
 ...
 ...
-82
+83
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

@@ -80,6 +80,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1991
 Title:2027 Corporate Technology Summer Internship – New York and Jersey City
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1988-Class-of-2029-Investment-Banking-Insight-Day/en-GB
+Class of 2029: Investment Banking Insight Day
+<timestamp>
+<timestamp>
+ID:1988
+Title:Class of 2029: Investment Banking Insight Day
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1984-2027-Equity-Research-Summer-Analyst-Program-Hong-Kong/en-GB
 2027 Equity Research Summer Analyst Program - Hong Kong
 <timestamp>
@@ -92,12 +98,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1986
 Title:2027 Risk Management Summer Internship Programme - London
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1987-2027-Risk-Management-Associate-Program-New-York/en-GB
-2027 Risk Management Associate Program – New York
-<timestamp>
-<timestamp>
-ID:1987
-Title:2027 Risk Management Associate Program – New York
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1985-2027-Equity-Research-Summer-Analyst-Program-Singapore/en-GB
 2027 Equity Research Summer Analyst Program - Singapore
 <timestamp>

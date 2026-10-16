@@ -106,20 +106,6 @@ School/University:Auburn University,Belmont University,Boston College,Bradley Un
 Event description:Bank of America Presents: Merrill Wealth Management Campus Recruiting Information Session Are you interested in exploring a career with Wealth Management? The Merrill Wealth Management team would like to invite you to join us for an exciting information s
 Event address / venue details:Virtual via Teams
 Event Timezone:US/Eastern
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/14980-The-Power-to-Trust-the-Team/en-GB
-The Power to Trust the Team
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:14980
-Title:The Power to Trust the Team
-Event Date:15 Oct 2026 04:00 PM EST
-Region:U.S. and Canada
-Country:United States of America
-Line of Business:FIRMWIDE
-Program (Event):Firmwide
-Event description:Gain insights from representatives across multiple lines of business as they share their career journeys, professional experiences, and perspectives on success. Through real-world examples, you'll learn how mentorship, collaboration, continuous learning,
-Event address / venue details:Virtual
-Event Timezone:EST
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/14981-The-Power-to-Move-Markets-Global-Markets-Global-Research/en-GB
 The Power to Move Markets: Global Markets &amp; Global Research
 <timestamp>

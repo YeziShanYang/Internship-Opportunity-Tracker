@@ -106,10 +106,10 @@ New York
 Product Designer : The D.&nbsp;E.&nbsp;Shaw group seeks a product designer to join the Human Capital team focused on delivering high-quality, organized design execution across multiple platforms. The team&hellip;
 Executive Assistance
 New York
-Executive Assistant – Senior Support (Non-Traditional, 6-Month LTA) : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive and highly organized individual to provide exceptional administrative and operational support to senior executives, regardless of prior&hellip;
+Executive Assistant – Senior Support (Non-Traditional, 6-Month Assignment) : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive and highly organized individual to provide exceptional administrative and operational support to senior executives for a six-month&hellip;
 Executive Assistance
 New York
-Executive Assistant – Senior Support (Traditional, 6-Month LTA) : The D.&nbsp;E.&nbsp;Shaw group seeks a highly organized, resourceful, proactive individual to provide exceptional administrative and operational support to senior executives at the firm.&hellip;
+Executive Assistant – Senior Support (Traditional, 6-Month Assignment) : The D.&nbsp;E.&nbsp;Shaw group seeks a highly organized, resourceful, proactive individual to provide exceptional administrative and operational support to senior executives at the firm&hellip;
 Executive Assistance
 New York
 Senior Executive Assistant : The D.&nbsp;E.&nbsp;Shaw group seeks a highly organized, resourceful, proactive individual to provide exceptional administrative and operational support to senior executives at the firm.&hellip;
@@ -175,7 +175,7 @@ New York
 Recruiter - Experienced Hire : The D.&nbsp;E.&nbsp;Shaw group seeks recruiters with an exceptional record of professional achievement to identify and engage top talent across the firm’s business, investment, and&hellip;
 Human Capital
 New York
-Recruiting Coordinator (2-year LTA) : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive, efficient, and technologically proficient individual to join the firm’s Recruiting team. This person will play an active role in the&hellip;
+Recruiting Coordinator (2-Year Assignment) : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive, efficient, and technologically proficient individual to join the firm’s Recruiting team for a two-year assignment. This person will play&hellip;
 Human Capital
 New York
 Researcher - People Analytics : The D.&nbsp;E.&nbsp;Shaw group seeks a people analytics professional to join its Human Capital (HC) Analytics team as a research associate. Members of HC Analytics are curators of employee&hellip;
@@ -328,11 +328,6 @@ The D.&nbsp;E.&nbsp;Shaw group seeks talented software developers to join its (D
 Various
 New York To apply for this job, please email
 your resume and the job title to recruitment-nyc@world.deshaw.com .
-Software Developer, Futures : Join our D.&nbsp;E.&nbsp;Shaw Futures team in New York.
-The D.&nbsp;E.&nbsp;Shaw group seeks software developers to join its Futures team, a quantitatively driven group focused on the&hellip;
-Various
-New York To apply for this job, please email
-your resume and the job title to recruitment-nyc@world.deshaw.com .
 Trader, Macro : Join our D.&nbsp;E.&nbsp;Shaw group in New York
 The D.&nbsp;E.&nbsp;Shaw group seeks traders to join its Macro team, focused on foreign exchange, developing, and emerging markets. The&hellip;
 Various
@@ -458,9 +453,6 @@ Systems Administrator Industry Placement Year (London) : The D.&nbsp;E.&nbsp;Sha
 Technology
 London
 Systems Engineering Intern (London) - Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks motivated individuals with impressive records of academic and/or professional achievement to join the firm as systems engineering interns. Engineers at&hellip;
-Technology
-New York
-Systems Engineering Intern (New York) - Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks motivated individuals with impressive records of academic and/or professional achievement to join the firm as systems engineering interns. Engineers at&hellip;
 Trading
 New York
 Proprietary Trading Intern (New York) – Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks talented individuals with unique perspectives to join the firm as proprietary trading interns. Trader interns sit at the core of the firm’s&hellip;

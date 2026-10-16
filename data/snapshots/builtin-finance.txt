@@ -31,6 +31,56 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Finance Jobs
+MetLife
+Actuarial Intern (New Grad)
+<age> Saved
+Hybrid
+New York, NY, USA
+32-34 Hourly
+Internship
+32-34 Hourly
+Internship
+Fintech &#x2022; Information Technology &#x2022; Insurance &#x2022; Financial Services &#x2022; Big Data Analytics
+Actuarial Interns support pricing, product development, reserve calculations, actuarial modeling, financial analysis, asset liability management, and investments. They collaborate with experienced actuaries, analyze data, present project findings to leaders, and participate in professional development and networking activities.
+Top Skills:
+Ai Tools Excel Python R SAS SQL VBA
+New York Life
+2027 New York Life Investment Management - Investment Research &amp; Analysis Internship
+<age> Saved
+Hybrid
+New York, NY, USA
+27-27 Hourly
+Internship
+27-27 Hourly
+Internship
+Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Technology &#x2022; Insurance &#x2022; Financial Services &#x2022; Big Data Analytics
+Paid 10-week investment research internship supporting fixed-income research analysts and portfolio managers. Responsibilities include financial modeling, scenario analysis, bond portfolio surveillance, credit research, market data collection, dashboards, reporting, portfolio management projects, new deal analysis, and market research. Interns gain exposure to institutional investing, collaborate with investment professionals, and participate in training, networking, and a summer project.
+Top Skills:
+Bloomberg C&#x2B;&#x2B; Excel Java Python VBA
+Clearwater Analytics (CWAN)
+LP Analyst
+<age> Saved
+Hybrid
+2 Locations
+Internship
+Internship
+Fintech &#x2022; Software &#x2022; Financial Services
+Supports daily, monthly, and quarterly reconciliation of limited partner capital activity, including capital calls, distributions, and account balances. The role compares external administrator and general partner data with internal records, investigates discrepancies, validates financial information, tracks reconciliation delivery, and communicates with internal stakeholders and external data providers. It also develops foundational knowledge of investment accounting, alternative investment structures, fund performance metrics, and reconciliation tools under mentorship.
+Top Skills:
+Excel
+Micron Technology
+Intern - Micron Ventures
+<age> Saved
+In-Office
+San Jose, CA, USA
+41K-56K Hourly
+Internship
+41K-56K Hourly
+Internship
+Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x2022; Machine Learning
+Supports venture investment activities by evaluating emerging technologies, conducting financial modeling and market research, assisting with due diligence, preparing investment memos and presentations, and identifying promising AI startups. The role provides exposure to venture capital, semiconductor markets, and early-stage artificial intelligence innovation.
+Top Skills:
+Ai Frameworks Ai Tools Excel Microsoft Powerpoint
 Citadel
 Quantitative Trader: Equity Quantitative Research - Intern (US)
 <age> Saved
@@ -42,32 +92,10 @@ Internship
 Internship
 Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
 Intern will help turn quantitative research into production equities trading strategies, optimize portfolio allocation and risk, minimize trading costs and market impact, monitor performance, and perform statistical research to improve risk-adjusted returns while making real-time allocation decisions under supervision.
-Citadel
-Quantitative Researcher - Post-Doctoral Intern (US)
-<age> Saved
-In-Office
-4 Locations
-5K-6K Annually
-Internship
-5K-6K Annually
-Internship
-Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
-Conduct quantitative research for financial markets by developing valuation strategies, mathematical models, trading signals, and monetization systems. Responsibilities include translating algorithms into code, backtesting and implementing trading models, analyzing unconventional data sources, and applying statistical techniques. The 11-week post-doctoral internship involves collaboration with senior researchers in a fast-paced investment environment.
-Top Skills:
-C&#x2B;&#x2B; Machine Learning Natural Language Processing (Nlp) Pattern Recognition Python R Time-Series Analysis
-Citadel
-Equities - Citadel Associate Program - Summer Internship 2028
-<age> Saved
-In-Office
-New York, NY, USA
-3K-3K Annually
-Internship
-3K-3K Annually
-Internship
-Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
-Summer internship for undergraduate students graduating December 2028 through May 2029. Interns will develop financial modeling and company research skills, evaluate businesses and investment opportunities, analyze external data, and support long/short equities investing through investment-team rotations and mentorship.
-Top Skills:
-External Data Sources Financial Modeling Quantitative Risk Systems
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Wipfli
 Audit Internship - Spring 2028
 <age> Saved
@@ -101,10 +129,6 @@ Internship
 Internship
 Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
 An 11-week Surety Underwriting Intern role supporting financial analysis, risk assessment, underwriting decisions, and relationship management. The intern will learn how surety bonds support businesses and infrastructure projects while participating in training, mentorship, job shadowing, professional development, and the AFSB curriculum.
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 PwC
 Oklahoma City - Audit - Intern - Winter 2027
 <age> Saved
@@ -131,69 +155,6 @@ Artificial Intelligence &#x2022; Cloud &#x2022; HR Tech &#x2022; Information Tec
 Finance interns complete a 12-week summer placement within teams such as FP&A, accounting, treasury, strategic finance, or go-to-market finance. Responsibilities include analyzing financial data, building models, preparing insights, supporting budgets and forecasts, assisting with month- and quarter-close reporting, conducting variance analysis, and partnering cross-functionally. Interns also participate in workshops, networking, mentorship, and development programming while exploring AI applications in finance.
 Top Skills:
 Ai Tools Automated Workflows Excel MS Office Outlook PowerPoint Word
-ServiceNow
-Finance Intern - Undergrad Summer 2027
-<age> Saved
-Hybrid
-West Palm Beach, FL, USA
-38-38 Hourly
-Internship
-38-38 Hourly
-Internship
-Artificial Intelligence &#x2022; Cloud &#x2022; HR Tech &#x2022; Information Technology &#x2022; Productivity &#x2022; Software &#x2022; Automation
-Finance interns complete a 12-week summer program within functions such as FP&A, accounting, treasury, strategic finance, or go-to-market finance. Responsibilities include analyzing financial data, building models, preparing insights, supporting budgeting and forecasting, assisting with month-end and quarter-close reporting, conducting variance analysis, and partnering cross-functionally. Interns also participate in workshops, networking, mentorship, and development programming while exploring AI applications in finance.
-Top Skills:
-Ai-Powered Tools Automated Workflows Excel MS Office Microsoft Outlook Microsoft Powerpoint Microsoft Word
-Gusto
-Finance Intern (Summer 2027)
-<age> Saved
-Easy Apply
-Hybrid
-New York, NY, USA
-Easy Apply
-33-42 Hourly
-Internship
-33-42 Hourly
-Internship
-Fintech &#x2022; HR Tech
-Finance Intern supporting Gusto’s Finance, BizOps & Strategy team through financial and operational reporting, cost and margin analysis, roadmap projects, and ad hoc analysis. The role partners cross-functionally with Customer Experience, EPD, and Corporate Development teams, translating financial data into business decisions. Interns will use Excel, Google Sheets, AI tools, and automation while communicating findings to non-finance stakeholders.
-Top Skills:
-Ai Tools Automation Excel Google Sheets
-Expedia Group
-Finance Analyst Intern - 2027 - Seattle
-<age> Saved
-Hybrid
-Seattle, WA, USA
-32-32 Hourly
-Internship
-32-32 Hourly
-Internship
-AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2022; Travel &#x2022; Generative AI
-Finance Analyst Interns support Expedia Group’s finance organization through financial planning and analysis, reporting, forecasting, business modeling, compliance, and investment proposals. They analyze data for trends, develop forecasts, collaborate with Finance and Analytics teams, engage senior stakeholders, and lead Finance Leadership Program workstreams. The internship includes mentorship, training, leadership exposure, and meaningful business projects.
-Spectrum
-2027 Summer Intern: Strategic Tax - Income - Corporate
-<age> Saved
-In-Office
-Charlotte, NC, USA
-Internship
-Internship
-Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
-Paid, full-time tax internship supporting state income tax audits, legislative change tracking, bill analysis, file organization, and resolution of outstanding governmental debts. The intern will work with department teams, participate in professional development and networking activities, and gain exposure to corporate tax within the telecommunications industry.
-Top Skills:
-Excel
-The Options Clearing Corporation (OCC)
-Summer Intern - Market Risk
-<age> Saved
-Hybrid
-Chicago, IL, USA
-25K-25K Annually
-Internship
-25K-25K Annually
-Internship
-Big Data &#x2022; Cloud &#x2022; Fintech &#x2022; Information Technology &#x2022; Financial Services
-Supports daily market risk monitoring for clearing members, positions, and collateral. Builds Python scripts and reports using large datasets, applies stress-testing methodologies, follows financial markets and assesses portfolio impacts, and assists with research, data pulls, and documentation. Collaborates with quantitative risk and IT teams and presents a summer project. The internship is a 12-week hybrid program for enrolled undergraduate or graduate students.
-Top Skills:
-Bloomberg Confluence Excel JIRA PowerPoint Python SQL Word
 1
 2
 3
@@ -201,7 +162,7 @@ Bloomberg Confluence Excel JIRA PowerPoint Python SQL Word
 5
 ...
 ...
-200
+203
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters
