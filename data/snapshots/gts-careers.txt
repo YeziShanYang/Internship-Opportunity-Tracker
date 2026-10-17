@@ -121,4 +121,4 @@ The strategist...
 Job Location
 US-IL-Chicago
 Additional Locations
-US-IL-Chicago | US-FL-Miami
+US-IL-Chicago | US-FL-Miami | US-NY-New York

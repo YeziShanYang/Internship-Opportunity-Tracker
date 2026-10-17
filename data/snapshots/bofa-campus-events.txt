@@ -2,20 +2,6 @@ https://bankcampuscareers.tal.net/vx/mobile-0/candidate/jobboard/vacancy/2/feed
 Campus Events
 Bank of America
 <timestamp>
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/15153-Wealth-Management-Merrill-NextGen-Wealth-Forum-Chicago-IL/en-GB
-Wealth Management – Merrill NextGen Wealth Forum | Chicago, IL
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15153
-Title:Wealth Management – Merrill NextGen Wealth Forum | Chicago, IL
-Event Date:13 Nov 2026 10:00 AM EST
-Region:U.S. and Canada
-Country:United States of America
-Line of Business:MERRILL WEALTH MANAGEMENT
-Program (Event):Merrill Lynch Program
-Event description:We would like to invite interested sophomores who are exploring careers in wealth management to apply for our market event, an immersive, in-person pipelining/recruiting event featuring Merrill and Bank of America professionals. Spend the day getting an i
-Event address / venue details:110 N. Wacker Drive Chicago, IL
-Event Timezone:America/New_York
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15034-Meet-the-Firms/en-GB
 Meet the Firms
 <timestamp>

@@ -93,8 +93,8 @@ Mastercard seeks a Data Engineering Intern to support data science capabilities 
 Top Skills:
 AWS Azure Databricks Pyspark Python
 New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
 Use For Free
 New York Life
 2027 Business Analytics &amp; Digital Transformation Summer Internship
@@ -109,19 +109,6 @@ Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Tec
 Summer interns support business analytics and digital transformation initiatives by building dashboards, analyzing datasets, developing visualizations, researching digital product enhancements, and assisting with automation and process improvement. The role involves translating data into actionable insights, collaborating with professionals, and using technology to support business decisions. Candidates must be enrolled in an accredited four-year institution and graduate between December 2027 and May 2030.
 Top Skills:
 Excel Power BI Python SQL Tableau
-Atlassian
-Data Engineer Intern, 2027 Summer U.S.
-<age> Saved
-In-Office or Remote
-Seattle, WA, USA
-47-64 Hourly
-Internship
-47-64 Hourly
-Internship
-Cloud &#x2022; Information Technology &#x2022; Productivity &#x2022; Security &#x2022; Software &#x2022; App development &#x2022; Automation
-Data Engineering Interns will define metrics, instrument logging, ingest and model data, transform datasets, ensure data quality and governance, and support visualization, reporting, alerting, and scalable systems. They will partner with product, analytics, and data consumers to improve product engagement, efficiency, costs, and strategic decision-making. The 12-week, full-time internship includes technical training, mentorship, and hands-on project experience.
-Top Skills:
-Python Relational Databases SQL
 MetLife
 2027 METx Data &amp; Analytics Internship Program
 <age> Saved
@@ -161,6 +148,17 @@ Mobile &#x2022; Real Estate &#x2022; Software &#x2022; Database &#x2022; Analyti
 Summer data analytics engineering internship focused on profiling new MLS data, extending dbt models, building warehouse transformations, adding tests and documentation, defining metrics, and supporting semantic models and dashboards. The intern will own a project, collaborate with analytics and data engineers, product managers, and customer-facing teams, and deliver production-ready solutions. This is a full-time, fully in-person role in New York City from June 7 through August 13, 2027.
 Top Skills:
 BigQuery Dbt Git Looker Metabase Mode Pandas Python Rdbms Redshift Snowflake SQL Tableau
+JPMorganChase
+2027 Quantitative Research - Risk and Treasury - Summer Internship - Associate - United States
+<age> Saved
+Hybrid
+3 Locations
+Internship
+Internship
+Financial Services
+Summer internship in Quantitative Research for Risk and Treasury focusing on data analysis, backtesting, model development, validation, and software/tool improvement. Collaborate with teams to assess model soundness, design mathematical models and algorithms, optimize financial solutions across asset classes, and propose creative quantitative solutions.
+Top Skills:
+C&#x2B;&#x2B; Python
 1
 2
 3

@@ -115,6 +115,11 @@ HackRPI 2026
 NOV 07 - 08
 Troy, New York, US
 In-Person
+Calgary , Alberta
+Hack the Change
+NOV 07 - 08
+Calgary, Alberta, CA
+In-Person HARDWARE
 Mississauga , Ontario
 Sheridan Datathon 2026
 NOV 07 - 08
@@ -152,6 +157,11 @@ TAMU Datathon
 NOV 07 - 08
 College Station, Texas, US
 In-Person
+Buffalo , Northeast
+UB Hacking
+NOV 07 - 08
+Buffalo, Northeast , US
+In-Person HARDWARE
 Salisbury , MD
 GullHacks
 NOV 07 - 08

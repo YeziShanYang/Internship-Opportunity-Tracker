@@ -14,6 +14,7 @@ COMAP: Mathematics Instructional Resources for Innovative Educators
 &nbsp; Contact Us
 SCUDEM XI 2026
 Will Be Held on October 16 - November 10, 2026
+Click here to download the 2026 problems
 COMAP is committed to supporting the differential equations modeling community through its management of the SCUDEM contest. This commitment aligns with our mission to improve mathematics education, with an emphasis on increasing student proficiency in mathematical modeling. We are dedicated to preserving and expanding the valuable opportunities for engagement, collaboration, and learning that SCUDEM provides for students.
 Student Challenge Using Differential Equations Modeling (SCUDEM) is a mathematical modeling challenge for teams of up to three students. Each team selects one of three problems and develops a solution using differential or difference equation models.
 Challenge problems are provided from the following areas:
