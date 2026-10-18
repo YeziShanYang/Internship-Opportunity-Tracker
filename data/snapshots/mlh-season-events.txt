@@ -85,6 +85,11 @@ SharkByte
 NOV 06 - 08
 Miami, FL, US
 In-Person
+Turku , Varsinais-Suomi
+Since AI Hackathon
+NOV 06 - 08
+Turku, Varsinais-Suomi, FI
+In-Person
 Peterborough , Ontario
 HackTrent
 NOV 06 - 08
@@ -203,15 +208,43 @@ HackUTA
 NOV 14 - 15
 Arlington, Texas, US
 In-Person HARDWARE
+La Jolla , CA
+SanD Hacks
+NOV 14 - 15
+La Jolla, CA, US
+In-Person
+Ypsilanti , Michigan
+HT
+Hack The Nest
+NOV 14 - 15
+Ypsilanti, Michigan, US
+In-Person HARDWARE
 Durham , County Durham
 DurHack
 NOV 14 - 15
 Durham, County Durham, GB
 In-Person
+Tempe , Arizona
+sunhacks
+NOV 14 - 15
+Tempe, Arizona, US
+In-Person
+St. John&#x27;s , Newfoundland and Labrador / Avalon Peninsula
+TF
+Tech For Community 2026
+NOV 21 - 22
+St. John&#x27;s, Newfoundland and Labrador / Avalon Peninsula, CA
+In-Person HIGH SCHOOL HARDWARE
 Wellesley , Massachesetts
 WHACK (Wellesley Hackathon)
 NOV 21 - 22
 Wellesley , Massachesetts, US
+In-Person
+Boston , MA
+B
+BostonHacks
+NOV 21 - 22
+Boston, MA, US
 In-Person
 Lleida , Lleida, Spain
 HackEPS

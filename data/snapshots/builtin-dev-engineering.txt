@@ -95,8 +95,8 @@ Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Bi
 Top Skills:
 Distributed Computing Machine Learning Natural Language Processing Web Frameworks
 New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
 Use For Free
 Affirm
 IT Engineer Intern (Early Careers Summer 2027)
@@ -137,17 +137,6 @@ Artificial Intelligence &#x2022; Big Data &#x2022; Software &#x2022; Analytics &
 Build and ship full-stack product features for Hex’s AI-powered data platform using React, TypeScript, and/or Python. Collaborate with designers, product managers, and AI engineers on agentic capabilities, data exploration, collaborative editing, debugging, performance, UX, and API design. Participate in the complete development lifecycle from ideation through launch while learning from experienced engineers.
 Top Skills:
 JavaScript Python React Typescript
-Spectrum
-2027 Summer Intern: Software Engineer
-<age> Saved
-In-Office
-Charlotte, NC, USA
-Internship
-Internship
-Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
-Paid, full-time software engineering internship supporting Microsoft 365 collaboration platforms. Interns will administer and troubleshoot SharePoint Online, OneDrive, Power Apps, and Power Automate; respond to support tickets; work with business users to gather requirements; develop applications and workflows; research technologies; and document solutions. The role includes mentorship, professional development, networking, and cross-functional projects.
-Top Skills:
-CSS Excel HTML JavaScript Microsoft 365 Onedrive Power Apps Power Automate Powershell Python Sharepoint Online
 Liberty Mutual Insurance
 2027 TechStart Summer Internship Program
 <age> Saved
@@ -161,6 +150,19 @@ Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing T
 An 11-week technology internship embedded within Liberty Mutual's agile tech teams. Interns will contribute to real customer-facing and backend software projects, gaining experience in modern engineering practices, AI-assisted development tools, planning, coding, testing, and delivery. The program emphasizes collaboration, continuous learning, critical thinking, and customer-focused innovation.
 Top Skills:
 AI Ai-Assisted Development Tools Version Control
+Federal Reserve Bank of Chicago
+Summer 2027 Intern-Computer Science and Software Engineering
+<age> Saved
+Hybrid
+Chicago, IL, USA
+20-33 Hourly
+Internship
+20-33 Hourly
+Internship
+Agency &#x2022; Fintech &#x2022; Payments &#x2022; Sharing Economy &#x2022; Social Impact
+Paid summer internship for current undergraduate, graduate, or doctoral students in computer science or software engineering. Interns work 40 hours weekly for 10–12 weeks on project-based assignments, gaining exposure to Federal Reserve operations and collaborating with subject matter experts. Responsibilities may include interpreting data, developing insights, presenting information, supporting decisions, and contributing to departmental initiatives in an onsite or hybrid environment.
+Top Skills:
+Excel Microsoft Word
 1
 2
 3
@@ -168,7 +170,7 @@ AI Ai-Assisted Development Tools Version Control
 5
 ...
 ...
-82
+81
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

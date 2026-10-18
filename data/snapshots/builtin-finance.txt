@@ -31,6 +31,28 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Finance Jobs
+PwC
+Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027
+<age> Saved
+Hybrid
+2 Locations
+29K-48K Hourly
+Internship
+29K-48K Hourly
+Internship
+Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
+Supports transfer pricing and international tax projects through research, analysis, tax return assistance, intercompany pricing strategy development, and compliance activities. Collaborates with the Japanese Business Network to build cultural and market insight while learning PwC tax methodologies. The intern gathers information, identifies patterns, contributes to client-service projects, seeks feedback, and develops professional skills.
+Liberty Mutual Insurance
+Surety Underwriting Internship - Summer 2027
+<age> Saved
+Hybrid
+6 Locations
+27K-29K Hourly
+Internship
+27K-29K Hourly
+Internship
+Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
+An 11-week surety underwriting internship providing hands-on experience in financial analysis, risk assessment, relationship management, and bonding decisions. Interns work with experienced underwriters, receive formal training and mentorship, explore the AFSB curriculum, and learn how surety bonds support businesses and infrastructure projects. Candidates must pursue a relevant bachelor's degree, maintain at least a 3.0 GPA, have one semester remaining after summer 2027, and be available full-time.
 Cox Enterprises
 Enterprise Planning and Analysis Intern
 <age> Saved
@@ -42,17 +64,6 @@ Internship
 Internship
 Artificial Intelligence &#x2022; Automotive &#x2022; Greentech &#x2022; Information Technology &#x2022; Machine Learning &#x2022; Software &#x2022; Cybersecurity
 Supports financial planning, reporting, business health assessments, budgeting, forecasting, and long-range planning. Analyzes raw data, identifies key business insights, develops reporting tools, prepares executive presentations, and completes special projects. The internship provides hands-on finance experience, mentorship, exposure to business performance, and opportunities to develop financial modeling and analytical skills.
-Liberty Mutual Insurance
-Underwriting Internship Program - Global Risk Solutions - Summer 2027
-<age> Saved
-Hybrid
-6 Locations
-27K-29K Hourly
-Internship
-27K-29K Hourly
-Internship
-Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
-Underwriting interns analyze business and financial information, evaluate and price commercial insurance risks, and support underwriting projects. The 11-week program provides exposure to commercial and specialty insurance, surety, and reinsurance while developing analytical, decision-making, communication, negotiation, and relationship-building skills. Interns work alongside experienced underwriters, participate in professional development, and explore future career paths within Global Risk Solutions.
 Rocket
 Summer 2027 Real Estate Financial Analysis (Investment and Asset Management)
 <age> Saved
@@ -79,6 +90,10 @@ Fintech &#x2022; Information Technology &#x2022; Insurance &#x2022; Financial Se
 Actuarial Interns support pricing, product development, reserve calculations, actuarial modeling, financial analysis, asset liability management, and investments. They collaborate with experienced actuaries, analyze data, present project findings to leaders, and participate in professional development and networking activities.
 Top Skills:
 Ai Tools Excel Python R SAS SQL VBA
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 New York Life
 2027 New York Life Investment Management - Investment Research &amp; Analysis Internship
 <age> Saved
@@ -92,10 +107,6 @@ Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Tec
 Paid 10-week investment research internship supporting fixed-income research analysts and portfolio managers. Responsibilities include financial modeling, scenario analysis, bond portfolio surveillance, credit research, market data collection, dashboards, reporting, portfolio management projects, new deal analysis, and market research. Interns gain exposure to institutional investing, collaborate with investment professionals, and participate in training, networking, and a summer project.
 Top Skills:
 Bloomberg C&#x2B;&#x2B; Excel Java Python VBA
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Clearwater Analytics (CWAN)
 LP Analyst
 <age> Saved
@@ -142,17 +153,6 @@ Internship
 Internship
 Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
 Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, and management reports; gather client information; analyze data; identify process improvements; and communicate engagement issues. The role provides hands-on experience with audit work, GAAP, client engagements, professional services software, and diverse industries while developing accounting, analytical, administrative, communication, and teamwork skills.
-Lowe&#x2019;s
-Pricing, Promotions, and Credit - Undergraduate Internship for Summer 2027
-<age> Saved
-Hybrid
-Mooresville, NC, USA
-Internship
-Internship
-Consumer Web &#x2022; eCommerce &#x2022; Information Technology &#x2022; Retail &#x2022; Software &#x2022; Analytics &#x2022; App development
-Supports pricing strategy through pricing scenarios, tests, updates, financial analysis, competitive monitoring, reporting, and data-driven recommendations. The intern synthesizes multiple data sources to identify pricing opportunities, assess financial trends, and ensure alignment with pricing strategies and guardrails across Lowe’s stores and digital platforms.
-Top Skills:
-Business Intelligence Tools Excel MS Office PowerPoint SQL
 1
 2
 3

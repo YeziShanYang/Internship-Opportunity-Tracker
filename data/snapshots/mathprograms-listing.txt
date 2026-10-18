@@ -44,8 +44,6 @@ American Mathematical Society, Programs and Travel Grants
 [ STEFBERG27 ] Stefan Bergman Fellowship &nbsp; (deadline 2026/09/30 11:59PM) &nbsp; Apply
 Carnegie Mellon University, Mathematical Sciences
 [ ANTIRAMSEY ] Workshop on Anti-Ramsey Problems &nbsp; Apply
-Columbia University, Department of Mathematics
-[ GROW26 ] GROW 2026 &nbsp; (deadline 2026/09/23 11:59PM) &nbsp; Apply
 Duke University, Department of Mathematics
 [ PRUV2027 ] Program for Research for Undergraduates (PRUV) 2027 &nbsp; Apply
 The EDGE Foundation
@@ -59,12 +57,12 @@ Institute for Advanced Study, School of Mathematics
 Joint Mathematics Meetings, Special Programs
 [ 2027CHILD ] 2027CHILD &nbsp; Apply
 Simons Laufer Mathematical Sciences Institute (formerly MSRI)
-[ PROOF ] PROOF 2027 (Promoting Research Opportunities and Open Forums) &nbsp; ez Apply
+[ PROOF ] PROOF 2027 (Promoting Research Opportunities and Open Forums) &nbsp; (deadline 2026/10/17 04:00AM) &nbsp; ez Apply
 University of California, Los Angeles, Department of Mathematics
 [ RMSA1 ] Rising Mathematics Scholars Award &nbsp; Apply
 University of Minnesota Twin Cities, School of Mathematics
 [ UMNREU ] Mathematics of Soft Matter &nbsp; (deadline 2026/06/12 11:59PM) &nbsp; Apply
 Williams College, Mathematics and Statistics
 [ POLYMATHREU2027 ] Polymath Jr-REU2027 &nbsp; Apply
-(34 programs listed)
+(33 programs listed)
 &copy; 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.

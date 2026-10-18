@@ -21,10 +21,6 @@ Data Outpost
 Wed, Nov 4 · 8:30 AM PDT
 San Francisco
 This two-day conference will explore how AI is reshaping data work, from emerging research to practical applications inside companies. Founders, engineers, product leaders, researchers, operators, and data architects will share what they’re building and what remains unknown.&quot; to &quot;Over two days of workshops and talks hosted by MotherDuck (with Sigma, OpenAI, Stripe, Clay, Vercel, Braintrust, and many more engineering, data, and AI leaders, plan to dive deep on how AI is shaping data and how work and decisions are made for some of the fastest-growing organizations.
-Oct 15
-Maritime Dual-Use Hackathon
-Thu, Oct 15 · 6:00 PM PDT LIVE
-Mind the Bridge
 Oct 16
 Open Source AI Week
 Fri, Oct 16 · 12:00 AM PDT LIVE
@@ -45,45 +41,15 @@ Fri, Oct 16 · 5:30 PM PDT LIVE
 Mind the Bridge Innovation Center
 Hackers and builders will tackle real-world maritime security challenges alongside Navy engineers and defense innovators over an intense 48-hour sprint that&#x27;ll produce working prototypes and launch potential ventures. Whether you&#x27;re an engineer, designer, or founder, this dual-use hackathon brings together the brains to solve everything from underwater infrastructure protection to autonomous maritime systems.
 Oct 17
-MITAI Conference 2026: Age of Agency
-Sat, Oct 17 · 8:00 AM PDT
-Computer History Museum
-MIT&#x27;s 10th Annual AI Conference will bring together 500+ researchers, engineers, and founders to explore agentic AI through keynotes, panels, and live demos featuring some of the field&#x27;s sharpest minds. Expect substantive discussions and cutting-edge demos—zero corporate sales pitches.
-Oct 17
-The Recursive Agents Hackathon
-Sat, Oct 17 · 9:00 AM PDT
-San Francisco, CA
-Teams of up to four will build persistent AI agents that plan, delegate, recover from errors, and operate with minimal oversight using Crusoe Managed Inference, NVIDIA infrastructure, and open models like Nemotron. Approved participants will compete for $25,000 in cash prizes and an NVIDIA RTX 5090.
-Oct 17
-ExecuTorch Hackathon — Open Source AI Week
-Sat, Oct 17 · 9:00 AM PDT
-San Francisco, CA
-Developers and AI researchers will compete in a two-day ExecuTorch hackathon across three hardware tracks—Snapdragon X Elite PCs, Samsung Galaxy devices, or Arduino boards—to build cutting-edge on-device AI applications using PyTorch&#x27;s efficient edge deployment framework. Winning teams snag Meta AI glasses and premium hardware for each member.
-Oct 17
 Arm + ExecuTorch: Edge AI Challenge
-Sat, Oct 17 · 9:00 AM PDT
+Sat, Oct 17 · 9:00 AM PDT LIVE
 San Francisco, CA
 Developers will spend two days building and deploying edge AI prototypes on Alif development boards, exploring ExecuTorch inference and applications that combine camera, audio, and sensor data. Arm and Meta ExecuTorch engineers will provide hands-on technical guidance, with support from San Francisco State University.
 Oct 17
-AI War Room - Edition - Saturday, 10:00 AM
-Sat, Oct 17 · 10:00 AM PDT
-JOE &amp; THE JUICE
-The AI community will explore what 2026 may bring across models, agents, systems, ethics, law, business, and art. Attendees will share projects and discuss the latest trends shaping the rapidly evolving AI landscape.
-Oct 17
-Build with Pine Computer - $7,500 in cash prizes
-Sat, Oct 17 · 10:00 AM PDT
-1057 Steiner St
-A one-day build event will give participants hands-on access and credits for Pine Computer, an AI cloud computer that can use a browser, files, and terminal to tackle real-world tasks. Teams will develop and demo projects with Pine team support, competing for $7,500 in cash prizes.
-Oct 17
-Mem-Off! The Open Source AI Memory Showdown
-Sat, Oct 17 · 10:30 AM PDT
-Pebblebed
-Mem Off will put ClaudeMem, Helix, Cognee, and other AI memory systems to the test on shared scenarios, probing retrieval, changing and conflicting facts, forgetting, and performance across repeated runs. Builders, researchers, and the wider AI memory community will compare live results and discuss what works, and what breaks.
-Oct 17
-Build Something AI Cannot Do Alone
-Sat, Oct 17 · 12:30 PM PDT
-Berkeley, CA
-This interdisciplinary AI hackathon will center on human judgment, creativity, and building ideas with AI, with teams receiving mentorship and presenting to judges from Google Labs/DeepMind, Amazon, and more. Hosted by UC Berkeley tech consulting organization DiversaTech, it will offer prizes including incubation opportunities, interviews, and conversations with founders, VCs, and industry leaders.
+ExecuTorch Hackathon — Open Source AI Week
+Sat, Oct 17 · 9:00 AM PDT LIVE
+San Francisco, CA
+Developers and AI researchers will compete in a two-day ExecuTorch hackathon across three hardware tracks—Snapdragon X Elite PCs, Samsung Galaxy devices, or Arduino boards—to build cutting-edge on-device AI applications using PyTorch&#x27;s efficient edge deployment framework. Winning teams snag Meta AI glasses and premium hardware for each member.
 Oct 18
 Sudo Sunday #1: Auto Research
 Sun, Oct 18 · 10:30 AM PDT
@@ -114,6 +80,41 @@ Verified Claude Workflows: Vibe Coding
 Sun, Oct 18 · 9:30 PM PDT
 QF4G+9Q Outer Sunset
 A hands-on workshop will show participants how to use Claude to tackle practical, real-world tasks. The session will focus on applying AI coding tools in a direct, task-oriented way.
+Oct 18
+Discover How Claude Actually Thinks
+Sun, Oct 18 · 10:00 PM PDT
+5501 Estates Dr
+This hands-on vibe-coding session will show how to use Claude for practical, meaningful work, with a focus on learning by doing.
+Oct 18
+Claude Workshop: Real Work, Real Flow
+Sun, Oct 18 · 10:00 PM PDT
+211 Lincoln Blvd
+A hands-on Claude Vibe Coding workshop will teach practical AI skills attendees can put to use right away.
+Oct 19
+Oakland Supercharge Coding with Claude Code
+Mon, Oct 19 · 7:40 AM PDT
+San Francisco, CA
+The Claude Code Enthusiasts Social Club will host a practical, collaborative session for developers exploring AI-assisted coding, featuring live demonstrations, workflow tips, and discussion of prompting and project management. Experienced users and curious newcomers will share approaches and troubleshoot common challenges.
+Oct 19
+Jupyter Day
+Mon, Oct 19 · 9:00 AM PDT
+San Jose McEnery Convention Center
+Data scientists, researchers, and open source contributors will gather to explore how Jupyter is transforming interactive computing across data science, scientific research, and AI workflows through technical talks and hands-on sessions. Expect insights from Project Jupyter core contributors on emerging notebook experiences, reproducible research practices, and AI-assisted development tools shaping the future of the ecosystem.
+Oct 19
+PyTorch, Powering the Enterprise
+Mon, Oct 19 · 9:00 AM PDT
+San Jose, CA
+Red Hat, NVIDIA, and IBM will spotlight how PyTorch and its ecosystem, including vLLM, Ray, and Helion, will support enterprise AI from model development through deployment and operations. Sessions will feature PyTorch Board Member Stephen Watt, ecosystem leaders Joseph Groenenboom and Chris Hoge, and vLLM Core Maintainer Tyler Michael Smith, exploring interoperability, business value, and the economics of AI serving.
+Oct 19
+LF AI &amp; Data Mini Summit at PyTorch Conference NA
+Mon, Oct 19 · 9:00 AM PDT
+San Jose McEnery Convention Center
+The LF AI &amp; Data community will host a full-day Mini Summit exploring how open source collaboration is shaping AI&#x27;s future, featuring developers, researchers, and technology leaders diving into practical insights across the entire AI lifecycle—from data and models to infrastructure, deployment, and responsible AI. Sessions will cover hands-on workshops, MLOps, agentic systems, model optimization, and open source project updates, with free attendance included in PyTorch Conference North America registration.
+Oct 19
+Cloudflare Connect 2026 Global Partner Summit
+Mon, Oct 19 · 9:00 AM PDT
+Moscone West
+Cloudflare Connect 2026 will bring together 2,500+ architects, developers, and security leaders for three days of keynotes, 100+ technical sessions, and hands-on training exploring AI, agents, and platform innovation across application security, developer tools, and governance—with 40+ ecosystem partners in the mix to expand your network.
 Oct 23
 Intelligence at Work Hackathon
 Fri, Oct 23 · 8:30 AM PDT
