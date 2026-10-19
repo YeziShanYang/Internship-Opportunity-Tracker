@@ -31,6 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Atlassian
+Software Engineer Intern, 2027 Summer U.S.
+<age> Saved
+In-Office
+2 Locations
+49-67 Hourly
+Internship
+49-67 Hourly
+Internship
+Cloud &#x2022; Information Technology &#x2022; Productivity &#x2022; Security &#x2022; Software &#x2022; App development &#x2022; Automation
+Paid 12-week software engineering internship involving coding and shipping product features, full-lifecycle development, technical training, mentorship, and collaboration on Atlassian cloud and core products. Interns will apply programming, data structures, algorithms, and software design fundamentals while working with senior engineers. Preferred experience includes prior software engineering projects or internships, AI/ML exposure, and familiarity with design patterns.
+Top Skills:
+Agentic Ai Artificial Intelligence Go Java Machine Learning Frameworks Mcp Python Typescript
 T-Mobile
 Summer 2027 Software Engineering Intern
 <age> Saved
@@ -81,6 +94,10 @@ AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2
 Develop and test scalable software components, services, APIs, and web applications under experienced engineers’ guidance. Interns will practice coding, unit testing, debugging, system and data modeling, and fundamental algorithms while collaborating with cross-functional teams. The role includes exposure to AI-enabled solutions, mentorship, technical training, and meaningful projects supporting Expedia Group’s travel platforms.
 Top Skills:
 Ai/Ml Java Kotlin Python
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 Citadel
 Software Engineer - Intern (US)
 <age> Saved
@@ -94,10 +111,6 @@ Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Bi
 11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
 Top Skills:
 Distributed Computing Machine Learning Natural Language Processing Web Frameworks
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 Affirm
 IT Engineer Intern (Early Careers Summer 2027)
 <age> Saved
@@ -150,19 +163,6 @@ Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing T
 An 11-week technology internship embedded within Liberty Mutual's agile tech teams. Interns will contribute to real customer-facing and backend software projects, gaining experience in modern engineering practices, AI-assisted development tools, planning, coding, testing, and delivery. The program emphasizes collaboration, continuous learning, critical thinking, and customer-focused innovation.
 Top Skills:
 AI Ai-Assisted Development Tools Version Control
-Federal Reserve Bank of Chicago
-Summer 2027 Intern-Computer Science and Software Engineering
-<age> Saved
-Hybrid
-Chicago, IL, USA
-20-33 Hourly
-Internship
-20-33 Hourly
-Internship
-Agency &#x2022; Fintech &#x2022; Payments &#x2022; Sharing Economy &#x2022; Social Impact
-Paid summer internship for current undergraduate, graduate, or doctoral students in computer science or software engineering. Interns work 40 hours weekly for 10–12 weeks on project-based assignments, gaining exposure to Federal Reserve operations and collaborating with subject matter experts. Responsibilities may include interpreting data, developing insights, presenting information, supporting decisions, and contributing to departmental initiatives in an onsite or hybrid environment.
-Top Skills:
-Excel Microsoft Word
 1
 2
 3
@@ -170,7 +170,7 @@ Excel Microsoft Word
 5
 ...
 ...
-81
+80
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

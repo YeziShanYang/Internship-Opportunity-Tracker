@@ -31,6 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+Atlassian
+Data Engineer Intern, 2027 Summer U.S.
+<age> Saved
+In-Office or Remote
+Seattle, WA, USA
+47-64 Hourly
+Internship
+47-64 Hourly
+Internship
+Cloud &#x2022; Information Technology &#x2022; Productivity &#x2022; Security &#x2022; Software &#x2022; App development &#x2022; Automation
+Data Engineering Interns will define metrics, instrument logging, ingest and model data, transform datasets, ensure data quality and governance, and support visualization, reporting, alerting, and scalable systems. They will partner with product, analytics, and data consumers to improve product engagement, efficiency, costs, and strategic decision-making. The 12-week, full-time internship includes technical training, mentorship, and hands-on project experience.
+Top Skills:
+Python Relational Databases SQL
 Spectrum
 2027 Summer Intern: Revenue Assurance Analyst - Corporate
 <age> Saved
@@ -79,6 +92,10 @@ Consumer Web &#x2022; eCommerce &#x2022; Information Technology &#x2022; Retail 
 Supports reporting and optimization for Lowe’s Pro and Services business. The intern analyzes performance metrics, develops dashboards and reports, identifies process improvements, collaborates cross-functionally, and helps translate business insights into technical requirements and adopted solutions. The role provides experience in data visualization, analytics, sales enablement, operational excellence, and customer-focused decision-making.
 Top Skills:
 Excel MS Office Microsoft Powerpoint
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 Mastercard
 Data Engineering Intern, Summer 2027 - San Franscisco, CA, US
 <age> Saved
@@ -92,10 +109,6 @@ Blockchain &#x2022; Fintech &#x2022; Payments &#x2022; Consulting &#x2022; Crypt
 Mastercard seeks a Data Engineering Intern to support data science capabilities for Commerce Media and Offers. The intern will help build data pipelines and cloud-based workloads, work with distributed data processing, and contribute to AI/ML and data-driven product initiatives. Candidates should have Python experience, familiarity with cloud data platforms, strong analytical and collaboration skills, and be enrolled in a qualifying bachelor's or accelerated master's program. The role is based in San Francisco and does not offer work authorization sponsorship.
 Top Skills:
 AWS Azure Databricks Pyspark Python
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 New York Life
 2027 Business Analytics &amp; Digital Transformation Summer Internship
 <age> Saved
@@ -135,19 +148,6 @@ eCommerce &#x2022; Mobile &#x2022; Payments
 Business Intelligence Interns will conduct exploratory data analysis, create ad hoc reports, and support the development, migration, and improvement of dashboards using Looker and Databricks. They will gather requirements, build visualizations, test dashboard accuracy and usability, identify data inconsistencies, and document findings while collaborating with team members on business initiatives.
 Top Skills:
 Databricks Looker Power BI Python SQL Tableau
-Perchwell
-Data Analytics Engineering Intern
-<age> Saved
-In-Office
-New York, NY, USA
-12K-12K Annually
-Internship
-12K-12K Annually
-Internship
-Mobile &#x2022; Real Estate &#x2022; Software &#x2022; Database &#x2022; Analytics
-Summer data analytics engineering internship focused on profiling new MLS data, extending dbt models, building warehouse transformations, adding tests and documentation, defining metrics, and supporting semantic models and dashboards. The intern will own a project, collaborate with analytics and data engineers, product managers, and customer-facing teams, and deliver production-ready solutions. This is a full-time, fully in-person role in New York City from June 7 through August 13, 2027.
-Top Skills:
-BigQuery Dbt Git Looker Metabase Mode Pandas Python Rdbms Redshift Snowflake SQL Tableau
 JPMorganChase
 2027 Quantitative Research - Risk and Treasury - Summer Internship - Associate - United States
 <age> Saved
@@ -166,7 +166,7 @@ C&#x2B;&#x2B; Python
 5
 ...
 ...
-48
+47
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

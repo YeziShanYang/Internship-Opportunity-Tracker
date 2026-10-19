@@ -130,9 +130,6 @@ New York
 Management Company Accounting Senior Associate : The D.&nbsp;E.&nbsp;Shaw group seeks an analytical and self-directed accounting professional to join its Management Company Accounting team within Financial Operations (FinOp). The team&hellip;
 Financial Operations
 New York
-Management Reporting and Compensation Associate : The D.&nbsp;E.&nbsp;Shaw group seeks a skilled associate to join its Management Reporting team within Financial Operations. The team is responsible for delivering high-impact analysis and&hellip;
-Financial Operations
-New York
 MBOSS Strategy and Execution Lead, Financial Operations : The D.&nbsp;E.&nbsp;Shaw group seeks a strategy and execution lead to join the Middle/Back Office Strategy and Support (MBOSS) team within Financial Operations. MBOSS drives&hellip;
 Financial Operations
 New York
@@ -301,6 +298,9 @@ New York
 Systems: Senior Linux Infrastructure Engineer (New York) : The D. E. Shaw group seeks a senior systems engineer with extensive Linux experience to join its Platform Engineering team. This is a hands-on, technical role within a global&hellip;
 Technology
 New York
+Systems: Senior Technical Program Manager : The D.&nbsp;E.&nbsp;Shaw group seeks a senior technical program manager to join its Systems Program Management Office, which establishes, manages, and optimizes the firm’s technical&hellip;
+Technology
+New York
 Technical Program Manager - Generative AI Tech Services : The D.&nbsp;E.&nbsp;Shaw group seeks a program manager to join its Generative AI Tech Services team. This team develops and operates a wide-ranging suite of generative-AI products and&hellip;
 Technology
 New York
@@ -330,11 +330,6 @@ New York To apply for this job, please email
 your resume and the job title to recruitment-nyc@world.deshaw.com .
 Trader, Macro : Join our D.&nbsp;E.&nbsp;Shaw group in New York
 The D.&nbsp;E.&nbsp;Shaw group seeks traders to join its Macro team, focused on foreign exchange, developing, and emerging markets. The&hellip;
-Various
-New York To apply for this job, please email
-your resume and the job title to recruitment-nyc@world.deshaw.com .
-Vice President, COO Group : Join our D.&nbsp;E.&nbsp;Shaw COO Group in New York.
-The D.&nbsp;E.&nbsp;Shaw group seeks creative, critical thinkers with demonstrated analytical, communication, and project leadership&hellip;
 Venture Studio – Internal
 New York
 Entrepreneur in Residence : A new venture of the D.&nbsp;E.&nbsp;Shaw group (“DESCO”) seeks talented and highly motivated individuals to join its Entrepreneur in Residence (EIR) program as part of our DESCOvery&hellip;

@@ -5,46 +5,6 @@ Sign In
 Find, compete, and earn points at the largest, most diverse hacker events in the world.
 Filter events This Month Next Month Diversity Focused Region Upcoming Events
 2026
-Gainesville , Florida
-SwampHacks XII
-OCT 16 - 18
-Gainesville, Florida, US
-In-Person
-Scarborough , Ontario
-Hack the Valley
-OCT 16 - 18
-Scarborough, Ontario, CA
-In-Person
-Green Bay , WI
-HackGB
-OCT 17 - 18
-Green Bay, WI, US
-In-Person
-Charlottesville , VA
-Girls Hoo Hack 2026
-OCT 17 - 18
-Charlottesville, VA, US
-In-Person DIVERSITY HARDWARE
-Seattle , Washington
-DubHacks
-OCT 17 - 18
-Seattle, Washington, US
-In-Person
-London , London
-IKU Womxn in STEM Hackathon
-OCT 17 - 18
-London, London, GB
-In-Person DIVERSITY
-Hyattsville , Maryland
-Technica Hacks
-OCT 17 - 18
-Hyattsville, Maryland, US
-In-Person DIVERSITY
-Los Angeles , CA
-LA Hacks AI Hackathon 2026
-OCT 17 - 18
-Los Angeles, CA, US
-In-Person
 San Francisco , California
 Cal Hacks 13.0
 OCT 23 - 25
@@ -395,6 +355,46 @@ Los Angeles, California, US
 In-Person
 Past Events
 2026
+Los Angeles , CA
+LA Hacks AI Hackathon 2026
+OCT 17 - 18
+Los Angeles, CA, US
+In-Person
+Hyattsville , Maryland
+Technica Hacks
+OCT 17 - 18
+Hyattsville, Maryland, US
+In-Person DIVERSITY
+London , London
+IKU Womxn in STEM Hackathon
+OCT 17 - 18
+London, London, GB
+In-Person DIVERSITY
+Seattle , Washington
+DubHacks
+OCT 17 - 18
+Seattle, Washington, US
+In-Person
+Charlottesville , VA
+Girls Hoo Hack 2026
+OCT 17 - 18
+Charlottesville, VA, US
+In-Person DIVERSITY HARDWARE
+Green Bay , WI
+HackGB
+OCT 17 - 18
+Green Bay, WI, US
+In-Person
+Scarborough , Ontario
+Hack the Valley
+OCT 16 - 18
+Scarborough, Ontario, CA
+In-Person
+Gainesville , Florida
+SwampHacks XII
+OCT 16 - 18
+Gainesville, Florida, US
+In-Person
 Ghaziabad , Uttar Pradesh
 Innohacks 4.0
 OCT 10 - 11
@@ -475,46 +475,6 @@ San Antonio , Texas
 Rowdy Hacks
 OCT 03 - 04
 San Antonio, Texas, US
-In-Person
-Ann Arbor , MI
-MHacks
-OCT 03 - 04
-Ann Arbor, MI, US
-In-Person
-Gainesville , Florida
-Gator Quant Hacks
-OCT 02 - 04
-Gainesville, Florida, US
-In-Person
-Ithaca , New York
-BigRed//Hacks 2026
-OCT 02 - 04
-Ithaca, New York, US
-In-Person
-Philadelphia , Pennsylvania
-OwlHacks
-SEP 26 - 27
-Philadelphia, Pennsylvania, US
-In-Person
-New York , NY
-DivHacks
-SEP 26 - 27
-New York, NY, US
-In-Person DIVERSITY
-Baltimore , MD
-hackUMBC
-SEP 26 - 27
-Baltimore, MD, US
-In-Person
-Ottawa , Ontario
-Hack the Hill
-SEP 25 - 27
-Ottawa, Ontario, CA
-In-Person
-Columbia , Missouri
-TigerHacks
-SEP 25 - 27
-Columbia, Missouri, US
 In-Person
 24 past events shown
 Footer

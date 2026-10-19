@@ -8,12 +8,6 @@ Moelis | 2026 Michigan Coffee Chats
 <timestamp>
 Title:Moelis | 2026 Michigan Coffee Chats
 Event Date:23 Oct 2026 10:00 AM EDT
-https://moelis-careers.tal.net/vx/mobile-0/appcentre-ext/brand-0/candidate/so/pm/1/pl/1/opp/466-Moelis-2026-Indiana-Coffee-Chats/en-GB
-Moelis | 2026 Indiana Coffee Chats
-<timestamp>
-<timestamp>
-Title:Moelis | 2026 Indiana Coffee Chats
-Event Date:19 Oct 2026 11:00 AM EDT
 https://moelis-careers.tal.net/vx/mobile-0/appcentre-ext/brand-0/candidate/so/pm/1/pl/1/opp/456-2028-Summer-Analyst-Recruiting-Moelis-x-UC-Berkeley-Corporate-Presentation/en-GB
 2028 Summer Analyst Recruiting | Moelis x UC Berkeley Corporate Presentation
 <timestamp>
@@ -50,12 +44,6 @@ Moelis Virtual Discovery Series | Veterans in Banking Panel
 <timestamp>
 Title:Moelis Virtual Discovery Series | Veterans in Banking Panel
 Event Date:9 Nov 2026 04:00 PM EST
-https://moelis-careers.tal.net/vx/mobile-0/appcentre-ext/brand-0/candidate/so/pm/1/pl/1/opp/417-Moelis-Virtual-Discovery-Series-Pride-at-Moelis-Queerness-in-the-Workplace/en-GB
-Moelis Virtual Discovery Series | Pride at Moelis - Queerness in the Workplace
-<timestamp>
-<timestamp>
-Title:Moelis Virtual Discovery Series | Pride at Moelis - Queerness in the Workplace
-Event Date:19 Oct 2026 04:00 PM EDT
 https://moelis-careers.tal.net/vx/mobile-0/appcentre-ext/brand-0/candidate/so/pm/1/pl/1/opp/387-Moelis-Virtual-Discovery-Series-Ask-the-Analysts/en-GB
 Moelis Virtual Discovery Series: Ask the Analysts
 <timestamp>
