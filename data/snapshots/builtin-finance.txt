@@ -31,6 +31,26 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Finance Jobs
+Wipfli
+Audit Internship - Spring 2028
+<age> Saved
+Hybrid
+La Crosse, WI, USA
+Internship
+Internship
+Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
+Audit interns perform audit, review, compliance testing, financial statement preparation, data analysis, and client information gathering. They communicate with engagement leaders, identify process improvements, apply GAAP knowledge, and support client engagements while developing accounting, technical, administrative, and interpersonal skills.
+Spectrum
+2027 Summer Intern: Associate Business Planning Analyst
+<age> Saved
+In-Office
+Stamford, CT, USA
+Internship
+Internship
+Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
+Paid 11-week internship supporting business planning through report analysis, budget monitoring, forecasting, operating expense analysis, financial model improvements, reporting workflow streamlining, and KPI trend analysis. The intern will also participate in professional development, networking, mentorship, cross-functional projects, and final presentations.
+Top Skills:
+Microsoft Access Excel MS Office Microsoft Powerpoint Microsoft Word
 PwC
 Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027
 <age> Saved
@@ -64,6 +84,10 @@ Internship
 Internship
 Artificial Intelligence &#x2022; Automotive &#x2022; Greentech &#x2022; Information Technology &#x2022; Machine Learning &#x2022; Software &#x2022; Cybersecurity
 Supports financial planning, reporting, business health assessments, budgeting, forecasting, and long-range planning. Analyzes raw data, identifies key business insights, develops reporting tools, prepares executive presentations, and completes special projects. The internship provides hands-on finance experience, mentorship, exposure to business performance, and opportunities to develop financial modeling and analytical skills.
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Rocket
 Summer 2027 Real Estate Financial Analysis (Investment and Asset Management)
 <age> Saved
@@ -90,10 +114,6 @@ Fintech &#x2022; Information Technology &#x2022; Insurance &#x2022; Financial Se
 Actuarial Interns support pricing, product development, reserve calculations, actuarial modeling, financial analysis, asset liability management, and investments. They collaborate with experienced actuaries, analyze data, present project findings to leaders, and participate in professional development and networking activities.
 Top Skills:
 Ai Tools Excel Python R SAS SQL VBA
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 New York Life
 2027 New York Life Investment Management - Investment Research &amp; Analysis Internship
 <age> Saved
@@ -131,28 +151,6 @@ Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x202
 Supports venture investment activities by evaluating emerging technologies, conducting financial modeling and market research, assisting with due diligence, preparing investment memos and presentations, and identifying promising AI startups. The role provides exposure to venture capital, semiconductor markets, and early-stage artificial intelligence innovation.
 Top Skills:
 Ai Frameworks Ai Tools Excel Microsoft Powerpoint
-Citadel
-Quantitative Trader: Equity Quantitative Research - Intern (US)
-<age> Saved
-In-Office
-3 Locations
-234K-302K Annually
-Internship
-234K-302K Annually
-Internship
-Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
-Intern will help turn quantitative research into production equities trading strategies, optimize portfolio allocation and risk, minimize trading costs and market impact, monitor performance, and perform statistical research to improve risk-adjusted returns while making real-time allocation decisions under supervision.
-Wipfli
-Audit Internship - Spring 2028
-<age> Saved
-Hybrid
-Minneapolis, MN, USA
-30-30 Hourly
-Internship
-30-30 Hourly
-Internship
-Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
-Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, and management reports; gather client information; analyze data; identify process improvements; and communicate engagement issues. The role provides hands-on experience with audit work, GAAP, client engagements, professional services software, and diverse industries while developing accounting, analytical, administrative, communication, and teamwork skills.
 1
 2
 3
@@ -160,7 +158,7 @@ Audit interns perform audit, review, and compliance testing; prepare financial s
 5
 ...
 ...
-201
+199
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

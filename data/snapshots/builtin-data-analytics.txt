@@ -31,6 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+Spectrum
+2027 Summer Intern: Business Analyst
+<age> Saved
+In-Office
+Stamford, CT, USA
+31K-33K Hourly
+Internship
+31K-33K Hourly
+Internship
+Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
+Paid, full-time summer intern supporting data analytics, reporting, dashboards, data integration, automation, business-rule documentation, management reporting, and compliance audits. The role involves gathering business requirements, identifying improvement opportunities, responding to ad hoc requests, and collaborating with stakeholders to produce actionable insights. Interns also participate in professional development, networking, mentorship, and cross-functional activities.
+Top Skills:
+Alteryx Business Intelligence ETL Python SQL Tableau
 Atlassian
 Data Engineer Intern, 2027 Summer U.S.
 <age> Saved
@@ -44,19 +57,6 @@ Cloud &#x2022; Information Technology &#x2022; Productivity &#x2022; Security &#
 Data Engineering Interns will define metrics, instrument logging, ingest and model data, transform datasets, ensure data quality and governance, and support visualization, reporting, alerting, and scalable systems. They will partner with product, analytics, and data consumers to improve product engagement, efficiency, costs, and strategic decision-making. The 12-week, full-time internship includes technical training, mentorship, and hands-on project experience.
 Top Skills:
 Python Relational Databases SQL
-Spectrum
-2027 Summer Intern: Revenue Assurance Analyst - Corporate
-<age> Saved
-In-Office
-Stamford, CT, USA
-31K-33K Annually
-Internship
-31K-33K Annually
-Internship
-Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
-Supports revenue assurance by identifying and quantifying revenue recognition and risk mitigation opportunities. Maintains reports, updates SQL queries, creates datasets, validates billing-system data, collaborates with technical and functional teams, and assists with recurring reporting and month-end processing. The paid, full-time internship also includes professional development, mentorship, networking, and cross-functional activities.
-Top Skills:
-Claude Kiro MS Office SQL
 IDeaS
 Research Analyst Intern
 <age> Saved
@@ -93,8 +93,8 @@ Supports reporting and optimization for Lowe’s Pro and Services business. The 
 Top Skills:
 Excel MS Office Microsoft Powerpoint
 New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
 Use For Free
 Mastercard
 Data Engineering Intern, Summer 2027 - San Franscisco, CA, US

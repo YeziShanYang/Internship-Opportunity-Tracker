@@ -203,6 +203,7 @@ DP-1/ Detonator Production- Product Engineering
 DP-2/Detonator Production-Process Engineering
 DP-5/ Detonator Production-Production Integration Office
 DP-IPO/Detonator Production - Infrastructure Planning Office
+DP-IPO/Detonator Production- Infrastructure Planning Office
 E-1 / Mechanical &amp; Thermal Engineering
 E-11/Weapons Product Definition
 E-11/Weapons Product Design
@@ -246,6 +247,7 @@ ETM/Engineering and Technology Maturation
 ETM/Engineering Technology and Maturation
 Fabrication Manufacturing Science/SIGMA-1
 Facilities &amp; Operations Directorate (F&amp;O)
+Finance Operations (FIN-OPS)
 Foreign Immigration, Visits &amp; Analysis (OCI-FVA)
 GS-IET/Intelligence &amp; Emerging Threats Program Office
 Health Physics Measurements
@@ -349,6 +351,7 @@ MSS-LFO/LANSCE Facility Operations
 MSS-MP/Maintenance Programs
 MSS-RLUOB/Radiological Laboratory Utility Office Building Chemistry &amp; Metallurgy Research
 MSS-TA55/MSS-TA55 Group
+MSS-UI/Utilities &amp; Infrastructure
 MSS-WASTE/MSS Waste Characterization &amp; Shipping Faciities (TWF/RANT/WCRRF)
 MSS-WC/Maintenance &amp; Site Services Work Control
 MSS-WC/Maintenance &amp; Site Services-Work Control
@@ -500,6 +503,7 @@ SIGMA-1/Fabrication Manufacturing Science Group
 Sigma-1/Fabrication Manufacturing Sciences
 SIGMA-2/Finishing Manufacturing Science
 Sigma-2/Finishing Manufacturing Science Group
+SIGMA-DO / SIGMA DIVISION
 SIGMA-OPS/Sigma Operations Group
 SO-PS/Personal Security
 SO-SS/Security Systems
@@ -528,6 +532,7 @@ T-2/Nuclear and Particle Physics, Astrophysics and Cosmology (NPAC)
 T-3 / Fluid Dynamics And Solid Mechanics
 T-3/Fluid Dynamics And Solid Mechanics
 T-4 / Quantum and Condensed Matter Physics
+T-4/ QUANTUM AND CONDENSED MATTER PHYSICS
 T-4/Phys Of Condensed Matter &amp; Complex Sys
 T-4/Quantum and Condensed Matter Physics
 T-5 / Applied Mathematics And Plasma Physics
@@ -551,9 +556,11 @@ UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
 UI-WGW/UI - Water, Gas and Waste Water Operations
 V-14/Test Engineering
 V-21/Weapons Test Execution
+V-6 / Nondestructive Testing &amp; Evaluation
 V-6/Nondestructive Testing &amp; Evaluation
 Various Organizations
 V-DO/Weapons Engineering Verification &amp; Validation Division Office
+W-3/W78 Systems Engineering Group
 W-4/W88 Systems Engineering Group
 W-8/Production Liaison Group
 W-9/Weapon Systems Surveillance
@@ -580,6 +587,7 @@ XCP-AI4ND/Artificial Intelligence for Nuclear Deterrence Group
 XTD-DO /Theoretical Design
 XTD-DO/X Theoretical Design
 XTD-IDA/XTD Integrated Dessign &amp; Assessment
+XTD-PRI / XTD PRIMARY PHYSICS
 XTD-RTA/Radiation Transport Applications
 XTD-RTA/X-Theoretical Design Radiation Transport Applications
 Organization
@@ -679,6 +687,7 @@ DP-1/ Detonator Production- Product Engineering
 DP-2/Detonator Production-Process Engineering
 DP-5/ Detonator Production-Production Integration Office
 DP-IPO/Detonator Production - Infrastructure Planning Office
+DP-IPO/Detonator Production- Infrastructure Planning Office
 E-1 / Mechanical &amp; Thermal Engineering
 E-11/Weapons Product Definition
 E-11/Weapons Product Design
@@ -722,6 +731,7 @@ ETM/Engineering and Technology Maturation
 ETM/Engineering Technology and Maturation
 Fabrication Manufacturing Science/SIGMA-1
 Facilities &amp; Operations Directorate (F&amp;O)
+Finance Operations (FIN-OPS)
 Foreign Immigration, Visits &amp; Analysis (OCI-FVA)
 GS-IET/Intelligence &amp; Emerging Threats Program Office
 Health Physics Measurements
@@ -825,6 +835,7 @@ MSS-LFO/LANSCE Facility Operations
 MSS-MP/Maintenance Programs
 MSS-RLUOB/Radiological Laboratory Utility Office Building Chemistry &amp; Metallurgy Research
 MSS-TA55/MSS-TA55 Group
+MSS-UI/Utilities &amp; Infrastructure
 MSS-WASTE/MSS Waste Characterization &amp; Shipping Faciities (TWF/RANT/WCRRF)
 MSS-WC/Maintenance &amp; Site Services Work Control
 MSS-WC/Maintenance &amp; Site Services-Work Control
@@ -976,6 +987,7 @@ SIGMA-1/Fabrication Manufacturing Science Group
 Sigma-1/Fabrication Manufacturing Sciences
 SIGMA-2/Finishing Manufacturing Science
 Sigma-2/Finishing Manufacturing Science Group
+SIGMA-DO / SIGMA DIVISION
 SIGMA-OPS/Sigma Operations Group
 SO-PS/Personal Security
 SO-SS/Security Systems
@@ -1004,6 +1016,7 @@ T-2/Nuclear and Particle Physics, Astrophysics and Cosmology (NPAC)
 T-3 / Fluid Dynamics And Solid Mechanics
 T-3/Fluid Dynamics And Solid Mechanics
 T-4 / Quantum and Condensed Matter Physics
+T-4/ QUANTUM AND CONDENSED MATTER PHYSICS
 T-4/Phys Of Condensed Matter &amp; Complex Sys
 T-4/Quantum and Condensed Matter Physics
 T-5 / Applied Mathematics And Plasma Physics
@@ -1027,9 +1040,11 @@ UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
 UI-WGW/UI - Water, Gas and Waste Water Operations
 V-14/Test Engineering
 V-21/Weapons Test Execution
+V-6 / Nondestructive Testing &amp; Evaluation
 V-6/Nondestructive Testing &amp; Evaluation
 Various Organizations
 V-DO/Weapons Engineering Verification &amp; Validation Division Office
+W-3/W78 Systems Engineering Group
 W-4/W88 Systems Engineering Group
 W-8/Production Liaison Group
 W-9/Weapon Systems Surveillance
@@ -1056,6 +1071,7 @@ XCP-AI4ND/Artificial Intelligence for Nuclear Deterrence Group
 XTD-DO /Theoretical Design
 XTD-DO/X Theoretical Design
 XTD-IDA/XTD Integrated Dessign &amp; Assessment
+XTD-PRI / XTD PRIMARY PHYSICS
 XTD-RTA/Radiation Transport Applications
 XTD-RTA/X-Theoretical Design Radiation Transport Applications
 City, State
@@ -1098,11 +1114,13 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 16
+Showing 12 out of 19
 Job Title
 Job Number
 Organization
 City, State
+Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
+Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Alamos, NM
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 Mechanical &amp; Thermal Engineering Undergraduate Intern IRC146237 E-1 / Mechanical &amp; Thermal Engineering Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
@@ -1113,10 +1131,8 @@ Mechanical and Electrochemical Undergraduate Student IRC146029 MPA-11 / Material
 Undergraduate Computational Nuclear Engineer or Software Developer IRC146028 NEN-5 / Nuclear Systems Los Alamos, NM
 PWDI Administrative Scholars Internship Program IRC145910 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 High Performance Computing Undergraduate Student IRC145851 HPC-DO/High Performance Computing Los Alamos, NM
-Undergraduate Student IRC145847 Product Realization and Reliability Office (PRRO) Los Alamos, NM
-PWDI Scholars Internship Program IRC145845 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 16
+Showing 12 out of 19
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

@@ -31,6 +31,34 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Palantir Technologies
+Software Engineer, Internship - Query Engines
+<age> Saved
+In-Office
+New York, NY, USA
+126K-126K Annually
+Internship
+126K-126K Annually
+Internship
+Artificial Intelligence &#x2022; Software
+Work on query engines and data-processing infrastructure powering Palantir Foundry. Responsibilities include optimizing query plans, developing execution-engine capabilities, improving large-table performance, and contributing through design, coding, testing, code review, and release. The role involves working with technologies such as Spark, DataFusion, Iceberg, Arrow, and Parquet while learning how modern distributed data systems operate.
+Top Skills:
+Apache Arrow Apache Comet Apache Datafusion Apache Iceberg Apache Parquet Spark C C&#x2B;&#x2B; Cargo Git Gradle Java Python Rust Scala Velox
+Braze
+Intern, Software Engineering
+<age> Saved
+Easy Apply
+Hybrid
+New York City, NY, USA
+Easy Apply
+60-60 Hourly
+Internship
+60-60 Hourly
+Internship
+Marketing Tech &#x2022; Mobile &#x2022; Software
+Software Engineering Interns collaborate with engineers and mentors to build production-oriented product features across APIs, web design, systems engineering, and data infrastructure. Responsibilities include contributing to individual and group projects, coordinating with stakeholders, using varied technologies, and applying AI tools to accelerate learning and development. Candidates must be pursuing a Computer Science or equivalent degree, have one or fewer academic years remaining, commit to a 10-week summer internship, and work in person in New York City.
+Top Skills:
+Ai Tools APIs Data Infrastructure Systems Engineering Web Technologies
 Atlassian
 Software Engineer Intern, 2027 Summer U.S.
 <age> Saved
@@ -70,6 +98,10 @@ Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#
 Software engineering intern supporting the design, development, integration, testing, troubleshooting, and documentation of software for aerospace and defense systems. The role involves Agile development, algorithm and data analysis, object-oriented programming, and collaboration with experienced engineering professionals. Candidates must be pursuing a relevant bachelor’s degree, entering their sophomore through senior year, and be eligible for a U.S. Department of War security clearance.
 Top Skills:
 Agile Artificial Intelligence Bitbucket C# C&#x2B;&#x2B; Git Gitlab Java Real-Time Embedded Systems Unix/Linux Windows
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Ericsson
 Integration Engineer Intern
 <age> Saved
@@ -82,22 +114,18 @@ Supports the configuration, integration, migration, testing, and verification of
 Top Skills:
 Agent Evaluation Ai Agents Ai/Ml APIs Cloud Services Data Pipelines Generative Ai Git Guardrails Java JavaScript Large Language Models Prompt Design Python Retrieval-Augmented Generation (Rag) Software Automation Software Testing Structured Outputs Tool Calling
 Expedia Group
-Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle
+Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle
 <age> Saved
 Hybrid
-Seattle, WA, USA
-45-54 Hourly
+San Jose, CA, USA
+45K-54K Hourly
 Internship
-45-54 Hourly
+45K-54K Hourly
 Internship
 AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2022; Travel &#x2022; Generative AI
-Develop and test scalable software components, services, APIs, and web applications under experienced engineers’ guidance. Interns will practice coding, unit testing, debugging, system and data modeling, and fundamental algorithms while collaborating with cross-functional teams. The role includes exposure to AI-enabled solutions, mentorship, technical training, and meaningful projects supporting Expedia Group’s travel platforms.
+Develop and test mobile application features for iOS and/or Android under experienced engineers’ guidance. Apply software engineering practices, participate in system and API design, data modeling, debugging, monitoring, and performance improvements. Collaborate with designers, mentors, and cross-functional partners to deliver reliable mobile experiences. Learn to use AI-driven tools and safely integrate AI/ML-enabled solutions.
 Top Skills:
-Ai/Ml Java Kotlin Python
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
+Ai/Ml Android APIs iOS Unit Testing
 Citadel
 Software Engineer - Intern (US)
 <age> Saved
@@ -137,32 +165,6 @@ Aerospace &#x2022; Hardware &#x2022; Robotics &#x2022; Software
 Build and improve full-stack software for engineers operating mission-critical hardware. Responsibilities include developing React and TypeScript/JavaScript interfaces, contributing to backend services and APIs, creating reliable data flows, debugging across systems, writing tested code, and collaborating on greenfield products. The intern will work closely with software engineers and operators while gaining experience across frontend, backend, databases, and hardware-connected systems.
 Top Skills:
 C&#x2B;&#x2B; JavaScript Next.Js Node.js Python React Rust SQL Typescript
-Hex
-Product Engineer Intern
-<age> Saved
-Hybrid
-San Francisco, CA, USA
-11K-11K Annually
-Internship
-11K-11K Annually
-Internship
-Artificial Intelligence &#x2022; Big Data &#x2022; Software &#x2022; Analytics &#x2022; Business Intelligence &#x2022; Big Data Analytics
-Build and ship full-stack product features for Hex’s AI-powered data platform using React, TypeScript, and/or Python. Collaborate with designers, product managers, and AI engineers on agentic capabilities, data exploration, collaborative editing, debugging, performance, UX, and API design. Participate in the complete development lifecycle from ideation through launch while learning from experienced engineers.
-Top Skills:
-JavaScript Python React Typescript
-Liberty Mutual Insurance
-2027 TechStart Summer Internship Program
-<age> Saved
-Hybrid
-4 Locations
-31K-37K Hourly
-Internship
-31K-37K Hourly
-Internship
-Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
-An 11-week technology internship embedded within Liberty Mutual's agile tech teams. Interns will contribute to real customer-facing and backend software projects, gaining experience in modern engineering practices, AI-assisted development tools, planning, coding, testing, and delivery. The program emphasizes collaboration, continuous learning, critical thinking, and customer-focused innovation.
-Top Skills:
-AI Ai-Assisted Development Tools Version Control
 1
 2
 3
