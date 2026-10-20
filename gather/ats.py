@@ -228,9 +228,14 @@ def _refuse_partial(vendor: str, total: int, got: int) -> None:
         )
 
 
-def _fetch_workday(
-    client: httpx.Client, base: str, wants_detail: Callable[[dict], bool]
-) -> AtsFetch:
+def _page_workday(client: httpx.Client, base: str) -> tuple[list[Any], list[dict], int, int]:
+    """One pass over a Workday board's list pages: (pages, listed, total, requests).
+
+    Workday states `total` on the first page only, so a posting that comes down while
+    the later pages are being read leaves the pass one short of a total that is already
+    stale. Vanguard did exactly this on 2026-10-20 (346 stated, 345 paged); a second
+    pass a minute later read 350 of 350.
+    """
     listed: list[dict] = []
     pages: list[Any] = []
     total = None
@@ -255,8 +260,20 @@ def _fetch_workday(
         if not batch:
             break
         listed += batch
+    return pages, listed, total or 0, requests
 
-    _refuse_partial("board", total or 0, len(listed))
+
+def _fetch_workday(
+    client: httpx.Client, base: str, wants_detail: Callable[[dict], bool]
+) -> AtsFetch:
+    # A short pass is re-read once from the top, because the board moving under the
+    # crawl is the ordinary cause. A board that is short twice running is refused.
+    pages, listed, total, requests = _page_workday(client, base)
+    if total and len(listed) < total:
+        pages, listed, total, more = _page_workday(client, base)
+        requests += more
+
+    _refuse_partial("board", total, len(listed))
 
     # The plan: which postings are worth a second request. Supplied by `process`, and
     # applied here because the whole point is not paying for descriptions that are
