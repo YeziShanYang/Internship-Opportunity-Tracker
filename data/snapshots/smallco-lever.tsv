@@ -26,7 +26,6 @@ neighbor
 oneimpression
 palantir
 quantco-
-rigetti
 rivr
 sep
 shieldai
@@ -252,7 +251,6 @@ palantir	Year at Palantir - Forward Deployed Software Engineer, Internship - USG
 palantir	Year at Palantir - Forward Deployed Software Engineer, Internship - USG @ Washington, D.C.	Type=Internship; URL=https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019
 palantir	Year at Palantir - Software Engineer, Internship @ New York, NY	Type=Internship; URL=https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329
 quantco-	Data Science Intern @ USA	Type=Full-Time; URL=https://jobs.lever.co/quantco-/09da5ced-a2fc-4cf1-9013-c177bb673e02
-rigetti	Research Intern: Scalable Fabrication of Superconducting Quantum Devices @ Berkeley, CA	Type=Intern; URL=https://jobs.lever.co/rigetti/efe28dd4-f331-4738-b282-23106928c3a3
 rivr	Hardware Engineering Intern @ Zürich	Type=Internship; URL=https://jobs.lever.co/rivr/eda72db8-a221-47ba-8dec-7191a3a0d9be
 rivr	Robotics Wireless & Network Engineer Intern @ Zürich	Type=Internship; URL=https://jobs.lever.co/rivr/d473e872-14bc-4dab-92cf-18334e0dcd04
 rivr	SLAM / Computer Vision Intern @ Zürich	Type=Internship; URL=https://jobs.lever.co/rivr/452f0a92-5704-4f65-bafa-021d40c01238
@@ -261,6 +259,7 @@ sep	Software Engineering Intern (Summer 2027, In person) @ Westfield, IN	Type=In
 shieldai	Electrical Engineering Co-op - January 2027 @ Dallas, Texas	Type=Intern; URL=https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724
 shieldai	Software Development Engineer - New Graduate @ San Diego, California	Type=Full Time Employee; URL=https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583
 shieldai	Summer 2027 - Advanced Manufacturing Engineering Intern @ Dallas, Texas	Type=Intern; URL=https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a
+shieldai	Summer 2027 - Data Science Intern (R6324) @ San Diego, California	Type=Intern; URL=https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797
 shieldai	Summer 2027 - Electrical Engineering Co-op (June 2027) @ Dallas, Texas	Type=Intern; URL=https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6
 shieldai	Summer 2027 - Electrical Engineering Intern @ Dallas, Texas	Type=Intern; URL=https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7
 shieldai	Summer 2027 - Mechanical Engineering Intern @ Seattle, Washington	Type=Intern; URL=https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc
@@ -273,8 +272,12 @@ standtogether	KIP Spring 2027 -  Policy Team Intern - Ballotpedia @ Wisconsin	Ty
 standtogether	KIP Spring 2027 - Analytics Intern - Illinois Policy Institute @ Chicago, Illinois	Type=ST Fellowships - Hybrid; URL=https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b
 standtogether	KIP Spring 2027 - Associate Policy Analyst Intern - National Taxpayers Union Foundation @ Washington, DC	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/d9dd2700-19dc-46f5-9590-773634f55836
 standtogether	KIP Spring 2027 - Campus Freedom Intern - The American Council of Trustees and Alumni @ Washington, DC	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/d42ab1de-8c17-4192-8a89-4acfe402aa55
+standtogether	KIP Spring 2027 - Coalitions Intern - Pacific Legal Foundation @ Arlington, Virginia	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/b2fa7adc-21bf-4cca-a50b-d48d61970cbb
 standtogether	KIP Spring 2027 - Communications & Operations Intern - James G. Martin Center for Academic Renewal @ North Carolina	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/e1b0b0bd-764d-47d7-8355-85b6160c3580
+standtogether	KIP Spring 2027 - Communications Intern - Empire Center for Public Policy @ New York	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/5570d6c2-5038-4eac-89ee-d350d0cfe5f6
+standtogether	KIP Spring 2027 - Communications/Media Intern - Citizens Against Government Waste @ Washington, DC	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/e5af5347-0887-41f5-8693-79a2d8299283
 standtogether	KIP Spring 2027 - Development Assistant - John Locke Foundation @ North Carolina	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/ac3c2043-4895-419d-aca6-fbd820f21df0
+standtogether	KIP Spring 2027 - Development Intern - Empire Center for Public Policy @ New York	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/16119bd8-d4bf-46bb-8435-30e0b12a0473
 standtogether	KIP Spring 2027 - Development Intern - Illinois Policy Institute @ Chicago, Illinois	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/74c4fcab-5429-4b02-903c-f9fab150841c
 standtogether	KIP Spring 2027 - Development Intern - Independence Institute @ Denver, Colorado	Type=ST Fellowships - Hybrid; URL=https://jobs.lever.co/standtogether/031f2277-6d82-498b-bfba-0d338acf5bc3
 standtogether	KIP Spring 2027 - Development Intern - The American Council of Trustees and Alumni @ Washington, DC	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/11740e1b-1839-4c34-9883-6f4edf609b5f
@@ -287,8 +290,10 @@ standtogether	KIP Spring 2027 - Education Entrepreneurship Lab Intern - Foundati
 standtogether	KIP Spring 2027 - Events Intern - Atlas Network @ Arlington, Virginia	Type=ST Fellowships - Hybrid; URL=https://jobs.lever.co/standtogether/54887295-de18-46c9-949d-b72fa8365820
 standtogether	KIP Spring 2027 - Events Intern - Competitive Enterprise Institute @ Washington, DC	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/a9aae301-77fc-4ca7-afea-1805de69f185
 standtogether	KIP Spring 2027 - Events Intern - R Street Institute @ Washington, DC	Type=ST Fellowships - Hybrid; URL=https://jobs.lever.co/standtogether/6b2a1483-9a11-48c9-b03d-bf90e111a4f2
+standtogether	KIP Spring 2027 - Executive/Research Assistant  - Marijuana Policy Project Foundation @ Washington, DC	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/53d080ce-612d-4fd2-8d1d-eb501b341724
 standtogether	KIP Spring 2027 - External Relations Intern - Mercatus Center @ Virginia	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/19446607-93d8-447e-9647-409fe1ff5dca
 standtogether	KIP Spring 2027 - FEE in the Classroom North America Intern - Foundation for Economic Education @ Georgia	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/cebe0a41-f711-4c99-b64d-44d193b4f76f
+standtogether	KIP Spring 2027 - Federal Policy Intern - Pacific Legal Foundation @ Arlington, Virginia	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/93d509dd-f638-4d58-a371-b87880d2363c
 standtogether	KIP Spring 2027 - Federal Tax Policy Intern - Tax Foundation @ Washington, DC	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/c87ec9fd-f427-40d1-848d-13cea614dffa
 standtogether	KIP Spring 2027 - Finance and Accounting Intern - American Legislative Exchange Council @ Arlington, Virginia	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/c34d2487-b73c-403b-8a57-3287c12cafe7
 standtogether	KIP Spring 2027 - Fiscal Policy Intern - Independence Institute @ Denver, Colorado	Type=ST Fellowships - Hybrid; URL=https://jobs.lever.co/standtogether/79e19696-08a4-4e1e-978f-baea4753124e
@@ -297,11 +302,13 @@ standtogether	KIP Spring 2027 - Government Affairs Intern - Competitive Enterpri
 standtogether	KIP Spring 2027 - Government Affairs Intern - Media Research Center @ Virginia	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/8ba9238e-96bc-4ff2-be2c-b95dff46e930
 standtogether	KIP Spring 2027 - Hackathons Intern - Foundation for Economic Education @ Georgia	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/ae52eb2b-0732-4e50-9b31-97d837182afe
 standtogether	KIP Spring 2027 - Institute Relations and Grants Intern - Atlas Network @ Arlington, Virginia	Type=ST Fellowships - Hybrid; URL=https://jobs.lever.co/standtogether/ccd81bce-80e3-4ec8-a30a-f8098b458466
+standtogether	KIP Spring 2027 - Legislative Intern - Citizens Against Government Waste @ Washington, DC	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/7fbfcfa1-c229-4a95-9006-329375973572
 standtogether	KIP Spring 2027 - Marketing Intern - Competitive Enterprise Institute @ Washington, DC	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/b57f2be3-1bd6-4656-bbac-bd3c5251d870
 standtogether	KIP Spring 2027 - Marketing and Communications Intern - Atlas Network @ Arlington, Virginia	Type=ST Fellowships - Hybrid; URL=https://jobs.lever.co/standtogether/b073f8d5-799b-4402-96fc-ca2a0b0e1ecd
 standtogether	KIP Spring 2027 - Membership and Development Intern - American Legislative Exchange Council @ Arlington, Virginia	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/29ea8d21-9de6-406e-96cf-6da52a0be62b
 standtogether	KIP Spring 2027 - North America Programs Intern - Foundation for Economic Education @ Washington, DC	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/181f25c2-aafc-43de-8f8e-242987eef1c6
 standtogether	KIP Spring 2027 - Operations Intern - Foundation for Research on Equal Opportunity @ Washington, DC	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/3fc7b908-e85d-40c1-bc0c-5faee783c87d
+standtogether	KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy @ New York	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b
 standtogether	KIP Spring 2027 - Policy Fellow - Engine Foundation @ Washington, DC	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/4f054824-3616-4437-872b-05b0bd20b3f9
 standtogether	KIP Spring 2027 - Policy Intern - Fulcrum Foundation @ Kentucky	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/a78902b9-772b-478e-8cc6-6903c9f5b5d3
 standtogether	KIP Spring 2027 - Policy Intern - Grassroot Institute of Hawaii @ Honolulu, Hawaii	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/78e8e15c-0a0e-4baf-9f6f-686d2eb13809
@@ -314,10 +321,13 @@ standtogether	KIP Spring 2027 - Programs & Events Intern - America's Future @ Wa
 standtogether	KIP Spring 2027 - Programs Logistics Intern - Foundation for Economic Education @ Georgia	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/92af3ee6-eef5-4620-9942-1b8269d5f690
 standtogether	KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education @ Georgia	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/b46a3ae5-18a1-40e3-ba75-a97fb42bf3dd
 standtogether	KIP Spring 2027 - Public Affairs Intern - American Legislative Exchange Council @ Arlington, Virginia	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/f65cb715-6532-430d-a2b3-71dfb25a3346
+standtogether	KIP Spring 2027 - Research Intern - Citizens Against Government Waste @ Washington, DC	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/88915a0e-ac42-46d6-bb23-a5149af1110f
 standtogether	KIP Spring 2027 - Research Intern - James G. Martin Center for Academic Renewal @ North Carolina	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/1fb5760d-f394-44d6-888c-8c26d65f81c2
+standtogether	KIP Spring 2027 - State Policies Intern - Marijuana Policy Project Foundation @ Washington, DC	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/e21ed89d-2cc7-49d7-9f66-8c53108f5dc3
 standtogether	KIP Spring 2027 - State Policy Intern - Pacific Legal Foundation @ Arlington, Virginia	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/303fc8b5-d364-44f4-b1ae-1be60137f714
 standtogether	KIP Spring 2027 - Strategic Leadership Intern - Fair For All @ New York, New York	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/d02174fe-d16c-4dbc-9298-84df32618c68
 standtogether	KIP Spring 2027 - Strategic Research Intern - Pacific Legal Foundation @ Arlington, Virginia	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5
+standtogether	KIP Spring 2027 - Student Fellow (Research and Analysis) - Empire Center for Public Policy @ New York	Type=ST Fellowships - Remote; URL=https://jobs.lever.co/standtogether/5d70db1c-799b-4f37-a1d5-42c7ee6d5917
 standtogether	KIP Spring 2027 - Training and Education Intern - Atlas Network @ Arlington, Virginia	Type=ST Fellowships - Hybrid; URL=https://jobs.lever.co/standtogether/4544fd5a-2854-40db-9e4d-a3b7da8cad3a
 standtogether	KIP Spring 2027 - Trustee & Government Affairs Intern - The American Council of Trustees and Alumni @ Washington, DC	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/eaac73d6-76c5-4fbc-a3a2-3822f55afbad
 standtogether	KIP Spring 2027- Events and Meetings Intern - American Legislative Exchange Council @ Arlington, Virginia	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/83c15ecb-a29d-498c-83a6-3ff1a0d4fc10

@@ -38,6 +38,21 @@ RSVP coming soon
 Scroll for more
 A round of applause to our sponsors , who make all of this possible.
 And a big thank you to our partners .
+Meet our Opening Speakers
+Meet our Closing Speaker
+Eno Reyes
+FOUNDER &amp; CTO
+@Factory AI
+Among the world’s leading AI agent platforms (and already a Cal Hacks sponsor).
+Ryan Petersen
+CEO &amp; CO-FOUNDER
+@ Flexport
+The world’s leading AI-powered global logistics platform.
+Sergey Levine
+CO-FOUNDER
+@ Physical Intelligence
+One of the world’s most cited roboticists and a UC Berkeley AI professor.
+The world’s leading AGI platform for software-powered robotics.
 FAQs
 General
 + − What is Cal Hacks? Cal Hacks is a 3-day hackathon, where hackers creatively collaborate on innovative technology for a chance to win prizes including cash, and attend workshops and panels to learn more about emerging tech!

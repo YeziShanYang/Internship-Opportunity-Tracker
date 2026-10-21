@@ -8,10 +8,10 @@ Menu
 Menu
 Registration
 About Ready Trader Go
-Ready Trader Go is a student coding competition that dives into the world of algorithmic trading. Students are tasked with building and optimising a trading algorithm for Optiver&rsquo;s simulated market exchange, getting a first-hand experience of what it&rsquo;s like to be a trader. Those who finish at the top compete for a cash prize in the finals.
+Ready Trader Go is a student coding competition that dives into the world of algorithmic trading. Students are tasked with building and optimising a trading algorithm for Optiver’s simulated market exchange, getting a first-hand experience of what it&#8217;s like to be a trader. Those who finish at the top compete for a cash prize in the finals.
 Competition closed
 The 2023 edition of Ready Trader Go has concluded.
-Follow our social channels or sign up to our mailing list to find out when we&rsquo;re back again with the next edition of Ready Trader Go. Or learn more about the journey of the latest winner here .
+Follow our social channels or sign up to our mailing list to find out when we&#8217;re back again with the next edition of Ready Trader Go. Or learn more about the journey of the latest winner here .
 Learn more about Optiver
 To discover more about who we are and what we do, visit optiver.com
 Stay connected with us on social. Check out our channels below.
@@ -19,6 +19,6 @@ Instagram
 Facebook
 YouTube
 LinkedIn
-&copy; 2026 Optiver. All rights reserved.
-Terms &amp; Conditions
+© 2026 Optiver. All rights reserved.
+Terms &#038; Conditions
 Privacy Policy

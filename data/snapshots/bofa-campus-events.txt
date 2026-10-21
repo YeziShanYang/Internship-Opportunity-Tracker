@@ -2,21 +2,6 @@ https://bankcampuscareers.tal.net/vx/mobile-0/candidate/jobboard/vacancy/2/feed
 Campus Events
 Bank of America
 <timestamp>
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15034-Meet-the-Firms/en-GB
-Meet the Firms
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15034
-Title:Meet the Firms
-Event Date:20 Oct 2026 05:00 PM PDT
-Region:U.S. and Canada
-Country:United States of America
-Line of Business:MERRILL WEALTH MANAGEMENT
-Program (Event):Merrill Lynch Program
-School/University:University of Nevada - Las Vegas
-Event description:The UNLV FMA Meet the Firms event connects employers with undergraduate finance students seeking internship and full-time opportunities. Hosted by UNLV's Financial Management Association, the event is expected to attract 50–70 finance majors and provides
-Event address / venue details:UNLV Student Union 4505 S. Maryland Parkway Las Vegas, NV 89154
-Event Timezone:US/Pacific
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15036-Private-Bank-2028-Wealth-Management-Analyst-Program-Information-Session-11-4/en-GB
 Private Bank 2028 Wealth Management Analyst Program Information Session – 11/4
 <timestamp>
@@ -59,21 +44,6 @@ Program (Event):Private Bank Program
 Event description:Join our virtual information session to learn more about Bank of America's 2028 Wealth Management Summer Analyst Program with The Private Bank. Hear directly from business professionals as they share insights into their roles, career journeys, and what a
 Event address / venue details:Virtual - A meeting link will be shared with registered attendees prior to the event.
 Event Timezone:US/Eastern
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15013-Merrill-Wealth-Management-Campus-Recruiting-Information-Session-10-21/en-GB
-Merrill Wealth Management Campus Recruiting Information Session - 10/21
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15013
-Title: Merrill Wealth Management Campus Recruiting Information Session - 10/21
-Event Date:21 Oct 2026 04:00 PM PDT
-Region:U.S. and Canada
-Country:United States of America
-Line of Business:MERRILL WEALTH MANAGEMENT
-Program (Event):Merrill Lynch Program
-School/University:Auburn University,Belmont University,Boston College,Bradley University,Brown University,California State University - Fullerton,College of New Jersey,College of William &amp; Mary,Drexel,Florida State University,Hamilton College in Clinton New York,Illinois State University,Louisiana State University,Loyola University - Chicago,Loyola University Maryland,Middle Tennessee State University,Northwestern,Notre Dame College,Ohio State University,Oklahoma Christian University,Princeton University,Providence College, Providence, RI USA,Saint Mary's College of California,Samford University,San Francisco State University,Stanford University,University of Alabama,University of Alabama at Birmingham,University of California - Berkeley,University of California - Irvine,University of California - Los Angeles (UCLA),University of California - San Diego,University of Central Florida,University of Chicago,University of Colorado - Boulder,University of Illinois at Chicago,University of Illinois Springfield,University of Kentucky
-Event description:Bank of America Presents: Merrill Wealth Management Campus Recruiting Information Session Are you interested in exploring a career with Wealth Management? The Merrill Wealth Management team would like to invite you to join us for an exciting information s
-Event address / venue details:Virtual via Teams
-Event Timezone:US/Pacific
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15015-Merrill-Wealth-Management-Campus-Recruiting-Information-Session-11-5/en-GB
 Merrill Wealth Management Campus Recruiting Information Session - 11/5
 <timestamp>
@@ -89,20 +59,6 @@ School/University:Auburn University,Belmont University,Boston College,Bradley Un
 Event description:Bank of America Presents: Merrill Wealth Management Campus Recruiting Information Session Are you interested in exploring a career with Wealth Management? The Merrill Wealth Management team would like to invite you to join us for an exciting information s
 Event address / venue details:Virtual via Teams
 Event Timezone:US/Eastern
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/14981-The-Power-to-Move-Markets-Global-Markets-Global-Research/en-GB
-The Power to Move Markets: Global Markets &amp; Global Research
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:14981
-Title:The Power to Move Markets: Global Markets &amp; Global Research
-Event Date:20 Oct 2026 04:00 PM EST
-Region:U.S. and Canada
-Country:United States of America
-Line of Business:GLOBAL MARKETS
-Program (Event):Global Capital Markets Program,Global Research Program
-Event description:Step into the fast-paced world of markets, trading and research. Our Global Markets and Global Research teams connect clients to capital, insights and opportunities globally. In this session, you’ll hear first-hand about a day in the life on the trading d
-Event address / venue details:Virtual
-Event Timezone:EST
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/14982-The-Power-to-Navigate-the-Deal-Global-Corporate-Investment-Banking/en-GB
 The Power to Navigate the Deal: Global Corporate &amp; Investment Banking
 <timestamp>

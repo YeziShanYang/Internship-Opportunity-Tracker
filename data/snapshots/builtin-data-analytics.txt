@@ -31,6 +31,17 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+IDeaS
+Marketing Analytics Intern
+<age> Saved
+Remote or Hybrid
+United States
+Internship
+Internship
+Software &#x2022; Analytics &#x2022; Hospitality
+Supports cross-channel marketing attribution and influence modeling by documenting data sources, defining business rules, mapping and normalizing interaction data, testing reporting prototypes, and recommending implementation steps. The intern also assists with AWS marketing data organization, segmentation research, data hygiene, process documentation, and stakeholder communications. The role requires analytical thinking, thorough documentation, clear communication, and collaboration across marketing and technical teams.
+Top Skills:
+AWS Data Modeling Data Visualization Hubspot Marketing Automation Salesforce Spreadsheets SQL
 Spectrum
 2027 Summer Intern: Business Analyst
 <age> Saved
@@ -57,17 +68,6 @@ Cloud &#x2022; Information Technology &#x2022; Productivity &#x2022; Security &#
 Data Engineering Interns will define metrics, instrument logging, ingest and model data, transform datasets, ensure data quality and governance, and support visualization, reporting, alerting, and scalable systems. They will partner with product, analytics, and data consumers to improve product engagement, efficiency, costs, and strategic decision-making. The 12-week, full-time internship includes technical training, mentorship, and hands-on project experience.
 Top Skills:
 Python Relational Databases SQL
-IDeaS
-Research Analyst Intern
-<age> Saved
-Hybrid
-Bloomington, MN, USA
-Internship
-Internship
-Software &#x2022; Analytics &#x2022; Hospitality
-Research Analyst Intern supporting global alliance initiatives through strategic research, partnership analysis, data-driven recommendations, and stakeholder presentations. The role involves identifying business challenges, proposing solutions, tracking projects, preparing reports, and collaborating with international teams and executives using tools such as Wrike, Salesforce, Microsoft Forms, and PowerPoint.
-Top Skills:
-Microsoft Forms Microsoft Powerpoint Salesforce Wrike
 Citadel
 Quantitative Research Engineer - PhD Intern (US)
 <age> Saved
@@ -93,8 +93,8 @@ Supports reporting and optimization for Lowe’s Pro and Services business. The 
 Top Skills:
 Excel MS Office Microsoft Powerpoint
 New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
 Use For Free
 Mastercard
 Data Engineering Intern, Summer 2027 - San Franscisco, CA, US
@@ -166,7 +166,7 @@ C&#x2B;&#x2B; Python
 5
 ...
 ...
-47
+46
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

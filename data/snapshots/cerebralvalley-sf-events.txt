@@ -11,11 +11,6 @@ Discover
 San Francisco is where the frontier labs ship, and the calendar shows it. Explore Cerebral Valley&#x27;s curated selection of hackathons, research talks, demo nights, and founder dinners across the Bay.
 Featured Previous slide
 Next slide
-Oct 23
-Intelligence at Work Hackathon
-Fri, Oct 23 · 8:30 AM PDT
-Menlo Park, CA
-Snowflake and Anthropic will host a hands-on build day where engineers, product builders, and data teams use Claude and Snowflake to solve real business challenges with company or public data. Teams will develop ideas ranging from workflow automation to new products and customer experiences, with speakers, judges, and prizes to be announced.
 Oct 25
 Gemini 4 Argon SF Hackathon
 Sun, Oct 25 · 9:00 AM PDT
@@ -26,11 +21,11 @@ AIE Code Summit 2026 Hackathon
 Sat, Nov 7 · 9:00 AM PDT
 San Francisco, CA
 The AI Engineer Code Summit Hackathon will bring teams of up to four together for a one-day challenge tackling frontier AI engineering problems, with Meta, Google DeepMind, MongoDB, and Fetch.ai as partners. Approved attendees will compete for $11,000 in prizes, including partner awards.
-Oct 21
-SF AI Summit
-Wed, Oct 21 · 9:30 AM PDT
-San Francisco, CA
-The SF AI Summit on October 21, 2026, will feature keynotes, founder and investor panels, live product demos, and discussions on AI agents, models, infrastructure, and emerging startups. Founders, engineers, researchers, investors, and industry leaders will share insights into the technologies shaping AI’s future.
+Oct 23
+Intelligence at Work Hackathon
+Fri, Oct 23 · 8:30 AM PDT
+Menlo Park, CA
+Snowflake and Anthropic will host a hands-on build day where engineers, product builders, and data teams use Claude and Snowflake to solve real business challenges with company or public data. Teams will develop ideas ranging from workflow automation to new products and customer experiences, with speakers, judges, and prizes to be announced.
 Nov 5
 BoxWorks Dev Summit 2026
 Thu, Nov 5 · 8:00 AM PDT
@@ -40,7 +35,7 @@ Nov 4
 Data Outpost
 Wed, Nov 4 · 8:30 AM PDT
 San Francisco
-This two-day conference will explore how AI is reshaping data work, from emerging research to practical applications inside companies. Founders, engineers, product leaders, researchers, operators, and data architects will share what they’re building and what remains unknown.&quot; to &quot;Over two days of workshops and talks hosted by MotherDuck (with Sigma, OpenAI, Stripe, Clay, Vercel, Braintrust, and many more engineering, data, and AI leaders, plan to dive deep on how AI is shaping data and how work and decisions are made for some of the fastest-growing organizations.
+Over two days of workshops and talks hosted by MotherDuck (with Sigma, OpenAI, Stripe, Clay, Vercel, Braintrust, and many more engineering, data, and AI leaders, plan to dive deep on how AI is shaping data and how work and decisions are made for some of the fastest-growing organizations.
 Oct 23
 Beta Fund x AWS x OpenAI Multi-Model Hackathon
 Fri, Oct 23 · 9:30 AM PDT
@@ -61,6 +56,11 @@ Elastic{ON} AI San Francisco
 Wed, Nov 4 · 9:00 AM PDT
 SHACK15
 A free day of technical talks, demos, and networking will explore how the Elasticsearch Platform supports real-time AI agents, with practical use cases and innovations across Search, Security, Observability, and AI.
+Oct 21
+SF AI Summit
+Wed, Oct 21 · 9:30 AM PDT
+San Francisco, CA
+The SF AI Summit on October 21, 2026, will feature keynotes, founder and investor panels, live product demos, and discussions on AI agents, models, infrastructure, and emerging startups. Founders, engineers, researchers, investors, and industry leaders will share insights into the technologies shaping AI’s future.
 Oct 16
 Open Source AI Week 2026
 Fri, Oct 16 · 12:00 AM PDT LIVE
@@ -82,73 +82,74 @@ San Francisco, CA
 Attendees will dive into practical AI applications across startups with real technical case studies while getting hands-on with Bubble&#x27;s no-code platform, perfect for anyone looking to leverage automation and AI without breaking into code.
 Oct 20
 PyTorch Conference North America 2026
-Tue, Oct 20 · 9:00 AM PDT
+Tue, Oct 20 · 9:00 AM PDT LIVE
 San Jose McEnery Convention Center
 Top AI researchers and developers will gather to dive into cutting-edge PyTorch innovations and open source AI breakthroughs across training, inference, and agent systems through technical talks and hands-on workshops. The PyTorch Foundation&#x27;s premier event will bring together pioneers exploring the full AI stack and shaping the future of open intelligence.
 Oct 20
 Long Horizon Physical AI Summit
-Tue, Oct 20 · 9:00 AM PDT
+Tue, Oct 20 · 9:00 AM PDT LIVE
 Gateway Pavilion
 Encord’s two-day Long Horizon Physical AI Summit will bring together 1,000+ senior leaders from leading robotics, autonomous systems, and frontier AI companies for 60+ speakers, 30 sessions, hands-on workshops, and an expo. Day one will spotlight robotics and embodied AI, followed by autonomy across AV, ADAS, and defense.
 Oct 20
-Fireside Chat with Sriram Krishnan
-Tue, Oct 20 · 11:30 AM PDT
-San Francisco, CA
-Sriram Krishnan will share insights in a fireside chat and Q&amp;A, drawing on his experience as a senior White House AI policy advisor, Andreessen Horowitz general partner, and product leader at Microsoft, Meta, and Twitter. He helped shape the U.S. AI Action Plan and led investments and technology initiatives across AI, infrastructure, and consumer technology.
-Oct 20
 Inference &amp; RL Coffee Club at Pytorch week
-Tue, Oct 20 · 12:00 PM PDT
+Tue, Oct 20 · 12:00 PM PDT LIVE
 San Jose, CA
 The PyTorch NA 2026 Coffee Club will offer a relaxed space for coffee, peer conversations, and a breather between sessions, with no presentations or panels. Hosted by Anyscale, powered by the Ray AI compute engine, Inferact, founded by vLLM’s creators, and full-stack AI cloud provider Nscale, it will run October 20–21 from 12:00–5:00 PM.
-Oct 20
-LP &amp; GP Mixer
-Tue, Oct 20 · 5:00 PM PDT
+Oct 21
+General Partner &amp; Limited Partner Breakfast
+Wed, Oct 21 · 9:00 AM PDT
 San Francisco, CA
-Founders, AI builders, investors, and researchers will exchange ideas on emerging AI trends, startup opportunities, and fundraising through relaxed networking and peer conversations. The event is hosted by Founders Bay, a 200,000+ member founder and investor community, with the Founder Institute team sharing its AI-focused startup-building approach and founder resources.
-Oct 20
-SGLang Meetup with LinkedIn and LMCache
-Tue, Oct 20 · 5:00 PM PDT
-LinkedIn Corporation - Building 950 (LSNR)
-SGLang, LinkedIn, and LMCache will host a technical meetup during Open Source AI Week, featuring talks on generative retrieval, production-scale LLM serving, SGLang’s roadmap, reinforcement learning, and agent and KV-cache memory management. Engineers, researchers, and AI practitioners will connect over food and drinks, with speakers sharing hands-on expertise building and deploying real-world AI systems.
-Oct 20
-A Gossip Goblin GenJam
-Tue, Oct 20 · 5:00 PM PDT
+Forum Ventures, the leading early-stage B2B fund, accelerator, and AI venture studio, will host a GP &amp; LP breakfast with Lorimer Ventures, an enterprise, industrial, and frontier investor backed by a community of 100+ operator LPs. The gathering will feature candid conversations over coffee for fundraisers and investors building tomorrow’s portfolios, with Mercury supporting the event.
+Oct 21
+Startup Sprint: Prove you&#x27;re fundable
+Wed, Oct 21 · 9:00 AM PDT
 San Francisco, CA
-Fifteen teams of founders, AI filmmakers, creative-tool builders, and model experts will turn the same Gossip Goblin seed clip into original short films of up to two minutes, using their own tools or the Showrunner platform. Each team will screen its film for live audience voting and a judging panel, with cash, premiere tickets, platform and model credits, and other prizes on offer.
-Oct 20
-Thinking Fast or Slow: Open Source AI Edition
-Tue, Oct 20 · 5:00 PM PDT
+A three-day sprint where founders build under real pressure and judges dig into what actually broke and what you changed—no polished pitches allowed, just raw decisions under constraint across Discovery and Pre-seed tracks, with select teams earning 30 days of real-world validation beyond the weekend.
+Oct 21
+AI Summit
+Wed, Oct 21 · 9:30 AM PDT
 San Francisco, CA
-AI engineers and platform teams will explore when fast, calibrated decision models can replace slower, costlier LLM reasoning, and how to build the handoff. Rahul Parundekar will present a practical model-selection framework, while Superlinked founder Daniel Svonava will explain encoder models such as GLiClass, GLiNER, and Laya, including their tradeoffs and limits.
-Oct 20
-Daytona &amp; Oracle AI Builders
-Tue, Oct 20 · 5:30 PM PDT
+Builders, founders, and AI experts will gather for a full-day summit featuring keynotes from industry leaders, live product demos, and deep dives into AI agents, infrastructure, and emerging startups. You&#x27;ll network with engineers, investors, and founders shaping the next generation of AI technology on October 21, 2026.
+Oct 21
+SF AI Summit
+Wed, Oct 21 · 9:30 AM PDT
 San Francisco, CA
-Dive into the latest in AI Engineering with industry experts including Daytona&#x27;s DevRel team, featuring deep dives into agent runtime architecture and emerging AI innovations followed by networking with fellow builders and researchers. Oracle and Daytona will bring together AI enthusiasts and professionals for talks spanning practical agent infrastructure challenges and beyond, capped off with pizza and conversation.
-Oct 20
-AI trivia night
-Tue, Oct 20 · 5:30 PM PDT
-585 Market St
-Oct 20
-Conversations on AI: Beyond Code at Cal
-Tue, Oct 20 · 5:30 PM PDT
-Alumni House - UC Berkeley Campus
-The event will explore practical pathways into tech for people traditional education has left behind, as AI reshapes the industry. It will focus on what accessible, real-world routes into the field can look like.
-Oct 20
-OpenClaw &amp; Friends Meetup w/ NVIDIA &amp; Microsoft
-Tue, Oct 20 · 6:00 PM PDT
+The SF AI Summit on October 21, 2026, will feature keynotes, founder and investor panels, live product demos, and discussions on AI agents, models, infrastructure, and emerging startups. Founders, engineers, researchers, investors, and industry leaders will share insights into the technologies shaping AI’s future.
+Oct 21
+ANDxOR End User Group Meetup
+Wed, Oct 21 · 10:00 AM PDT
+US-SVL-MPD217
+The AAIF’s ANDOR user group will bring enterprise leaders and developers together to examine real-world agentic AI deployments, including multi-agent systems, interoperability, security, governance, and technical standards. Case studies and perspectives from companies including AT&amp;T, Cisco, and enterprise-focused startups will surface practical lessons from putting AI agents into production.
+Oct 21
+Code Smarter With Claude AI
+Wed, Oct 21 · 1:53 PM PDT
+949 Shattuck Ave.
+Developers and hobbyists experimenting with AI-assisted workflows will swap practical Claude Code tips, troubleshoot challenges, and compare how they use it for everyday coding, refactoring, and bug fixes. Attendees can bring a project to demonstrate a workflow or get feedback.
+Oct 21
+-1 to Anduril with Trae Stephens
+Wed, Oct 21 · 3:00 PM PDT
 San Francisco, CA
-During Open Source for AI Week, the OpenClaw Foundation, NVIDIA, and Microsoft will showcase open-source AI agents through demos, a panel, audience Q&amp;A, and networking. Builders and contributors will explore how to make AI agents more transparent, controllable, and open to everyone.
-Oct 20
-Lightning AI Fireside Chat &amp; Happy Hour
-Tue, Oct 20 · 6:00 PM PDT
-San Jose, CA
-Lightning AI will host a retro arcade happy hour featuring free food and drinks, networking, and a fireside chat on scaling reinforcement learning with PyTorch, Monarch, and TorchTitan. The discussion will be moderated by Lightning AI Machine Learning Solutions Engineer Sarah Ahmed, with PyTorch AI/ML Engineer at Meta Alireza Shamsoshoara.
-Oct 23
-Intelligence at Work Hackathon
-Fri, Oct 23 · 8:30 AM PDT
-Menlo Park, CA
-Snowflake and Anthropic will host a hands-on build day where engineers, product builders, and data teams use Claude and Snowflake to solve real business challenges with company or public data. Teams will develop ideas ranging from workflow automation to new products and customer experiences, with speakers, judges, and prizes to be announced.
+Trae Stephens, a Founders Fund GP and Anduril co-founder who previously led growth and product strategy at Palantir, will sit down for a fireside chat covering his journey from defense intelligence work to building autonomous systems technology. South Park Commons will host the conversation with plenty of time to mingle before the discussion kicks off.
+Oct 21
+Michael Bernstein @ Entrepreneurial Thought Leaders Speaker Series (ETL)
+Wed, Oct 21 · 4:30 PM PDT
+Nvidia Auditorium
+Michael Bernstein, Simile co-founder and chief data officer, Stanford computer science professor, and Stanford HAI Senior Fellow, will discuss AI systems for behavioral simulation as part of the Entrepreneurial Thought Leaders series.
+Oct 21
+AI Infrastructure Night
+Wed, Oct 21 · 5:00 PM PDT
+San Francisco, CA
+AI Infrastructure Night will feature four technical talks on building and operating production AI, from monitoring agents and sharing memory across simulated agents to managing software in customer-controlled infrastructure and running cloud-based coding agents. Speakers include developer relations engineers from Langfuse and Qdrant, an Alien ambassador, and Boxes AI’s co-founder.
+Oct 21
+Support Is an Engineering Problem Now — Plain × Sentry
+Wed, Oct 21 · 5:30 PM PDT
+San Francisco, CA
+Support and customer-facing engineers will explore how agents, MCP, and APIs are reshaping technical support, from automated issue resolution to context-rich investigations and evolving team skills. Speakers include Plain Co-Founder and CEO Simon Rohrbach, Plain Support Engineer Jordyn Buettner, and Sentry’s Head of Global Support Assaf Barnir and Support Engineering Manager Rene Green.
+Oct 21
+Investing Capital in Open Source &amp; Applied AI / SI
+Wed, Oct 21 · 5:30 PM PDT
+1070 Bryant St
+Applied AI Society will bring investors, founders, researchers, and technology leaders together to explore funding open-source AI, emerging infrastructure opportunities, and paths from startup to exit. Speakers will include Arjun Rai, an investor and entrepreneur-in-residence, and Joseph Perla, a four-time exited founder with AI research experience.
 Oct 25
 Gemini 4 Argon SF Hackathon
 Sun, Oct 25 · 9:00 AM PDT
