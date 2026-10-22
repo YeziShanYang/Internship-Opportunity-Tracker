@@ -2,18 +2,24 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-1/brand-4/candidate/jobboard/vac
 Campus Opportunities
 Jefferies
 <timestamp>
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2023-2027-Investment-Banking-Off-Cycle-Internship-Programme-London-Greek-Country-Coverage-Team/en-GB
+2027 Investment Banking Off Cycle Internship Programme - London - Greek Country Coverage Team
+<timestamp>
+<timestamp>
+ID:2023
+Title:2027 Investment Banking Off Cycle Internship Programme - London - Greek Country Coverage Team
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1781-2026-Equity-Sales-Intern-Brazil/en-GB
 2026 Equity Sales Intern - Brazil
 <timestamp>
 <timestamp>
 ID:1781
 Title:2026 Equity Sales Intern - Brazil
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2018-2027-Equity-Sales-Trading-Summer-Analyst-High-Touch-Trading-Hong-Kong/en-GB
-2027 Equity Sales &amp; Trading Summer Analyst – High Touch Trading – Hong Kong
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2018-2027-Equities-Sales-Trading-Summer-Analyst-High-Touch-Trading-Hong-Kong/en-GB
+2027 Equities Sales &amp; Trading Summer Analyst – High Touch Trading – Hong Kong
 <timestamp>
 <timestamp>
 ID:2018
-Title:2027 Equity Sales &amp; Trading Summer Analyst – High Touch Trading – Hong Kong
+Title:2027 Equities Sales &amp; Trading Summer Analyst – High Touch Trading – Hong Kong
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2019-2027-Investment-Banking-Off-Cycle-Internship-Programme-Paris-Consumer-Team-July-start/en-GB
 2027 Investment Banking Off Cycle Internship Programme Paris – Consumer Team (July start)
 <timestamp>
@@ -62,12 +68,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1997
 Title:2027 Equities Sales &amp; Trading Summer Analyst Program - Cash Trading - Hong Kong
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1994-2027-Investment-Banking-Off-Cycle-Internship-Benelux-Team-Amsterdam-Q2-April-June/en-GB
-2027 Investment Banking Off-Cycle Internship - Benelux Team, Amsterdam (Q2 - April - June)
-<timestamp>
-<timestamp>
-ID:1994
-Title:2027 Investment Banking Off-Cycle Internship - Benelux Team, Amsterdam (Q2 - April - June)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1992-2027-Equities-Sales-Trading-Summer-Analyst-Program-Prime-Services-Hong-Kong/en-GB
 2027 Equities Sales &amp; Trading Summer Analyst Program - Prime Services - Hong Kong
 <timestamp>

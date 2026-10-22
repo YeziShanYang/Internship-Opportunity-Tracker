@@ -31,6 +31,30 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Sierra Space
+Summer 2027 Flight Software Engineer Intern
+<age> Saved
+In-Office
+Louisville, CO, USA
+32-32 Hourly
+Internship
+32-32 Hourly
+Internship
+Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Robotics &#x2022; Defense &#x2022; Utilities
+Design, build, and test flight software for spacecraft systems and mission tools. Collaborate with development teams to write and debug code, participate in code reviews, support artificial intelligence projects, and gain experience across the software development lifecycle. Interns also complete professional development activities, workshops, and leadership sessions while receiving mentorship from aerospace industry experts.
+Top Skills:
+Artificial Intelligence
+Micron Technology
+Intern - IT Software Engineer
+<age> Saved
+In-Office
+Boise, ID, USA
+Internship
+Internship
+Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x2022; Machine Learning
+Develop and maintain software that automates semiconductor fabrication equipment and integrates with internal systems. Responsibilities include coding, testing, debugging, implementing enhancements, troubleshooting issues, documenting specifications, researching technologies, and participating in code reviews. The intern will collaborate with software engineers and other team members while gaining experience with scripting, Unix systems, APIs, version control, testing, DevOps, and monitoring tools.
+Top Skills:
+APIs Azure Devops Git Itil Perl Python Splunk Unix
 Palantir Technologies
 Software Engineer, Internship - Query Engines
 <age> Saved
@@ -72,6 +96,10 @@ Cloud &#x2022; Information Technology &#x2022; Productivity &#x2022; Security &#
 Paid 12-week software engineering internship involving coding and shipping product features, full-lifecycle development, technical training, mentorship, and collaboration on Atlassian cloud and core products. Interns will apply programming, data structures, algorithms, and software design fundamentals while working with senior engineers. Preferred experience includes prior software engineering projects or internships, AI/ML exposure, and familiarity with design patterns.
 Top Skills:
 Agentic Ai Artificial Intelligence Go Java Machine Learning Frameworks Mcp Python Typescript
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 T-Mobile
 Summer 2027 Software Engineering Intern
 <age> Saved
@@ -98,10 +126,6 @@ Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#
 Software engineering intern supporting the design, development, integration, testing, troubleshooting, and documentation of software for aerospace and defense systems. The role involves Agile development, algorithm and data analysis, object-oriented programming, and collaboration with experienced engineering professionals. Candidates must be pursuing a relevant bachelor’s degree, entering their sophomore through senior year, and be eligible for a U.S. Department of War security clearance.
 Top Skills:
 Agile Artificial Intelligence Bitbucket C# C&#x2B;&#x2B; Git Gitlab Java Real-Time Embedded Systems Unix/Linux Windows
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Ericsson
 Integration Engineer Intern
 <age> Saved
@@ -139,32 +163,6 @@ Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Bi
 11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
 Top Skills:
 Distributed Computing Machine Learning Natural Language Processing Web Frameworks
-Affirm
-IT Engineer Intern (Early Careers Summer 2027)
-<age> Saved
-Easy Apply
-In-Office
-San Francisco, CA, USA
-Easy Apply
-50-9K Hourly
-Internship
-50-9K Hourly
-Internship
-Big Data &#x2022; Fintech &#x2022; Mobile &#x2022; Payments &#x2022; Financial Services
-Engineering interns develop, ship, test, and monitor production code through a meaningful project tailored to team needs. They collaborate with mentors and managers, contribute to real engineering systems, and present their work at the end of the internship. Projects may involve data pipelines, automated testing, financial platforms, frontend applications, APIs, deployment, and cloud technologies.
-Top Skills:
-Angularjs Api Development AWS C C&#x2B;&#x2B; Deployment Frameworks Java JavaScript Python React Testing Frameworks
-Revel
-Internship: Full Stack Software Engineer
-<age> Saved
-In-Office
-2 Locations
-Internship
-Internship
-Aerospace &#x2022; Hardware &#x2022; Robotics &#x2022; Software
-Build and improve full-stack software for engineers operating mission-critical hardware. Responsibilities include developing React and TypeScript/JavaScript interfaces, contributing to backend services and APIs, creating reliable data flows, debugging across systems, writing tested code, and collaborating on greenfield products. The intern will work closely with software engineers and operators while gaining experience across frontend, backend, databases, and hardware-connected systems.
-Top Skills:
-C&#x2B;&#x2B; JavaScript Next.Js Node.js Python React Rust SQL Typescript
 1
 2
 3

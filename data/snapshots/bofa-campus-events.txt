@@ -2,6 +2,34 @@ https://bankcampuscareers.tal.net/vx/mobile-0/candidate/jobboard/vacancy/2/feed
 Campus Events
 Bank of America
 <timestamp>
+https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15233-Bank-of-America-Japan-MBA-Event-in-New-York/en-GB
+Bank of America | Japan MBA Event in New York
+<timestamp>
+<timestamp>
+~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15233
+Title:Bank of America | Japan MBA Event in New York
+Event Date:18 Nov 2026 05:00 PM EST
+Region:Asia Pacific
+Country:Japan
+Line of Business:GLOBAL CORPORATE &amp; INVESTMENT BANKING
+Program (Event):Global Capital Markets Program,Global Investment Banking Program
+Event description:Join us for an exclusive Global Investment Banking and Global Capital Markets MBA event at the Bank of America New York office this November. Designed for MBA students interested in exploring career opportunities in Japan, this event offers a unique oppor
+Event address / venue details:Shortlisted candidates will receive a confirmation email from us.
+Event Timezone:America/New_York
+https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15234-Bank-of-America-Japan-MBA-Event-in-Boston/en-GB
+Bank of America | Japan MBA Event in Boston
+<timestamp>
+<timestamp>
+~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15234
+Title:Bank of America | Japan MBA Event in Boston
+Event Date:19 Nov 2026 04:30 PM EST
+Region:Asia Pacific
+Country:Japan
+Line of Business:GLOBAL CORPORATE &amp; INVESTMENT BANKING
+Program (Event):Global Capital Markets Program,Global Investment Banking Program
+Event description:Join us for an exclusive Global Investment Banking and Global Capital Markets MBA event at the Bank of America Boston office this November. Designed for MBA students interested in exploring career opportunities in Japan, this event offers a unique opportu
+Event address / venue details:Shortlisted candidates will receive a confirmation email from us.
+Event Timezone:America/New_York
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15036-Private-Bank-2028-Wealth-Management-Analyst-Program-Information-Session-11-4/en-GB
 Private Bank 2028 Wealth Management Analyst Program Information Session – 11/4
 <timestamp>

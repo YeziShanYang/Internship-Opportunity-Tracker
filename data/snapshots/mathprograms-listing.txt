@@ -40,7 +40,6 @@ American Mathematical Society, Programs and Travel Grants
 [ BIRMAN27 ] The Joan and Joseph Birman Fellowship for the Advancement of Women Scholars &nbsp; (deadline 2026/09/30 11:59PM) &nbsp; Apply
 [ CENT27 ] AMS Centennial Fellowship &nbsp; (deadline 2026/09/30 11:59PM) &nbsp; Apply
 [ CLAYGIL27 ] Claytor-Gilmer Fellowship &nbsp; (deadline 2026/09/30 11:59PM) &nbsp; Apply
-[ GSTG27 ] Graduate Student Travel Grants to 2027 JMM &nbsp; Apply
 [ STEFBERG27 ] Stefan Bergman Fellowship &nbsp; (deadline 2026/09/30 11:59PM) &nbsp; Apply
 Carnegie Mellon University, Mathematical Sciences
 [ ANTIRAMSEY ] Workshop on Anti-Ramsey Problems &nbsp; Apply
@@ -54,8 +53,6 @@ IAS/Park City Mathematics Institute
 Institute for Advanced Study, School of Mathematics
 [ SC27 ] 2027 Summer Collaborators &nbsp; Apply
 [ WAM27 ] WAM 2027: Symmetries and the Shape of Motion &nbsp; ez Apply
-Joint Mathematics Meetings, Special Programs
-[ 2027CHILD ] 2027CHILD &nbsp; Apply
 Simons Laufer Mathematical Sciences Institute (formerly MSRI)
 [ PROOF ] PROOF 2027 (Promoting Research Opportunities and Open Forums) &nbsp; (deadline 2026/10/17 04:00AM) &nbsp; ez Apply
 University of California, Los Angeles, Department of Mathematics
@@ -64,5 +61,5 @@ University of Minnesota Twin Cities, School of Mathematics
 [ UMNREU ] Mathematics of Soft Matter &nbsp; (deadline 2026/06/12 11:59PM) &nbsp; Apply
 Williams College, Mathematics and Statistics
 [ POLYMATHREU2027 ] Polymath Jr-REU2027 &nbsp; Apply
-(33 programs listed)
+(31 programs listed)
 &copy; 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.
