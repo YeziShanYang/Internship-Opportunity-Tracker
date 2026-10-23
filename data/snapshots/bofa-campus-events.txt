@@ -83,24 +83,9 @@ Region:U.S. and Canada
 Country:United States of America
 Line of Business:MERRILL WEALTH MANAGEMENT
 Program (Event):Merrill Lynch Program
-School/University:Auburn University,Belmont University,Boston College,Bradley University,Brown University,California State University - Fullerton,College of New Jersey,College of William &amp; Mary,Drexel,Florida State University,Hamilton College in Clinton New York,Illinois State University,Louisiana State University,Loyola University - Chicago,Loyola University Maryland,Middle Tennessee State University,Northwestern,Ohio State University,Oklahoma Christian University,Princeton University,Providence College, Providence, RI USA,Samford University,San Francisco State University,St Mary`s College,Stanford University,University of Alabama,University of Alabama at Birmingham,University of California - Berkeley,University of California - Irvine,University of California - Los Angeles (UCLA),University of California - San Diego,University of Central Florida,University of Central Oklahoma,University of Chicago,University of Colorado - Boulder,University of Illinois at Chicago,University of Illinois Springfield,University of Kentucky - Lex
 Event description:Bank of America Presents: Merrill Wealth Management Campus Recruiting Information Session Are you interested in exploring a career with Wealth Management? The Merrill Wealth Management team would like to invite you to join us for an exciting information s
 Event address / venue details:Virtual via Teams
 Event Timezone:US/Eastern
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/14982-The-Power-to-Navigate-the-Deal-Global-Corporate-Investment-Banking/en-GB
-The Power to Navigate the Deal: Global Corporate &amp; Investment Banking
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:14982
-Title:The Power to Navigate the Deal: Global Corporate &amp; Investment Banking
-Event Date:22 Oct 2026 04:00 PM EST
-Region:U.S. and Canada
-Country:United States of America
-Line of Business:GLOBAL CORPORATE &amp; INVESTMENT BANKING
-Program (Event):Global Investment Banking Program
-Event description:From advising on mergers to structuring deals that can shape an industry, our Global Corporate &amp; Investment Banking teams help clients achieve their strategic goals. This session offers an analyst’s perspective of our Global Corporate &amp; Investment Banking
-Event address / venue details:Virtual
-Event Timezone:EST
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/14983-The-Power-to-Build-Legacies-Wealth-Management/en-GB
 The Power to Build Legacies: Wealth Management
 <timestamp>

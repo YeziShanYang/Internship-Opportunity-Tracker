@@ -74,18 +74,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1992
 Title:2027 Equities Sales &amp; Trading Summer Analyst Program - Prime Services - Hong Kong
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1990-2027-Front-Office-Technology-Summer-Internship-New-York-and-Jersey-City/en-GB
-2027 Front Office Technology Summer Internship – New York and Jersey City
-<timestamp>
-<timestamp>
-ID:1990
-Title:2027 Front Office Technology Summer Internship – New York and Jersey City
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1991-2027-Corporate-Technology-Summer-Internship-New-York-and-Jersey-City/en-GB
-2027 Corporate Technology Summer Internship – New York and Jersey City
-<timestamp>
-<timestamp>
-ID:1991
-Title:2027 Corporate Technology Summer Internship – New York and Jersey City
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1988-Class-of-2029-Investment-Banking-Insight-Day/en-GB
 Class of 2029: Investment Banking Insight Day
 <timestamp>
@@ -140,6 +128,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1966
 Title:2027 Investment Banking Off-Cycle Internship - Benelux Team, Amsterdam (January - March)
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1961-2027-Human-Resources-Summer-Analyst-Program-Jersey-City-Compensation-and-Benefits/en-GB
+2027 Human Resources Summer Analyst Program – Jersey City, Compensation and Benefits
+<timestamp>
+<timestamp>
+ID:1961
+Title:2027 Human Resources Summer Analyst Program – Jersey City, Compensation and Benefits
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1792-2027-Investment-Banking-Summer-Internship-Programme-London/en-GB
 2027 Investment Banking Summer Internship Programme - London
 <timestamp>

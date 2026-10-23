@@ -190,6 +190,11 @@ sunhacks
 NOV 14 - 15
 Tempe, Arizona, US
 In-Person
+London , Ontario
+Hack Western 13
+NOV 20 - 22
+London, Ontario, CA
+In-Person HARDWARE
 St. John&#x27;s , Newfoundland and Labrador / Avalon Peninsula
 TF
 Tech For Community 2026
@@ -211,6 +216,12 @@ Lleida , Lleida, Spain
 HackEPS
 NOV 28 - 29
 Lleida, Lleida, Spain, ES
+In-Person
+Sheffield , South Yorkshire
+H
+HackSheffield11
+NOV 28 - 29
+Sheffield, South Yorkshire, GB
 In-Person
 2027
 Hamilton , Ontario

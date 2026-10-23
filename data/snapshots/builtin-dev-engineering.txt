@@ -31,6 +31,58 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Palantir Technologies
+Forward Deployed Software Engineer, Internship - Warp Speed
+<age> Saved
+In-Office
+New York, NY, USA
+120K-120K Annually
+Internship
+120K-120K Annually
+Internship
+Artificial Intelligence &#x2022; Software
+Build customer-specific software solutions using large-scale data and AI. Responsibilities include collaborating on architecture and design, developing custom applications, engaging with technical and executive stakeholders, and driving high-impact projects from ideation through deployment. The role involves working directly with customers, solving complex technical problems, and traveling to client sites as needed.
+Top Skills:
+Artificial Intelligence C&#x2B;&#x2B; Cloud Infrastructure Data Structures Front-End Frameworks Java JavaScript Python Storage Systems Typescript
+Palantir Technologies
+Forward Deployed Software Engineer, Internship - US Government
+<age> Saved
+In-Office
+New York, NY, USA
+120K-120K Annually
+Internship
+120K-120K Annually
+Internship
+Artificial Intelligence &#x2022; Software
+FDSE Interns work in small teams to design and implement data-driven solutions for customers, owning end-to-end projects including architecture, large-scale data wrangling, web app coding, and customer engagement. Interns receive mentorship, travel to client sites as needed, and are treated like full-time engineers.
+Top Skills:
+C&#x2B;&#x2B; Cloud Infrastructure Data Structures Front-End Frameworks Java JavaScript Python Storage Systems Typescript
+Palantir Technologies
+Forward Deployed Software Engineer, Internship - US Government
+<age> Saved
+In-Office
+Washington, DC, USA
+120K-120K Annually
+Internship
+120K-120K Annually
+Internship
+Artificial Intelligence &#x2022; Software
+Work on customer-facing, high-impact projects as an intern FDSE: design and implement data-driven solutions, wrangle large-scale data, build web apps, discuss architecture, and own end-to-end execution while collaborating with technical and non-technical stakeholders. May require travel and US government background checks.
+Top Skills:
+C&#x2B;&#x2B; Cloud Infrastructure Data Structures Front-End Frameworks Java JavaScript Python Storage Systems Typescript
+Ursa Major
+2027 Summer Software Development Intern
+<age> Saved
+In-Office
+Berthoud, CO, USA
+30-30 Hourly
+Internship
+30-30 Hourly
+Internship
+Aerospace &#x2022; Defense
+Develop reliable software for digital manufacturing systems supporting rocket engine design, testing, and production. Responsibilities include automated testing, CI/CD and GitOps practices, task planning, documentation, and cross-functional collaboration. The role requires Python, SQL, a statically typed compiled language, data modeling, Linux, shell scripting, and container-based development. Preferred experience includes advanced education, technical software development, API and queue integrations, and frontend web development.
+Top Skills:
+APIs C# Ci/Cd Containers Gitops Go Java Linux Python Queues Rust Shell Scripting SQL
 Sierra Space
 Summer 2027 Flight Software Engineer Intern
 <age> Saved
@@ -55,19 +107,10 @@ Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x202
 Develop and maintain software that automates semiconductor fabrication equipment and integrates with internal systems. Responsibilities include coding, testing, debugging, implementing enhancements, troubleshooting issues, documenting specifications, researching technologies, and participating in code reviews. The intern will collaborate with software engineers and other team members while gaining experience with scripting, Unix systems, APIs, version control, testing, DevOps, and monitoring tools.
 Top Skills:
 APIs Azure Devops Git Itil Perl Python Splunk Unix
-Palantir Technologies
-Software Engineer, Internship - Query Engines
-<age> Saved
-In-Office
-New York, NY, USA
-126K-126K Annually
-Internship
-126K-126K Annually
-Internship
-Artificial Intelligence &#x2022; Software
-Work on query engines and data-processing infrastructure powering Palantir Foundry. Responsibilities include optimizing query plans, developing execution-engine capabilities, improving large-table performance, and contributing through design, coding, testing, code review, and release. The role involves working with technologies such as Spark, DataFusion, Iceberg, Arrow, and Parquet while learning how modern distributed data systems operate.
-Top Skills:
-Apache Arrow Apache Comet Apache Datafusion Apache Iceberg Apache Parquet Spark C C&#x2B;&#x2B; Cargo Git Gradle Java Python Rust Scala Velox
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 Braze
 Intern, Software Engineering
 <age> Saved
@@ -96,23 +139,6 @@ Cloud &#x2022; Information Technology &#x2022; Productivity &#x2022; Security &#
 Paid 12-week software engineering internship involving coding and shipping product features, full-lifecycle development, technical training, mentorship, and collaboration on Atlassian cloud and core products. Interns will apply programming, data structures, algorithms, and software design fundamentals while working with senior engineers. Preferred experience includes prior software engineering projects or internships, AI/ML exposure, and familiarity with design patterns.
 Top Skills:
 Agentic Ai Artificial Intelligence Go Java Machine Learning Frameworks Mcp Python Typescript
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
-T-Mobile
-Summer 2027 Software Engineering Intern
-<age> Saved
-In-Office
-Bellevue, WA, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Participate in an 11-week paid software engineering internship with mentorship and hands-on projects. Responsibilities include designing, developing, testing, maintaining, debugging, and improving software applications; writing documented code; participating in code reviews; collaborating with cross-functional teams; and learning modern development practices, tools, frameworks, Agile, and CI/CD.
-Top Skills:
-Agile C&#x2B;&#x2B; Ci/Cd Java JavaScript Python
 BAE Systems, Inc.
 C4ISR - Software Engineering Intern, Summer 2027 (Onsite)
 <age> Saved
