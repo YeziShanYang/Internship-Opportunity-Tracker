@@ -62,7 +62,7 @@ Series A
 Series B
 Clear all
 Powered by Getro
-Showing 41 jobs
+Showing 40 jobs
 Summer 2027 Internship - Information Security Engineer
 General Matter
 Location: Los Angeles, CA, USA
@@ -316,7 +316,7 @@ View job
 Computer Vision Research Engineer - Intern
 Bobyard
 Location: San Francisco, CA, USA
-Compensation: USD 55-55 / hour + Equity
+Compensation: USD 55-55 / hour
 Posted <age>
 Series A
 Internship

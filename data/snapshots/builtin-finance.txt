@@ -32,38 +32,42 @@ Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Finance Jobs
 Wipfli
-Audit Internship - Summer 2028
+Audit Internship - Spring 2028
 <age> Saved
 Hybrid
-Fort Collins, CO, USA
-34-34 Hourly
+Milwaukee, WI, USA
 Internship
-34-34 Hourly
 Internship
 Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
-Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, management reports, and engagement outputs; communicate with clients and engagement leaders; analyze data; and identify process improvements. They develop accounting, GAAP, professional, administrative, and interpersonal skills while supporting client engagements across varied industries.
-Wipfli
-Audit Internship - Summer 2028
-<age> Saved
-Hybrid
-Denver, CO, USA
-34-34 Hourly
-Internship
-34-34 Hourly
-Internship
-Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
-Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, and management reports; communicate with engagement leaders and clients; analyze data; and identify process improvements. They gain hands-on experience supporting client engagements across varied industries while developing accounting, GAAP, professional, and interpersonal skills.
+Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, reports, and engagement outputs; gather client information; analyze data; identify process improvements; and communicate with engagement leaders. The role provides hands-on experience across varied client industries while developing accounting, GAAP, professional, administrative, and interpersonal skills.
 Top Skills:
-Audit Software Applications Data Analytics Gaap
-Wipfli
-Audit Internship - Summer 2028
+Data Analytics Gaap
+Optum
+Financial Analyst Intern - Multiple Locations
 <age> Saved
-Hybrid
-Radnor, PA, USA
+In-Office
+Eden Prairie, MN, USA
+18-32 Hourly
 Internship
+18-32 Hourly
 Internship
-Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
-Audit interns perform audit, review, and compliance testing; prepare or review financial statements, footnotes, and management reports; gather client information; analyze data; identify process improvements; and communicate with engagement leaders. They develop technical knowledge of GAAP, gain hands-on experience supporting client engagements, and build professional, administrative, analytical, and interpersonal skills while working with diverse clients and teams.
+Artificial Intelligence &#x2022; Big Data &#x2022; Healthtech &#x2022; Information Technology &#x2022; Machine Learning &#x2022; Software &#x2022; Analytics
+Supports financial analysis, reporting, forecasting, budgeting, treasury, and capital planning activities. Responsibilities include analyzing financial results, developing forecasts and budgets, researching economic trends, creating budget templates, preparing spreadsheets, and using approved AI tools to improve analysis and reporting. This is a full-time summer internship beginning June 2027.
+Top Skills:
+Artificial Intelligence Generative Ai Excel MS Office Microsoft Powerpoint Microsoft Word
+Optum
+OptumServe, Accounting Intern - La Crosse, WI
+<age> Saved
+In-Office
+La Crosse, WI, USA
+18-32 Hourly
+Internship
+18-32 Hourly
+Internship
+Artificial Intelligence &#x2022; Big Data &#x2022; Healthtech &#x2022; Information Technology &#x2022; Machine Learning &#x2022; Software &#x2022; Analytics
+Accounting Intern supporting monthly bank reconciliations, fixed asset and lease accounting, month-end close, audit support, internal controls, reporting, data validation, and process documentation. The role collaborates with Accounts Payable and Project Accounting teams to resolve discrepancies and improve accounting processes. It is a year-round, in-office internship designed for students pursuing practical experience in accounting and financial reporting.
+Top Skills:
+Costpoint Erp Systems Excel Peoplesoft
 Ericsson
 Financial Analyst Intern
 <age> Saved
@@ -88,6 +92,10 @@ Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelli
 Supports audit teams with independent evaluations of financial reporting, auditing methodologies, regulatory compliance assessments, data analysis, research, and governance activities. The intern assists with financial assessments, applies cloud engineering principles to audit processes, collaborates with team members, learns from experienced auditors, and develops professional and decision-making skills through feedback and client-focused assurance work.
 Top Skills:
 AI Cloud Engineering
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Liberty Mutual Insurance
 Surety Underwriting Internship - Summer 2027
 <age> Saved
@@ -99,10 +107,6 @@ Internship
 Internship
 Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
 This 11-week internship provides hands-on training in surety underwriting, financial analysis, risk assessment, relationship management, and business decision-making. Interns work alongside experienced underwriters, evaluate financial strength and business risk, support bonding decisions, participate in mentorship and job shadowing, and learn about the surety bonding process through the AFSB curriculum.
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Spectrum
 2027 Summer Intern: Associate Business Planning Analyst
 <age> Saved
@@ -164,17 +168,6 @@ Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Tec
 Paid 10-week investment research internship supporting fixed-income research analysts and portfolio managers. Responsibilities include financial modeling, scenario analysis, bond portfolio surveillance, credit research, market data collection, dashboards, reporting, portfolio management projects, new deal analysis, and market research. Interns gain exposure to institutional investing, collaborate with investment professionals, and participate in training, networking, and a summer project.
 Top Skills:
 Bloomberg C&#x2B;&#x2B; Excel Java Python VBA
-Clearwater Analytics (CWAN)
-LP Analyst
-<age> Saved
-Hybrid
-2 Locations
-Internship
-Internship
-Fintech &#x2022; Software &#x2022; Financial Services
-Supports daily, monthly, and quarterly reconciliation of limited partner capital activity, including capital calls, distributions, and account balances. The role compares external administrator and general partner data with internal records, investigates discrepancies, validates financial information, tracks reconciliation delivery, and communicates with internal stakeholders and external data providers. It also develops foundational knowledge of investment accounting, alternative investment structures, fund performance metrics, and reconciliation tools under mentorship.
-Top Skills:
-Excel
 1
 2
 3

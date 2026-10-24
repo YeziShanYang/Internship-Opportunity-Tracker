@@ -74,12 +74,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1992
 Title:2027 Equities Sales &amp; Trading Summer Analyst Program - Prime Services - Hong Kong
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1988-Class-of-2029-Investment-Banking-Insight-Day/en-GB
-Class of 2029: Investment Banking Insight Day
-<timestamp>
-<timestamp>
-ID:1988
-Title:Class of 2029: Investment Banking Insight Day
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1984-2027-Equity-Research-Summer-Analyst-Program-Hong-Kong/en-GB
 2027 Equity Research Summer Analyst Program - Hong Kong
 <timestamp>

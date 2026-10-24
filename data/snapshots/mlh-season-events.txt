@@ -97,7 +97,6 @@ NOV 07 - 08
 Kitchener, Ontario, CA
 In-Person
 Rochester , New York
-H
 HACK.COMS
 NOV 07 - 08
 Rochester, New York, US
@@ -168,7 +167,7 @@ Arlington , Texas
 HackUTA
 NOV 14 - 15
 Arlington, Texas, US
-In-Person HARDWARE
+In-Person
 La Jolla , CA
 SanD Hacks
 NOV 14 - 15

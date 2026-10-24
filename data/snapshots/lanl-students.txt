@@ -147,6 +147,7 @@ AOT-IC/Operations and Techonology Instrumentation and Controls
 AOT-MDE - Mechanical Design Engineering
 AOT-MDE / Mechanical Design Engineering
 AOT-MDE/Mechanical Design Engineering
+AOT-OPS / Accelerator Operations
 AOT-OPS/Accelerator Operations
 AOT-RFE/Accelerator Operations and Technology Division Radio Frequency Engineering
 AOT-RFE/Radio Frequency Engineering
@@ -384,6 +385,7 @@ NSEC-PSPO / Postdoc and Student Program
 NUC &amp; PARTICLE PHYS, ASTROPHYS &amp; COSMOL/T-2
 Nuclear &amp; Radiochemistry
 Nuclear Criticality Safety (NCS)
+Nuclear Engineering &amp; Nonproliferation: Safeguards Science and Techno (NEN-1)
 Nuclear Material Control and Accountability Group (NMCA)
 Nuclear Materials and TRU Waste Shipping (NPI-7)
 Occupational Safety &amp; Health (OSH) Industrial Safety and Hygiene (ISH)
@@ -584,6 +586,7 @@ Waste Management-Waste Generator Services (WM-WGS)
 W-DO/Weapon Systems Engineering Division
 Weapons Facilities Operations Divisions
 Weapons Infrastructure Program Office - WIPO
+WFO/Weapons Facilities Operations Divisions
 WFO-FMO/Facilities Management &amp; Operations Programs
 WFO-HE/High Explosives
 WFO-OS/Operations Support
@@ -643,6 +646,7 @@ AOT-IC/Operations and Techonology Instrumentation and Controls
 AOT-MDE - Mechanical Design Engineering
 AOT-MDE / Mechanical Design Engineering
 AOT-MDE/Mechanical Design Engineering
+AOT-OPS / Accelerator Operations
 AOT-OPS/Accelerator Operations
 AOT-RFE/Accelerator Operations and Technology Division Radio Frequency Engineering
 AOT-RFE/Radio Frequency Engineering
@@ -880,6 +884,7 @@ NSEC-PSPO / Postdoc and Student Program
 NUC &amp; PARTICLE PHYS, ASTROPHYS &amp; COSMOL/T-2
 Nuclear &amp; Radiochemistry
 Nuclear Criticality Safety (NCS)
+Nuclear Engineering &amp; Nonproliferation: Safeguards Science and Techno (NEN-1)
 Nuclear Material Control and Accountability Group (NMCA)
 Nuclear Materials and TRU Waste Shipping (NPI-7)
 Occupational Safety &amp; Health (OSH) Industrial Safety and Hygiene (ISH)
@@ -1080,6 +1085,7 @@ Waste Management-Waste Generator Services (WM-WGS)
 W-DO/Weapon Systems Engineering Division
 Weapons Facilities Operations Divisions
 Weapons Infrastructure Program Office - WIPO
+WFO/Weapons Facilities Operations Divisions
 WFO-FMO/Facilities Management &amp; Operations Programs
 WFO-HE/High Explosives
 WFO-OS/Operations Support
@@ -1146,8 +1152,8 @@ Job Number
 Organization
 City, State
 NEN-2 Undergraduate Student IRC146390 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY Los Alamos, NM
-Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Alamos, NM
 Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
+Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Alamos, NM
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Undergraduate Information Technology Internship IRC146184 CIO / Chief Information Officer Los Alamos, NM
