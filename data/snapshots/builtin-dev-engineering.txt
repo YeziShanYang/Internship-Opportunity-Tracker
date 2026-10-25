@@ -97,8 +97,8 @@ Develop and maintain software that automates semiconductor fabrication equipment
 Top Skills:
 APIs Azure Devops Git Itil Perl Python Splunk Unix
 New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
 Use For Free
 Braze
 Intern, Software Engineering
@@ -172,7 +172,7 @@ Ai/Ml Android APIs iOS Unit Testing
 5
 ...
 ...
-78
+79
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

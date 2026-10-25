@@ -31,19 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
-Spectrum
-2027 Summer Intern: Business Analyst
+Citadel
+Quantitative Research Engineer - PhD Intern (US)
 <age> Saved
 In-Office
-New Connecticut, NY, USA
-31-33 Hourly
+4 Locations
+5K-5K Hourly
 Internship
-31-33 Hourly
+5K-5K Hourly
 Internship
-Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
-Paid, full-time summer intern supporting data analytics, reporting, dashboards, data integration, automation, business-rule documentation, management reporting, and compliance audits. The role involves gathering business requirements, identifying improvement opportunities, responding to ad hoc requests, and collaborating with stakeholders to produce actionable insights. Interns also participate in professional development, networking, mentorship, and cross-functional activities.
+Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
+As a PhD intern, you will design and develop software solutions for automated trading systems, collaborating closely with the Quantitative Research team.
 Top Skills:
-Alteryx Business Intelligence ETL Python SQL Tableau
+C&#x2B;&#x2B; Python R
 STR
 Data Analyst Intern - Summer 2027
 <age> Saved
@@ -97,8 +97,8 @@ Data Engineering Interns will define metrics, instrument logging, ingest and mod
 Top Skills:
 Python Relational Databases SQL
 New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
 Use For Free
 Lowe&#x2019;s
 PRO Services Reporting Intern - Undergrad Internship - Summer 2027
@@ -150,17 +150,19 @@ eCommerce &#x2022; Mobile &#x2022; Payments
 Business Intelligence Interns will conduct exploratory data analysis, create ad hoc reports, and support the development, migration, and improvement of dashboards using Looker and Databricks. They will gather requirements, build visualizations, test dashboard accuracy and usability, identify data inconsistencies, and document findings while collaborating with team members on business initiatives.
 Top Skills:
 Databricks Looker Power BI Python SQL Tableau
-JPMorganChase
-2027 Quantitative Research - Risk and Treasury - Summer Internship - Associate - United States
+Spectrum
+2027 Summer Intern: Associate Data Analyst (Customer Operations)
 <age> Saved
-Hybrid
-3 Locations
+In-Office
+New Connecticut, NY, USA
+31K-33K Annually
 Internship
+31K-33K Annually
 Internship
-Financial Services
-Summer internship in Quantitative Research for Risk and Treasury focusing on data analysis, backtesting, model development, validation, and software/tool improvement. Collaborate with teams to assess model soundness, design mathematical models and algorithms, optimize financial solutions across asset classes, and propose creative quantitative solutions.
+Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
+Paid, full-time data analyst internship supporting business planning and data operations. Responsibilities include documenting data definitions, business rules, and data quality requirements; integrating data from multiple sources; completing roadmap projects to improve process efficiency; and identifying data-driven strategies to enhance business performance. Interns also participate in professional development, networking, mentorship, community service, and final presentations.
 Top Skills:
-C&#x2B;&#x2B; Python
+Microsoft Access Excel MS Office Microsoft Powerpoint Microsoft Word
 1
 2
 3
