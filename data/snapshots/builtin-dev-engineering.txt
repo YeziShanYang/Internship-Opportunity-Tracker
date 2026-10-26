@@ -31,6 +31,17 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Ericsson
+Networks TOAI Intern
+<age> Saved
+In-Office
+Plano, TX, USA
+Internship
+Internship
+Cloud &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Machine Learning &#x2022; Software &#x2022; Cybersecurity &#x2022; Infrastructure as a Service (IaaS)
+Supports technology operations and AI automation for cellular networking workflows. Identifies manual processes, documents requirements, develops scripts, applications, dashboards, integrations, and automation frameworks, and prototypes AI-assisted solutions. Cleans and validates operational data, performs testing, documents solutions, monitors deployments, and resolves issues. Collaborates with RAN engineering, construction, field operations, project management, and business teams while following cybersecurity, privacy, access-control, confidentiality, and responsible-AI requirements.
+Top Skills:
+APIs Artificial Intelligence Automation Frameworks Dashboards Data Visualization Databases Python Ran Architecture Rf Technology Scripting Spreadsheets
 MongoDB
 2027 - Software Engineering Intern, AMER
 <age> Saved
@@ -85,6 +96,10 @@ Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Robotics &#
 Design, build, and test flight software for spacecraft systems and mission tools. Collaborate with development teams to write and debug code, participate in code reviews, support artificial intelligence projects, and gain experience across the software development lifecycle. Interns also complete professional development activities, workshops, and leadership sessions while receiving mentorship from aerospace industry experts.
 Top Skills:
 Artificial Intelligence
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Micron Technology
 Intern - IT Software Engineer
 <age> Saved
@@ -96,10 +111,6 @@ Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x202
 Develop and maintain software that automates semiconductor fabrication equipment and integrates with internal systems. Responsibilities include coding, testing, debugging, implementing enhancements, troubleshooting issues, documenting specifications, researching technologies, and participating in code reviews. The intern will collaborate with software engineers and other team members while gaining experience with scripting, Unix systems, APIs, version control, testing, DevOps, and monitoring tools.
 Top Skills:
 APIs Azure Devops Git Itil Perl Python Splunk Unix
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Braze
 Intern, Software Engineering
 <age> Saved
@@ -141,17 +152,6 @@ Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#
 Software engineering intern supporting the design, development, integration, testing, troubleshooting, and documentation of software for aerospace and defense systems. The role involves Agile development, algorithm and data analysis, object-oriented programming, and collaboration with experienced engineering professionals. Candidates must be pursuing a relevant bachelor’s degree, entering their sophomore through senior year, and be eligible for a U.S. Department of War security clearance.
 Top Skills:
 Agile Artificial Intelligence Bitbucket C# C&#x2B;&#x2B; Git Gitlab Java Real-Time Embedded Systems Unix/Linux Windows
-Ericsson
-Integration Engineer Intern
-<age> Saved
-In-Office
-Plano, TX, USA
-Internship
-Internship
-Cloud &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Machine Learning &#x2022; Software &#x2022; Cybersecurity &#x2022; Infrastructure as a Service (IaaS)
-Supports the configuration, integration, migration, testing, and verification of systems, networks, APIs, and data flows. Develops automation scripts, primarily in Python, and explores AI/ML, generative AI, RAG, and agent-based solutions for engineering workflows. Assists with pre-sales analysis, troubleshooting, documentation, quality improvements, and post-project activities while collaborating with experienced engineers.
-Top Skills:
-Agent Evaluation Ai Agents Ai/Ml APIs Cloud Services Data Pipelines Generative Ai Git Guardrails Java JavaScript Large Language Models Prompt Design Python Retrieval-Augmented Generation (Rag) Software Automation Software Testing Structured Outputs Tool Calling
 Expedia Group
 Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle
 <age> Saved
@@ -172,7 +172,7 @@ Ai/Ml Android APIs iOS Unit Testing
 5
 ...
 ...
-79
+78
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

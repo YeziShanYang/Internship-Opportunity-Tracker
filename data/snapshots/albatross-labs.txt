@@ -37,15 +37,5 @@ Fluency in Python/Pandas, and Git
 Working knowledge of Rust (preferred) or C++
 ​ ​
 &nbsp;
-Quant Researcher Intern
-Key Responsibilities:
-Work on high impact research and/or modeling projects in futures or options in a tight team environment
-Skillset Requirements:
-Previous experience with working with time series tick data or pricing models on futures and/or options.
-Fluency in Python/Pandas, and Git
-(preferred) Working knowledge of Rust (preferred) or C++
-(preferred) Proven records from math or programming competitions &nbsp;
-​ ​
-&nbsp;
 ©2021 by albatrosslabs
 bottom of page

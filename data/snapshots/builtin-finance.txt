@@ -31,17 +31,6 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Finance Jobs
-Spectrum
-2027 Summer Intern: Transaction Tax Accountant - Corporate
-<age> Saved
-In-Office
-Charlotte, NC, USA
-Internship
-Internship
-Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
-Paid, full-time 11-week transaction tax internship supporting audit data gathering and reconciliation. Responsibilities include reviewing invoices and purchases, reconciling sales and use tax accruals, and generating general ledger reports. The role is intended for rising juniors or seniors pursuing a bachelor’s degree in accounting, business administration, or finance, with opportunities for professional development, networking, mentorship, and team projects.
-Top Skills:
-Microsoft Access Excel Microsoft Powerpoint Microsoft Word
 Wipfli
 Audit Internship - Spring 2028
 <age> Saved
@@ -90,10 +79,6 @@ Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelli
 Supports audit teams with independent evaluations of financial reporting, auditing methodologies, regulatory compliance assessments, data analysis, research, and governance activities. The intern assists with financial assessments, applies cloud engineering principles to audit processes, collaborates with team members, learns from experienced auditors, and develops professional and decision-making skills through feedback and client-focused assurance work.
 Top Skills:
 AI Cloud Engineering
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Liberty Mutual Insurance
 Surety Underwriting Internship - Summer 2027
 <age> Saved
@@ -105,6 +90,21 @@ Internship
 Internship
 Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
 This 11-week internship provides hands-on training in surety underwriting, financial analysis, risk assessment, relationship management, and business decision-making. Interns work alongside experienced underwriters, evaluate financial strength and business risk, support bonding decisions, participate in mentorship and job shadowing, and learn about the surety bonding process through the AFSB curriculum.
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
+Spectrum
+2027 Summer Intern: Associate Business Planning Analyst
+<age> Saved
+In-Office
+New Connecticut, NY, USA
+Internship
+Internship
+Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
+Paid 11-week internship supporting business planning through report analysis, budget monitoring, forecasting, operating expense analysis, financial model improvements, reporting workflow streamlining, and KPI trend analysis. The intern will also participate in professional development, networking, mentorship, cross-functional projects, and final presentations.
+Top Skills:
+Microsoft Access Excel MS Office Microsoft Powerpoint Microsoft Word
 Cox Enterprises
 Enterprise Planning and Analysis Intern
 <age> Saved
@@ -162,7 +162,7 @@ Bloomberg C&#x2B;&#x2B; Excel Java Python VBA
 5
 ...
 ...
-202
+201
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

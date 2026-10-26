@@ -89,26 +89,26 @@ Who we&rsquo;re looking for : First-year students or sophomores pursuing a quant
 For more info:&nbsp; Analyst Early Experiences - AnalystEE@capitalone.com &nbsp;
 Check out the Students &amp; Grads event page to find info sessions on the programs and connect with the recruiting teams.
 ALL JOBS
-R1001592
+R249315
+Senior Business Analyst, Product Strategy
+R248338
+Sr. Business Analyst - US Card
+R248340
+Business Manager - US Card
+R1004189
+Principal Associate, Recruiter- Professional Talent Acquisition
+R1004375
+Senior Manager, Finance - Capital One Travel
+R1003211
+Data Engineer 4 (Python, Pyspark, AWS)
+R1003961
 Full-stack Engineer 4
-R247834
-Senior Associate, Corporate Strategy Market Intelligence
-R246913
-Admin Assistant
-R243495
-Senior Business Analyst, Credit Loss Forecast
-R236894
-Sr. Operations Representative
-R234634
-Lead Software Engineer
-R1004289
-Senior Manager, Product Manager-Money Movement
-R1004312
-Senior Operations Production Coordinator - (Onsite)
-R1004237
-Machine Learning Engineer 4 - Machine Learning Experiences (MLX)
-R1004235
-Full-stack Engineer 4 - Machine Learning Experiences (MLX)
+R1003783
+Senior Associate - Data Engineer
+R1002953
+Sr. Lead Software Engineer
+R1002823
+Head of PMO &amp; Product Operations
 View all of our available opportunities
 Related Content
 Explore Capital One Internships

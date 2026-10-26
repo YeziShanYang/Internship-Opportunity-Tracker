@@ -6,36 +6,6 @@ Find, compete, and earn points at the largest, most diverse hacker events in the
 Filter events This Month Next Month Diversity Focused Region Sponsored
 Upcoming Events
 2026
-San Francisco , California
-Cal Hacks 13.0
-OCT 23 - 25
-San Francisco, California, US
-In-Person HARDWARE
-Stony Brook , New York
-SBUHacks
-OCT 23 - 25
-Stony Brook, New York, US
-In-Person
-Oxford , England
-OxHack &#x27;26
-OCT 24 - 25
-Oxford, England, GB
-In-Person
-Austin , TX
-HackTX 26
-OCT 24 - 25
-Austin, TX, US
-In-Person
-Durham , NC
-DuQuantum
-OCT 24 - 25
-Durham, NC, US
-In-Person
-University Park , PA
-Hack at Penn State
-OCT 24 - 25
-University Park, PA, US
-In-Person
 New delhi , New delhi
 hackCBS 9.O
 OCT 31 - NOV 01
@@ -366,6 +336,36 @@ Los Angeles, California, US
 In-Person
 Past Events
 2026
+University Park , PA
+Hack at Penn State
+OCT 24 - 25
+University Park, PA, US
+In-Person
+Durham , NC
+DuQuantum
+OCT 24 - 25
+Durham, NC, US
+In-Person
+Austin , TX
+HackTX 26
+OCT 24 - 25
+Austin, TX, US
+In-Person
+Oxford , England
+OxHack &#x27;26
+OCT 24 - 25
+Oxford, England, GB
+In-Person
+Stony Brook , New York
+SBUHacks
+OCT 23 - 25
+Stony Brook, New York, US
+In-Person
+San Francisco , California
+Cal Hacks 13.0
+OCT 23 - 25
+San Francisco, California, US
+In-Person HARDWARE
 Los Angeles , CA
 LA Hacks AI Hackathon 2026
 OCT 17 - 18
@@ -455,37 +455,6 @@ Bhilai , Chhattisgarh
 HackBIOS
 OCT 09 - 10
 Bhilai, Chhattisgarh, IN
-In-Person
-Chapel Hill , North Carolina
-HackNC
-OCT 09 - 11
-Chapel Hill, North Carolina, US
-In-Person
-Dearborn , Michigan
-Hack Dearborn 5: Conjure Reality
-OCT 03 - 04
-Dearborn, Michigan, US
-In-Person
-Newark , NJ
-GirlHacks
-OCT 03 - 04
-Newark, NJ, US
-In-Person DIVERSITY
-Burnaby , British Columbia
-S
-StormHacks
-OCT 03 - 04
-Burnaby, British Columbia, CA
-In-Person
-Raleigh , NC
-WolfHacks by ACM at NC State
-OCT 03 - 04
-Raleigh, NC, US
-In-Person
-San Antonio , Texas
-Rowdy Hacks
-OCT 03 - 04
-San Antonio, Texas, US
 In-Person
 24 past events shown
 Footer

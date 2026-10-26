@@ -14,18 +14,6 @@ https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/
 <timestamp>
 Title:2027 Graduate Programme, Generalist Advisory, Frankfurt
 Application Deadline:30 Nov 2026 05:00 PM GMT
-https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3459-2027-Strategic-Advisory-Summer-Associate-Program-Chicago-Financial-Institutions-Group/en-GB
-2027 Strategic Advisory: Summer Associate Program – Chicago Financial Institutions Group
-<timestamp>
-<timestamp>
-Title:2027 Strategic Advisory: Summer Associate Program – Chicago Financial Institutions Group
-Application Deadline:25 Oct 2026 11:55 PM EDT
-https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3429-2027-Strategic-Advisory-Summer-Associate-Program-Chicago-Industrials-Group/en-GB
-2027 Strategic Advisory: Summer Associate Program – Chicago Industrials Group
-<timestamp>
-<timestamp>
-Title:2027 Strategic Advisory: Summer Associate Program – Chicago Industrials Group
-Application Deadline:25 Oct 2026 11:55 PM EDT
 https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3420-2027-Graduate-Programme-Real-Estate-Strategic-Advisory-RESA-Frankfurt/en-GB
 2027 Graduate Programme - Real Estate Strategic Advisory (RESA), Frankfurt
 <timestamp>
@@ -68,30 +56,12 @@ Milan Off-Cycle Internship – Generalist Team (July - December 2027)
 <timestamp>
 Title:Milan Off-Cycle Internship – Generalist Team (July - December 2027)
 Application Deadline:31 Dec 2026 12:00 PM GMT
-https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3238-2027-Strategic-Advisory-Summer-Associate-Program-Menlo-Park-Healthcare-Group/en-GB
-2027 Strategic Advisory: Summer Associate Program – Menlo Park Healthcare Group
-<timestamp>
-<timestamp>
-Title:2027 Strategic Advisory: Summer Associate Program – Menlo Park Healthcare Group
-Application Deadline:25 Oct 2026 11:55 PM EDT
 https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3235-2027-Strategic-Advisory-Summer-Associate-Program-New-York-Industry-Pods/en-GB
 2027 Strategic Advisory: Summer Associate Program – New York Industry Pods
 <timestamp>
 <timestamp>
 Title:2027 Strategic Advisory: Summer Associate Program – New York Industry Pods
 Application Deadline:13 Dec 2026 11:55 PM EST
-https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3236-2027-Strategic-Advisory-Summer-Associate-Program-Menlo-Park-Technology-Group/en-GB
-2027 Strategic Advisory: Summer Associate Program – Menlo Park Technology Group
-<timestamp>
-<timestamp>
-Title:2027 Strategic Advisory: Summer Associate Program – Menlo Park Technology Group
-Application Deadline:25 Oct 2026 11:55 PM EDT
-https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3239-2027-Strategic-Advisory-Summer-Associate-Program-Richmond-Transportation-Group/en-GB
-2027 Strategic Advisory: Summer Associate Program - Richmond Transportation Group
-<timestamp>
-<timestamp>
-Title:2027 Strategic Advisory: Summer Associate Program - Richmond Transportation Group
-Application Deadline:25 Oct 2026 11:55 PM EDT
 https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3242-2027-Liability-Management-Restructuring-Summer-Associate-Program-New-York/en-GB
 2027 Liability Management &amp; Restructuring Summer Associate Program – New York
 <timestamp>

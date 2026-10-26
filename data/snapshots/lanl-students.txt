@@ -1152,8 +1152,8 @@ Job Number
 Organization
 City, State
 NEN-2 Undergraduate Student IRC146390 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY Los Alamos, NM
-Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
 Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Alamos, NM
+Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Undergraduate Information Technology Internship IRC146184 CIO / Chief Information Officer Los Alamos, NM
