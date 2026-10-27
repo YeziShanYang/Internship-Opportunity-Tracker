@@ -124,6 +124,7 @@ Using Your GI Bill
 Pre-College Programs
 Visit Us
 2026 Stevens High Frequency Trading Competition
+Enhance Your Learning / 2026 Stevens High Frequency Trading Competition
 The School of Business at Stevens Institute of Technology is pleased to announce the annual Stevens High Frequency Trading Competition (HFTC-26) ! This rigorous, high-stakes event is open to all qualified undergraduate and graduate students enrolled in an accredited university anywhere in the world.
 HFTC-26 Information
 The Competition: Structure, Strategy, and Rules HFTC-26 is a unique competition where teams are required to architect, code and deploy their own strategies for intraday algorithmic trading .

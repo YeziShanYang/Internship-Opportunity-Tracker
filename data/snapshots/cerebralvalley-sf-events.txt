@@ -15,7 +15,7 @@ Nov 7
 AIE Code Summit 2026 Hackathon
 Sat, Nov 7 · 9:00 AM PDT
 San Francisco, CA
-The AI Engineer Code Summit Hackathon will bring teams of up to four together for a one-day challenge tackling frontier AI engineering problems, with Meta, Google DeepMind, MongoDB, and Fetch.ai as partners. Approved attendees will compete for $11,000 in prizes, including partner awards.
+The AI Engineer Code Summit Hackathon will bring teams of up to four together to tackle frontier AI engineering challenges, with $11,000 in prizes and special awards from Meta, Google DeepMind, MongoDB, and Fetch.ai. Speakers and judges will be announced soon; attendance will require an approved application.
 Nov 4
 Data Outpost
 Wed, Nov 4 · 8:30 AM PDT
@@ -51,59 +51,31 @@ The Builder Base: Hackathon
 Fri, Oct 30 · 9:30 AM PDT
 San Francisco, CA
 Engineers, founders, and hands-on builders will team up for a focused day of making, turning ideas into working prototypes and pitching what they build. The collaborative hackathon will reward learning by shipping.
-Oct 26
-Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science
-Mon, Oct 26 · 12:00 PM PDT
-Gates Computer Science
-On October 26, 2026, University of Pennsylvania Assistant Professor Daniel Rock will present as part of the lab’s seminar series.
-Oct 26
-Legacy Lounge | The Capital Playbook with GPs
-Mon, Oct 26 · 5:00 PM PDT
-San Francisco, CA
-The discussion will explore how investors evaluate and fund enduring companies across enterprise software, AI, health, fintech, and frontier tech. Speakers will include NFX General Partner Omri Amirav-Drory, a Ph.D. scientist and founder, alongside venture, family-office, and technology leaders with experience at Plug and Play, BlackRock, Samsung Electronics, and Luminar Ventures.
-Oct 26
-Revolutionizing Privacy and AI with Meredith Whittaker
-Mon, Oct 26 · 5:00 PM PDT
-Computing and Data Science (CoDa)
-Signal CEO Meredith Whittaker will discuss the intersection of privacy, AI, and resistance, drawing on her leadership of one of the world’s leading encrypted messaging platforms.
-Oct 26
-Builders on the Green
-Mon, Oct 26 · 6:00 PM PDT
-San Francisco, CA
-Oct 26
-Are We Running Too Many Agents?
-Mon, Oct 26 · 6:00 PM PDT
-Sentry
-The first official exe.dev meetup will explore whether more AI agents and parallel tasks actually make software development better, with short technical talks and an open Q&amp;A. Speakers will include exe co-founder Josh Bleecher Snyder, DatologyAI engineer Josh Wills, and Amp’s Beyang Liu, former Sourcegraph founder.
-Oct 26
-SF&#x27;s Biggest Professional Networking Mixer - Entrepreneur, Tech &amp; Game-Changers
-Mon, Oct 26 · 6:00 PM PDT
-Hardwood Bar &amp; Smokery
-A large networking mixer will bring together entrepreneurs, startups, and business professionals to build connections and exchange ideas. Eventbrite RSVP will be required for attendance.
-Oct 26
-Builders Night
-Mon, Oct 26 · 6:30 PM PDT
-550 Laguna St, San Francisco + Full Studio
 Oct 27
 The AI X Leadership Summit 2026
 Tue, Oct 27 · 7:00 AM PDT
 Hyatt Regency San Francisco Airport
 Enterprise AI leaders—CDOs, Chief AI Officers, and VP-level practitioners—will converge to tackle governance, agentic automation, and AI ROI strategy alongside speakers like Michael I. Jordan, Peter Norvig, and Chip Huyen in an exclusive 250-person summit. The three-day event will dig into AI adoption, ethics, workforce transformation, and agent systems through intimate peer validation and strategy alignment with your core team.
 Oct 27
+Breakfast &amp; Agentic Hacking Challenge with Alt Security, Okta Ventures, and Runtime Ventures
+Tue, Oct 27 · 7:30 AM PDT
+San Francisco, CA
+Alt Security, Okta Ventures, and Runtime Ventures will host a breakfast featuring a hands-on Agentic CTF, where security leaders, offensive security strategists, and engineering decision-makers will test an AI attack agent against a virtual enterprise target. Participants will compete to capture flags, with prizes for the top three finishers.
+Oct 27
 Considering Private AI: Protection, Price, and Performance
 Tue, Oct 27 · 8:30 AM PDT
 San Mateo, CA
 C- and VP-level AI leaders will weigh the protection, cost, and performance trade-offs of private AI against hosted open models and proprietary services. Datasaur CEO Ivan Lee and Betterworks SVP of Engineering Maher Hanafi will share practical insights, helping participants develop a decision framework for evaluating real workloads.
 Oct 27
-AI X Leadership Summit | ODSC AI West 2026
-Tue, Oct 27 · 9:00 AM PDT
-Hyatt Regency San Francisco Airport
-Practitioners, business leaders, and AI enthusiasts will gather to explore reskilling opportunities and connect with others navigating the AI landscape. The event brings together professionals at various stages of their AI journey to share insights and build their expertise.
-Oct 27
 ODSC AI West 2026 Conference | Open Data Science Conference
 Tue, Oct 27 · 9:00 AM PDT
 Hyatt Regency San Francisco Airport
 Data and AI professionals will dive into cutting-edge workshops and hands-on training led by industry experts, while business leaders and career switchers gain strategic insights on navigating the rapidly evolving AI landscape. The three-day event will feature thought leaders sharing the latest breakthroughs and practical applications shaping the future of data science and AI.
+Oct 27
+AI X Leadership Summit | ODSC AI West 2026
+Tue, Oct 27 · 9:00 AM PDT
+Hyatt Regency San Francisco Airport
+Practitioners, business leaders, and AI enthusiasts will gather to explore reskilling opportunities and connect with others navigating the AI landscape. The event brings together professionals at various stages of their AI journey to share insights and build their expertise.
 Oct 27
 From Satellite to Signal: Building a Geospatial Agentic AI Stack
 Tue, Oct 27 · 10:00 AM PDT
@@ -125,27 +97,57 @@ Tue, Oct 27 · 4:00 PM PDT
 San Francisco, CA
 Engineering leaders will explore how AI can move beyond code generation to support context-aware decisions, reliable production applications, and stronger code review, quality, and security. Speakers include PromptQL CEO and co-founder Tanmai Gopal, Optimal AI’s Iba Masood, and RocketRide.ai co-founder and COO Joe Maionchi.
 Oct 27
-Who Killed the Build? A Halloween DevTools Murder Mystery with Flox
+pay™ SF Edition: test your product and get paid inside AI
 Tue, Oct 27 · 5:00 PM PDT
 San Francisco, CA
-AI Valley and developer-tool company Flox will host an interactive Halloween murder mystery, where attendees investigate a broken build, uncover clues about dependencies and environment drift, and see how Flox creates reproducible software environments across laptops, CI, and production. The evening will also feature real developer horror stories and a Halloween mixer.
+MCPJam and SolvaPay will host an evening focused on making AI products discoverable, testable, and ready to accept agent-driven payments. Developers, founders, and product builders will hear from experts, work hands-on to turn an MCP server into a monetizable tool, and share demos and ideas.
 Oct 27
 The Future of Personalized Universal Agents - AI Talk &amp; Reception
 Tue, Oct 27 · 5:00 PM PDT
 Plug and Play Tech Center
 HKBANC will host an evening of insights and professional networking featuring Dr. Ed Chi, who will share his expertise.
 Oct 27
+Platform Engineering Meetup: Agents broke the balance (&amp; how to fix it)
+Tue, Oct 27 · 5:00 PM PDT
+130 Sutter St floor 7
+A panel of production engineers will explore how agent-era code generation is outpacing validation, and how fast, targeted checks and robust delivery pipelines can improve change success while reducing recovery time and wasted compute. The meetup will feature peer discussion, audience Q&amp;A, and networking.
+Oct 27
+Octen Agent Build Night
+Tue, Oct 27 · 5:00 PM PDT
+San Francisco, CA
+Attendees will build AI agents with live web access, wiring Octen’s search and extract APIs to help agents read and use current web content. Laptops, ideas, food, and drinks will be part of the hands-on evening.
+Oct 27
+Who Killed the Build? A Halloween DevTools Murder Mystery with Flox
+Tue, Oct 27 · 5:00 PM PDT
+San Francisco, CA
+AI Valley and developer-tool company Flox will host an interactive Halloween murder mystery, where attendees investigate a broken build, uncover clues about dependencies and environment drift, and see how Flox creates reproducible software environments across laptops, CI, and production. The evening will also feature real developer horror stories and a Halloween mixer.
+Oct 27
+Platform Engineering Meetup: Agents broke the balance and how to fix it
+Tue, Oct 27 · 5:00 PM PDT
+130 Sutter St floor 7
+Engineers solving validation challenges in production will discuss how agent-era code generation is outpacing review and pipelines, and how sub-minute, change-focused checks can improve delivery while reducing recovery time and wasted compute. The meetup will feature a panel, audience Q&amp;A, and networking.
+Oct 27
 How Partners Build on Lovable w/ Dan O&#x27;Leary
 Tue, Oct 27 · 5:00 PM PDT
 San Francisco, CA
 Dan O’Leary, Lovable’s Head of Go-to-Market Partnerships, will discuss the emerging Lovable Partner Program and how agencies and AI consultants can create lasting value for businesses beyond building their first app. The event will also feature the first live recording of *The Partner Ship*, a leading partnerships podcast with interviews from partner leaders at Replit, Zapier, Euler, and AWS.
 Oct 27
-Platform Engineering Meetup: Agents broke the balance (&amp; how to fix it)
+The New AI Developer Stack
 Tue, Oct 27 · 5:00 PM PDT
-130 Sutter St floor 7
-A panel of production engineers will explore how agent-era code generation is outpacing validation, and how fast, targeted checks and robust delivery pipelines can improve change success while reducing recovery time and wasted compute. The meetup will feature peer discussion, audience Q&amp;A, and networking.
+Wilson Sonsini Goodrich &amp; Rosati
+The event will explore the radical transformation reshaping the modern software engineering stack.
+Oct 27
+Founders (Don&#x27;t) Cry
+Tue, Oct 27 · 5:00 PM PDT
+Frontier Tower
+Founder coach and international keynote speaker Matteo Cassese will introduce the Founder Journey, exploring how self-reflection can turn chaos and conflict into growth while helping founders avoid burnout and business failure. Drawing on more than 20 years in business communication and experience with Netflix, Warner Bros., SXSW, and IFA, he’ll also share the “zero confidence strategy” and examine the stories and inner patterns that shape leadership.
+Oct 27
+Who Controls the Future of AI Coding?
+Tue, Oct 27 · 5:30 PM PDT
+San Francisco, CA
+Renee Huang, CEO of Cline, and Sunil Joseph, VP of Customer Success at OpenRouter, will debate how open ecosystems, model choice, and developer autonomy will shape AI-powered software development and future competitive advantage. The conversation will bring together founders, engineers, researchers, and technical leaders for a fireside chat, Q&amp;A, and networking.
 Nov 7
 AIE Code Summit 2026 Hackathon
 Sat, Nov 7 · 9:00 AM PDT
 San Francisco, CA
-The AI Engineer Code Summit Hackathon will bring teams of up to four together for a one-day challenge tackling frontier AI engineering problems, with Meta, Google DeepMind, MongoDB, and Fetch.ai as partners. Approved attendees will compete for $11,000 in prizes, including partner awards.
+The AI Engineer Code Summit Hackathon will bring teams of up to four together to tackle frontier AI engineering challenges, with $11,000 in prizes and special awards from Meta, Google DeepMind, MongoDB, and Fetch.ai. Speakers and judges will be announced soon; attendance will require an approved application.

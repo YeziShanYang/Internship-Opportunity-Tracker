@@ -129,7 +129,9 @@ A-DO/Analytics, Intelligence and Technology Division
 ALDBUS ERP Program Office (ALDBUS-ERP)
 ALDESHQ-RSO/Repository Science and Operations
 ALDGS/Associate Laboratory Director for Global Security
+ALDPI/LIP Decontamination &amp; Decommissioning
 ALDPI/LIP Late Install Division
+ALDPI/LIP-DD Decontamination &amp; Decommissioning
 ALDPI/Strategic Planning
 ALDPS/Associate Laboratory Directorate for Physical Sciences
 ALDW-DAQ/Design Agency Quality
@@ -177,6 +179,7 @@ CAI-DO/Computing and Artificial Intelligence
 C-CDE/ Chemical Diagnostics And Engineering
 C-CDE/Chemical Diagnostics And Engineering
 CEA-TEC/Technical Editing and Communications
+Center For Integrated Nanotechnologies
 Center For Integrated Nanotechnologies/MPA-CINT
 Chemistry
 Chief Information Office (CIO)
@@ -382,6 +385,7 @@ NEN-5/Nuclear Systems
 Non-Destructive Assay &amp; Vault Operations (NDA-VO)
 Non-Destructive Assay &amp; Vault Operations/NDA-VO
 NSEC-PSPO / Postdoc and Student Program
+NSEC-PSPO/Postdoc and Student Programs Office
 NUC &amp; PARTICLE PHYS, ASTROPHYS &amp; COSMOL/T-2
 Nuclear &amp; Radiochemistry
 Nuclear Criticality Safety (NCS)
@@ -515,6 +519,7 @@ Sigma-1/Fabrication Manufacturing Sciences
 SIGMA-1/Fabrication Manufacturing Sciences Group
 SIGMA-2/Finishing Manufacturing Science
 Sigma-2/Finishing Manufacturing Science Group
+Sigma-2/Finishing Manufacturing Sciences
 SIGMA-DO / SIGMA DIVISION
 SIGMA-DO/SIGMA Division Office
 SIGMA-DO/SIGMA-DIvision Office
@@ -628,7 +633,9 @@ A-DO/Analytics, Intelligence and Technology Division
 ALDBUS ERP Program Office (ALDBUS-ERP)
 ALDESHQ-RSO/Repository Science and Operations
 ALDGS/Associate Laboratory Director for Global Security
+ALDPI/LIP Decontamination &amp; Decommissioning
 ALDPI/LIP Late Install Division
+ALDPI/LIP-DD Decontamination &amp; Decommissioning
 ALDPI/Strategic Planning
 ALDPS/Associate Laboratory Directorate for Physical Sciences
 ALDW-DAQ/Design Agency Quality
@@ -676,6 +683,7 @@ CAI-DO/Computing and Artificial Intelligence
 C-CDE/ Chemical Diagnostics And Engineering
 C-CDE/Chemical Diagnostics And Engineering
 CEA-TEC/Technical Editing and Communications
+Center For Integrated Nanotechnologies
 Center For Integrated Nanotechnologies/MPA-CINT
 Chemistry
 Chief Information Office (CIO)
@@ -881,6 +889,7 @@ NEN-5/Nuclear Systems
 Non-Destructive Assay &amp; Vault Operations (NDA-VO)
 Non-Destructive Assay &amp; Vault Operations/NDA-VO
 NSEC-PSPO / Postdoc and Student Program
+NSEC-PSPO/Postdoc and Student Programs Office
 NUC &amp; PARTICLE PHYS, ASTROPHYS &amp; COSMOL/T-2
 Nuclear &amp; Radiochemistry
 Nuclear Criticality Safety (NCS)
@@ -1014,6 +1023,7 @@ Sigma-1/Fabrication Manufacturing Sciences
 SIGMA-1/Fabrication Manufacturing Sciences Group
 SIGMA-2/Finishing Manufacturing Science
 Sigma-2/Finishing Manufacturing Science Group
+Sigma-2/Finishing Manufacturing Sciences
 SIGMA-DO / SIGMA DIVISION
 SIGMA-DO/SIGMA Division Office
 SIGMA-DO/SIGMA-DIvision Office
@@ -1146,25 +1156,25 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 19
+Showing 12 out of 18
 Job Title
 Job Number
 Organization
 City, State
 NEN-2 Undergraduate Student IRC146390 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY Los Alamos, NM
-Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Alamos, NM
 Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
+Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Alamos, NM
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Undergraduate Information Technology Internship IRC146184 CIO / Chief Information Officer Los Alamos, NM
-Undergrad Student SA 1 IRC146134 PT-3 / Plutonium Assembly &amp; Welding Los Alamos, NM
 Intelligence and Space Research Division Undergraduate Internship IRC146105 ISR-DO/Intelligence and Space Research Los Alamos, NM
 Mechanical and Electrochemical Undergraduate Student IRC146029 MPA-11 / Materials Synthesis and Integrated Devices Los Alamos, NM
 Undergraduate Computational Nuclear Engineer or Software Developer IRC146028 NEN-5 / Nuclear Systems Los Alamos, NM
 PWDI Administrative Scholars Internship Program IRC145910 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
+Undergraduate Student IRC145847 Product Realization and Reliability Office (PRRO) Los Alamos, NM
 High Performance Computing Undergraduate Student IRC145851 HPC-DO/High Performance Computing Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 19
+Showing 12 out of 18
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

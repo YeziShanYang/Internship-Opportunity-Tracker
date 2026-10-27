@@ -6,7 +6,7 @@ a16z
 Software Is Eating the World
 X LinkedIn Substack
 © 2026 Andreessen Horowitz . All Portfolio Jobs Companies Disclosures
-690 companies. 18,416 jobs. It’s time to build.
+690 companies. 18,395 jobs. It’s time to build.
 All Portfolio Jobs Jobs by Company a16z Jobs a16z TalentPlace
 Filter jobs by role and more
 Roles
@@ -21,7 +21,7 @@ Internships only Remote options All jobs
 Salary Any
 Posted <age>
 Country:us Seed Venture Clear filters
-40 jobs
+38 jobs
 Northwood Space
 Supply Chain Operations Intern (2027 Summer Internship)
 $34 per hour · Torrance, CA, Los Angeles, CA, California, USA · Posted <age>
@@ -41,11 +41,6 @@ Neighbor
 FP&amp;A Intern (Summer 2027)
 Lehi, UT · Posted <age>
 Consumer · Series B · 51–200 employees
-Apply Interested
-Tessera Labs
-Software Engineering Intern, Full Stack
-$40 – $45 · San Jose Office (HQ), San Jose, California, United States · Posted <age>
-Enterprise · Venture · 51–200 employees
 Apply Interested
 Heron Power
 Intern, Power Electronics Controls Engineer (Spring /Summer 2027)
@@ -142,8 +137,13 @@ Mechanical Engineering Intern (Summer 2027)
 USD 30–50 (Hourly Pay Range) · El Segundo, CA · Posted <age>
 American Dynamism · Series B · 201–500 employees
 Apply Interested
+Heron Power
+Intern, Automation Controls Engineer (Spring 2027)
+Scotts Valley, California, United States · Posted <age>
+American Dynamism · Series B · 51–200 employees
+Apply Interested
 Neighbor
-Software Engineer Intern 2027
+Marketing Operations Intern (part-time)
 Lehi, UT · Posted <age>
 Consumer · Series B · 51–200 employees
 Apply Interested

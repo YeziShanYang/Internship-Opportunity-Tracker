@@ -77,6 +77,9 @@ Add job to your application bundle
 Administration
 Singapore
 Receptionist (Singapore) : The D.&nbsp;E.&nbsp;Shaw group seeks a receptionist to join its office administration team. This team is responsible for creating a welcoming and professional environment for staff and&hellip;
+Administration
+New York
+Senior Designer (18-Month Assignment) : The D.&nbsp;E.&nbsp;Shaw group seeks an experienced senior designer to join its Administration team. This role will play an integral part in the design, planning, and evolution of the&hellip;
 Communications
 New York
 Internal Communications Associate : The D.&nbsp;E.&nbsp;Shaw group seeks a talented individual to join its Communications group as an associate on its Internal Communications team. This team is responsible for developing and&hellip;
@@ -179,6 +182,9 @@ Researcher - People Analytics : The D.&nbsp;E.&nbsp;Shaw group seeks a people an
 Human Capital
 New York
 Senior AI Engineer – Human Capital : The D.&nbsp;E.&nbsp;Shaw group seeks a senior engineer with a deep interest in artificial intelligence (AI) to help lead its Human Capital (HC) team’s AI initiatives. This individual will&hellip;
+Human Capital
+New York
+Technical Project Manager – Human Capital : The D.&nbsp;E.&nbsp;Shaw group seeks a technical project manager to join its Human Capital (HC) Products team, which manages technology that optimizes HC processes, integrates AI&hellip;
 Investment Analysis
 New York
 DESIM Technical Strategist Associate : The D.&nbsp;E.&nbsp;Shaw group seeks an analytically and technically oriented individual to join the D.&nbsp;E.&nbsp;Shaw Investment Management (DESIM) group as a technical strategist&hellip;
@@ -197,9 +203,6 @@ Compliance Analyst : The D.&nbsp;E.&nbsp;Shaw group seeks an analyst to work clo
 Legal &amp; Compliance
 New York
 Compliance Officer : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive and detail-oriented compliance professional to join its Legal & Compliance team. This role supports multiple aspects of the firm's&hellip;
-Legal &amp; Compliance
-New York
-Executive Compensation and Employee Benefits Attorney : The D.&nbsp;E.&nbsp;Shaw group seeks a talented attorney to join its Legal & Compliance team to counsel the firm on a variety of legal matters primarily related to executive compensation&hellip;
 Legal &amp; Compliance
 New York
 Legal Analyst : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive, detail-oriented legal analyst to join its Legal & Compliance team. This individual will collaborate closely with attorneys, contributing&hellip;
@@ -264,9 +267,6 @@ Technology
 New York
 MBOT Chief of Staff : The D.&nbsp;E.&nbsp;Shaw group seeks a chief of staff to join its Middle & Back Office Technology (MBOT) group. The MBOT team is responsible for developing and supporting technology&hellip;
 Technology
-New York
-Product Manager — Legal Technology Infrastructure : The D.&nbsp;E.&nbsp;Shaw group seeks a product manager to join its new Legal Technology team and own the infrastructure that determines how legal documents and metadata are stored,&hellip;
-Technology
 London
 Quant Systems: Systems Developer (London) : The D.&nbsp;E.&nbsp;Shaw group seeks an inquisitive technology enthusiast to join its Quant Systems team. This is a hands-on technical role within an engineering team responsible for high&hellip;
 Technology
@@ -275,6 +275,9 @@ Quant Systems: Systems Developer (New York) : The D.&nbsp;E.&nbsp;Shaw group see
 Technology
 New York
 Senior Product Manager - Generative AI Tech Services : The D.&nbsp;E.&nbsp;Shaw group seeks a product manager to join its Generative AI Tech Services team. This team develops and operates a wide-ranging suite of generative-AI products and&hellip;
+Technology
+New York
+Senior Product Manager – Legal Technology : The D.&nbsp;E.&nbsp;Shaw group seeks a talented product manager to join its Legal Technology team to transform how the firm's attorneys find information, refine documents, and use AI to&hellip;
 Technology
 London
 Senior Virtualization and Storage Engineer (London) : The D.&nbsp;E.&nbsp;Shaw group seeks a skilled senior engineer to join its Systems team and lead the modernization of the firm’s virtualization platform. This individual contributor role&hellip;
@@ -451,9 +454,6 @@ Venture Studio (Startup Incubator) Intern (New York) - Summer 2027 : The D.&nbsp
 Technology
 London
 Systems Administrator Industry Placement Year (London) : The D.&nbsp;E.&nbsp;Shaw group seeks motivated individuals with impressive records of academic and/or professional achievement to join the firm’s Systems team for a 12-month industry&hellip;
-Technology
-London
-Systems Engineering Intern (London) - Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks motivated individuals with impressive records of academic and/or professional achievement to join the firm as systems engineering interns. Engineers at&hellip;
 Trading
 New York
 Proprietary Trading Intern (New York) – Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks talented individuals with unique perspectives to join the firm as proprietary trading interns. Trader interns sit at the core of the firm’s&hellip;

@@ -31,6 +31,17 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Cencora
+EDI IT Software Developer Intern
+<age> Saved
+In-Office
+Conshohocken, PA, USA
+Internship
+Internship
+Healthtech &#x2022; Logistics &#x2022; Pharmaceutical
+Participate in a 10-week IT internship supporting technical projects, coding assignments, software development, debugging, testing, documentation, and daily team collaboration. Build dashboards and reports for business stakeholders while learning development tools and pharmaceutical-industry technology practices. The role emphasizes front-end development using Angular, Bootstrap, HTML, CSS, JavaScript, TypeScript, SQL, and RESTful APIs, along with communication, teamwork, analytical problem-solving, organization, and project management skills.
+Top Skills:
+Ajax Angular Angular Cli Bootstrap CSS3 HTML5 JavaScript Jquery Less Excel Microsoft Outlook Microsoft Powerpoint Restful Apis Sass SQL Typescript
 Ericsson
 Networks TOAI Intern
 <age> Saved
@@ -83,22 +94,9 @@ Aerospace &#x2022; Defense
 Develop reliable software for digital manufacturing systems supporting rocket engine design, testing, and production. Responsibilities include automated testing, CI/CD and GitOps practices, task planning, documentation, and cross-functional collaboration. The role requires Python, SQL, a statically typed compiled language, data modeling, Linux, shell scripting, and container-based development. Preferred experience includes advanced education, technical software development, API and queue integrations, and frontend web development.
 Top Skills:
 APIs C# Ci/Cd Containers Gitops Go Java Linux Python Queues Rust Shell Scripting SQL
-Sierra Space
-Summer 2027 Flight Software Engineer Intern
-<age> Saved
-In-Office
-Louisville, CO, USA
-32-32 Hourly
-Internship
-32-32 Hourly
-Internship
-Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Robotics &#x2022; Defense &#x2022; Utilities
-Design, build, and test flight software for spacecraft systems and mission tools. Collaborate with development teams to write and debug code, participate in code reviews, support artificial intelligence projects, and gain experience across the software development lifecycle. Interns also complete professional development activities, workshops, and leadership sessions while receiving mentorship from aerospace industry experts.
-Top Skills:
-Artificial Intelligence
 New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
 Use For Free
 Micron Technology
 Intern - IT Software Engineer
@@ -152,19 +150,19 @@ Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#
 Software engineering intern supporting the design, development, integration, testing, troubleshooting, and documentation of software for aerospace and defense systems. The role involves Agile development, algorithm and data analysis, object-oriented programming, and collaboration with experienced engineering professionals. Candidates must be pursuing a relevant bachelor’s degree, entering their sophomore through senior year, and be eligible for a U.S. Department of War security clearance.
 Top Skills:
 Agile Artificial Intelligence Bitbucket C# C&#x2B;&#x2B; Git Gitlab Java Real-Time Embedded Systems Unix/Linux Windows
-Expedia Group
-Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle
+Citadel
+Software Engineer - Intern (US)
 <age> Saved
-Hybrid
-San Jose, CA, USA
-45K-54K Hourly
+In-Office
+4 Locations
+5K-6K Annually
 Internship
-45K-54K Hourly
+5K-6K Annually
 Internship
-AdTech &#x2022; eCommerce &#x2022; Information Technology &#x2022; Software &#x2022; Travel &#x2022; Generative AI
-Develop and test mobile application features for iOS and/or Android under experienced engineers’ guidance. Apply software engineering practices, participate in system and API design, data modeling, debugging, monitoring, and performance improvements. Collaborate with designers, mentors, and cross-functional partners to deliver reliable mobile experiences. Learn to use AI-driven tools and safely integrate AI/ML-enabled solutions.
+Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
+11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
 Top Skills:
-Ai/Ml Android APIs iOS Unit Testing
+Distributed Computing Machine Learning Natural Language Processing Web Frameworks
 1
 2
 3
@@ -223,10 +221,9 @@ Resources
 Customer Support
 Share Feedback
 Report a Bug
-Tech Job Tools + Career Resources
+Job Tools + Career Resources
 Browse Jobs
-Tech A-Z
-Tech
+A-Z
 Hubs
 Our Sites
 © 2026 Built In. All rights reserved.
