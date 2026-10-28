@@ -31,6 +31,17 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+Spectrum
+2027 Summer Intern: Data Insights Analyst (Customer Operations)
+<age> Saved
+In-Office
+Overland Park, KS, USA
+Internship
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Paid, full-time 11-week data analytics internship focused on fraud-ring identification, graph analytics, data extraction and cleaning, data engineering, visualization, customer-readable reporting, and communicating insights. The intern will use tools such as Tableau, Power BI, and Excel, make data-driven recommendations, and collaborate with cross-functional teams while participating in professional development and networking activities.
+Top Skills:
+Graph Analytics Microsoft Access Excel Microsoft Powerpoint Microsoft Word Power BI Tableau
 Wells Fargo
 2027 Technology Summer Internship &#x2013; Early Careers (Data Engineering)
 <age> Saved
@@ -44,32 +55,6 @@ Fintech &#x2022; Financial Services
 Data Engineering Interns will develop and maintain scalable data pipelines, APIs, data products, and enterprise platforms. Responsibilities include data ingestion, transformation, validation, governance, quality monitoring, metadata management, cloud and distributed computing, CI/CD, testing, and observability. Interns will also use approved generative AI tools, support AI-enabled engineering workflows, and collaborate with engineers, architects, product teams, and business stakeholders. The 10-week hybrid program includes training, mentorship, and potential consideration for a subsequent full-time Technology Analyst role.
 Top Skills:
 Algorithms APIs Artificial Intelligence Ci/Cd Cloud Technologies Copilot Data Governance Data Modeling Data Pipelines Data Structures Distributed Computing Generative Ai Grafana Machine Learning Metadata Management Object-Oriented Programming Power BI Prompt Engineering Python SAS SQL Tableau Version Control
-Wells Fargo
-2027 Technology Summer Internship &#x2013; Early Careers (Data Engineering)
-<age> Saved
-Hybrid
-Iselin, NJ, USA
-38-63 Hourly
-Internship
-38-63 Hourly
-Internship
-Fintech &#x2022; Financial Services
-Data Engineering Interns will build and maintain scalable data pipelines, APIs, data products, and enterprise platforms. Responsibilities include data ingestion, transformation, validation, governance, quality monitoring, metadata management, cloud and distributed computing, CI/CD, testing, and observability. Interns will also use approved AI tools, support AI-enabled engineering workflows, and collaborate with engineers, architects, product teams, and business stakeholders. The 10-week program includes technical training, mentorship, and networking, with potential consideration for a full-time Technology Analyst role.
-Top Skills:
-APIs Artificial Intelligence Ci/Cd Cloud Technologies Copilot Distributed Computing Generative Ai Grafana Machine Learning Power BI Prompt Engineering Python SAS SQL Tableau Version Control
-Wells Fargo
-2027 Technology Summer Internship &#x2013; Early Careers (Data Engineering)
-<age> Saved
-Hybrid
-Irving, TX, USA
-38-63 Hourly
-Internship
-38-63 Hourly
-Internship
-Fintech &#x2022; Financial Services
-Data Engineering Interns will build and maintain scalable data pipelines, APIs, data products, and enterprise platforms. Responsibilities include data ingestion and transformation, software testing, CI/CD, cloud and distributed computing, data quality, governance, metadata, lineage, and reliability initiatives. Interns will also use approved AI tools, support AI-enabled engineering workflows, collaborate with technical and business teams, and participate in training, mentorship, and networking during the 10-week program.
-Top Skills:
-APIs Artificial Intelligence Ci/Cd Cloud Technologies Copilot Data Governance Data Modeling Data Pipelines Distributed Computing Generative Ai Grafana Machine Learning Metadata Management Power BI Prompt Engineering Python SAS SQL Tableau
 Citadel
 Quantitative Research Engineer - PhD Intern (US)
 <age> Saved
@@ -108,8 +93,8 @@ Supports cross-channel marketing attribution and influence modeling by documenti
 Top Skills:
 AWS Data Modeling Data Visualization Hubspot Marketing Automation Salesforce Spreadsheets SQL
 New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
 Use For Free
 Atlassian
 Data Engineer Intern, 2027 Summer U.S.
@@ -174,19 +159,6 @@ eCommerce &#x2022; Mobile &#x2022; Payments
 Business Intelligence Interns will conduct exploratory data analysis, create ad hoc reports, and support the development, migration, and improvement of dashboards using Looker and Databricks. They will gather requirements, build visualizations, test dashboard accuracy and usability, identify data inconsistencies, and document findings while collaborating with team members on business initiatives.
 Top Skills:
 Databricks Looker Power BI Python SQL Tableau
-Spectrum
-2027 Summer Intern: Associate Data Analyst (Customer Operations)
-<age> Saved
-In-Office
-New Connecticut, NY, USA
-31K-33K Annually
-Internship
-31K-33K Annually
-Internship
-Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
-Paid, full-time data analyst internship supporting business planning and data operations. Responsibilities include documenting data definitions, business rules, and data quality requirements; integrating data from multiple sources; completing roadmap projects to improve process efficiency; and identifying data-driven strategies to enhance business performance. Interns also participate in professional development, networking, mentorship, community service, and final presentations.
-Top Skills:
-Microsoft Access Excel MS Office Microsoft Powerpoint Microsoft Word
 1
 2
 3
@@ -194,7 +166,7 @@ Microsoft Access Excel MS Office Microsoft Powerpoint Microsoft Word
 5
 ...
 ...
-48
+49
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

@@ -53,99 +53,98 @@ San Francisco, CA
 Engineers, founders, and hands-on builders will team up for a focused day of making, turning ideas into working prototypes and pitching what they build. The collaborative hackathon will reward learning by shipping.
 Oct 27
 The AI X Leadership Summit 2026
-Tue, Oct 27 · 7:00 AM PDT
+Tue, Oct 27 · 7:00 AM PDT LIVE
 Hyatt Regency San Francisco Airport
 Enterprise AI leaders—CDOs, Chief AI Officers, and VP-level practitioners—will converge to tackle governance, agentic automation, and AI ROI strategy alongside speakers like Michael I. Jordan, Peter Norvig, and Chip Huyen in an exclusive 250-person summit. The three-day event will dig into AI adoption, ethics, workforce transformation, and agent systems through intimate peer validation and strategy alignment with your core team.
 Oct 27
-Breakfast &amp; Agentic Hacking Challenge with Alt Security, Okta Ventures, and Runtime Ventures
-Tue, Oct 27 · 7:30 AM PDT
-San Francisco, CA
-Alt Security, Okta Ventures, and Runtime Ventures will host a breakfast featuring a hands-on Agentic CTF, where security leaders, offensive security strategists, and engineering decision-makers will test an AI attack agent against a virtual enterprise target. Participants will compete to capture flags, with prizes for the top three finishers.
-Oct 27
-Considering Private AI: Protection, Price, and Performance
-Tue, Oct 27 · 8:30 AM PDT
-San Mateo, CA
-C- and VP-level AI leaders will weigh the protection, cost, and performance trade-offs of private AI against hosted open models and proprietary services. Datasaur CEO Ivan Lee and Betterworks SVP of Engineering Maher Hanafi will share practical insights, helping participants develop a decision framework for evaluating real workloads.
-Oct 27
-ODSC AI West 2026 Conference | Open Data Science Conference
-Tue, Oct 27 · 9:00 AM PDT
-Hyatt Regency San Francisco Airport
-Data and AI professionals will dive into cutting-edge workshops and hands-on training led by industry experts, while business leaders and career switchers gain strategic insights on navigating the rapidly evolving AI landscape. The three-day event will feature thought leaders sharing the latest breakthroughs and practical applications shaping the future of data science and AI.
-Oct 27
 AI X Leadership Summit | ODSC AI West 2026
-Tue, Oct 27 · 9:00 AM PDT
+Tue, Oct 27 · 9:00 AM PDT LIVE
 Hyatt Regency San Francisco Airport
 Practitioners, business leaders, and AI enthusiasts will gather to explore reskilling opportunities and connect with others navigating the AI landscape. The event brings together professionals at various stages of their AI journey to share insights and build their expertise.
 Oct 27
-From Satellite to Signal: Building a Geospatial Agentic AI Stack
-Tue, Oct 27 · 10:00 AM PDT
-AWS Builder Loft
-AWS and Wherobots will lead a hands-on workshop, bringing together expertise from both organizations for practical learning.
-Oct 27
-From Satellite to Signal: Building a Geospatial Agentic AI Stack on AWS and Wherobots
-Tue, Oct 27 · 10:00 AM PDT
-AWS Builder Loft
-Data and ML engineers will build an end-to-end agentic geospatial pipeline, turning satellite and weather data into hazard-risk scores and interactive Felt dashboards using Apache Sedona, Wherobots, and Amazon Bedrock. Led by Wherobots, an AWS Partner founded by the creators of Apache Sedona, the hands-on workshop will cover spatial SQL, data pipelines, natural-language map creation, and live data connections.
-Oct 27
-GTM AI Paradox: You Got Speed, But Lost the System - One Way Summit Official Side Event
-Tue, Oct 27 · 4:00 PM PDT
+ODSC AI West 2026 Conference | Open Data Science Conference
+Tue, Oct 27 · 9:00 AM PDT LIVE
+Hyatt Regency San Francisco Airport
+Data and AI professionals will dive into cutting-edge workshops and hands-on training led by industry experts, while business leaders and career switchers gain strategic insights on navigating the rapidly evolving AI landscape. The three-day event will feature thought leaders sharing the latest breakthroughs and practical applications shaping the future of data science and AI.
+Oct 28
+Agentic Infrastructure Stack Summit by VentureBeat | SF, Oct 28
+Wed, Oct 28 · 9:00 AM PDT
 San Francisco, CA
-Certified GTM Partners Lydia Flocchini and Tim Hillison, 3x CMOs and repeat operators with nine successful builds, will lead a workshop on building scalable, AI-native go-to-market systems, with practical frameworks, maturity assessment, and real-world examples. Happy hour and networking will bookend the discussion.
-Oct 27
-Git Your Ship Together: AI Beyond the Code (Pre-GitHub Universe)
-Tue, Oct 27 · 4:00 PM PDT
+The event will explore the hard decisions behind moving successful AI pilots into production, including memory architecture and inference tradeoffs. It will focus on where compute, code, and context converge.
+Oct 28
+Crescendo Live | 2026
+Wed, Oct 28 · 9:00 AM PDT
+Terra Gallery &amp; Event Venue
+Crescendo Live San Francisco 2026 will gather seasoned CX leaders and AI experts like James Green and Hemant Taneja to reveal practical AI strategies that redefine customer experience standards, blending automation with human insight for faster, more empathetic service. This full-day event will feature hands-on workshops, breakout sessions, and real-world stories from top professionals driving AI-powered CX transformations.
+Oct 28
+One Way Summit: The Flagship Event for Immigrant Entrepreneurship
+Wed, Oct 28 · 9:00 AM PDT
+The Commonwealth Club
+The 2026 One Way Summit will bring together 1,000+ founders, investors, and innovators from 30+ countries, with speakers including Duolingo’s Severin Hacker, Slack co-founder Cal Henderson, and OpenAI Foundation’s Anna Makanju. Sessions will cover AI, fintech, venture capital, and immigration challenges, alongside a Startup Grind pitch competition.
+Oct 28
+Agentic Infrastructure Stack Summit
+Wed, Oct 28 · 9:00 AM PDT
+Terra Gallery &amp; Event Venue
+Enterprise IT leaders and infrastructure architects will dive into the real challenges of scaling agentic AI systems—from taming compute costs to managing complex multi-agent orchestration—while getting unfiltered insights from peers who are actively building these systems at scale. The event will feature proprietary research on agentic AI strategies and create space for meaningful conversations with a curated community of technical decision-makers working through the same infrastructure headaches.
+Oct 28
+ODSC AI x NEBIUS | Hackathon
+Wed, Oct 28 · 9:00 AM PDT
 San Francisco, CA
-Engineering leaders will explore how AI can move beyond code generation to support context-aware decisions, reliable production applications, and stronger code review, quality, and security. Speakers include PromptQL CEO and co-founder Tanmai Gopal, Optimal AI’s Iba Masood, and RocketRide.ai co-founder and COO Joe Maionchi.
-Oct 27
-pay™ SF Edition: test your product and get paid inside AI
-Tue, Oct 27 · 5:00 PM PDT
+On October 28, AI builders will spend a full day developing ideas into projects, with limited spots and free applications. Attendees will collaborate with other AI builders in a hands-on build session.
+Oct 28
+Hack With YOU
+Wed, Oct 28 · 9:00 AM PDT
 San Francisco, CA
-MCPJam and SolvaPay will host an evening focused on making AI products discoverable, testable, and ready to accept agent-driven payments. Developers, founders, and product builders will hear from experts, work hands-on to turn an MCP server into a monetizable tool, and share demos and ideas.
-Oct 27
-The Future of Personalized Universal Agents - AI Talk &amp; Reception
-Tue, Oct 27 · 5:00 PM PDT
-Plug and Play Tech Center
-HKBANC will host an evening of insights and professional networking featuring Dr. Ed Chi, who will share his expertise.
-Oct 27
-Platform Engineering Meetup: Agents broke the balance (&amp; how to fix it)
-Tue, Oct 27 · 5:00 PM PDT
-130 Sutter St floor 7
-A panel of production engineers will explore how agent-era code generation is outpacing validation, and how fast, targeted checks and robust delivery pipelines can improve change success while reducing recovery time and wasted compute. The meetup will feature peer discussion, audience Q&amp;A, and networking.
-Oct 27
-Octen Agent Build Night
-Tue, Oct 27 · 5:00 PM PDT
+AI engineers, founders, and builders will spend a day creating production-ready agents powered by live web data, with hands-on guidance from You.com, Parasail, CrewAI, and partner engineers. Teams will tackle autonomous agent swarms or generative UI challenges, demo working prototypes, and compete for more than $10,000 in prizes.
+Oct 28
+You.com Agentic Hackathon – SF Edition
+Wed, Oct 28 · 9:30 AM PDT
 San Francisco, CA
-Attendees will build AI agents with live web access, wiring Octen’s search and extract APIs to help agents read and use current web content. Laptops, ideas, food, and drinks will be part of the hands-on evening.
-Oct 27
-Who Killed the Build? A Halloween DevTools Murder Mystery with Flox
-Tue, Oct 27 · 5:00 PM PDT
+Builders will spend a full day creating agentic applications with You.com and AWS, developing real-world use cases into working demos with hands-on support. The day will wrap with team pitches showcasing what they build.
+Oct 28
+[RESCHEDULED] Open Source Higgsfield: ComfyUI Dev Platform Build Night
+Wed, Oct 28 · 3:00 PM PDT
 San Francisco, CA
-AI Valley and developer-tool company Flox will host an interactive Halloween murder mystery, where attendees investigate a broken build, uncover clues about dependencies and environment drift, and see how Flox creates reproducible software environments across laptops, CI, and production. The evening will also feature real developer horror stories and a Halloween mixer.
-Oct 27
-Platform Engineering Meetup: Agents broke the balance and how to fix it
-Tue, Oct 27 · 5:00 PM PDT
-130 Sutter St floor 7
-Engineers solving validation challenges in production will discuss how agent-era code generation is outpacing review and pipelines, and how sub-minute, change-focused checks can improve delivery while reducing recovery time and wasted compute. The meetup will feature a panel, audience Q&amp;A, and networking.
-Oct 27
-How Partners Build on Lovable w/ Dan O&#x27;Leary
-Tue, Oct 27 · 5:00 PM PDT
+Developers and creative technologists will spend an evening rebuilding favorite generative-media apps as open-source projects on the Comfy Developer Platform, with hands-on support from Comfy developers. The program will include talks from ComfyUI and Runpod, project demos, and networking, ahead of the competition deadline and its $10,000 grand prize, RTX 5090s, and other awards.
+Oct 28
+First Rays - AI Portfolio Day
+Wed, Oct 28 · 4:00 PM PDT
+Palo Alto, CA
+First Rays’ 2026 Portfolio Day will explore how enterprise AI adoption is reshaping infrastructure, security, data, and development, with practitioner panels and presentations from portfolio founders. First Rays Venture Partners leaders Amit Sridharan and Alok Nandan will bring together senior technology practitioners, founders, operators, and investors.
+Oct 28
+Carina Hong @ Entrepreneurial Thought Leaders Speaker Series (ETL)
+Wed, Oct 28 · 4:30 PM PDT
+Nvidia Auditorium
+Carina Hong, Founder and CEO of Axiom Math, will discuss building AI systems for mathematical reasoning and formal verification as part of the Entrepreneurial Thought Leaders series. Her perspective will draw on her work at the intersection of AI and advanced mathematics.
+Oct 28
+Nimble Game Jam
+Wed, Oct 28 · 5:00 PM PDT
 San Francisco, CA
-Dan O’Leary, Lovable’s Head of Go-to-Market Partnerships, will discuss the emerging Lovable Partner Program and how agencies and AI consultants can create lasting value for businesses beyond building their first app. The event will also feature the first live recording of *The Partner Ship*, a leading partnerships podcast with interviews from partner leaders at Replit, Zapier, Euler, and AWS.
-Oct 27
-The New AI Developer Stack
-Tue, Oct 27 · 5:00 PM PDT
-Wilson Sonsini Goodrich &amp; Rosati
-The event will explore the radical transformation reshaping the modern software engineering stack.
-Oct 27
-Founders (Don&#x27;t) Cry
-Tue, Oct 27 · 5:00 PM PDT
-Frontier Tower
-Founder coach and international keynote speaker Matteo Cassese will introduce the Founder Journey, exploring how self-reflection can turn chaos and conflict into growth while helping founders avoid burnout and business failure. Drawing on more than 20 years in business communication and experience with Netflix, Warner Bros., SXSW, and IFA, he’ll also share the “zero confidence strategy” and examine the stories and inner patterns that shape leadership.
-Oct 27
-Who Controls the Future of AI Coding?
-Tue, Oct 27 · 5:30 PM PDT
-San Francisco, CA
-Renee Huang, CEO of Cline, and Sunil Joseph, VP of Customer Success at OpenRouter, will debate how open ecosystems, model choice, and developer autonomy will shape AI-powered software development and future competitive advantage. The conversation will bring together founders, engineers, researchers, and technical leaders for a fireside chat, Q&amp;A, and networking.
+Oct 28
+GenTeam Build Day: AI Agents for Real Estate
+Wed, Oct 28 · 5:00 PM PDT
+Microsoft
+Attendees will build working GenTeam AI agents for real estate tasks like transaction coordination, acquisitions, property search, and construction, with no prior experience required. Host Corey Griffin, a real estate business owner and Genius Ambassador who runs a 10-agent GenTeam, will demonstrate how he uses agents in his business.
+Oct 28
+Neuro Night
+Wed, Oct 28 · 5:00 PM PDT
+City College of San Francisco - Chinatown Center
+NeuroNight will be a free, informal mixer for students and professionals curious about the brain and neuroscience, with opportunities to connect and share interests.
+Oct 28
+GitBlame: Werewolf Happy Hour @GitHub Universe
+Wed, Oct 28 · 5:00 PM PDT
+Lobalita
+After day one of GitHub Universe, Heavybit, Sanity, and Omnara will bring DevOps, platform, infrastructure, and AI engineers together for Mexican food, cocktails, and a social deduction game: GitBlame: Werewolf Edition. The no-slides, no-pitches evening will put attendees’ people-reading skills to the test as they uncover secret “wolves” among the crowd.
+Oct 28
+Agentic Web #01 — Why fetch Isn&#x27;t Enough: Reliable Web Access for AI Agents
+Wed, Oct 28 · 5:00 PM PDT
+625 2nd St
+HackerSquad and Bright Data will host the first Agentic Web meetup, featuring demos and a practitioner panel on reliable web access for AI agents, from browser and scraping choices to structured context, orchestration, observability, latency, and cost. Engineers, founders, and builders of agents, frameworks, coding tools, and web-data infrastructure will share practical approaches and discuss the challenges of scaling dependable access.
+Oct 28
+Physical AI Workshop and Meetup
+Wed, Oct 28 · 5:30 PM PDT
+Antler
+Nebius and Voxel51 will host a hands-on Physical AI Workshop on October 28 where attendees will work with real robotics data, explore multimodal MCAP recordings in FiftyOne, and fine-tune a YOLO11n detector live using Nebius&#x27;s serverless AI infrastructure. The session brings together engineers and practitioners interested in practical robotics AI workflows, featuring networking, lightning talks, and a deep dive into taking raw robot logs to trained detection models.
 Nov 7
 AIE Code Summit 2026 Hackathon
 Sat, Nov 7 · 9:00 AM PDT

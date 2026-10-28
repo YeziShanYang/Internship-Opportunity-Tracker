@@ -30,6 +30,20 @@ Program (Event):Global Capital Markets Program,Global Investment Banking Program
 Event description:Join us for an exclusive Global Investment Banking and Global Capital Markets MBA event at the Bank of America Boston office this November. Designed for MBA students interested in exploring career opportunities in Japan, this event offers a unique opportu
 Event address / venue details:Shortlisted candidates will receive a confirmation email from us.
 Event Timezone:America/New_York
+https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/15153-Wealth-Management-Merrill-NextGen-Wealth-Forum-Chicago-IL/en-GB
+Wealth Management – Merrill NextGen Wealth Forum | Chicago, IL
+<timestamp>
+<timestamp>
+~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15153
+Title:Wealth Management – Merrill NextGen Wealth Forum | Chicago, IL
+Event Date:13 Nov 2026 10:00 AM EST
+Region:U.S. and Canada
+Country:United States of America
+Line of Business:MERRILL WEALTH MANAGEMENT
+Program (Event):Merrill Lynch Program
+Event description:We would like to invite interested sophomores who are exploring careers in wealth management to apply for our market event, an immersive, in-person pipelining/recruiting event featuring Merrill and Bank of America professionals. Spend the day getting an i
+Event address / venue details:110 N. Wacker Drive Chicago, IL
+Event Timezone:America/New_York
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15036-Private-Bank-2028-Wealth-Management-Analyst-Program-Information-Session-11-4/en-GB
 Private Bank 2028 Wealth Management Analyst Program Information Session – 11/4
 <timestamp>
@@ -86,20 +100,6 @@ Program (Event):Merrill Lynch Program
 Event description:Bank of America Presents: Merrill Wealth Management Campus Recruiting Information Session Are you interested in exploring a career with Wealth Management? The Merrill Wealth Management team would like to invite you to join us for an exciting information s
 Event address / venue details:Virtual via Teams
 Event Timezone:US/Eastern
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/14983-The-Power-to-Build-Legacies-Wealth-Management/en-GB
-The Power to Build Legacies: Wealth Management
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:14983
-Title:The Power to Build Legacies: Wealth Management
-Event Date:27 Oct 2026 04:00 PM EST
-Region:U.S. and Canada
-Country:United States of America
-Line of Business:FIRMWIDE
-Program (Event):Merrill Lynch Program,Private Bank Program
-Event description:Wealth Management is about more than investments, it’s about building long-term relationships and helping clients achieve their financial goals. In this session, you’ll explore how our wealth management lines of business work with individuals and families
-Event address / venue details:Virtual
-Event Timezone:EST
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/14953-Bank-of-America-APAC-Careers-Roadshow-Philadelphia/en-GB
 Bank of America | APAC Careers Roadshow | Philadelphia
 <timestamp>

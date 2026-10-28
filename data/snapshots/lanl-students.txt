@@ -114,6 +114,7 @@ Organization
 71D50C PIE-CRO Construction Readiness Office
 71E03C
 7C030C
+87000A
 8Q020A
 9R000C
 9R900C
@@ -125,6 +126,7 @@ A-3/Technology Applications Group
 A-4/Advanced Research in Cyber Systems
 A-5/Complex Response Solutions
 Actinide Analytical Chemistry
+A-DO / Analytics, Intelligence and Technology Division Office
 A-DO/Analytics, Intelligence and Technology Division
 ALDBUS ERP Program Office (ALDBUS-ERP)
 ALDESHQ-RSO/Repository Science and Operations
@@ -211,6 +213,7 @@ DP-5/ Detonator Production-Production Integration Office
 DP-IPO/Detonator Production - Infrastructure Planning Office
 DP-IPO/Detonator Production- Infrastructure Planning Office
 E-1 / Mechanical &amp; Thermal Engineering
+E-1/Mechanical &amp; Thermal Engineering
 E-11/Weapons Product Definition
 E-11/Weapons Product Design
 E-13/Advanced Engineering Analysis
@@ -375,6 +378,7 @@ MST-8/Materials Science in Radiation &amp; Dynamics Extremes
 MST-8/Structure/Property Relations
 MST-DO/Materials Science &amp; Technology
 NCS/Nuclear Criticality Safety Division
+NEN-1 / Safeguards Science and Techno
 NEN-1/ Safeguards Science and Techno
 NEN-1/Safeguards Science and Technology
 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY
@@ -599,6 +603,7 @@ WIPO (Weapons Infrastructure Program Office)
 W-MSO/Military &amp; Stockpile Operations Office
 WRS-NSRC MS/NSRC Mission Support
 WRS-WMT/Weapons Mission Technology
+X Theoretical Design Division
 X Theoretical Design/XTD-DO
 XCP-2 / Eulerian Codes
 XCP-2/Eulerian Codes
@@ -618,6 +623,7 @@ Organization
 71D50C PIE-CRO Construction Readiness Office
 71E03C
 7C030C
+87000A
 8Q020A
 9R000C
 9R900C
@@ -629,6 +635,7 @@ A-3/Technology Applications Group
 A-4/Advanced Research in Cyber Systems
 A-5/Complex Response Solutions
 Actinide Analytical Chemistry
+A-DO / Analytics, Intelligence and Technology Division Office
 A-DO/Analytics, Intelligence and Technology Division
 ALDBUS ERP Program Office (ALDBUS-ERP)
 ALDESHQ-RSO/Repository Science and Operations
@@ -715,6 +722,7 @@ DP-5/ Detonator Production-Production Integration Office
 DP-IPO/Detonator Production - Infrastructure Planning Office
 DP-IPO/Detonator Production- Infrastructure Planning Office
 E-1 / Mechanical &amp; Thermal Engineering
+E-1/Mechanical &amp; Thermal Engineering
 E-11/Weapons Product Definition
 E-11/Weapons Product Design
 E-13/Advanced Engineering Analysis
@@ -879,6 +887,7 @@ MST-8/Materials Science in Radiation &amp; Dynamics Extremes
 MST-8/Structure/Property Relations
 MST-DO/Materials Science &amp; Technology
 NCS/Nuclear Criticality Safety Division
+NEN-1 / Safeguards Science and Techno
 NEN-1/ Safeguards Science and Techno
 NEN-1/Safeguards Science and Technology
 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY
@@ -1103,6 +1112,7 @@ WIPO (Weapons Infrastructure Program Office)
 W-MSO/Military &amp; Stockpile Operations Office
 WRS-NSRC MS/NSRC Mission Support
 WRS-WMT/Weapons Mission Technology
+X Theoretical Design Division
 X Theoretical Design/XTD-DO
 XCP-2 / Eulerian Codes
 XCP-2/Eulerian Codes
@@ -1156,25 +1166,25 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 18
+Showing 12 out of 23
 Job Title
 Job Number
 Organization
 City, State
+ALDDP Undergraduate Student IRC146477 87000A Los Alamos, NM
+RFID Software Developer - Undergraduate Student IRC146481 NEN-1 / Safeguards Science and Techno Los Alamos, NM
 NEN-2 Undergraduate Student IRC146390 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY Los Alamos, NM
 Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
 Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Alamos, NM
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
-Undergraduate Information Technology Internship IRC146184 CIO / Chief Information Officer Los Alamos, NM
+Undergraduate and Graduating High Schools Senior Internship - Engineering IRC146161 Various Organizations Los Alamos, NM
+Undergraduate and Graduating High School Senior Internship - Professional/Non-Technical IRC146162 Various Organizations Los Alamos, NM
+Undergraduate and Graduating High School Senior Internship - Computational Sciences IRC146158 Various Organizations Los Alamos, NM
+Undergraduate and Graduating High School Senior Internship - Physical Sciences IRC146163 Various Organizations Los Alamos, NM
 Intelligence and Space Research Division Undergraduate Internship IRC146105 ISR-DO/Intelligence and Space Research Los Alamos, NM
-Mechanical and Electrochemical Undergraduate Student IRC146029 MPA-11 / Materials Synthesis and Integrated Devices Los Alamos, NM
-Undergraduate Computational Nuclear Engineer or Software Developer IRC146028 NEN-5 / Nuclear Systems Los Alamos, NM
-PWDI Administrative Scholars Internship Program IRC145910 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
-Undergraduate Student IRC145847 Product Realization and Reliability Office (PRRO) Los Alamos, NM
-High Performance Computing Undergraduate Student IRC145851 HPC-DO/High Performance Computing Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 18
+Showing 12 out of 23
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

@@ -13,6 +13,7 @@ HackUMass XIV
 Nov 13–15 | 36 Hours | Amherst, MA
 Apply to XIV Now! ➜
 Apply to be a Judge! ➜
+Sign Up to Host a Workshop/Talk! ➜
 Why HackUMass?
 HackUMass is the perfect place for students of all backgrounds and experience levels to dive into the world of technology.
 As a beginner-friendly hackathon, we provide hands-on workshops and dedicated mentorship to teach you the skills you need
@@ -166,8 +167,6 @@ Where is HackUMass XIV?
 HackUMass XIV is an in-person hackathon on the University of Massachusetts Amherst campus, with the main venue located at the Integrative Learning Center (650 N Pleasant St, Amherst, MA 01003).
 Who can attend?
 HackUMass XIV is open to ALL college students, including graduate students, regardless of major!
-Will my travel be reimbursed?
-If you apply by the early application deadline, you have the opportunity to apply for travel reimbursement. Early applications are now closed, but we invite you to attend HackUMass if you are able to support your own travel to Amherst, MA.
 Do I have to work on a project?
 No, participants are welcome to attend workshops, the club/sponsor fair, and network with sponsors or other students without submitting a final project! For final project submissions, the project does NOT need to be fully finished.
 Do I need experience?
@@ -200,9 +199,9 @@ Organizer
 Tan Troung
 Organizer
 Anagha Panamakuri
-Director
+Co-Director
 Gaurang Patil
-Organizer
+Co-Directors
 Aarna Deshpande
 Organizer
 Jeba Shalin
@@ -211,7 +210,9 @@ Tahir Husain
 Organizer
 Poorvi Goyal
 Organizer
-Sabad Modi
+Veer Heman Kuruwa
+Organizer
+Harsh Sata
 Organizer
 Anay Liu
 Director
@@ -235,7 +236,7 @@ Sneha Agarwal
 Co-Director
 Paulan Huang
 Organizer
-Mayurika Bora
+Mayurika Borah
 Organizer
 Mihir Shinde
 Organizer

@@ -40,10 +40,42 @@ Series A
 Series B
 Clear all
 Powered by Getro
-Showing 43 jobs
-Co-Op, Reaction Prediction &amp; Benchmarking
+Showing 44 jobs
+Co-Op, Robot Perception &amp; State Estimation
 Lila Sciences
-Location: San Francisco, CA, USA ; Cambridge, MA, USA
+Location: Cambridge, MA, USA
+Posted <age>
+Pre Seed
+Internship
+Artificial Intelligence (AI)
+Biotechnology
+Business/Productivity Software
+Data &amp; Analytics
+Foundational AI
+Industrial Automation
+IT Consulting and Outsourcing
+Life Science
+Manufacturing
+Science and Engineering
+Software
+Pre Seed
+Internship
+Artificial Intelligence (AI)
+Biotechnology
+Business/Productivity Software
+Data &amp; Analytics
+Foundational AI
+Industrial Automation
+IT Consulting and Outsourcing
+Life Science
+Manufacturing
+Science and Engineering
+Software
++ 99 more
+View job
+Co-Op, AI Nucleic Acid Design
+Lila Sciences
+Location: San Francisco, CA, USA
 Posted <age>
 Pre Seed
 Internship
@@ -105,41 +137,9 @@ Science and Engineering
 Software
 + 99 more
 View job
-Co-Op, Automated Systems Engineer
+Co-Op, Reaction Prediction &amp; Benchmarking
 Lila Sciences
-Location: Cambridge, MA, USA
-Posted <age>
-Pre Seed
-Internship
-Artificial Intelligence (AI)
-Biotechnology
-Business/Productivity Software
-Data &amp; Analytics
-Foundational AI
-Industrial Automation
-IT Consulting and Outsourcing
-Life Science
-Manufacturing
-Science and Engineering
-Software
-Pre Seed
-Internship
-Artificial Intelligence (AI)
-Biotechnology
-Business/Productivity Software
-Data &amp; Analytics
-Foundational AI
-Industrial Automation
-IT Consulting and Outsourcing
-Life Science
-Manufacturing
-Science and Engineering
-Software
-+ 99 more
-View job
-Co-Op, Characterization Electrodeposited Material
-Lila Sciences
-Location: Cambridge, MA, USA
+Location: San Francisco, CA, USA ; Cambridge, MA, USA
 Posted <age>
 Pre Seed
 Internship
@@ -201,7 +201,71 @@ Science and Engineering
 Software
 + 99 more
 View job
+Co-Op, Automated Systems Engineer
+Lila Sciences
+Location: Cambridge, MA, USA
+Posted <age>
+Pre Seed
+Internship
+Artificial Intelligence (AI)
+Biotechnology
+Business/Productivity Software
+Data &amp; Analytics
+Foundational AI
+Industrial Automation
+IT Consulting and Outsourcing
+Life Science
+Manufacturing
+Science and Engineering
+Software
+Pre Seed
+Internship
+Artificial Intelligence (AI)
+Biotechnology
+Business/Productivity Software
+Data &amp; Analytics
+Foundational AI
+Industrial Automation
+IT Consulting and Outsourcing
+Life Science
+Manufacturing
+Science and Engineering
+Software
++ 99 more
+View job
 Co-Op, Cell Based Sequencing
+Lila Sciences
+Location: Cambridge, MA, USA
+Posted <age>
+Pre Seed
+Internship
+Artificial Intelligence (AI)
+Biotechnology
+Business/Productivity Software
+Data &amp; Analytics
+Foundational AI
+Industrial Automation
+IT Consulting and Outsourcing
+Life Science
+Manufacturing
+Science and Engineering
+Software
+Pre Seed
+Internship
+Artificial Intelligence (AI)
+Biotechnology
+Business/Productivity Software
+Data &amp; Analytics
+Foundational AI
+Industrial Automation
+IT Consulting and Outsourcing
+Life Science
+Manufacturing
+Science and Engineering
+Software
++ 99 more
+View job
+Co-Op, Characterization Electrodeposited Material
 Lila Sciences
 Location: Cambridge, MA, USA
 Posted <age>
@@ -331,73 +395,6 @@ SaaS
 Software
 Technology
 Test &amp; Measurement
-+ 99 more
-View job
-Finance Intern (Summer 2027)
-Gusto
-Location: New York, NY, USA
-Compensation: USD 32.7-42.07 / hour + Equity
-Posted <age>
-Series A
-Internship
-Administrative Services
-Benefits
-Bookkeeping and Payroll
-Business And Industrial
-Business Services
-Business/Productivity Software
-Cloud
-Compliance
-E-Commerce
-Employee Benefits
-Enterprise Software
-Finance
-Financial Services
-Financial Software
-Fintech
-Health Care
-HRTech
-Human Capital Services
-Human Resources
-Human Resources Hr
-Payroll
-Personal Finance
-Professional Services
-SaaS
-Small Business
-Software
-Technology
-Workforce Management
-Series A
-Internship
-Administrative Services
-Benefits
-Bookkeeping and Payroll
-Business And Industrial
-Business Services
-Business/Productivity Software
-Cloud
-Compliance
-E-Commerce
-Employee Benefits
-Enterprise Software
-Finance
-Financial Services
-Financial Software
-Fintech
-Health Care
-HRTech
-Human Capital Services
-Human Resources
-Human Resources Hr
-Payroll
-Personal Finance
-Professional Services
-SaaS
-Small Business
-Software
-Technology
-Workforce Management
 + 99 more
 View job
 Apprentice Technician
@@ -673,25 +670,6 @@ SaaS
 Software
 Technology
 Test &amp; Measurement
-+ 99 more
-View job
-Robotics Data Collection Operator - Santa Clara
-Cobot
-Location: Santa Clara, CA, USA
-Compensation: USD 20-20 / hour
-Posted <age>
-Series B
-Internship
-Artificial Intelligence (AI)
-Hardware
-Machinery Manufacturing
-Robotics
-Series B
-Internship
-Artificial Intelligence (AI)
-Hardware
-Machinery Manufacturing
-Robotics
 + 99 more
 View job
 Load more

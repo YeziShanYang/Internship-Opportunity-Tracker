@@ -89,26 +89,26 @@ Who we&rsquo;re looking for : First-year students or sophomores pursuing a quant
 For more info:&nbsp; Analyst Early Experiences - AnalystEE@capitalone.com &nbsp;
 Check out the Students &amp; Grads event page to find info sessions on the programs and connect with the recruiting teams.
 ALL JOBS
-R236894
-Sr. Operations Representative
-R1004302
-Senior Manager- AI Engineer
-R1004461
-Senior Associate, Data Science
-R248437
-Senior Manager, Product Management - Governance, Risk, and Compliance
-R1004226
-Data Engineer 4 (Python, Oracle Database)
-R1004442
-Appraiser III (Senior Commercial Real Estate Appraiser)
-R1002897
-Principal Associate, Process Manager - Customer Resiliency, Recoveries Team (Hybrid)
-R1004432
-Full-stack Engineer 4
-R1004308
-Full-stack Engineer 4
-R1004464
-Director, Data Scientist - US Card
+R1004611
+Full Stack Engineer 5
+R1004635
+Senior Director, Product Design - Auto Design
+R1004610
+Business Development Manager, Luxury Travel (Remote Eligible)
+R1004590
+AI Engineer 4 (Gen AI Platform Services: Agentic Systems)
+R1004612
+Director, Product Designer - Bank Self-Servicing Design
+R1004535
+Full-Stack Engineer 4 (Python, Kubernetes)
+R1004319
+Senior Director - Software Engineering
+R1004324
+Director - Machine Learning Engineering
+R1004452
+Director of Communications - Capital One Travel
+R1004323
+Director - Software Engineering
 View all of our available opportunities
 Related Content
 Explore Capital One Internships

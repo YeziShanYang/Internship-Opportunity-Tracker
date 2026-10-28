@@ -2,6 +2,24 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-1/brand-4/candidate/jobboard/vac
 Campus Opportunities
 Jefferies
 <timestamp>
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2052-2027-Information-Technology-Summer-Analyst-Infrastructure-Hong-Kong/en-GB
+2027 Information Technology Summer Analyst (Infrastructure) - Hong Kong
+<timestamp>
+<timestamp>
+ID:2052
+Title:2027 Information Technology Summer Analyst (Infrastructure) - Hong Kong
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2055-2027-Investment-Banking-Off-Cycle-Internship-Programme-London-Energy-March-start/en-GB
+2027 Investment Banking Off Cycle Internship Programme London - Energy (March start)
+<timestamp>
+<timestamp>
+ID:2055
+Title:2027 Investment Banking Off Cycle Internship Programme London - Energy (March start)
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2037-2027-Financial-Institutions-Group-MBA-Summer-Associate-Investment-Banking-Information-Session-Invite-Only/en-GB
+2027 Financial Institutions Group MBA Summer Associate Investment Banking Information Session (Invite Only)
+<timestamp>
+<timestamp>
+ID:2037
+Title:2027 Financial Institutions Group MBA Summer Associate Investment Banking Information Session (Invite Only)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2023-2027-Investment-Banking-Off-Cycle-Internship-Programme-London-Greek-Country-Coverage-Team/en-GB
 2027 Investment Banking Off Cycle Internship Programme - London - Greek Country Coverage Team
 <timestamp>
@@ -116,12 +134,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1978
 Title:2027 Finance Controllers Analyst Programme - London
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1966-2027-Investment-Banking-Off-Cycle-Internship-Benelux-Team-Amsterdam-January-March/en-GB
-2027 Investment Banking Off-Cycle Internship - Benelux Team, Amsterdam (January - March)
-<timestamp>
-<timestamp>
-ID:1966
-Title:2027 Investment Banking Off-Cycle Internship - Benelux Team, Amsterdam (January - March)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1961-2027-Human-Resources-Summer-Analyst-Program-Jersey-City-Compensation-and-Benefits/en-GB
 2027 Human Resources Summer Analyst Program – Jersey City, Compensation and Benefits
 <timestamp>
@@ -242,12 +254,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:2017
 Title:2027 Investment Banking Off-Cycle Internship – Zurich (Q4)
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1909-2027-Investment-Banking-Summer-Associate-Program-Capital-Structure-Solutions-Group/en-GB
-2027 Investment Banking Summer Associate Program – Capital Structure Solutions Group
-<timestamp>
-<timestamp>
-ID:1909
-Title:2027 Investment Banking Summer Associate Program – Capital Structure Solutions Group
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1910-2027-Investment-Banking-Summer-Associate-Program-New-York-Financial-Institutions-Group/en-GB
 2027 Investment Banking Summer Associate Program – New York, Financial Institutions Group
 <timestamp>

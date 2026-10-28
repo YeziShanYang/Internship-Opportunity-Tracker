@@ -41,7 +41,8 @@ World Finals
 Details&#8230;
 2026 – 2027 Contest Information
 Contest date: Saturday, November 14, 2026.
-Registration opens September 15, 2026 and closes November 5, 2026. Site, schedule, and technical details will be posted when confirmed.
+Please see Legacy PacNW site ( https://acmicpc-pacnw.org/ ) for latest contest information and news.
+Registration is open for the 2026 PacNW Regional Contest. Schedule and all other details can be found at: https://acmicpc-pacnw.org/
 See the Announcement page for the latest news.
 West Division
 Pacific Northwest

@@ -7,6 +7,7 @@ QMI
 Philanthropy
 Competitions
 Overview
+Texas Charity Pitch
 Texas Stock Pitch
 Analyst Group Stock Pitch
 Leadership
@@ -28,6 +29,7 @@ QMI
 Philanthropy
 Competitions
 Overview
+Texas Charity Pitch
 Texas Stock Pitch
 Analyst Group Stock Pitch
 Leadership
@@ -43,6 +45,7 @@ Access Slack
 Join
 Competitions
 Overview
+Texas Charity Pitch
 Texas Stock Pitch
 Analyst Group Stock Pitch
 USIT’s Flagship Competitions
