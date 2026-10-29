@@ -31,6 +31,39 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Finance Jobs
+Wipfli
+Audit Internship - Spring 2028
+<age> Saved
+Hybrid
+Milwaukee, WI, USA
+Internship
+Internship
+Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
+Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, reports, and engagement outputs; gather client information; analyze data; identify process improvements; and communicate with engagement leaders. The role provides hands-on experience across varied client industries while developing accounting, GAAP, professional, administrative, and interpersonal skills.
+Top Skills:
+Data Analytics Gaap
+Wells Fargo
+2028 Investment Banking Summer Internship &#x2013; Early Careers (Houston)
+<age> Saved
+Hybrid
+Houston, TX, USA
+2K-2K Annually
+Internship
+2K-2K Annually
+Internship
+Fintech &#x2022; Financial Services
+A 10-week investment banking summer internship supporting the Energy & Power coverage team. Responsibilities include financial modeling, valuation, company and industry research, financial and credit analysis, client presentations, due diligence, strategic planning, and advisory execution. Interns work with senior bankers on live transactions and client engagements while participating in training and networking opportunities.
+PwC
+Greensboro - Audit - Intern - Winter 2028 - Destination CPA
+<age> Saved
+Hybrid
+Greensboro, NC, USA
+29K-48K Hourly
+Internship
+29K-48K Hourly
+Internship
+Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
+Supports financial statement audits through document review, financial data analysis, internal control evaluation, audit documentation, research, and application of GAAP and GAAS. Collaborates with audit teams, monitors financial trends and risks, and develops foundational knowledge of audit methodologies, financial reporting, and client service.
 Cox Enterprises
 Financial Planning &amp; Analysis Intern
 <age> Saved
@@ -44,19 +77,6 @@ Artificial Intelligence &#x2022; Automotive &#x2022; Greentech &#x2022; Informat
 Finance intern supporting marketplace technology investments. Responsibilities include analyzing raw data, evaluating financial and operational impact, building investment assessment frameworks, testing recommendations, identifying key takeaways, and preparing executive presentations. The role offers hands-on experience in business cases, financial modeling, and collaboration with technology, product, operations, and senior finance leaders.
 Top Skills:
 Excel
-Cox Enterprises
-Finance Intern
-<age> Saved
-Hybrid
-Carmel, IN, USA
-22-33 Hourly
-Internship
-22-33 Hourly
-Internship
-Artificial Intelligence &#x2022; Automotive &#x2022; Greentech &#x2022; Information Technology &#x2022; Machine Learning &#x2022; Software &#x2022; Cybersecurity
-Finance intern supporting financial data analysis, reporting, forecasting models, KPI tracking, and process automation using AI tools. The role involves collaborating with internal stakeholders, managing multiple deadlines, and developing practical finance and analytics skills through on-the-job training.
-Top Skills:
-Ai Tools Claude Copilot Excel Microsoft Office Suite SQL
 Liberty Mutual Insurance
 Underwriting Internship Program - Global Risk Solutions - Summer 2027
 <age> Saved
@@ -68,17 +88,10 @@ Internship
 Internship
 Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
 An 11-week underwriting internship with Liberty Mutual’s Global Risk Solutions team. Interns analyze business and financial information, evaluate and price commercial insurance risks, support underwriting decisions, and contribute to projects alongside experienced professionals. The program develops analytical, decision-making, communication, negotiation, and relationship-building skills while providing exposure to commercial and specialty insurance products and professional development opportunities.
-Rocket
-Risk Intelligence Intern - Summer 2027
-<age> Saved
-In-Office
-Detroit, MI, USA
-Internship
-Internship
-Fintech &#x2022; Real Estate &#x2022; Sales &#x2022; Financial Services
-Supports enterprise risk assessments, targeted analyses, data and research interpretation, risk reporting, recommendations, AI-driven automation, risk surveys, and news scanning. The intern will collaborate with risk professionals, contribute creative process improvements, and independently advance projects while gaining exposure to enterprise risk management and strategic decision-making.
-Top Skills:
-Ai-Driven Automation Claude Excel MS Office PowerPoint Word
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 Citadel
 Finance &amp; Accounting - Intern (US)
 <age> Saved
@@ -92,10 +105,6 @@ Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Bi
 An 11-week Finance and Accounting internship offering placements in corporate accounting, fund and broker-dealer accounting, or financial reporting. Responsibilities include auditing expense reports, supporting cash receipts and journal entries, assisting with regulatory and financial reporting, monitoring compliance, overseeing accounting records and NAV calculations, supporting audits, and researching U.S. GAAP and IFRS questions. Interns also identify process improvements and collaborate with stakeholders.
 Top Skills:
 Concur Ifrs Excel U.S. Gaap
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 Leader Bank
 Finance Intern
 <age> Saved
@@ -109,19 +118,6 @@ Fintech &#x2022; Insurance &#x2022; Payments &#x2022; Social Impact &#x2022; Fin
 The Finance Intern will support accounting and treasury operations, including general ledger activity, account reconciliations, month-end and year-end close, expense tracking, budgeting, financial analysis, regulatory reporting, audits, and treasury projects. The role provides hands-on exposure to financial operations within a growing bank and requires strong attention to detail, organization, communication, problem-solving, and teamwork.
 Top Skills:
 Excel MS Office
-PwC
-Charlotte - Digital Assurance &amp; Transparency (DAT) - Intern - Summer 2027
-<age> Saved
-Hybrid
-Charlotte, NC, USA
-29K-48K Hourly
-Internship
-29K-48K Hourly
-Internship
-Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
-Supports digital assurance and audit teams through research, basic data analysis, compliance and governance activities, and application of auditing methodologies. Participates in testing artificial intelligence platforms and applying cloud engineering principles to audit processes. Collaborates with experienced auditors, gathers information to support decision-making, and develops professional skills through feedback, observation, and hands-on client service assignments.
-Top Skills:
-Artificial Intelligence Cloud Engineering
 CNA
 Finance/Accounting Intern
 <age> Saved
@@ -146,17 +142,6 @@ Artificial Intelligence &#x2022; Big Data &#x2022; Healthtech &#x2022; Informati
 Accounting Intern supporting monthly bank reconciliations, fixed asset and lease accounting, month-end close, audit support, internal controls, reporting, data validation, and process documentation. The role collaborates with Accounts Payable and Project Accounting teams to resolve discrepancies and improve accounting processes. It is a year-round, in-office internship designed for students pursuing practical experience in accounting and financial reporting.
 Top Skills:
 Costpoint Erp Systems Excel Peoplesoft
-Wipfli
-Audit Internship - Summer 2028
-<age> Saved
-Hybrid
-Fort Collins, CO, USA
-34-34 Hourly
-Internship
-34-34 Hourly
-Internship
-Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
-Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, management reports, and engagement outputs; communicate with clients and engagement leaders; analyze data; and identify process improvements. They develop accounting, GAAP, professional, administrative, and interpersonal skills while supporting client engagements across varied industries.
 Ericsson
 Financial Analyst Intern
 <age> Saved
@@ -175,7 +160,7 @@ Erp Excel SAP
 5
 ...
 ...
-196
+193
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

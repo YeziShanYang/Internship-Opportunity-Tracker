@@ -397,7 +397,7 @@ Software
 Transportation
 + 99 more
 View job
-2027 Internship State Estimation, Learned Mapping &amp; Semantic SLAM
+2027 Internship Safety Engineer, Agentic Safety Case Assessment
 Bedrock Robotics
 Location: San Francisco, CA, USA
 Posted <age>
@@ -427,7 +427,7 @@ Software
 Transportation
 + 99 more
 View job
-2027 Internship Safety Engineer, Agentic Safety Case Assessment
+2027 Internship State Estimation, Learned Mapping &amp; Semantic SLAM
 Bedrock Robotics
 Location: San Francisco, CA, USA
 Posted <age>
@@ -577,7 +577,7 @@ Software
 Transportation
 + 99 more
 View job
-2027 Internship Hardware Engineer
+2027 Internship Validation &amp; Verification Test Engineer
 Bedrock Robotics
 Location: San Francisco, CA, USA
 Posted <age>
@@ -637,7 +637,7 @@ Software
 Transportation
 + 99 more
 View job
-2027 Internship Validation &amp; Verification Test Engineer
+2027 Internship Hardware Engineer
 Bedrock Robotics
 Location: San Francisco, CA, USA
 Posted <age>

@@ -2,6 +2,20 @@ https://bankcampuscareers.tal.net/vx/mobile-0/candidate/jobboard/vacancy/2/feed
 Campus Events
 Bank of America
 <timestamp>
+https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/15242-Bank-of-America-Early-Insights-Event/en-GB
+Bank of America | Early Insights Event
+<timestamp>
+<timestamp>
+~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15242
+Title:Bank of America | Early Insights Event
+Event Date:15 Dec 2026 02:30 PM HKT
+Region:Asia Pacific
+Country:Hong Kong
+Line of Business:FIRMWIDE
+Program (Event):Firmwide
+Event description:Bank of America Early Insights Event Are you a second-year university student interested in exploring career opportunities in the financial services industry? Join Bank of America Early Insights Event for an exclusive campus networking event designed to h
+Event address / venue details:Hong Kong CKC Office. Shortlisted candidates will receive a confirmation email from us.
+Event Timezone:Asia/Hong_Kong
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15233-Bank-of-America-Japan-MBA-Event-in-New-York/en-GB
 Bank of America | Japan MBA Event in New York
 <timestamp>
@@ -65,20 +79,6 @@ Private Bank 2028 Wealth Management Analyst Program Information Session – 11/1
 ~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15037
 Title:Private Bank 2028 Wealth Management Analyst Program Information Session – 11/10
 Event Date:10 Nov 2026 03:00 PM EST
-Region:U.S. and Canada
-Country:United States of America
-Line of Business:FIRMWIDE
-Program (Event):Private Bank Program
-Event description:Join our virtual information session to learn more about Bank of America's 2028 Wealth Management Summer Analyst Program with The Private Bank. Hear directly from business professionals as they share insights into their roles, career journeys, and what a
-Event address / venue details:Virtual - A meeting link will be shared with registered attendees prior to the event.
-Event Timezone:US/Eastern
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/15035-Private-Bank-2028-Wealth-Management-Analyst-Program-Information-Session-10-28/en-GB
-Private Bank 2028 Wealth Management Analyst Program Information Session – 10/28
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15035
-Title:Private Bank 2028 Wealth Management Analyst Program Information Session – 10/28
-Event Date:28 Oct 2026 04:00 PM EDT
 Region:U.S. and Canada
 Country:United States of America
 Line of Business:FIRMWIDE

@@ -1,4 +1,5 @@
-[{"uuid":"<uuid>","name":"Evening Trader (5 pm - 12 am)","department":{"id":"Trading","label":"Trading"},"url":"https://ats.rippling.com/edgehog-trading/jobs/<uuid>","workLocation":{"label":"Chicago, IL","id":"Chicago, IL"}},
+[{"uuid":"<uuid>","name":"Commodity Options Trader","department":{"id":"Trading","label":"Trading"},"url":"https://ats.rippling.com/edgehog-trading/jobs/<uuid>","workLocation":{"label":"Chicago, IL","id":"Chicago, IL"}},
+{"uuid":"<uuid>","name":"Evening / Overnight Trader","department":{"id":"Trading","label":"Trading"},"url":"https://ats.rippling.com/edgehog-trading/jobs/<uuid>","workLocation":{"label":"Chicago, IL","id":"Chicago, IL"}},
 {"uuid":"<uuid>","name":"Full Stack Developer","department":{"id":"Technology","label":"Technology"},"url":"https://ats.rippling.com/edgehog-trading/jobs/<uuid>","workLocation":{"label":"Chicago, IL","id":"Chicago, IL"}},
 {"uuid":"<uuid>","name":"General Expression of Interest","department":{"id":"General","label":"General"},"url":"https://ats.rippling.com/edgehog-trading/jobs/<uuid>","workLocation":{"label":"Chicago, IL","id":"Chicago, IL"}},
 {"uuid":"<uuid>","name":"Graduate Quantitative Trader","department":{"id":"Trading","label":"Trading"},"url":"https://ats.rippling.com/edgehog-trading/jobs/<uuid>","workLocation":{"label":"Chicago, IL","id":"Chicago, IL"}},

@@ -53,14 +53,14 @@ Financial Support
 Graduate Life
 Graduate Program Overview
 Toggle Graduate Program Overview
-Degree Requirements
 Graduate Handbook
+Degree Requirements
+Qualifying Exam
+Ph.D. Conferral
 Graduate Resources &amp; Forms
 Toggle Graduate Resources &amp; Forms
 Advising
 Physics Education Resources
-Qualifying Exam
-Ph.D. Conferral
 Graduate Forms
 Teaching Assistantships
 Toggle Teaching Assistantships
@@ -158,21 +158,20 @@ Director Undergraduate Studies
 choosingphysics [at] stanford.edu (Pre-Major Advising)
 Main content start
 Undergraduate Research
-2026 Program Dates:
-Summer: 10 weeks, June 22&nbsp;- August 28, 2026
-The application consists of two parts. Part 1 of application is closed (was due by&nbsp;noon, Friday, January 16, 2026). &nbsp; Part 2 &nbsp;is closed (as of Friday, February 20, 2026). &nbsp;
+2027 Program Dates:
+Summer: 10 weeks, June 21&nbsp;- August 27, 2027
+The application consists of two parts. Part 1 of application will be available before the Thanksgiving break with a deadline of Friday, January 15, 2027. Part 2&nbsp;will be available in January.&nbsp;
 See the&nbsp; How to Apply &nbsp;and&nbsp; FAQ &nbsp;pages for more information on how to apply, as well as the page on&nbsp; Research Positions .
 The Summer Research Program offered by the Departments of Physics, Applied Physics and SLAC provides Fellowships to Stanford undergraduate Physics and Engineering Physics majors, plus undeclared first-year students who are considering Physics/Engineering Physics as a major, who wish to dedicate ten weeks to the Summer quarter to join a physics research group under the guidance of a faculty member.&nbsp;&nbsp;
-Students receive a base stipend of $8500. &nbsp;An additional need-based supplement of up to $1500 is given to qualifying students.&nbsp; Students pay for their own living expenses out of their stipend.&nbsp; This can be either in on-campus housing,&nbsp;or anywhere else you choose to live.
+Students receive a base stipend of $8800. &nbsp;An additional need-based supplement of up to $1500 is given to qualifying students.&nbsp; Students pay for their own living expenses out of their stipend.&nbsp; This can be either in on-campus housing,&nbsp;or anywhere else you choose to live.
 The focus of the Physics Research Program is twofold:&nbsp;to strongly encourage our majors to complete a Senior Thesis, and to provide an opportunity for students to experience physics research early on in their undergraduate career. The program is structured to fulfill these two goals, while at the same time serving as many students as possible with limited funding. In order to maximize the benefits of all funding sources, preference for departmental program funds is given to first-time applicants.
 We accept applications from current freshmen, sophomores, and juniors.&nbsp; For beginning students, research experience is not required;&nbsp; this is an opportunity to "try out" research in physics, by learning skills and experiencing the research environment, to help you decide if either Physics or Engineering Physics is the right major for you. All that is required is&nbsp;curiosity, initiative, and a willingness to learn and grow. Once a student successfully completes the Physics Research Program and continues their studies in Physics they are generally prepared to conduct research on a topic that they can develop into a Senior Thesis during their senior year.
 The Physics Research Program is able to support every Physics and Engineering Physics major for at least one-quarter of funding. Funding is sometimes available for a second quarter; rising seniors applying for the second quarter of funding &nbsp;must &nbsp;also&nbsp;apply for a&nbsp; Student Major Grant from Stanford Undergraduate Research and Independent Projects . There is generally no funding for a third-quarter; such students can apply for a&nbsp;Student Major Grant, as well as search for funding from their faculty research advisor or other sources.
-In addition to working on research, program participants attend weekly professional development workshops. Examples include faculty research seminars, graduate student panels, and more. Participants are required to attend all scheduled seminars during their ten weeks of research. We will also pursue optional field trips to the Stanford Linear Accelerator Center (SLAC) and Stanford Student Observatory to provide an educational "break" from research. A 6-minute presentation of your research to your peers is also required of all participants.
+In addition to working on research, program participants attend weekly professional development workshops. Examples include faculty research seminars, graduate student panels, and more. Participants are required to attend all scheduled seminars during their ten weeks of research. We will also pursue optional field trips to the Stanford Linear Accelerator Center (SLAC) and Stanford Student Observatory to provide an educational "break" from research. A final presentation of your research to your peers is also required of all participants.
 We recognize the following Schools, Departments, Independent Laboratories and Collaborations at Stanford who support our research program, including:
 VPUE&nbsp; (Vice Provost for Undergraduate Education)
 Department of Physics
 KIPAC &nbsp;(Kavli Institute for Particle Astrophysics and Cosmology
-HEPL (Hansen Experimental Physics Lab)
 SLAC-PPA
 Q-Farm
 LIGO Scientific Collaboration

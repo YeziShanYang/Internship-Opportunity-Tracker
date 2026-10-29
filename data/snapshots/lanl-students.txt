@@ -172,9 +172,11 @@ C-AAC/Actinide Analytical Chemistry
 CAI-1/Applied Computer Science Group
 CAI-2 / Computational Physics and Methods Group
 CAI-2/Computational Physics and Methods
+CAI-2/Computational Physics and Methods Group
 CAI-3 / Information Sciences
 CAI-3/Information Sciences
 CAI-3/Information Sciences Group
+CAI-4/Statistics Group
 CAI-DO / Computing &amp; Artificial Intelligence
 CAI-DO Computing and Artificial Intelligence
 CAI-DO/Computing and Artificial Intelligence
@@ -351,6 +353,7 @@ MPA-MAG Lab NHMFL Group (MPA-MAGLAB)
 MPA-MAG LAB NHMFL GROUP/MPA-MAGLAB
 MPA-MAGLAB / MPA-MAG LAB NHMFL GROUP
 MPA-MAGLAB/ National High Magnetic Field Laboratory
+MPA-Q / MPA-Quantum
 MPA-Q/MPA-Quantum
 MSS-APT/Automation &amp; Predictive Technologies
 MSS-CE/Central Execution
@@ -464,6 +467,7 @@ PM/Project Management
 PM-DO /Project Management Division
 PM-DO/Project Management Division
 PMDS/Process Maintenance &amp; Decontamination Services
+Product Realization &amp; Reliability Office
 Product Realization and Reliability Office (PRRO)
 Production Assurance (PA-DO)
 Production Assurance Engineering (PA-1)
@@ -681,9 +685,11 @@ C-AAC/Actinide Analytical Chemistry
 CAI-1/Applied Computer Science Group
 CAI-2 / Computational Physics and Methods Group
 CAI-2/Computational Physics and Methods
+CAI-2/Computational Physics and Methods Group
 CAI-3 / Information Sciences
 CAI-3/Information Sciences
 CAI-3/Information Sciences Group
+CAI-4/Statistics Group
 CAI-DO / Computing &amp; Artificial Intelligence
 CAI-DO Computing and Artificial Intelligence
 CAI-DO/Computing and Artificial Intelligence
@@ -860,6 +866,7 @@ MPA-MAG Lab NHMFL Group (MPA-MAGLAB)
 MPA-MAG LAB NHMFL GROUP/MPA-MAGLAB
 MPA-MAGLAB / MPA-MAG LAB NHMFL GROUP
 MPA-MAGLAB/ National High Magnetic Field Laboratory
+MPA-Q / MPA-Quantum
 MPA-Q/MPA-Quantum
 MSS-APT/Automation &amp; Predictive Technologies
 MSS-CE/Central Execution
@@ -973,6 +980,7 @@ PM/Project Management
 PM-DO /Project Management Division
 PM-DO/Project Management Division
 PMDS/Process Maintenance &amp; Decontamination Services
+Product Realization &amp; Reliability Office
 Product Realization and Reliability Office (PRRO)
 Production Assurance (PA-DO)
 Production Assurance Engineering (PA-1)
@@ -1171,11 +1179,11 @@ Job Title
 Job Number
 Organization
 City, State
-ALDDP Undergraduate Student IRC146477 87000A Los Alamos, NM
 RFID Software Developer - Undergraduate Student IRC146481 NEN-1 / Safeguards Science and Techno Los Alamos, NM
+ALDDP Undergraduate Student IRC146477 87000A Los Alamos, NM
 NEN-2 Undergraduate Student IRC146390 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY Los Alamos, NM
-Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
 Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Alamos, NM
+Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Undergraduate and Graduating High Schools Senior Internship - Engineering IRC146161 Various Organizations Los Alamos, NM

@@ -2,6 +2,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-1/brand-4/candidate/jobboard/vac
 Campus Opportunities
 Jefferies
 <timestamp>
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2026-2026-Campus-Recruiting-Analyst-New-York/en-GB
+2026 Campus Recruiting Analyst - New York
+<timestamp>
+<timestamp>
+ID:2026
+Title:2026 Campus Recruiting Analyst - New York
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2052-2027-Information-Technology-Summer-Analyst-Infrastructure-Hong-Kong/en-GB
 2027 Information Technology Summer Analyst (Infrastructure) - Hong Kong
 <timestamp>

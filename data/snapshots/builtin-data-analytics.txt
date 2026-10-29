@@ -31,6 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+Cencora
+Data Analytics Intern
+<age> Saved
+In-Office
+Corona, CA, USA
+38K-57K Annually
+Internship
+38K-57K Annually
+Internship
+Healthtech &#x2022; Logistics &#x2022; Pharmaceutical
+Supports Cencora’s Enterprise Data and Analytics Platform modernization by collecting and analyzing datasets, building Tableau or Power BI dashboards, tracking KPIs, conducting ad hoc analyses, documenting findings, and contributing to scalable self-service solutions and CI/CD practices. The intern collaborates with cross-functional teams to support data-driven decisions and improve internal and customer-facing analytics products.
+Top Skills:
+Ci/Cd Excel Power BI Salesforce SQL Tableau
 Spectrum
 2027 Summer Intern: Data Insights Analyst (Customer Operations)
 <age> Saved
@@ -81,6 +94,10 @@ Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing T
 An 11-week analyst internship involving qualitative and quantitative data analysis, performance trend research, opportunity identification, and recommendations supporting business decisions in the insurance industry. Interns collaborate individually and in teams, use analytical and technical tools, participate in training, and develop business acumen while exploring potential full-time opportunities.
 Top Skills:
 Artificial Intelligence Excel Power BI Python R SAS Snowflake SQL
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 IDeaS
 Marketing Analytics Intern
 <age> Saved
@@ -92,10 +109,6 @@ Software &#x2022; Analytics &#x2022; Hospitality
 Supports cross-channel marketing attribution and influence modeling by documenting data sources, defining business rules, mapping and normalizing interaction data, testing reporting prototypes, and recommending implementation steps. The intern also assists with AWS marketing data organization, segmentation research, data hygiene, process documentation, and stakeholder communications. The role requires analytical thinking, thorough documentation, clear communication, and collaboration across marketing and technical teams.
 Top Skills:
 AWS Data Modeling Data Visualization Hubspot Marketing Automation Salesforce Spreadsheets SQL
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 Atlassian
 Data Engineer Intern, 2027 Summer U.S.
 <age> Saved
@@ -146,19 +159,6 @@ Fintech &#x2022; Information Technology &#x2022; Insurance &#x2022; Financial Se
 Undergraduate interns will support data and analytics projects involving data pipelines, machine learning, generative AI, dashboards, reporting, data governance, process improvement, production support, and analytics solution development. Interns will collaborate cross-functionally, document data assets, validate data, and present project outcomes. The hybrid program requires approximately 40 hours weekly for ten weeks in Cary, North Carolina.
 Top Skills:
 Ataccama Azure Devops C# C&#x2B;&#x2B; Collibra Databricks Edc Git Azure Power BI Python Scala SQL Tableau
-Ibotta
-Business Intelligence Intern
-<age> Saved
-Hybrid
-Denver, CO, USA
-27-27 Hourly
-Internship
-27-27 Hourly
-Internship
-eCommerce &#x2022; Mobile &#x2022; Payments
-Business Intelligence Interns will conduct exploratory data analysis, create ad hoc reports, and support the development, migration, and improvement of dashboards using Looker and Databricks. They will gather requirements, build visualizations, test dashboard accuracy and usability, identify data inconsistencies, and document findings while collaborating with team members on business initiatives.
-Top Skills:
-Databricks Looker Power BI Python SQL Tableau
 1
 2
 3
@@ -166,7 +166,7 @@ Databricks Looker Power BI Python SQL Tableau
 5
 ...
 ...
-49
+48
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

@@ -31,6 +31,63 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Spectrum
+2027 Summer Intern: Advanced Technology
+<age> Saved
+In-Office
+Greenwood Village, CO, USA
+Internship
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Paid, full-time summer intern researching emerging technologies and industry trends; designing, prototyping, and developing software applications and features; collaborating with engineers, architects, and product managers; documenting technical findings; presenting results; and testing, debugging, and refining prototypes.
+Top Skills:
+Ai Tools JavaScript Llms Machine Learning Python Relational Databases SQL Typescript
+Spectrum
+2027 Summer Intern: Software Engineer
+<age> Saved
+In-Office
+Greenwood Village, CO, USA
+Internship
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Paid, full-time software engineering internship supporting service activation, provisioning quality, and release management. The intern will develop automation tools, potentially using AI, and build dashboards integrating with Jira APIs to improve release processes. The role also includes professional development, mentorship, networking, and cohort activities.
+Top Skills:
+APIs Flask Git Git Java JIRA Python
+Spectrum
+2027 Summer Intern: Software Engineer
+<age> Saved
+In-Office
+Greenwood Village, CO, USA
+Internship
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Paid, full-time software engineering internship supporting the Data Platforms Orchestration Services team. The intern may develop backend APIs for customer-facing portals and new customer features while participating in mentorship, networking, professional development, community service, and final presentations.
+Top Skills:
+Java
+T-Mobile
+Summer 2027 Software Engineering Internship
+<age> Saved
+In-Office
+Overland Park, KS, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+Participate in an 11-week paid software engineering internship building and improving IVR self-service call flows. Responsibilities include implementing call flow logic, developing automated tests, following coding and code review practices, joining sprint ceremonies, and using call data to evaluate performance. Work will be performed alongside senior engineers on production systems with mentorship and training.
+Top Skills:
+Automated Testing Ivr
+Micron Technology
+Intern - Product Yield Software Engineer
+<age> Saved
+In-Office
+Boise, ID, USA
+Internship
+Internship
+Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x2022; Machine Learning
+Develop software, automation, dashboards, and web-based tools that help engineers analyze semiconductor manufacturing and product data. Responsibilities include processing large datasets, visualization, workflow automation, AI-assisted engineering applications, debugging, testing, documentation, and collaboration with engineering teams. The intern will own a project from problem definition through implementation and demonstration while gaining experience at the intersection of software, data analytics, and semiconductor manufacturing.
+Top Skills:
+Artificial Intelligence C C&#x2B;&#x2B; Data Visualization Generative Ai Git Java Linux Machine Learning Perl Python Relational Databases SQL Unix Web Development
 Cargill
 Software Engineer Intern Summer 2027 - Atlanta, GA
 <age> Saved
@@ -44,8 +101,12 @@ Food &#x2022; Greentech &#x2022; Logistics &#x2022; Sharing Economy &#x2022; Tra
 Summer internship working on cloud, big-data, and application development projects within Cargill's Digital Technology & Data team. Interns contribute individually and on teams, receive mentorship and performance evaluations, and participate in networking and development events. Typical 12-week, paid, on-site assignment with potential for return offers based on performance.
 Top Skills:
 Agile Development Application Development Big Data Platform Cloud Platform Database Design Structured Programming Systems Analysis And Design
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 Ericsson
-Networks TOAI Intern
+AI and Automation Engineer Intern
 <age> Saved
 In-Office
 Plano, TX, USA
@@ -96,21 +157,6 @@ Aerospace &#x2022; Defense
 Develop reliable software for digital manufacturing systems supporting rocket engine design, testing, and production. Responsibilities include automated testing, CI/CD and GitOps practices, task planning, documentation, and cross-functional collaboration. The role requires Python, SQL, a statically typed compiled language, data modeling, Linux, shell scripting, and container-based development. Preferred experience includes advanced education, technical software development, API and queue integrations, and frontend web development.
 Top Skills:
 APIs C# Ci/Cd Containers Gitops Go Java Linux Python Queues Rust Shell Scripting SQL
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
-Micron Technology
-Intern - IT Software Engineer
-<age> Saved
-In-Office
-Boise, ID, USA
-Internship
-Internship
-Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x2022; Machine Learning
-Develop and maintain software that automates semiconductor fabrication equipment and integrates with internal systems. Responsibilities include coding, testing, debugging, implementing enhancements, troubleshooting issues, documenting specifications, researching technologies, and participating in code reviews. The intern will collaborate with software engineers and other team members while gaining experience with scripting, Unix systems, APIs, version control, testing, DevOps, and monitoring tools.
-Top Skills:
-APIs Azure Devops Git Itil Perl Python Splunk Unix
 Braze
 Intern, Software Engineering
 <age> Saved
@@ -139,32 +185,6 @@ Cloud &#x2022; Information Technology &#x2022; Productivity &#x2022; Security &#
 Paid 12-week software engineering internship involving coding and shipping product features, full-lifecycle development, technical training, mentorship, and collaboration on Atlassian cloud and core products. Interns will apply programming, data structures, algorithms, and software design fundamentals while working with senior engineers. Preferred experience includes prior software engineering projects or internships, AI/ML exposure, and familiarity with design patterns.
 Top Skills:
 Agentic Ai Artificial Intelligence Go Java Machine Learning Frameworks Mcp Python Typescript
-BAE Systems, Inc.
-C4ISR - Software Engineering Intern, Summer 2027 (Onsite)
-<age> Saved
-Hybrid
-Wayne, NJ, USA
-51K-69K Annually
-Internship
-51K-69K Annually
-Internship
-Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity &#x2022; Defense
-Software engineering intern supporting the design, development, integration, testing, troubleshooting, and documentation of software for aerospace and defense systems. The role involves Agile development, algorithm and data analysis, object-oriented programming, and collaboration with experienced engineering professionals. Candidates must be pursuing a relevant bachelor’s degree, entering their sophomore through senior year, and be eligible for a U.S. Department of War security clearance.
-Top Skills:
-Agile Artificial Intelligence Bitbucket C# C&#x2B;&#x2B; Git Gitlab Java Real-Time Embedded Systems Unix/Linux Windows
-Citadel
-Software Engineer - Intern (US)
-<age> Saved
-In-Office
-4 Locations
-5K-6K Annually
-Internship
-5K-6K Annually
-Internship
-Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
-11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
-Top Skills:
-Distributed Computing Machine Learning Natural Language Processing Web Frameworks
 1
 2
 3
@@ -172,7 +192,7 @@ Distributed Computing Machine Learning Natural Language Processing Web Framework
 5
 ...
 ...
-80
+81
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

@@ -18,6 +18,14 @@ Job Location (Descending)
 Overview (Ascending)
 Overview (Descending)
 Job Title
+Engineering Manager, Data Systems
+We are seeking an experienced Engineering Manager to lead a globally distributed team responsible for developing and maintaining critical data systems supporting our trading and business operations.
+&nbsp;
+This is a management-first role with hands-on technical oversight. You will lead engineers, manage priorities and resources, and ensure the successful delivery of multiple projects while remaining involved in architecture discussions, technical design, and targeted code reviews.
+&nbsp;
+Job Location
+US-NY-New York
+Job Title
 Data Center Engineer
 Our Information Technology team builds, maintains, and continuously improves the infrastructure supporting our trading and business operations. We value technical excellence, collaboration, continuous learning, and efficient service delivery.
 GTS is a collection of financial services companies spanning a wide array of asset classes and investment approaches, all powered by the combination of market expertise with innovative, proprietary technology. &nbsp;With roots as a quantitative trading firm continually building for the future, the GTS family of companies are able to leverage the...
