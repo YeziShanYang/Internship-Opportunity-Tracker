@@ -47,100 +47,100 @@ The Builder Base: Hackathon
 Fri, Oct 30 · 9:30 AM PDT
 San Francisco, CA
 Engineers, founders, and hands-on builders will team up for a focused day of making, turning ideas into working prototypes and pitching what they build. The collaborative hackathon will reward learning by shipping.
-Oct 27
-The AI X Leadership Summit 2026
-Tue, Oct 27 · 7:00 AM PDT LIVE
-Hyatt Regency San Francisco Airport
-Enterprise AI leaders—CDOs, Chief AI Officers, and VP-level practitioners—will converge to tackle governance, agentic automation, and AI ROI strategy alongside speakers like Michael I. Jordan, Peter Norvig, and Chip Huyen in an exclusive 250-person summit. The three-day event will dig into AI adoption, ethics, workforce transformation, and agent systems through intimate peer validation and strategy alignment with your core team.
-Oct 27
-ODSC AI West 2026 Conference | Open Data Science Conference
-Tue, Oct 27 · 9:00 AM PDT LIVE
-Hyatt Regency San Francisco Airport
-Data and AI professionals will dive into cutting-edge workshops and hands-on training led by industry experts, while business leaders and career switchers gain strategic insights on navigating the rapidly evolving AI landscape. The three-day event will feature thought leaders sharing the latest breakthroughs and practical applications shaping the future of data science and AI.
-Oct 28
-One Way Summit: The Flagship Event for Immigrant Entrepreneurship
-Wed, Oct 28 · 9:00 AM PDT LIVE
-The Commonwealth Club
-The 2026 One Way Summit will bring together 1,000+ founders, investors, and innovators from 30+ countries, with speakers including Duolingo’s Severin Hacker, Slack co-founder Cal Henderson, and OpenAI Foundation’s Anna Makanju. Sessions will cover AI, fintech, venture capital, and immigration challenges, alongside a Startup Grind pitch competition.
 Oct 28
 Nimble Game Jam
 Wed, Oct 28 · 5:00 PM PDT LIVE
 San Francisco, CA
 Oct 29
-Agent Builders Breakfast - Founders &amp; Builders
-Thu, Oct 29 · 8:00 AM PDT
-San Francisco, CA
-Agent Builders Breakfast will bring experienced founders, product managers, and engineering leaders together for informal conversations and impromptu demos of AI agents built with tools like Claude Code, Cursor, and OpenClaw. Hosted by former Mercury, Chime, and Twitter product manager Michael Ducker, the gathering will feature breakfast tacos and coffee, with options for different dietary needs.
-Oct 29
-Entire Espresso with Gergely Orosz and Thomas Dohmke
-Thu, Oct 29 · 9:00 AM PDT
-San Francisco, CA
-Entire Espresso will bring the developer community together over coffee and breakfast for conversations with two experienced software builders. Expect practical insights from people who’ve built a lot of software.
-Oct 29
 Robot Hackathon: Harnessing Physical AI &amp; Data
-Thu, Oct 29 · 9:00 AM PDT
+Thu, Oct 29 · 9:00 AM PDT LIVE
 Robotics Center of Silicon Valley
 Viam and MongoDB will host a hands-on robot hackathon, bringing together robotics and database technology for a practical building experience.
-Oct 29
-Reinventing Venture Capital with Expert DOJO
-Thu, Oct 29 · 11:30 AM PDT
+Oct 30
+[x-post] Web AI Summit 2026
+Fri, Oct 30 · 8:30 AM PDT
+Sunnyvale, CA
+The event will explore running AI entirely locally, from LLM-powered agents built with WebMCP to traditional machine learning for computer vision and beyond.
+Oct 30
+The Builder Base: Hackathon
+Fri, Oct 30 · 9:30 AM PDT
 San Francisco, CA
-The October 29 Reinventing Venture Capital Summit will explore how AI and new investment models could help venture capital generate stronger returns, featuring keynotes, debates, and panels for accredited investors. Speakers will include seasoned investors and founders such as Jeremiah Owyang of Blitzscaling Ventures, Brian Mac Mahon of Expert DOJO, and Barefoot Wine founder Michael Houlihan.
-Oct 29
-Agentic AI Day: From Models to Systems That Act
-Thu, Oct 29 · 1:00 PM PDT
+Engineers, founders, and hands-on builders will team up for a focused day of making, turning ideas into working prototypes and pitching what they build. The collaborative hackathon will reward learning by shipping.
+Oct 30
+[KR] Korean Startup Community Meet &amp; Eat
+Fri, Oct 30 · 1:00 PM PDT
+Menlo Park, CA
+Korean-speaking startup founders and ecosystem professionals will exchange candid lessons and practical insights on entering and operating in the U.S. market through a panel discussion and open Q&amp;A. Hosted by KSC Silicon Valley and Plug and Play, the event will feature perspectives across sectors including AI, robotics, defense tech, digital health, and consumer products.
+Oct 30
+USF Enterprise AI Summit #2
+Fri, Oct 30 · 2:00 PM PDT
+101 Howard Street
+The upcoming event will spotlight the University of San Francisco’s MS in Data Science and Artificial Intelligence, Data Institute, School of Management, and Center for Asia Pacific Studies.
+Oct 30
+Night Hack by Founders, Inc
+Fri, Oct 30 · 4:00 PM PDT
+Fort Mason
+Night Hack will give builders five hours to create and demo a robot, AI agent, game, or other project, with live judging and awards for standout work. Approved solo builders and teams of up to four will compete for cash, tools, and $10,000 in Anthropic API credits, with $50 in API credits available to every builder.
+Oct 30
+Diwali in the Bay, with Razorpay US and Inkle
+Fri, Oct 30 · 6:00 PM PDT
 San Francisco, CA
-Agentic AI Day will bring together founders, engineers, researchers, investors, and enterprise leaders for a keynote, infrastructure panel, and 10 live demos of real AI products and workflows. Speakers and judges include Docker’s Staff Developer Success Advocate Dan Ndombe and investors from Sixty Degree Capital, Acorn Pacific Ventures, and DCVC.
-Oct 29
-Founders Inc: Physical AI at Open Campus
-Thu, Oct 29 · 2:00 PM PDT
+Razorpay and Inkle will host a Diwali celebration featuring Indian food, drinks, music, and conversations among startup founders and operators. The hosts bring deep startup expertise: Inkle supports 1,000+ companies and is led by YC S17 alum Anand Krishna, while YC W15 company Razorpay powers payments for businesses including Uber, Airbnb, and Replit.
+Oct 30
+Cafe Compute: The Night Before RSI
+Fri, Oct 30 · 6:30 PM PDT
 San Francisco, CA
-During Blueprint’s fourth week, Founders Inc will host about 10 founders building or exploring frontier technology, including Physical AI, robotics, automation, and manufacturing. The program will feature introductions, tours, and open-format discussion.
-Oct 29
-Workshop: Practical AI for Real Estate Agents
-Thu, Oct 29 · 2:00 PM PDT
-San Mateo County Association of REALTORS® (SAMCAR)
-The SAMCAR Professional Development Committee will offer an AI workshop presented by affiliate member The Librarian, bringing a professional-development focus to emerging AI tools.
-Oct 29
-Beyond the Chat Box: Context Engineering for Reusable AI Workflows
-Thu, Oct 29 · 3:00 PM PDT
-Y2E2 Room 300
-This session will show how Claude Skills and Scheduled Tasks can eliminate repetitive prompting and automate routine work, helping participants build more AI-native workflows.
-Oct 29
-The FDE Conference III
-Thu, Oct 29 · 3:00 PM PDT
+AI builders will celebrate Halloween at “The Night Before RSI,” a costume-encouraged party running Oct. 30 from 6:30–11 p.m. Spots will be limited, with approved attendees receiving details and bringing photo ID.
+Oct 30
+Klinikum+/ How AI is Reshaping Medicine
+Fri, Oct 30 · 7:00 PM PDT
+Palo Alto, CA
+The event will explore how algorithmic innovation can help create healthier futures.
+Oct 31
+AI in Action Women Building What Is Next
+Sat, Oct 31 · 10:00 AM PDT
+Google Huddle
+WOMEN x AI and TechCon Global will bring together women founders, product leaders, investors, and AI practitioners for a candid conversation on building useful AI products, gaining early traction, and adopting AI responsibly. The program will feature founder demos, audience Q&amp;A, and guided small-group discussions.
+Oct 31
+Side Project Saturday for Designers
+Sat, Oct 31 · 11:00 AM PDT
+Muddy Waters Coffee House
+Designers and creatives will share ideas and explore projects across drafting, digital, and AI-based mediums. The session will welcome a range of creative approaches and experience levels.
+Nov 2
+GamesBeat Next 2026
+Mon, Nov 2 · 9:00 AM PST
 San Francisco, CA
-FDE Conference III will bring together forward-deployed engineers, founders, and operators for tactical breakouts, fireside chats, company spotlights, and a hiring fair connecting technical talent with teams scaling AI deployments. Hosted by Nixo, which helps FDE teams increase deployment capacity, the event will focus on sharing practical insights and career opportunities in this rapidly developing field.
-Oct 29
-ODSC AI Meetup: How AI Actually Entered The Hiring Funnel
-Thu, Oct 29 · 3:00 PM PDT
+GamesBeat Next will bring 500 senior tech and entertainment leaders, 80% C-level, for two days of curated networking, deal-making, and executive roundtables. Conversations will explore AI, UGC economies, platforms, live services, and emerging monetization models.
+Nov 2
+Fireworks: Deploy with Microsoft &amp; NVIDIA
+Mon, Nov 2 · 9:00 AM PST
 San Francisco, CA
-The session will explore how AI is actually entering the hiring funnel and where it’s being used in recruiting today.
-Oct 29
-GitHub Universe Week: Multiplayer AI for Product Managers &amp; Engineering Leaders (Hands-on Learnathon)
-Thu, Oct 29 · 4:00 PM PDT
+Fireworks, Microsoft, and NVIDIA will host a team hackathon challenging builders to deploy and evaluate open models, then improve performance, efficiency, or cost against a baseline. Teams of 2–5 will compete for prizes up to $10,000 and present their results at the closing demos.
+Nov 2
+Fireworks: Deploy Buildathon with Microsoft &amp; NVIDIA
+Mon, Nov 2 · 9:00 AM PST
 San Francisco, CA
-PromptQL will run a hands-on learnathon where engineering leaders and product managers turn a backlog item into a shared spec, AI-assisted implementation, and team review while preserving decisions for future work. Product &amp; Applied AI Lead Anushrut Gupta will guide the session, drawing on his experience helping teams apply AI in everyday workflows.
-Oct 29
-AWS Partner Showcase - Temporal, Arize, Databricks
-Thu, Oct 29 · 4:30 PM PDT
-AWS Builder Loft
-Admission will require registration through the AICamp event website; a Meetup RSVP alone won’t be sufficient.
-Oct 29
-AWS Agentic Partner Showcase Extended - Temporal, Arize, Databricks
-Thu, Oct 29 · 4:30 PM PDT
+Fireworks, Microsoft, and NVIDIA will challenge teams of 2–5 to deploy and evaluate an open-model solution, tuning quality, efficiency, accuracy, latency, or cost against a baseline. Teams will compete for $10,000, additional cash prizes, and NVIDIA DGX Spark hardware.
+Nov 2
+Fireworks: Deploy with Microsoft &amp; NVIDIA
+Mon, Nov 2 · 9:00 AM PST
 San Francisco, CA
-The 10th AWS Agentic Partner Showcase will feature AWS, Temporal, Arize, and Databricks experts demonstrating production-ready agentic AI systems, from development and deployment to monitoring. Developers, engineers, and technical leaders will gain practical implementation insights through live demos, technical talks, and expert Q&amp;A.
-Oct 29
-Zero Trust for AI: Securing Models, Data, and Autonomous Agents
-Thu, Oct 29 · 5:00 PM PDT
-Cloudflare
-The event will explore practical Zero Trust strategies for securing AI models, data, and agents.
-Oct 29
-Morph-a-thon : Describe Your App, Close Your Laptop
-Thu, Oct 29 · 5:00 PM PDT
-785 Castro St
-The first Morph-A-Thon will put autonomous software development to the test: attendees will describe an app, then watch Morph design and build it in an hour with no human input before reviewing the result. It’s a hands-on look at a new way to create full-stack apps, from micro-SaaS products to internal tools.
+Teams of 2–5 will build and deploy an open-model solution for a task they define, then evaluate its quality, efficiency, and business value against a baseline. The competition will award $10,000, $5,000, and $3,000 to the top three teams, with support from Fireworks, Microsoft, and NVIDIA.
+Nov 2
+Builders Night
+Mon, Nov 2 · 6:30 PM PST
+540 Laguna St
+Builders Night will bring software, hardware, business, and creative projects into a focused weekly work sprint, with quiet build time followed by peer feedback and support. Hosted by Rally SF, a community for AI-first builders and operators, the gathering will offer accountability and momentum without lectures or networking.
+Nov 3
+TechEquity Ai Summit 2026: Talks + AI Agent Workshops
+Tue, Nov 3 · 9:00 AM PST
+135 Constitution Dr
+The TechEquity Summit will gather over 2,000 AI leaders, founders, investors, and educators from diverse sectors for four days of keynotes, workshops, and networking focused on responsible AI development and real-world applications. Attendees will include seasoned developers, startup founders, and career-transition professionals eager to deepen their hands-on AI expertise.
+Nov 3
+Own Your AI: Build an Agentic AI Model Factory - Hack Night
+Tue, Nov 3 · 5:00 PM PST
+San Francisco, CA
+Attendees will build a LangGraph-powered ML engineer agent that evaluates, fine-tunes, deploys, and retrains open models on their own AWS infrastructure, using Union.ai’s durable workflow runtime. The hands-on session will cover model ownership and sovereign AI, followed by time to experiment with models, datasets, and evaluation workflows.
 Nov 7
 AIE Code Summit 2026 Hackathon
 Sat, Nov 7 · 9:00 AM PST

@@ -72,7 +72,6 @@ NOV 07 - 08
 Edinburgh, Edinburgh, GB
 In-Person
 Cincinnati , Ohio
-M
 MakeUC
 NOV 07 - 08
 Cincinnati , Ohio, US
@@ -139,7 +138,6 @@ NOV 14 - 15
 La Jolla, CA, US
 In-Person
 Ypsilanti , Michigan
-HT
 Hack The Nest
 NOV 14 - 15
 Ypsilanti, Michigan, US
@@ -160,7 +158,6 @@ NOV 20 - 22
 London, Ontario, CA
 In-Person HARDWARE
 St. John&#x27;s , Newfoundland and Labrador / Avalon Peninsula
-TF
 Tech For Community 2026
 NOV 21 - 22
 St. John&#x27;s, Newfoundland and Labrador / Avalon Peninsula, CA
@@ -171,7 +168,6 @@ NOV 21 - 22
 Wellesley , Massachesetts, US
 In-Person
 Boston , MA
-B
 BostonHacks
 NOV 21 - 22
 Boston, MA, US
@@ -182,7 +178,6 @@ NOV 28 - 29
 Lleida, Lleida, Spain, ES
 In-Person
 Sheffield , South Yorkshire
-H
 HackSheffield11
 NOV 28 - 29
 Sheffield, South Yorkshire, GB
@@ -204,7 +199,6 @@ JAN 15 - 17
 Ottawa, Ontario , CA
 In-Person
 Los Angeles , CA
-QH
 QWER Hacks
 JAN 16 - 17
 Los Angeles, CA, US

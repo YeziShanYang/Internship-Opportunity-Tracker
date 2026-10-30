@@ -72,7 +72,7 @@ VPUE STEM Fellows Program
 Other Funding
 Main content start
 Undergraduate Research in Stanford Departments, Programs, and Research Centers
-Many Stanford departments and programs sponsor an undergraduate research program that provides financial support for students to learn from Stanford professors about faculty-designed research projects over the summer quarter.
+Many Stanford departments and programs sponsor an undergraduate research program that provides financial support for students to learn from Stanford professors about faculty-designed research projects over the summer quarter.&nbsp;&nbsp;
 The departments and programs listed below are funded by the Vice Provost for Undergraduate Education (VPUE) to support undergraduate summer research. This list is not intended to represent all departments, programs, or research centers that offer undergraduate research opportunities at Stanford. Departments and programs may receive funding from other sources and may offer additional research opportunities that are not listed here.
 For the VPUE-funded departmental programs listed below, students apply directly to the department or program rather than through VPUE. These programs take place during the summer, and application deadlines vary by department or program. Program details, eligibility requirements, and deadlines are available through the provided links or by contacting the department or program directly.
 Don't see your specific area of interest listed below? We encourage you to reach out to the Student Services Officer in the department or program you're interested in. They can help you learn about undergraduate research opportunities and other ways to get involved in research.
@@ -81,52 +81,52 @@ Don't see your specific area of interest listed below? We encourage you to reach
 Department/Program/Research Center Contact
 Aeronautics &amp; Astronautics Jenny Scholes
 American Studies Winni Ni
-Anesthesiology - Division of Pain Medicine Corinne Jung
+Anesthesiology&nbsp;- Division of Pain Medicine Corinne Jung
 Anesthesiology - Perioperative &amp; Pain Medicine Monica Vidal
 Archaeology Center Kira Sal
 Bill Lane Center for the American West Esther C Conrad
 Bio-X biox_undergrads@stanford.edu
 Bioengineering Madelyn Bernstein
-Bioengineering - International Genetically Engineered Machines (iGEM) stanfordigemteam@gmail.com
-Biology -
+Bioengineering -&nbsp; International Genetically Engineered Machines &nbsp;(iGEM)&nbsp; stanfordigemteam@gmail.com
+Biology&nbsp;-&nbsp;
 Biology Summer Undergraduate Research Program (B-SURP) Patricia Ayala Macias
-Center for Comparative Studies in Race and Ethnicity (CCSRE) Annie Atura
-Center on Early Childhood Emily Soltero
-Center for International Security and Cooperation (CISAC) cisacevents@stanford.edu
-Center for Spatial and Textual Analysis (CESTA) cesta_stanford@stanford.edu
-Center of Democracy, Development, and the Rule of Law (CDDRL) Kristin Chandler
-Center on Philanthropy and Civil Society (PACS) pacscenter@stanford.edu
-Center on Poverty and Inequality (CPI) inequality@stanford.edu
+Center for Comparative Studies in Race and Ethnicity &nbsp;(CCSRE) Annie Atura
+Center on Early Childhood &nbsp; Emily Soltero
+Center for International Security and Cooperation &nbsp;(CISAC)&nbsp; cisacevents@stanford.edu
+Center for Spatial and Textual Analysis &nbsp;(CESTA) cesta_stanford@stanford.edu
+Center of Democracy, Development, and the Rule of Law &nbsp;(CDDRL) Kristin Chandler
+Center on Philanthropy and Civil Society (PACS)&nbsp; pacscenter@stanford.edu
+Center on Poverty and Inequality &nbsp;(CPI) inequality@stanford.edu
 Chemical Engineering chemeng-undergrad-advising@stanford.edu
-Chemistry chemistry-studentservices@stanford.edu
+Chemistry chemistry-studentservices@stanford.edu&nbsp;
 Civil and Environmental Engineering Rachel Stringari
 Clayman Institute for Gender Research gender-email@stanford.edu
-Communication - Virtual Human Interaction Lab (VHIL) Jeremy Bailenson
-Computer Science - Computer Undergrad Research Internships Science (CURIS) curis-mentors@cs.stanford.edu
-Data Science - Data Science Undergraduate Research Focus (DataSURF) datasciencemajor-inquiries@lists.stanford.edu
+Communication -&nbsp; Virtual Human Interaction Lab &nbsp;(VHIL) Jeremy Bailenson
+Computer Science&nbsp;-&nbsp; Computer Undergrad Research Internships Science &nbsp;(CURIS) curis-mentors@cs.stanford.edu
+Data Science - &nbsp; Data Science Undergraduate Research Focus (DataSURF)&nbsp; datasciencemajor-inquiries@lists.stanford.edu
 Design Sean Follmer
 Developmental Biology Alistair Boettiger
 Doerr School of Sustainability - Sustainability, Engineering and Science Undergraduate Research (SESUR) Jenny Saltzman
 Electrical Engineering reu@ee.stanford.edu
 Engineering Physics physics_surp_admin@lists.stanford.edu
-Environmental Social Sciences Marisa MacAskill
+Environmental Social Sciences&nbsp; Marisa MacAskill
 Feminist, Gender, and Sexuality Studies Winni Ni
 Haas Center for Public Service Clayton Hurd
 Human Biology Katherine Preston
-Institute for Diversity in the Arts (IDA) Benjamin Torres Sanchez
+Institute for Diversity in the Arts &nbsp;(IDA) Benjamin Torres Sanchez
 King Center on Global Development kingcenter_programs@stanford.edu
-Linguistics Regina Miller
+Linguistics Regina Miller&nbsp;
 Management Science and Engineering pmpadilla@stanford.edu
 Martin Luther King, Jr., Research and Education Institute David Lai
 Materials Science and Engineering Haoxue Yan
 Maternal and Child Health Research Institute - Diversity, Respect, and Inclusion are Vital for Excellence (DRIVE) mchri-drive@stanford.edu
-Mathematics - Stanford Undergraduate Research Institute in Mathematics (SURIM) surim_program@stanford.edu
+Mathematics&nbsp;-&nbsp; Stanford Undergraduate Research Institute in Mathematics (SURIM) surim_program@stanford.edu
 Mechanical Engineering Kelly Cayabyab
 Mechanical Engineering - Solar Car Project Kelly Cayabyab
 Oceans Teri Hankes
 Physics physics_surp_admin@lists.stanford.edu
-Political Science and International Relations - Summer Research College Margaux Leivenberg
-Precourt Institute for Energy - Summer Undergraduate Program on Energy Research (SUPER) Eylul Bilgin
+Political Science and International Relations&nbsp;- Summer Research College Margaux Leivenberg
+Precourt Institute for Energy&nbsp;- Summer Undergraduate Program on Energy Research (SUPER) Eylul Bilgin
 Psychiatry and Behavioral Sciences Jason Tucciarone
 Psychology Andrea Sims
 Radiology - Canary Cancer Research Education Summer Training Program (CREST) canarycrest@stanford.edu
@@ -138,8 +138,8 @@ Stanford Center on Early Childhood Emily Caitlin Strickler
 Stanford Maternal &amp; Child Health Research Institute mchri-drive@stanford.edu
 Symbolic Systems symsys-sso@stanford.edu
 Theater and Performance Studies (TAPS) mjrau@stanford.edu
-Urban Studies Michael Kahan
-Woods Institute for the Environment - Mentoring Undergraduates in Interdisciplinary Research (MUIR) Jen Chiu
+Urban Studies Michael Kahan&nbsp;
+Woods Institute&nbsp;for the Environment&nbsp;- Mentoring Undergraduates in Interdisciplinary Research (MUIR) Jen Chiu
 Wu Tsai Human Performance Alliance human-performance@stanford.edu
 Wu Tsai Neurosciences Institute Valerie Vargas-Zapata
 Need help with your independent project?

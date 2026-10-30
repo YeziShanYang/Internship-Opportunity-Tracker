@@ -32,16 +32,60 @@ Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Finance Jobs
 Wipfli
-Audit Internship - Spring 2028
+Healthcare Audit Internship-Spring 2028
 <age> Saved
 Hybrid
-Milwaukee, WI, USA
+Spokane, WA, USA
+29-29 Hourly
+Internship
+29-29 Hourly
+Internship
+Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
+Healthcare audit interns perform audit, review, compliance testing, and financial statement procedures under professional standards. They gather client information, analyze data, identify process improvements, prepare reports and footnotes, communicate engagement issues, and support Medicare and Medicaid medical cost report reimbursement work. Interns develop accounting, GAAP, client service, teamwork, and professional skills while gaining exposure to audit engagements and related software applications.
+Top Skills:
+Data Analytics Gaap Medicaid Medicare
+Wipfli
+Tax Internship- Spring 2028
+<age> Saved
+Hybrid
+Bedford, NH, USA
 Internship
 Internship
 Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
-Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, reports, and engagement outputs; gather client information; analyze data; identify process improvements; and communicate with engagement leaders. The role provides hands-on experience across varied client industries while developing accounting, GAAP, professional, administrative, and interpersonal skills.
-Top Skills:
-Data Analytics Gaap
+Tax interns prepare individual, business, and fiduciary tax returns and projections, research tax issues, analyze data, use tax and accounting software, respond to client requests, and identify process improvements. They gain hands-on experience supporting client engagements across varied industries while developing accounting, tax, communication, organizational, and professional skills.
+PwC
+Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027
+<age> Saved
+Hybrid
+2 Locations
+29K-48K Hourly
+Internship
+29K-48K Hourly
+Internship
+Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
+Supports transfer pricing and international tax projects through research, analysis, tax return assistance, intercompany pricing strategy development, and compliance activities. Collaborates with the Japanese Business Network to build cultural and market insight while learning PwC tax methodologies. The intern gathers information, identifies patterns, contributes to client-service projects, seeks feedback, and develops professional skills.
+PwC
+Birmingham - Audit - Intern - Winter 2028 - Destination CPA
+<age> Saved
+Hybrid
+Birmingham, AL, USA
+29K-48K Hourly
+Internship
+29K-48K Hourly
+Internship
+Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
+Audit Interns support financial statement audits by reviewing financial documents, analyzing financial data and trends, documenting procedures and findings, evaluating internal controls, and applying GAAP, GAAS, and audit methodologies. The role provides foundational exposure to client service, regulatory compliance, risk assessment, financial reporting, and professional audit practices while collaborating with experienced auditors.
+PwC
+Audit - Korean Business Network (KBN) - Intern - Summer 2027
+<age> Saved
+Hybrid
+3 Locations
+29K-48K Hourly
+Internship
+29K-48K Hourly
+Internship
+Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
+Supports financial statement audits for Korean business clients by reviewing financial documents, validating GAAP and GAAS compliance, applying audit methodologies, analyzing financial data, documenting processes, maintaining data quality and security, and assisting with technical accounting issues. The intern learns from experienced auditors while developing financial reporting and professional skills.
 Wells Fargo
 2028 Investment Banking Summer Internship &#x2013; Early Careers (Houston)
 <age> Saved
@@ -53,30 +97,10 @@ Internship
 Internship
 Fintech &#x2022; Financial Services
 A 10-week investment banking summer internship supporting the Energy & Power coverage team. Responsibilities include financial modeling, valuation, company and industry research, financial and credit analysis, client presentations, due diligence, strategic planning, and advisory execution. Interns work with senior bankers on live transactions and client engagements while participating in training and networking opportunities.
-PwC
-Greensboro - Audit - Intern - Winter 2028 - Destination CPA
-<age> Saved
-Hybrid
-Greensboro, NC, USA
-29K-48K Hourly
-Internship
-29K-48K Hourly
-Internship
-Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
-Supports financial statement audits through document review, financial data analysis, internal control evaluation, audit documentation, research, and application of GAAP and GAAS. Collaborates with audit teams, monitors financial trends and risks, and develops foundational knowledge of audit methodologies, financial reporting, and client service.
-Cox Enterprises
-Financial Planning &amp; Analysis Intern
-<age> Saved
-Hybrid
-Atlanta, GA, USA
-22-33 Hourly
-Internship
-22-33 Hourly
-Internship
-Artificial Intelligence &#x2022; Automotive &#x2022; Greentech &#x2022; Information Technology &#x2022; Machine Learning &#x2022; Software &#x2022; Cybersecurity
-Finance intern supporting marketplace technology investments. Responsibilities include analyzing raw data, evaluating financial and operational impact, building investment assessment frameworks, testing recommendations, identifying key takeaways, and preparing executive presentations. The role offers hands-on experience in business cases, financial modeling, and collaboration with technology, product, operations, and senior finance leaders.
-Top Skills:
-Excel
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Liberty Mutual Insurance
 Underwriting Internship Program - Global Risk Solutions - Summer 2027
 <age> Saved
@@ -88,10 +112,6 @@ Internship
 Internship
 Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
 An 11-week underwriting internship with Liberty Mutual’s Global Risk Solutions team. Interns analyze business and financial information, evaluate and price commercial insurance risks, support underwriting decisions, and contribute to projects alongside experienced professionals. The program develops analytical, decision-making, communication, negotiation, and relationship-building skills while providing exposure to commercial and specialty insurance products and professional development opportunities.
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Citadel
 Finance &amp; Accounting - Intern (US)
 <age> Saved
@@ -153,6 +173,17 @@ Cloud &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Machi
 Supports monthly closing, performance reporting, forecasting, planning cycles, financial modeling, cost allocation, data analysis, business cases, audits, and financial presentations. Collaborates with Finance and business stakeholders on process improvements, data quality, automation, and analytics initiatives. This is a 12-week full-time internship for an enrolled student pursuing a degree in Finance, Accounting, Economics, Business, or a related field.
 Top Skills:
 Erp Excel SAP
+Spectrum
+2027 Summer Intern: Associate Business Planning Analyst
+<age> Saved
+In-Office
+New Connecticut, NY, USA
+Internship
+Internship
+Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Software
+Paid 11-week internship supporting business planning through report analysis, budget monitoring, forecasting, operating expense analysis, financial model improvements, reporting workflow streamlining, and KPI trend analysis. The intern will also participate in professional development, networking, mentorship, cross-functional projects, and final presentations.
+Top Skills:
+Microsoft Access Excel MS Office Microsoft Powerpoint Microsoft Word
 1
 2
 3

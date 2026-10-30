@@ -368,12 +368,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1822
 Title:2027 Investment Banking Off Cycle Internship Programme Paris – Consumer Team (January start)
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1816-2027-Summer-Analyst-Program-Investment-Banking-Japan/en-GB
-2027 Summer Analyst Program - Investment Banking - Japan
-<timestamp>
-<timestamp>
-ID:1816
-Title:2027 Summer Analyst Program - Investment Banking - Japan
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1799-2027-Investment-Banking-Off-Cycle-Internship-Programme-VARIOUS-Groups-London-Feb-Start-Date/en-GB
 2027 Investment Banking Off Cycle Internship Programme - VARIOUS Groups London (Feb Start Date)
 <timestamp>

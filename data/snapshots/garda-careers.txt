@@ -30,7 +30,7 @@ Open Positions
 If you are a qualified individual with a disability, you may request reasonable accommodations by contacting Marni Gensler, Head of Human Capital Management hr@gardacp.com or +1-612-330-4900.
 Candidate Privacy Notice
 Department All Departments Admin Support Compliance All Internships Research &amp; Technology (Internship) Trade Support (Internship) Other All Research &amp; Technology (R&amp;T) Infrastructure Software Engineer Risk
-Location All Locations Geneva, Geneva, Switzerland New York, New York, United States Scottsdale, Arizona, United States Wayzata, Minnesota, United States Zug, Zug, Switzerland
+Location All Locations Geneva, Geneva, Switzerland New York, New York, United States Scottsdale, Arizona, United States Wayzata, Minnesota, United States
 Admin Support
 Executive Assistant Scottsdale, Arizona, United States
 View &rarr;
@@ -41,8 +41,6 @@ Internships
 Research &amp; Technology (Internship)
 Business Analyst Intern Geneva, Geneva, Switzerland
 View &rarr;
-Software Engineer Intern (AI Internal Tools) Geneva, Geneva, Switzerland; Zug, Zug, Switzerland
-View &rarr;
 Trade Support (Internship)
 Trading Assistant Intern Wayzata, Minnesota, United States
 View &rarr;
@@ -50,6 +48,8 @@ Other
 Technology Project Manager Wayzata, Minnesota, United States
 View &rarr;
 Research &amp; Technology (R&amp;T)
+Software Engineer Intern (C#) Wayzata, Minnesota, United States
+View &rarr;
 Infrastructure
 Technical Support Engineer New York, New York, United States
 View &rarr;
@@ -57,9 +57,9 @@ Software Engineer
 Software Engineer New York, New York, United States
 View &rarr;
 Risk
-Senior Risk Manager Geneva, Geneva, Switzerland
-View &rarr;
 Senior Risk Manager New York, New York, United States
+View &rarr;
+Senior Risk Manager Geneva, Geneva, Switzerland
 View &rarr;
 No positions match the selected filters.
 Where Core Values Fuel Performance

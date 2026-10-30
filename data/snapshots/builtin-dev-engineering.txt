@@ -31,6 +31,32 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Genius AI
+Engineering Intern (Summer 2027)
+<age> Saved
+Hybrid
+2 Locations
+25-50 Hourly
+Internship
+25-50 Hourly
+Internship
+Beauty &#x2022; Enterprise Web &#x2022; Fintech &#x2022; Payments &#x2022; Software
+Engineering intern will build, test, debug, and ship web and mobile product features alongside senior engineers. The role includes creating AI-powered automation, interpreting usage data with analysts, iterating rapidly with AI-assisted development, and learning new languages, frameworks, and AI-native practices. This is an in-person NYC internship from June 8 through August 20, 2027.
+Top Skills:
+AI Grpc JavaScript Kotlin Postgres React Ruby SQL Typescript
+Genius AI
+Software Engineer Intern Winter 2026-2027
+<age> Saved
+Hybrid
+New York, NY, USA
+25-50 Hourly
+Internship
+25-50 Hourly
+Internship
+Beauty &#x2022; Enterprise Web &#x2022; Fintech &#x2022; Payments &#x2022; Software
+Build, test, debug, and ship web and mobile product features alongside senior engineers. Develop AI-powered automation, analyze product usage data, iterate through AI-assisted development, and expand technical skills across languages and frameworks. Interns will collaborate with engineers and data analysts, communicate technical tradeoffs, and work in person at the company’s Union Square NYC office.
+Top Skills:
+Artificial Intelligence Grpc JavaScript Kotlin Machine Learning Postgres React Ruby SQL Typescript
 Spectrum
 2027 Summer Intern: Advanced Technology
 <age> Saved
@@ -42,28 +68,6 @@ eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; M
 Paid, full-time summer intern researching emerging technologies and industry trends; designing, prototyping, and developing software applications and features; collaborating with engineers, architects, and product managers; documenting technical findings; presenting results; and testing, debugging, and refining prototypes.
 Top Skills:
 Ai Tools JavaScript Llms Machine Learning Python Relational Databases SQL Typescript
-Spectrum
-2027 Summer Intern: Software Engineer
-<age> Saved
-In-Office
-Greenwood Village, CO, USA
-Internship
-Internship
-eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
-Paid, full-time software engineering internship supporting service activation, provisioning quality, and release management. The intern will develop automation tools, potentially using AI, and build dashboards integrating with Jira APIs to improve release processes. The role also includes professional development, mentorship, networking, and cohort activities.
-Top Skills:
-APIs Flask Git Git Java JIRA Python
-Spectrum
-2027 Summer Intern: Software Engineer
-<age> Saved
-In-Office
-Greenwood Village, CO, USA
-Internship
-Internship
-eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
-Paid, full-time software engineering internship supporting the Data Platforms Orchestration Services team. The intern may develop backend APIs for customer-facing portals and new customer features while participating in mentorship, networking, professional development, community service, and final presentations.
-Top Skills:
-Java
 T-Mobile
 Summer 2027 Software Engineering Internship
 <age> Saved
@@ -88,6 +92,10 @@ Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x202
 Develop software, automation, dashboards, and web-based tools that help engineers analyze semiconductor manufacturing and product data. Responsibilities include processing large datasets, visualization, workflow automation, AI-assisted engineering applications, debugging, testing, documentation, and collaboration with engineering teams. The intern will own a project from problem definition through implementation and demonstration while gaining experience at the intersection of software, data analytics, and semiconductor manufacturing.
 Top Skills:
 Artificial Intelligence C C&#x2B;&#x2B; Data Visualization Generative Ai Git Java Linux Machine Learning Perl Python Relational Databases SQL Unix Web Development
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Cargill
 Software Engineer Intern Summer 2027 - Atlanta, GA
 <age> Saved
@@ -101,10 +109,6 @@ Food &#x2022; Greentech &#x2022; Logistics &#x2022; Sharing Economy &#x2022; Tra
 Summer internship working on cloud, big-data, and application development projects within Cargill's Digital Technology & Data team. Interns contribute individually and on teams, receive mentorship and performance evaluations, and participate in networking and development events. Typical 12-week, paid, on-site assignment with potential for return offers based on performance.
 Top Skills:
 Agile Development Application Development Big Data Platform Cloud Platform Database Design Structured Programming Systems Analysis And Design
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Ericsson
 AI and Automation Engineer Intern
 <age> Saved
@@ -144,19 +148,6 @@ Artificial Intelligence &#x2022; Software
 Build customer-specific software solutions using large-scale data and AI. Responsibilities include collaborating on architecture and design, developing custom applications, engaging with technical and executive stakeholders, and driving high-impact projects from ideation through deployment. The role involves working directly with customers, solving complex technical problems, and traveling to client sites as needed.
 Top Skills:
 Artificial Intelligence C&#x2B;&#x2B; Cloud Infrastructure Data Structures Front-End Frameworks Java JavaScript Python Storage Systems Typescript
-Ursa Major
-2027 Summer Software Development Intern
-<age> Saved
-In-Office
-Berthoud, CO, USA
-30-30 Hourly
-Internship
-30-30 Hourly
-Internship
-Aerospace &#x2022; Defense
-Develop reliable software for digital manufacturing systems supporting rocket engine design, testing, and production. Responsibilities include automated testing, CI/CD and GitOps practices, task planning, documentation, and cross-functional collaboration. The role requires Python, SQL, a statically typed compiled language, data modeling, Linux, shell scripting, and container-based development. Preferred experience includes advanced education, technical software development, API and queue integrations, and frontend web development.
-Top Skills:
-APIs C# Ci/Cd Containers Gitops Go Java Linux Python Queues Rust Shell Scripting SQL
 Braze
 Intern, Software Engineering
 <age> Saved

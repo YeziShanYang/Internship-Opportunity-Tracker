@@ -15,6 +15,7 @@ apex-technology-inc
 applied
 arch.co
 architect
+astera
 auctor
 barnes
 base-power
@@ -51,7 +52,6 @@ human-computer-lab
 ibotta
 interplay
 juicebox
-kastle
 kognitos
 kos.ai
 maximor
@@ -181,7 +181,6 @@ antares	Space Mechanical Design Engineering Intern - Summer 2027 @ Los Angeles	T
 antares	Thermofluids Analysis Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/antares/fbf5e422-fb4c-46fb-9ba0-9046df88f44f
 apex-technology-inc	Avionics Internship (Spring or Summer 2027) @ Los Angeles	Type=FullTime; URL=https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f
 apex-technology-inc	Avionics Test Engineering Internship (Spring 2027) @ Los Angeles	Type=FullTime; URL=https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673
-apex-technology-inc	Mechanical Engineering Internship (Fall 2026) @ Los Angeles	Type=FullTime; URL=https://jobs.ashbyhq.com/apex-technology-inc/31c57de3-6150-41c6-a632-ea193cf57218
 apex-technology-inc	Mission Integration Engineer Internship (Spring or Summer 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/be3c0535-d2e8-4129-855d-c79b23c0c68e
 applied	Build & Release Engineer - New Grad (2027) @ Sunnyvale	Type=FullTime; URL=https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352
 applied	Cybersecurity Software Engineer - New Grad (2027) @ Sunnyvale	Type=FullTime; URL=https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e
@@ -202,6 +201,7 @@ applied	Software Integration Engineer - New Grad (2027) @ Sunnyvale	Type=FullTim
 applied	UX Test Engineer - New Grad (2027) @ Sunnyvale	Type=FullTime; URL=https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4
 arch.co	Associate Product Manager (Summer 2027) @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/arch.co/68202fe2-5a4b-4d10-8e6e-04016c7d5076
 architect	Member of Technical Staff - Research Intern @ Palo Alto	Type=FullTime; URL=https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1
+astera	Robotics Systems Intern @ Emeryville HQ	Type=Intern; URL=https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8
 auctor	Software Engineering Intern @ New York	Type=FullTime; URL=https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607
 barnes	2027 2L Summer Associate @ Indianapolis	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/e855ec38-45e0-4a2d-abf7-4cbf562ea428
 barnes	2027 2L Summer Associate @ Philadelphia	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/1da6d4d2-0355-4df2-a2bd-9605fa1e5ae8
@@ -215,6 +215,7 @@ barnes	2027 BT RISE Internship - Legal Talent Management @ Indianapolis	Type=Ful
 base-power	Accounting Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/1b275bc7-7ea3-49f2-a41a-209431458d36
 base-power	Business Operations Intern, Commercial Partnerships @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/db6bb778-21d3-47d1-8f97-a42543f88b8f
 base-power	Business Operations, MBA Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/35b85c17-d6bc-4645-83f0-782049febce7
+base-power	Deployments Engineering Intern (Product Launch) @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/8603ced0-1031-4092-ab9a-380d918b0934
 base-power	Deployments Engineering Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935
 base-power	Deployments Operations Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/7be0dc29-e42c-4a1f-8512-fd94c13aabf2
 base-power	Design Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd
@@ -233,11 +234,13 @@ base-power	Mechanical Engineering Intern @ Austin, TX	Type=Intern; URL=https://j
 base-power	Member Experience (New Grad) @ Austin, TX	Type=FullTime; URL=https://jobs.ashbyhq.com/base-power/92fa7a4e-cf9f-47f6-834b-037d047d376a
 base-power	Member Experience Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/bef96e47-d08d-4717-a2be-28975b367a89
 base-power	Organic Social Content Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/c52ee85f-368f-4fdf-ad6d-b44b5c4a9977
+base-power	Power Systems Engineering Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443
 base-power	Quantitative Developer Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e
 base-power	Sales Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/fe71e011-a23a-4651-8f8a-9c0fcb5f1f22
 base-power	Software Engineering Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc
 base-power	Supply Chain Intern - Procurement @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/61f6d0de-3a8e-4c53-90bc-eb5a9f890de9
 base-power	Supply Chain Tooling Engineer Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/7fce3b16-c132-453b-a836-a3bcbd21abd2
+base-power	Video Content Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/78e16b51-faf1-4c80-93d5-8c3b078195ee
 beaconsoftware	Director, Association Partnerships & School Growth - Home Campus @ Remote (US)	Type=FullTime; URL=https://jobs.ashbyhq.com/beaconsoftware/bfba2dc4-f24b-4c4d-8e4f-2619ec41752f
 bedrock-robotics	2027 Internship Behavior ML Engineer, Learned Manipulation Policies @ San Francisco, CA	Type=Intern; URL=https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c
 bedrock-robotics	2027 Internship Behavior Machine Learning Engineer, World Models @ San Francisco, CA	Type=Intern; URL=https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1
@@ -295,7 +298,7 @@ fab2	Automation Software Engineering Intern - Summer @ Austin	Type=Intern; URL=h
 fab2	Automation Software Engineering Intern - Winter @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765
 fab2	Electrical Engineering Intern - Summer @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/fab2/aec19ef8-2257-4295-abc2-87afd05224ae
 fab2	Electrical Engineering Intern, High Frequency Power Electronics - Summer @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/fab2/b3628272-a336-4dd6-968d-041bc4de5bc5
-fab2	Embedded Software Engineering Intern - Summer @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4
+fab2	Embedded Software Engineering Intern - Summer @ San Francisco Office	Type=Intern; URL=https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4
 fab2	Embedded Software Engineering Intern - Winter @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da
 fab2	Fab Software Engineering Intern - Summer @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0
 fab2	Fab Software Engineering Intern - Winter @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95
@@ -351,8 +354,6 @@ ibotta	Product Design Intern @ Hybrid - Denver	Type=FullTime; URL=https://jobs.a
 ibotta	Software Engineer Intern @ Denver, CO	Type=FullTime; URL=https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269
 interplay	AI Labs Intern @ New York	Type=Contract; URL=https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac
 juicebox	Software Engineer Intern @ San Francisco	Type=Intern; URL=https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a
-kastle	Founder Intern (now and Summer 2026) @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/kastle/2c764341-e028-4736-a1a7-0d5faf16e592
-kastle	Software Engineer - Intern @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee
 kognitos	Software Engineer Intern (AI-Native) — Fall 2026 @ San Jose - HQ	Type=FullTime; URL=https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5
 kos.ai	Software Engineer Intern @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3
 maximor	Software Engineer (New Grad) @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e
@@ -427,7 +428,6 @@ reflect-orbital	Embedded Firmware Engineering Intern @ Hawthorne, CA	Type=Intern
 reflect-orbital	Flight Software Engineering Intern @ Hawthorne, CA	Type=Intern; URL=https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2
 reflect-orbital	Ground Software Engineering Intern @ Hawthorne, CA	Type=Intern; URL=https://jobs.ashbyhq.com/reflect-orbital/c394615d-26c6-4435-ad84-3ca3269c2952
 reflect-orbital	IT Support Specialist Intern @ Hawthorne, CA	Type=Intern; URL=https://jobs.ashbyhq.com/reflect-orbital/8f4f8e74-b386-41b4-8154-7e5e50a34205
-reflect-orbital	Mechanical Engineering Intern @ Hawthorne, CA	Type=Intern; URL=https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6
 reflect-orbital	Mission Operations Engineering Intern @ Hawthorne, CA	Type=Intern; URL=https://jobs.ashbyhq.com/reflect-orbital/7ec00657-344f-4a53-b1b2-b6623a8b95bc
 replit	Cohort 0 @ Foster City, CA	Type=Intern; URL=https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c
 replit	Software Engineering Intern – Winter 2027 @ Foster City, CA	Type=FullTime; URL=https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea
@@ -489,6 +489,7 @@ skydio	Flight Test Intern - Summer 2027 @ San Mateo, California, United States	T
 skydio	Frontend Software Engineer Intern - Summer 2027 @ San Mateo, California, United States	Type=Intern; URL=https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd
 skydio	Hardware Test and Reliability Intern - Summer 2027 @ San Mateo, California, United States	Type=Intern; URL=https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800
 skydio	Key Account Director, Campus @ US Remote	Type=FullTime; URL=https://jobs.ashbyhq.com/skydio/ebb59c8f-5231-4461-a8c1-f991723f0ed2
+skydio	Key Account Leader, Campus @ US Remote	Type=FullTime; URL=https://jobs.ashbyhq.com/skydio/7ba7379e-0e4b-42dd-93aa-ed1aae41daa4
 skydio	Manufacturing Intern - Summer 2027 @ Hayward, California, United States	Type=FullTime; URL=https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c
 skydio	Manufacturing Software Engineer Intern - Winter 2027 @ San Mateo, California, United States	Type=Intern; URL=https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb
 skydio	Mobile Software Engineer Intern - Summer 2027 @ San Mateo, California, United States	Type=Intern; URL=https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52
