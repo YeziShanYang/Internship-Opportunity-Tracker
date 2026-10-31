@@ -66,6 +66,11 @@ CommuniHacks
 NOV 07 - 08
 Kitchener, Ontario, CA
 In-Person
+Rochester , New York
+HACK.COMS
+NOV 07 - 08
+Rochester, New York, US
+In-Person DIVERSITY
 Edinburgh , Edinburgh
 HackTheBurgh
 NOV 07 - 08
@@ -181,6 +186,11 @@ Sheffield , South Yorkshire
 HackSheffield11
 NOV 28 - 29
 Sheffield, South Yorkshire, GB
+In-Person
+Manhattan , Kansas
+Hack Cats
+DEC 04 - 06
+Manhattan, Kansas, US
 In-Person
 2027
 Hamilton , Ontario

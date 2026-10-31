@@ -89,26 +89,26 @@ Who we&rsquo;re looking for : First-year students or sophomores pursuing a quant
 For more info:&nbsp; Analyst Early Experiences - AnalystEE@capitalone.com &nbsp;
 Check out the Students &amp; Grads event page to find info sessions on the programs and connect with the recruiting teams.
 ALL JOBS
+R1002748
+Administrative Assistant
 R249922
 Distinguished AI Engineer
 R247414
 Senior Business Manager, Marketing &amp; Analytics | Capital One Business Travel
-R238910
-Business Analysis Manager - Retail and Small Business Bank Orgs
-R1004772
-Principal Data Analyst
-R1004844
-Manager, Product Management - Enterprise Supplier Management
-R1004609
-Principal Risk Specialist
-R1004450
-Senior Manager, EBRA Business Risk Brex Integration
-R1004750
-Principal Associate - Software Engineer
-R1003763
-Full-stack Engineer 4
-R1004487
-Full Stack Engineer - 4 (Java, JavaScript, TypeScript, AWS)
+R248511
+Senior Associate, Data Scientist - Business Cards Marketing Data Science
+R241993
+Senior Associate, Financial Planning &amp; Analysis - Capital One Auto
+R241969
+Manager, Data Analysis - Retail Bank
+R1004821
+Senior Manager, Product Management- Card Tech
+R1004744
+Senior Manager, Product Management- Data Product Interface on GraphQL
+R1004958
+Sr Director, Card Risk: Credit &amp; Data
+R1003993
+Full Time Branch Ambassador - Shenandoah
 View all of our available opportunities
 Related Content
 Explore Capital One Internships

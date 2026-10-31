@@ -6,7 +6,7 @@ a16z
 Software Is Eating the World
 X LinkedIn Substack
 © 2026 Andreessen Horowitz . All Portfolio Jobs Companies Disclosures
-690 companies. 18,587 jobs. It’s time to build.
+690 companies. 18,588 jobs. It’s time to build.
 All Portfolio Jobs Jobs by Company a16z Jobs a16z TalentPlace
 Filter jobs by role and more
 Roles
@@ -21,7 +21,7 @@ Internships only Remote options All jobs
 Salary Any
 Posted <age>
 Country:us Seed Venture Clear filters
-42 jobs
+41 jobs
 Exowatt
 Global Supply Manager MBA Spring Intern (Austin)
 Austin, TX · Posted <age>
@@ -132,11 +132,6 @@ Software Engineer Intern
 Salary range USD 30 - 40 / hour · Menlo Park, CA · Posted <age>
 Enterprise, Infra · Seed · 2–10 employees
 Apply Interested
-Cowboy Space Corporation
-Intern, Launch &amp; Satellite 2027
-Kent, Washington, United States · Posted <age>
-American Dynamism · Series B · 51–200 employees
-Apply Interested
 ConductorAI
 Software Engineer Intern
 New York City, New York, United States · Posted <age>
@@ -146,5 +141,10 @@ Cowboy Space Corporation
 Internship 2027
 Kent, Washington, United States · Posted <age>
 American Dynamism · Series B · 51–200 employees
+Apply Interested
+Amca
+Electrical Engineering Internship (Summer 2027)
+USD 30–50 (Hourly Pay Range) · El Segundo, CA · Posted <age>
+American Dynamism · Series B · 201–500 employees
 Apply Interested
 Show more jobs

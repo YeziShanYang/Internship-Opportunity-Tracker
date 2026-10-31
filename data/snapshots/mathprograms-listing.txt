@@ -48,8 +48,6 @@ Duke University, Department of Mathematics
 The EDGE Foundation
 [ EDGE2027 ] EDGE 2027 Summer Program &nbsp; Apply
 [ RUSKAI ] Ruskai Research Fund &nbsp; Apply
-IAS/Park City Mathematics Institute
-[ PCMIRFP28 ] PCMI Research Topic Proposal &nbsp; Apply
 Institute for Advanced Study, School of Mathematics
 [ SC27 ] 2027 Summer Collaborators &nbsp; Apply
 [ WAM27 ] WAM 2027: Symmetries and the Shape of Motion &nbsp; ez Apply
@@ -65,5 +63,5 @@ University of Minnesota Twin Cities, School of Mathematics
 [ UMNREU ] Mathematics of Soft Matter &nbsp; (deadline 2026/06/12 11:59PM) &nbsp; Apply
 Williams College, Mathematics and Statistics
 [ POLYMATHREU2027 ] Polymath Jr-REU2027 &nbsp; Apply
-(33 programs listed)
+(32 programs listed)
 &copy; 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.
