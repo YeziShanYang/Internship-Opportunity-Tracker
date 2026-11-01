@@ -22,11 +22,6 @@ Tue, Nov 17 · 10:00 AM PST
 San Francisco, CA
 Pre-vetted compute buyers and sellers will negotiate deals in a focused one-day marketplace, with lawyers on hand to help finalize agreements before the day ends.
 Nov 4
-Data Outpost
-Wed, Nov 4 · 8:30 AM PST
-San Francisco
-Over two days of workshops and talks hosted by MotherDuck (with Sigma, OpenAI, Stripe, Clay, Vercel, Braintrust, and many more engineering, data, and AI leaders, plan to dive deep on how AI is shaping data and how work and decisions are made for some of the fastest-growing organizations.
-Nov 4
 Elastic{ON} AI San Francisco
 Wed, Nov 4 · 9:00 AM PST
 SHACK15
@@ -42,31 +37,11 @@ Build Day: OpenRouter x Meta
 Mon, Nov 9 · 5:30 PM PST
 San Francisco, CA
 OpenRouter and Meta Superintelligence Labs will bring developers together for a talk on the Muse model family, led by Saurabh Baji, Meta’s Senior Director of Engineering, followed by a 60-minute hands-on build challenge with complimentary credits and product experts on hand. Participants can explore practical Muse applications and demo their creations.
-Nov 2
-Fireworks: Deploy with Microsoft &amp; NVIDIA
-Mon, Nov 2 · 9:00 AM PST
-San Francisco, CA
-Teams of 2–5 will build and deploy an open-model solution for a task they define, then evaluate its quality, efficiency, and business value against a baseline. The competition will award $10,000, $5,000, and $3,000 to the top three teams, with support from Fireworks, Microsoft, and NVIDIA.
-Oct 31
-AI in Action Women Building What Is Next
-Sat, Oct 31 · 10:00 AM PDT
-Google Huddle
-WOMEN x AI and TechCon Global will bring together women founders, product leaders, investors, and AI practitioners for a candid conversation on building useful AI products, gaining early traction, and adopting AI responsibly. The program will feature founder demos, audience Q&amp;A, and guided small-group discussions.
-Oct 31
-Side Project Saturday for Designers
-Sat, Oct 31 · 11:00 AM PDT
-Muddy Waters Coffee House
-Designers and creatives will share ideas and explore projects across drafting, digital, and AI-based mediums. The session will welcome a range of creative approaches and experience levels.
-Nov 2
-Fireworks: Deploy Buildathon with Microsoft &amp; NVIDIA
-Mon, Nov 2 · 9:00 AM PST
-San Francisco, CA
-Fireworks, Microsoft, and NVIDIA will challenge teams of 2–5 to deploy and evaluate an open-model solution, tuning quality, efficiency, accuracy, latency, or cost against a baseline. Teams will compete for $10,000, additional cash prizes, and NVIDIA DGX Spark hardware.
-Nov 2
-Fireworks: Deploy with Microsoft &amp; NVIDIA
-Mon, Nov 2 · 9:00 AM PST
-San Francisco, CA
-Fireworks, Microsoft, and NVIDIA will host a team hackathon challenging builders to deploy and evaluate open models, then improve performance, efficiency, or cost against a baseline. Teams of 2–5 will compete for prizes up to $10,000 and present their results at the closing demos.
+Nov 4
+Data Outpost
+Wed, Nov 4 · 8:30 AM PST
+San Francisco
+Over two days of workshops and talks hosted by MotherDuck (with Sigma, OpenAI, Stripe, Clay, Vercel, Braintrust, and many more engineering, data, and AI leaders, plan to dive deep on how AI is shaping data and how work and decisions are made for some of the fastest-growing organizations.
 Nov 2
 GamesBeat Next 2026
 Mon, Nov 2 · 9:00 AM PST
@@ -76,7 +51,12 @@ Nov 2
 Fireworks: Deploy with Microsoft &amp; NVIDIA
 Mon, Nov 2 · 9:00 AM PST
 San Francisco, CA
-Teams of 2–5 will build and deploy an open-model solution for a task they define, then evaluate its quality, efficiency, and business value against a baseline. The competition will award $10,000, $5,000, and $3,000 to the top three teams, with support from Fireworks, Microsoft, and NVIDIA.
+Fireworks, Microsoft, and NVIDIA will host a team hackathon challenging builders to deploy and evaluate open models, then improve performance, efficiency, or cost against a baseline. Teams of 2–5 will compete for prizes up to $10,000 and present their results at the closing demos.
+Nov 2
+Fireworks: Deploy Buildathon with Microsoft &amp; NVIDIA
+Mon, Nov 2 · 9:00 AM PST
+San Francisco, CA
+Fireworks, Microsoft, and NVIDIA will challenge teams of 2–5 to deploy and evaluate an open-model solution, tuning quality, efficiency, accuracy, latency, or cost against a baseline. Teams will compete for $10,000, additional cash prizes, and NVIDIA DGX Spark hardware.
 Nov 2
 Builders Night
 Mon, Nov 2 · 6:30 PM PST
@@ -88,25 +68,30 @@ Tue, Nov 3 · 9:00 AM PST
 135 Constitution Dr
 The TechEquity Summit will gather over 2,000 AI leaders, founders, investors, and educators from diverse sectors for four days of keynotes, workshops, and networking focused on responsible AI development and real-world applications. Attendees will include seasoned developers, startup founders, and career-transition professionals eager to deepen their hands-on AI expertise.
 Nov 3
+AI in the Real World: Where It Works and Where It Breaks
+Tue, Nov 3 · 5:00 PM PST
+Palo Alto, CA
+BDev Ventures and Haynes Boone will bring together AI and legal experts to examine how AI is working, and where risks around ownership, liability, and regulation emerge, as it moves into software and the physical world. The panel will feature BDev Ventures Partner Keshia Theobald-van Gent, Personal AI CEO Suman Kanuganti, Fusion Fund Venture Partner Chi-Chao Chang, and moderator Roger Royse, Partner at Haynes Boone.
+Nov 3
 Make SF Better: A Hack Night with Mistral AI
 Tue, Nov 3 · 5:00 PM PST
 San Francisco, CA
 Engineers, designers, creative technologists, and people with firsthand knowledge of San Francisco’s everyday challenges will build and demo prototypes to make life better for residents, using Mistral AI and Elasticsearch. Projects may tackle transit, neighborhood businesses, public spaces, community connections, or city services, with SF open data available as a starting point.
-Nov 3
-Own Your AI: Build an Agentic AI Model Factory - Hack Night
-Tue, Nov 3 · 5:00 PM PST
-San Francisco, CA
-Attendees will build a LangGraph-powered ML engineer agent that evaluates, fine-tunes, deploys, and retrains open models on their own AWS infrastructure, using Union.ai’s durable workflow runtime. The hands-on session will cover model ownership and sovereign AI, followed by time to experiment with models, datasets, and evaluation workflows.
 Nov 3
 Own Your AI: Build an Agentic AI Model Factory - in person Hack Night
 Tue, Nov 3 · 5:00 PM PST
 San Francisco, CA
 This hands-on session will show how to build a LangGraph-powered ML engineer agent that evaluates, fine-tunes, deploys, and retrains open models using Union.ai on AWS, keeping models, data, and infrastructure under your control. Attendees will then experiment with their own models and datasets, exploring practical approaches to sovereign AI and end-to-end model ownership.
 Nov 3
-AI in the Real World: Where It Works and Where It Breaks
+Own Your AI: Build an Agentic AI Model Factory - Hack Night
 Tue, Nov 3 · 5:00 PM PST
-Palo Alto, CA
-BDev Ventures and Haynes Boone will bring together AI and legal experts to examine how AI is working, and where risks around ownership, liability, and regulation emerge, as it moves into software and the physical world. The panel will feature BDev Ventures Partner Keshia Theobald-van Gent, Personal AI CEO Suman Kanuganti, Fusion Fund Venture Partner Chi-Chao Chang, and moderator Roger Royse, Partner at Haynes Boone.
+San Francisco, CA
+Attendees will build a LangGraph-powered ML engineer agent that evaluates, fine-tunes, deploys, and retrains open models on their own AWS infrastructure, using Union.ai’s durable workflow runtime. The hands-on session will cover model ownership and sovereign AI, followed by time to experiment with models, datasets, and evaluation workflows.
+Nov 3
+Building Voice AI That Holds Up in Production: Coval x Cloudflare
+Tue, Nov 3 · 5:30 PM PST
+101 Townsend St
+Brooke Hopkins, Coval founder and CEO who previously led evaluation infrastructure at Waymo, and Korinne Alpers, Cloudflare’s Voice AI product manager and co-author of its experimental Agents SDK voice pipeline, will discuss building, testing, and operating reliable voice agents at production scale. The fireside chat will cover latency, conversation state, regression testing, and human review, followed by audience Q&amp;A.
 Nov 3
 Decision Models SF | Demo Night
 Tue, Nov 3 · 5:30 PM PST
@@ -123,11 +108,6 @@ Tue, Nov 3 · 5:30 PM PST
 San Francisco, CA
 Press Club’s workshop will break down how founders can build targeted journalist lists, achieve higher email response rates, and secure coverage for launches and funding announcements. Host Press Club brings hands-on experience landing clients in Forbes, TechCrunch, and Axios.
 Nov 3
-Building Voice AI That Holds Up in Production: Coval x Cloudflare
-Tue, Nov 3 · 5:30 PM PST
-101 Townsend St
-Brooke Hopkins, Coval founder and CEO who previously led evaluation infrastructure at Waymo, and Korinne Alpers, Cloudflare’s Voice AI product manager and co-author of its experimental Agents SDK voice pipeline, will discuss building, testing, and operating reliable voice agents at production scale. The fireside chat will cover latency, conversation state, regression testing, and human review, followed by audience Q&amp;A.
-Nov 3
 Urgent AI Risks
 Tue, Nov 3 · 6:00 PM PST
 O’Reilly’s Pub
@@ -142,6 +122,22 @@ Make all your data an AI advantage at Elastic{ON} AI
 Wed, Nov 4 · 9:00 AM PST
 SHACK15
 Elastic{ON} AI will deliver a free, one-day technical conference for developers, SREs, security analysts, and technical leaders, featuring expert-led demos and real-world sessions on Search, Security, Observability, and AI. Highlights will include the Elasticsearch Platform, ES|QL, AI integrations for real-time agents, and a three-month Elastic Certification extension for in-person attendees.
+Nov 4
+Elastic{ON} AI San Francisco
+Wed, Nov 4 · 9:00 AM PST
+SHACK15
+Elastic{ON} is coming to San Francisco, and this one is all about AI. Join us as we hear from top companies like LangChain, Mastra, NVIDIA, OpenAI, and Temporal on building and scaling AI agents and applications. Space is limited, so register now to reserve your spot.
+Speakers:
+Sam Bhagwat, Founder &amp; CEO, Mastra
+Johann Schleier-Smith, Technical Lead, AI, Temporal
+Manas Singh, Technical Product Manager for Accelerated ML and Vector Search, NVIDIA
+Victor Moreira, Product Manager, LangChain
+Vanessa Sauter, Cyber Deployment Engineer, OpenAI
+Nov 4
+Coffee Club | Early Stage B2B Tech Founders &amp; Funders
+Wed, Nov 4 · 10:00 AM PST
+San Francisco, CA
+Forum Ventures team members Deirdre Clute and Sruthi Sivanandan will host a relaxed coffee meetup for pre-Series A B2B and AI founders and investors, with a focus on fostering connections for underrepresented voices in tech. The gathering will draw on Forum Ventures’ experience as an early-stage fund, accelerator, and AI venture studio.
 Nov 7
 AIE Code Summit 2026 Hackathon
 Sat, Nov 7 · 9:00 AM PST

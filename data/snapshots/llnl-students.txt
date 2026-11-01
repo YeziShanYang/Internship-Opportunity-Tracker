@@ -157,13 +157,13 @@ We offer a variety of student programs, from undergraduate summer student intern
 Ready for Your LLNL Internship?&nbsp;&nbsp;
 Learn more
 Hear firsthand from our interns
-Daniel Martin
-Summer Student
-I have been privileged to work at the Lawrence Livermore National Labs as a summer intern for the second consecutive year. My project involves revamping old and outdated nuclear spectrometry systems at our Nuclear Counting Facility. As an electrical engineering student with an interest in control systems, I have really enjoyed programming and testing software, examining old schematics and creating new diagrams, designing the hardware layout, and interfacing the sensors and actuators with an embedded processor.
-Read Full Bio
 Aaron Barrett
 Summer Student
 I chose to return as a summer scholar because I wanted to continue working in Cyber Security and Infrastructure where I am studying and developing algorithms for collaborative autonomy and decentralized iterative methods. I have found the environment of LLNL&nbsp;to be a compelling avenue for collaborative research motivated by real world applications, which in my case are issues related to&nbsp;modernizing the electrical grid.
+Read Full Bio
+Daniel Martin
+Summer Student
+I have been privileged to work at the Lawrence Livermore National Labs as a summer intern for the second consecutive year. My project involves revamping old and outdated nuclear spectrometry systems at our Nuclear Counting Facility. As an electrical engineering student with an interest in control systems, I have really enjoyed programming and testing software, examining old schematics and creating new diagrams, designing the hardware layout, and interfacing the sensors and actuators with an embedded processor.
 Read Full Bio
 Get your start with our student programs
 Your internship will provide a rich, hands-on learning environment, complete with challenging projects for you to apply what you've learned to real-life issues and create solutions for an all-around enriching experience.
