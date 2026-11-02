@@ -115,17 +115,3 @@ Program (Event):Chief Financial Office Program,Firmwide,Global Capital Markets P
 Event description:Interested in building your career in Asia Pacific? Join Bank of America for an exclusive in-person event at our Boston office this November. This event offers a unique opportunity to learn more about Bank of America's Asia Pacific businesses and explore
 Event address / venue details:Bank of America Boston Office
 Event Timezone:EST
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/14952-Bank-of-America-APAC-Careers-Roadshow-New-York/en-GB
-Bank of America | APAC Careers Roadshow | New York
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:14952
-Title:Bank of America | APAC Careers Roadshow | New York
-Event Date:13 Nov 2026 04:30 PM EST
-Region:Asia Pacific
-Country:Hong Kong
-Line of Business:FIRMWIDE
-Program (Event):Chief Financial Office Program,Firmwide,Global Capital Markets Program,Global Equities Program,Global FICC Program,Global Investment Banking Program,Global Operations Program,Global Payments Solutions Program,Global Quants Program,Global Technology Program
-Event description:Interested in building your career in Asia Pacific? Join Bank of America for an exclusive in-person event at our New York office this November. This event offers a unique opportunity to learn more about Bank of America's Asia Pacific businesses and explor
-Event address / venue details:Bank of America New York Office
-Event Timezone:America/New_York

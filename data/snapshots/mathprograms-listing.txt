@@ -20,27 +20,13 @@ Click on the following 'A' to 'Z' links to list only employers whose names start
 &nbsp; A &nbsp; B &nbsp; C &nbsp; D &nbsp; E &nbsp; F &nbsp; G &nbsp; H &nbsp; I &nbsp; J &nbsp; K &nbsp; L &nbsp; M &nbsp; N &nbsp; O &nbsp; P &nbsp; Q &nbsp; R &nbsp; S &nbsp; T &nbsp; U &nbsp; V &nbsp; W &nbsp; X &nbsp; Y &nbsp; Z &nbsp; All
 &nbsp;
 American Mathematical Society, AMS Prizes and Awards
-[ BABUSKA27 ] The Ivo and Renata Babuška Thesis Prize &nbsp; (deadline 2026/06/30 11:59PM * )
-[ BERTRAND27 ] Bertrand Russell Prize &nbsp; (deadline 2026/05/31 11:59PM * )
-[ COLEALG27 ] Cole Prize in Algebra &nbsp; (deadline 2026/05/31 11:59PM * )
-[ DOLCIANI27 ] Mary P. Dolciani Prize in Excellence in Research &nbsp; (deadline 2026/05/31 11:59PM * )
-[ EXEMPLARY27 ] Award for an Exemplary Program or Achievement in a Mathematics Department &nbsp; (deadline 2026/05/31 11:59PM * )
-[ GRENANDER27 ] Ulf Grenander Prize in Stochastic Theory and Modeling &nbsp; (deadline 2026/05/31 11:59PM * )
-[ IMPACT27 ] Award for Impact on the Teaching and Learning of Mathematics &nbsp; (deadline 2026/05/31 11:59PM * )
-[ ISAACS27 ] I. Martin Isaacs Prize for Excellence in Mathematical Writing &nbsp; (deadline 2026/05/31 11:59PM * )
 [ JPBM27 ] JPBM Communications Award &nbsp; (deadline 2026/09/15 11:59PM) &nbsp; Nominate
 [ LIE27 ] George Lusztig Thesis Prize in Lie Theory &nbsp; (deadline 2026/07/31 11:59PM * )
-[ MORAWETZ27 ] AMS-SIAM Cathleen Synge Morawetz Prize in Applied Mathematics &nbsp; (deadline 2026/05/31 11:59PM * )
-[ MORGAN27 ] Frank and Brennie Morgan Prize for Outstanding Research in Mathematics by an Undergraduate Student &nbsp; (deadline 2026/05/31 11:59PM * )
-[ SATTER27 ] Ruth Lyttle Satter Prize in Mathematics &nbsp; (deadline 2026/05/31 11:59PM * )
-[ STEINANALYSIS27 ] Elias M. Stein Prize for New Perspectives in Analysis &nbsp; (deadline 2026/06/30 11:59PM * )
 [ THESISALGEBRA27 ] George Lusztig Thesis Prize in Algebra &nbsp; (deadline 2026/07/31 11:59PM * )
-[ WHITEMAN27 ] Albert Leon Whiteman Memorial Prize &nbsp; (deadline 2026/05/31 11:59PM * )
 American Mathematical Society, Programs and Travel Grants
-[ BIRMAN27 ] The Joan and Joseph Birman Fellowship for the Advancement of Women Scholars &nbsp; (deadline 2026/09/30 11:59PM) &nbsp; Apply
-[ CENT27 ] AMS Centennial Fellowship &nbsp; (deadline 2026/09/30 11:59PM) &nbsp; Apply
-[ CLAYGIL27 ] Claytor-Gilmer Fellowship &nbsp; (deadline 2026/09/30 11:59PM) &nbsp; Apply
-[ STEFBERG27 ] Stefan Bergman Fellowship &nbsp; (deadline 2026/09/30 11:59PM) &nbsp; Apply
+[ AYSP27 ] AMS Young Scholars Program &nbsp; Apply
+Association for Women in Mathematics
+[ ESSAY27 ] 2027 AWM/MfA Essay Contest &nbsp; Apply
 Carnegie Mellon University, Mathematical Sciences
 [ ANTIRAMSEY ] Workshop on Anti-Ramsey Problems &nbsp; Apply
 Duke University, Department of Mathematics
@@ -66,5 +52,5 @@ University of Minnesota Twin Cities, School of Mathematics
 [ UMNREU ] Mathematics of Soft Matter &nbsp; (deadline 2026/06/12 11:59PM) &nbsp; Apply
 Williams College, Mathematics and Statistics
 [ POLYMATHREU2027 ] Polymath Jr-REU2027 &nbsp; Apply
-(34 programs listed)
+(19 programs listed)
 &copy; 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.

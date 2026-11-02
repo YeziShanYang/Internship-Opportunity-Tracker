@@ -6,11 +6,6 @@ Find, compete, and earn points at the largest, most diverse hacker events in the
 Filter events This Month Next Month Diversity Focused Region Sponsored
 Upcoming Events
 2026
-New delhi , New delhi
-hackCBS 9.O
-OCT 31 - NOV 01
-New delhi, New delhi, IN
-In-Person
 Miami , FL
 SharkByte
 NOV 06 - 08
@@ -335,6 +330,11 @@ Los Angeles, California, US
 In-Person
 Past Events
 2026
+New delhi , New delhi
+hackCBS 9.O
+OCT 31 - NOV 01
+New delhi, New delhi, IN
+In-Person
 University Park , PA
 Hack at Penn State
 OCT 24 - 25
@@ -449,11 +449,6 @@ Flushing , New York
 Hack Knight
 OCT 09 - 11
 Flushing, New York, US
-In-Person
-Bhilai , Chhattisgarh
-HackBIOS
-OCT 09 - 10
-Bhilai, Chhattisgarh, IN
 In-Person
 24 past events shown
 Footer

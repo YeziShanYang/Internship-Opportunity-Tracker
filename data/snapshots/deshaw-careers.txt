@@ -166,7 +166,7 @@ New York
 Human Capital Analytics Developer : The D.&nbsp;E.&nbsp;Shaw group seeks a talented developer to join its Human Capital (HC) Analytics team. HC Analytics curates and leverages data to help answer strategic and operational&hellip;
 Human Capital
 New York
-Learning & Development Specialist : The D.&nbsp;E.&nbsp;Shaw group seeks a versatile specialist with a keen interest in artificial intelligence (AI) to join its Learning & Development (L&D) team. This team develops&hellip;
+Learning & Development Specialist : The D.&nbsp;E.&nbsp;Shaw group seeks a versatile, innovative, and experienced professional to join its Learning & Development (L&D) team, which builds customized learning offerings to help&hellip;
 Human Capital
 New York
 Learning and Development Program Operations Manager : The D.&nbsp;E.&nbsp;Shaw group seeks an organized, execution-minded leader to join its Learning & Development (L&D) team as a program operations manager. This role combines people&hellip;
@@ -262,7 +262,7 @@ New York
 Strategy and Business Development Associate – Commercial Data Insights : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive, analytical, and resourceful individual to join its strategy and business development (SBD) arm, working with our Investor Relations and&hellip;
 Technology
 New York
-Founder's Office: Technology Specialist : The D.&nbsp;E.&nbsp;Shaw group seeks a talented technologist with impressive achievements to join the Founder's Office, which provides direct technical support to the firm's founder. This&hellip;
+Founder's Office: InfoSec Generalist : The D.&nbsp;E.&nbsp;Shaw group seeks a talented technologist with impressive achievements to join the Founder's Office, which provides direct technical support to the firm's founder. This&hellip;
 Technology
 New York
 Infrastructure Software Engineer: Application Engineering : The D.&nbsp;E.&nbsp;Shaw group seeks a lead software engineer to join its Application Engineering (AppEng) team in the Systems group. This role involves partnering with developers,&hellip;
@@ -311,6 +311,9 @@ Systems: Senior Linux Infrastructure Engineer (New York) : The D. E. Shaw group 
 Technology
 New York
 Systems: Senior Technical Program Manager : The D.&nbsp;E.&nbsp;Shaw group seeks a senior technical program manager to join its Systems Program Management Office, which establishes, manages, and optimizes the firm’s technical&hellip;
+Technology
+New York
+Technical Product Manager – Compliance Technology (Vendor Relationship Management) : The D.&nbsp;E.&nbsp;Shaw group seeks a technical product manager to join its Middle and Back Office Technology (MBOT) team to manage the technical relationship between the firm's&hellip;
 Technology
 New York
 Technical Program Manager - Generative AI Tech Services : The D.&nbsp;E.&nbsp;Shaw group seeks a program manager to join its Generative AI Tech Services team. This team develops and operates a wide-ranging suite of generative-AI products and&hellip;

@@ -2,7 +2,7 @@ Jobs at Lightspeed Venture Partners Companies | Lightspeed Venture Partners
 Menu 01 About 02 Team 03 Companies 04 Founder Experience 05 Stories 06 Launch 07 Research Hub
 Faction Gaming LP Login Events Lighthouse Contact Portfolio Jobs
 Careers
-521 companies. 17,407 jobs.
+521 companies. 17,410 jobs.
 Jobs Companies
 Filter jobs by skills and more
 Roles
@@ -28,7 +28,7 @@ Hoskote, Bangalore, Karnataka , India, Bangalore Posted <age>
 Compliance &amp; Legal
 Logistics and Supply Chain
 Seed, 10–100 employees
-Corporate Law Regulatory Compliance Investor Relations Commercial Agreements Drones Compliance Aerospace Attention to Detail Corporate Governance Goods
+Drones Corporate Law Compliance Goods Commercial Agreements Investor Relations Aerospace Corporate Governance Regulatory Compliance Attention to Detail
 Apply
 #LI-DNI Composio Fullstack Engineering Internship, Product Team (Fall 2026 &amp; Winter 2027)
 Always confirm salary details from the job posting.
@@ -37,7 +37,7 @@ San Francisco, California, USA, sf Posted 30+ days ago
 Engineering
 AI
 Series A, 10–100 employees
-Github React.js TypeScript Next.js Tailwind HubSpot SDK Infrastructure Amazon Web Services Salesforce
+Amazon Web Services TypeScript Salesforce React.js Next.js HubSpot Github Infrastructure SDK Tailwind
 Apply
 #LI-DNI Amca Electrical Engineering Internship (Winter Spring 2027)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -45,7 +45,7 @@ Similar jobs pay USD 35,000 - 85,000 / year
 El Segundo, CA Posted 30+ days ago
 Engineering
 Series A, 10–100 employees
-Vehicles Altium Designer EDA Team Leadership Electronic circuit simulation Electrical Design Quality Assurance Troubleshooting Aerospace Infrastructure
+EDA Robotics Altium Designer Spring Electrical Design Vehicles Quality Assurance Team Leadership Troubleshooting Infrastructure
 Apply
 #LI-DNI Amca Mechanical Engineering Intern (Summer 2027)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -53,34 +53,34 @@ Similar jobs pay USD 40,000 - 85,000 / year
 El Segundo, CA Posted 30+ days ago
 Engineering
 Series A, 10–100 employees
-Vehicles NX Solid Mechanics CAD Thermodynamics Manufacturing Engineering Team Leadership Fluid Dynamics Troubleshooting Quality Assurance
+CAD Physics Instrumentation Manufacturing Engineering Infrastructure SolidWorks Solid Mechanics Vehicles Finite Element Analysis Fluid Dynamics
 Apply
 #LI-DNI Periodic Labs Research Intern, Thin Films
 Menlo Park, California, United States, Menlo Park, CA Posted 30+ days ago
 Science
 AI, Research
 Seed, 10–100 employees
-Optics Photonics Artificial Intelligence Research Semiconductor Devices Photolithography Sensors Characterization MEMS Process Flow Documentation
+Optics Photonics Characterization Photolithography Research Sputtering Optoelectronics SEM Good Lab Practice Sensors
 Apply
 #LI-DNI k-ID Product Internship Program
 Remote, Hybrid Singapore, Singapore, Singapore, Singapore, United States Posted 30+ days ago
 Product &amp; Design
 Entertainment, Video Games
 Series A, 10–100 employees
-Web Technologies Analytical Skills Research Privacy HCI Orchestration Databases Compliance JavaScript User Experience Design
+User Experience Design Strategic Partnerships TypeScript JavaScript Databases Research Compliance HCI Privacy Web Technologies
 Apply
 #LI-DNI Smartex.ai Software Development Intern
 Porto, Portugal Posted 30+ days ago
 Industrial Automation
 Growth, 10–100 employees
-Onboarding User Experience REST Artificial Intelligence Analytical Skills Quality Assurance Machine Learning AngularJS Software Development Processes English
+User Experience Language Models Data Integration REST Version Control Systems Analytical Skills AngularJS Machine Learning Written Communication Skills Git
 Apply
 #LI-DNI CuspAI MLFF Distillation &amp; GCMC Integration - Internship
 Hybrid London, United Kingdom, London, UK, Cambridge, UK Posted 30+ days ago
 AI/ML
 AI
 Growth, 10–100 employees
-Active Learning Monte Carlo Simulation Artificial Intelligence Research Scalability Machine Learning Materials Science Computational Chemistry Career Counseling Strategic Partnerships
+Computational Chemistry Strategic Partnerships Active Learning Research Monte Carlo Simulation Machine Learning Materials Science Artificial Intelligence Scalability Career Counseling
 Apply
 #LI-DNI Amca Electrical Engineering Internship (Summer 2027)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -88,33 +88,33 @@ Similar jobs pay USD 35,000 - 85,000 / year
 El Segundo, CA Posted 30+ days ago
 Engineering
 Series A, 10–100 employees
-Firmware Vehicles Altium Designer Team Leadership Embedded Software Electronic circuit simulation KiCad Electrical Design Quality Assurance Avionics
+EDA Robotics Altium Designer Electrical Design Vehicles Quality Assurance Team Leadership Troubleshooting Infrastructure Electronic circuit simulation
 Apply
 #LI-DNI k-ID Finance Intern (SG)
 Hybrid Singapore, Singapore, Singapore, Singapore Posted 30+ days ago
 Finance &amp; Ops
 Entertainment, Video Games
 Series A, 10–100 employees
-Finance Automation Artificial Intelligence Financial Systems Privacy Financial Reporting Compliance Data Visualization Data Driven Process Improvement
+Power BI Financial Reporting Financial Systems Compliance Data Driven Data Visualization Audit Privacy Process Improvement Python
 Apply
 #LI-DNI Amca Supply Chain Engineering Intern (Summer 2027)
 El Segundo, CA Posted 30+ days ago
 Supply Chain
 Series A, 10–100 employees
-Injection Molding Vehicles Program Management Supply Chain Engineering Supplier Quality Avionics Aerospace Quality Management Infrastructure Supply Chain Management
+PCBA Avionics Supplier Quality Supply Chain Engineering Infrastructure Vehicles Injection Molding Supply Chain Management Quality Management Program Management
 Apply
 #LI-DNI Cylake Security Research Intern (2027 Masters/PhD)
 Sunnyvale, California, United States, Sunnyvale Posted 30+ days ago
 Engineering
 AI, Computer &amp; Network Security
 Seed, 10–100 employees
-Network Security Research Security Research Threat Hunting Early-Stage
+Research Security Research Network Security Early-Stage Threat Hunting
 Apply
 #LI-DNI Amca Engineering Internship, Business Operations (Summer 2027)
 El Segundo, CA Posted 30+ days ago
 Business Operations
 Series A, 10–100 employees
-Cancer Biology DoD Aerospace Government Contracting Attention to Detail Procurement Business Operations
+Government Contracting Business Operations Cancer Biology Procurement Aerospace DoD Attention to Detail
 Apply
 #LI-DNI Airbound Mechanical Engineer - Internship
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -123,7 +123,7 @@ Hoskote, Bangalore, Karnataka , India, Bangalore Posted 30+ days ago
 Research &amp; Development
 Logistics and Supply Chain
 Seed, 10–100 employees
-Tolerance Analysis Sketch App Budgeting Assembly Drones System Design Concept Design Aerospace Hardware Engineering Goods
+Drones Robotics Sketch App Goods Budgeting Hardware Engineering Assembly System Design Tolerance Analysis Concept Design
 Apply
 #LI-DNI Amca Program Management Internship, Business Operations (Summer 2027)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -131,7 +131,7 @@ Similar jobs pay USD 40,000 - 150,000 / year
 El Segundo, CA Posted 30+ days ago
 Business Operations
 Series A, 10–100 employees
-Cancer Biology DoD Procurement Aerospace Government Contracting Attention to Detail Software Project Management Business Operations
+Government Contracting Business Operations Cancer Biology Software Project Management Procurement Aerospace DoD Attention to Detail
 Apply
 Show more jobs Back to top
 Share these results

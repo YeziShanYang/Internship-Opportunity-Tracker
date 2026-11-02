@@ -248,18 +248,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1985
 Title:2027 Equity Research Summer Analyst Program - Singapore
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1979-2027-Risk-Management-12-Month-Placement-Intern-Frankfurt-June-2027-Start/en-GB
-2027 Risk Management - 12 Month Placement Intern (Frankfurt, June 2027 Start)
-<timestamp>
-<timestamp>
-ID:1979
-Title:2027 Risk Management - 12 Month Placement Intern (Frankfurt, June 2027 Start)
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1980-2027-Risk-Management-12-Month-Placement-Intern-London-June-2027-Start/en-GB
-2027 Risk Management - 12 Month Placement Intern (London, June 2027 Start)
-<timestamp>
-<timestamp>
-ID:1980
-Title:2027 Risk Management - 12 Month Placement Intern (London, June 2027 Start)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1967-2027-Information-Technology-Summer-Internship-Programme-in-London/en-GB
 2027 Information Technology Summer Internship Programme in London
 <timestamp>
