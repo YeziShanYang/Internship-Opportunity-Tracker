@@ -1,4 +1,4 @@
-MIT Pokerbots 2026
+MIT Pokerbots 2027
 Pokerbots
 What is Pokerbots?
 6.9630, or MIT Pokerbots, is a computerized poker tournament. Teams have one month to program a completely autonomous pokerbot which competes against other bots in a unique poker variant.
@@ -12,7 +12,7 @@ It is! To build a working pokerbot only requires both critical thinking ability 
 Machine learning? Algorithms? Exactly how much coding experience is necessary?
 We welcome students with all levels of programming experience. Nevertheless, some previous coding experience would certainly be helpful. Although not necessary, we recommend you have at least one team member with some programming experience.
 What form of poker will it be?
-We are keeping the game and tournament structure secret. You will hear all about it during the challenge unveiling in early January 2026.
+We are keeping the game and tournament structure secret. You will hear all about it during the challenge unveiling in early January 2027.
 How many members can make up a team?
 Teams may be composed of 1-4 students.
 How do I receive course credit?
@@ -27,7 +27,7 @@ How much time will it take to make a pokerbot?
 Creating a functioning pokerbot takes no time at all. However, creating a competitive and strategic pokerbot will require more effort and experimentation. Ultimately, the more you put into your pokerbot, the more value you will receive from the class!
 Are listeners allowed to compete?
 Yes! Students taking the class on listener status are allowed to compete and win prizes just like any other student taking the class for credit.
-2026 Sponsors
+2027 Sponsors
 Interested in sponsoring? Send us an email at pokerbots-sponsor@mit.edu .
 Meet the team!
 Sri Saraf '26

@@ -31,6 +31,32 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+T-Mobile
+Summer 2027 Software Engineering Internship
+<age> Saved
+In-Office
+New York, NY, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+Paid 11-week software engineering internship developing and maintaining frontend applications, backend services, APIs, and cloud infrastructure for digital advertising workflows. Responsibilities include feature development, testing, debugging, code reviews, technical discussions, issue investigation, and collaboration with engineering, product, and QA teams. Interns will work on production-impacting projects and receive mentorship while applying software development best practices.
+Top Skills:
+AWS Git Java JavaScript Python Rest Apis SQL Typescript
+T-Mobile
+Summer 2027 Software Engineering Internship
+<age> Saved
+In-Office
+Philadelphia, PA, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+An 11-week paid software engineering internship building and maintaining frontend applications, backend services, APIs, and cloud infrastructure for digital advertising workflows. Interns will design, develop, test, debug, review code, collaborate with engineering, product, and QA teams, investigate issues, and contribute to production features while developing professional and technical skills.
+Top Skills:
+AWS Git Java JavaScript Python Rest Apis SQL Typescript Web Development
 BAE Systems, Inc.
 Software Engineering Intern III, Summer 2027
 <age> Saved
@@ -68,19 +94,10 @@ Beauty &#x2022; Enterprise Web &#x2022; Fintech &#x2022; Payments &#x2022; Softw
 Engineering intern will build, test, debug, and ship web and mobile product features alongside senior engineers. The role includes creating AI-powered automation, interpreting usage data with analysts, iterating rapidly with AI-assisted development, and learning new languages, frameworks, and AI-native practices. This is an in-person NYC internship from June 8 through August 20, 2027.
 Top Skills:
 AI Grpc JavaScript Kotlin Postgres React Ruby SQL Typescript
-T-Mobile
-Summer 2027 Software Engineering Internship
-<age> Saved
-In-Office
-Overland Park, KS, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Participate in an 11-week paid software engineering internship building and improving IVR self-service call flows. Responsibilities include implementing call flow logic, developing automated tests, following coding and code review practices, joining sprint ceremonies, and using call data to evaluate performance. Work will be performed alongside senior engineers on production systems with mentorship and training.
-Top Skills:
-Automated Testing Ivr
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 Micron Technology
 Intern - Product Yield Software Engineer
 <age> Saved
@@ -92,10 +109,6 @@ Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x202
 Develop software, automation, dashboards, and web-based tools that help engineers analyze semiconductor manufacturing and product data. Responsibilities include processing large datasets, visualization, workflow automation, AI-assisted engineering applications, debugging, testing, documentation, and collaboration with engineering teams. The intern will own a project from problem definition through implementation and demonstration while gaining experience at the intersection of software, data analytics, and semiconductor manufacturing.
 Top Skills:
 Artificial Intelligence C C&#x2B;&#x2B; Data Visualization Generative Ai Git Java Linux Machine Learning Perl Python Relational Databases SQL Unix Web Development
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 Cargill
 Software Engineer Intern Summer 2027 - Atlanta, GA
 <age> Saved

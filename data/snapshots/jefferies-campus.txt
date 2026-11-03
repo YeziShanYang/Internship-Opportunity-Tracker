@@ -128,6 +128,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:2051
 Title:2028 Investment Banking Summer Analyst Program – New York, Mergers &amp; Acquisitions Strategic Advisory
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2042-2028-Investment-Banking-Summer-Analyst-Program-Toronto/en-GB
+2028 Investment Banking Summer Analyst Program – Toronto
+<timestamp>
+<timestamp>
+ID:2042
+Title:2028 Investment Banking Summer Analyst Program – Toronto
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2038-2028-Investment-Banking-Summer-Analyst-Program-San-Francisco-Technology-Media-Telecom-Group/en-GB
 2028 Investment Banking Summer Analyst Program – San Francisco, Technology, Media &amp; Telecom Group
 <timestamp>
@@ -308,12 +314,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1936
 Title:2027 Equity Research Analyst Programme - London
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1937-2027-Investment-Banking-Analyst-Frankfurt-German-language-skills-required/en-GB
-2027 Investment Banking Analyst - Frankfurt (German language skills required)
-<timestamp>
-<timestamp>
-ID:1937
-Title:2027 Investment Banking Analyst - Frankfurt (German language skills required)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1949-2027-Private-Credit-Investment-Analyst-Programme-London/en-GB
 2027 Private Credit Investment Analyst Programme - London
 <timestamp>

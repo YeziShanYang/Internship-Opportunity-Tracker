@@ -325,6 +325,7 @@ Joint Laboratory Office Nevada (JLON)
 LIP Early Install Division
 LIP Planning &amp; Reporting- Richland
 LOG-CFTTRG/Logistics Craft Training
+LOG-CONSUP/Construction Superintendents
 LOG-HERG/ LOGISTICS HEAVY EQUIPMENT ROADS &amp; GROUNDS
 LOG-MM/Logistics - Materials Mangement
 LOG-MM/Materials Management
@@ -342,6 +343,7 @@ M-9/Shock &amp; Detonation Physics
 M-9/Shock and Detonation Physics
 Materials Chemistry/MPA-11
 Materials Science In Radiation &amp; Dynamics Extremes/MST-8
+M-DO/M-Dynamic Experiments
 Metrology Program and Calibration Laboratory (IQPA-MPCL)
 MPA-11 / Materials Synthesis and Integrated Devices
 MPA-11/ Materials Synthesis and Integrated Devices
@@ -411,6 +413,7 @@ OH-MS/Occupational Health Medical Services
 Operations Integration Center (TA55-OPS4)
 Operations Support/TA55-OPS1
 OSH-DO/Occupational Safety &amp; Health Division
+OSH-DO/Occupational Safety and Health Division Office
 OSH-DS/Occupational Safety and Health Deployed Services
 OSH-ISH/Occupational Safety and Health Industrial Safety &amp; Hygiene
 P-1 / Dynamic Imaging And Radiography
@@ -449,6 +452,7 @@ PFE-RRT/Rapid Response Team
 PFE-WF/Waste Facilities
 PF-ILAM/Prototype Fabrication - Integrated Logistics &amp; Asset Management
 PF-ILAM/Prototype Fabrication-Integrated Logistics &amp; Asset Management
+PF-MFG
 PF-MFG/Prototype Fabrication Manufacturing
 Physics And Chemistry Of Materials/T-1
 PIE-CRO/ Construction Readiness Office
@@ -475,6 +479,7 @@ Product Realization &amp; Reliability Office
 Product Realization and Reliability Office (PRRO)
 Production Assurance (PA-DO)
 Production Assurance Engineering (PA-1)
+Project Controls Division (PC-DO)
 Project to Operations Integration Office (PPI-3)
 PRRO - Product Realization and Reliability Office
 PRRO/Product Realization &amp; Reliability Office Group
@@ -509,6 +514,7 @@ Q-5/High Explosives Science and Technology
 Q-5/High Explosives Science and Technology Group
 Q-6/ Detonation Science and Technology
 Q-6/Detonation Science and Technology
+Rad Liquid Waste Facilities/CWF-RLWF
 Radiation Protection - Programs (RP-PROG)
 Radiation Protection Division (RP)
 Radiation Protection Field Support (RP-FS)
@@ -548,6 +554,7 @@ SSO-2/SCIF &amp; SAPF Operations
 SSO-3 / SPECIAL SECURITY IT &amp; CYBER OPERATIONS
 SSO-3/Special Security IT &amp; Cyber Operations
 SSO-4/Remote SCIF Operations
+SSO-DO/Sensitive &amp; Special Operations
 Start-Up and Commissioning Organization
 STO-OS/Science and Technology Operations- Operations Support
 STO-PHX/Science &amp; Technology Operations Phoenix
@@ -608,6 +615,7 @@ WFO-FMO/Facilities Management &amp; Operations Programs
 WFO-HE/High Explosives
 WFO-OS/Operations Support
 WIPO (Weapons Infrastructure Program Office)
+WMS-1/New Employee Training &amp; Workforce Development
 W-MSO/Military &amp; Stockpile Operations Office
 WRS-NSRC MS/NSRC Mission Support
 WRS-WMT/Weapons Mission Technology
@@ -842,6 +850,7 @@ Joint Laboratory Office Nevada (JLON)
 LIP Early Install Division
 LIP Planning &amp; Reporting- Richland
 LOG-CFTTRG/Logistics Craft Training
+LOG-CONSUP/Construction Superintendents
 LOG-HERG/ LOGISTICS HEAVY EQUIPMENT ROADS &amp; GROUNDS
 LOG-MM/Logistics - Materials Mangement
 LOG-MM/Materials Management
@@ -859,6 +868,7 @@ M-9/Shock &amp; Detonation Physics
 M-9/Shock and Detonation Physics
 Materials Chemistry/MPA-11
 Materials Science In Radiation &amp; Dynamics Extremes/MST-8
+M-DO/M-Dynamic Experiments
 Metrology Program and Calibration Laboratory (IQPA-MPCL)
 MPA-11 / Materials Synthesis and Integrated Devices
 MPA-11/ Materials Synthesis and Integrated Devices
@@ -928,6 +938,7 @@ OH-MS/Occupational Health Medical Services
 Operations Integration Center (TA55-OPS4)
 Operations Support/TA55-OPS1
 OSH-DO/Occupational Safety &amp; Health Division
+OSH-DO/Occupational Safety and Health Division Office
 OSH-DS/Occupational Safety and Health Deployed Services
 OSH-ISH/Occupational Safety and Health Industrial Safety &amp; Hygiene
 P-1 / Dynamic Imaging And Radiography
@@ -966,6 +977,7 @@ PFE-RRT/Rapid Response Team
 PFE-WF/Waste Facilities
 PF-ILAM/Prototype Fabrication - Integrated Logistics &amp; Asset Management
 PF-ILAM/Prototype Fabrication-Integrated Logistics &amp; Asset Management
+PF-MFG
 PF-MFG/Prototype Fabrication Manufacturing
 Physics And Chemistry Of Materials/T-1
 PIE-CRO/ Construction Readiness Office
@@ -992,6 +1004,7 @@ Product Realization &amp; Reliability Office
 Product Realization and Reliability Office (PRRO)
 Production Assurance (PA-DO)
 Production Assurance Engineering (PA-1)
+Project Controls Division (PC-DO)
 Project to Operations Integration Office (PPI-3)
 PRRO - Product Realization and Reliability Office
 PRRO/Product Realization &amp; Reliability Office Group
@@ -1026,6 +1039,7 @@ Q-5/High Explosives Science and Technology
 Q-5/High Explosives Science and Technology Group
 Q-6/ Detonation Science and Technology
 Q-6/Detonation Science and Technology
+Rad Liquid Waste Facilities/CWF-RLWF
 Radiation Protection - Programs (RP-PROG)
 Radiation Protection Division (RP)
 Radiation Protection Field Support (RP-FS)
@@ -1065,6 +1079,7 @@ SSO-2/SCIF &amp; SAPF Operations
 SSO-3 / SPECIAL SECURITY IT &amp; CYBER OPERATIONS
 SSO-3/Special Security IT &amp; Cyber Operations
 SSO-4/Remote SCIF Operations
+SSO-DO/Sensitive &amp; Special Operations
 Start-Up and Commissioning Organization
 STO-OS/Science and Technology Operations- Operations Support
 STO-PHX/Science &amp; Technology Operations Phoenix
@@ -1125,6 +1140,7 @@ WFO-FMO/Facilities Management &amp; Operations Programs
 WFO-HE/High Explosives
 WFO-OS/Operations Support
 WIPO (Weapons Infrastructure Program Office)
+WMS-1/New Employee Training &amp; Workforce Development
 W-MSO/Military &amp; Stockpile Operations Office
 WRS-NSRC MS/NSRC Mission Support
 WRS-WMT/Weapons Mission Technology
@@ -1194,10 +1210,10 @@ Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Ala
 Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
-Undergraduate and Graduating High School Senior Internship - Physical Sciences IRC146163 Various Organizations Los Alamos, NM
 Undergraduate and Graduating High Schools Senior Internship - Engineering IRC146161 Various Organizations Los Alamos, NM
-Undergraduate and Graduating High School Senior Internship - Computational Sciences IRC146158 Various Organizations Los Alamos, NM
 Undergraduate and Graduating High School Senior Internship - Professional/Non-Technical IRC146162 Various Organizations Los Alamos, NM
+Undergraduate and Graduating High School Senior Internship - Computational Sciences IRC146158 Various Organizations Los Alamos, NM
+Undergraduate and Graduating High School Senior Internship - Physical Sciences IRC146163 Various Organizations Los Alamos, NM
 Intelligence and Space Research Division Undergraduate Internship IRC146105 ISR-DO/Intelligence and Space Research Los Alamos, NM
 Load more jobs Load more jobs
 Showing 12 out of 23

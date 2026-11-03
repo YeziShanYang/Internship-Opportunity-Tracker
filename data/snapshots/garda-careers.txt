@@ -29,7 +29,7 @@ Because at Garda, we are Built to Last
 Open Positions
 If you are a qualified individual with a disability, you may request reasonable accommodations by contacting Marni Gensler, Head of Human Capital Management hr@gardacp.com or +1-612-330-4900.
 Candidate Privacy Notice
-Department All Departments Admin Support Compliance All Internships Research &amp; Technology (Internship) Trade Support (Internship) Other All Research &amp; Technology (R&amp;T) Infrastructure Software Engineer Risk
+Department All Departments Admin Support Compliance All Internships Research &amp; Technology (Internship) Trade Support (Internship) All Research &amp; Technology (R&amp;T) Infrastructure Software Engineer Risk
 Location All Locations Geneva, Geneva, Switzerland New York, New York, United States Scottsdale, Arizona, United States Wayzata, Minnesota, United States
 Admin Support
 Executive Assistant Scottsdale, Arizona, United States
@@ -45,9 +45,6 @@ Infrastructure Engineer Intern Wayzata, Minnesota, United States
 View &rarr;
 Trade Support (Internship)
 Trading Assistant Intern Wayzata, Minnesota, United States
-View &rarr;
-Other
-Technology Project Manager Wayzata, Minnesota, United States
 View &rarr;
 Research &amp; Technology (R&amp;T)
 Software Engineer Intern (C#) Wayzata, Minnesota, United States

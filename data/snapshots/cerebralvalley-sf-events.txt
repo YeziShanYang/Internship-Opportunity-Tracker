@@ -15,42 +15,32 @@ Nov 7
 AIE Code Summit 2026 Hackathon
 Sat, Nov 7 · 9:00 AM PST
 San Francisco, CA
-The AI Engineer Code Summit Hackathon will bring developers together to tackle frontier AI engineering challenges, building agents that improve through repeated runs, reconstruct software from incomplete evidence, and verify code before it merges. Hosted with Meta, Google DeepMind, MongoDB, Subquadratic, and Fetch.ai, the one-day event will award $11,000 in prizes, including $5,000 for the best use of Meta’s Model API.
-Nov 10
-Built on Bedrock Demo Night
-Tue, Nov 10 · 5:00 PM PST
-AWS Builder Loft
-Founders and developers will showcase live demos of AI-powered products built with Amazon Bedrock, offering a look at what teams are creating now. The event will feature conversations with the people building these products.
-Nov 9
-Build Day: OpenRouter x Meta
-Mon, Nov 9 · 5:30 PM PST
-San Francisco, CA
-OpenRouter and Meta Superintelligence Labs will bring developers together for a talk on the Muse model family, led by Saurabh Baji, Meta’s Senior Director of Engineering, followed by a 60-minute hands-on build challenge with complimentary credits and product experts on hand. Participants can explore practical Muse applications and demo their creations.
-Nov 11
-VapiCon 2026
-Wed, Nov 11 · 8:30 AM PST
-Fort Mason Festival Pavilion 2 Marina Boulevard #260 San Francisco, CA 94123
-The community behind the first-ever voice AI summit will return for two days of practical insights on what’s working and what’s next in voice AI.
+The one-day AI Engineer Code Summit Hackathon will challenge teams to build coding agents that improve autonomously, reconstruct software from imperfect evidence, and verify code before it merges, with $11,000 in prizes. Industry experts Ivan Leo of Google DeepMind and Mike Beltzner of Meta will serve as speakers and judges, alongside partners Meta, Google DeepMind, MongoDB, Subquadratic, and Fetch.ai.
 Nov 10
 AWS x NVIDIA Workshop for Model Customization
 Tue, Nov 10 · 9:30 AM PST
 San Francisco, CA
 ML engineers, data scientists, AI leaders, and infrastructure professionals will get hands-on experience fine-tuning NVIDIA Nemotron 3 with Amazon SageMaker AI, evaluating it against a baseline, and deploying it to a real-time endpoint. The workshop will cover when to prompt or fine-tune and how customization can improve production AI agents while managing accuracy, latency, and cost.
-Nov 17
-Buy and Sell Compute in SF at the HSC Market
-Tue, Nov 17 · 10:00 AM PST
+Nov 9
+Build Day: OpenRouter x Meta
+Mon, Nov 9 · 5:30 PM PST
 San Francisco, CA
-Pre-vetted compute buyers and sellers will negotiate deals in a focused one-day marketplace, with lawyers on hand to help finalize agreements before the day ends.
+OpenRouter and Meta Superintelligence Labs will bring developers together for a talk on the Muse model family, led by Saurabh Baji, Meta’s Senior Director of Engineering, followed by a 60-minute hands-on build challenge with complimentary credits and product experts on hand. Participants can explore practical Muse applications and demo their creations.
+Nov 10
+Built on Bedrock Demo Night
+Tue, Nov 10 · 5:00 PM PST
+AWS Builder Loft
+Founders and developers will showcase live demos of AI-powered products built with Amazon Bedrock, offering a look at what teams are creating now. The event will feature conversations with the people building these products.
+Nov 11
+VapiCon 2026
+Wed, Nov 11 · 8:30 AM PST
+Fort Mason Festival Pavilion 2 Marina Boulevard #260 San Francisco, CA 94123
+The community behind the first-ever voice AI summit will return for two days of practical insights on what’s working and what’s next in voice AI.
 Nov 12
 merge(happy_hour) → self_improving_agents @ SGLang Summit
 Thu, Nov 12 · 6:00 PM PST
 San Francisco, CA
 DigitalOcean, NVIDIA, SGLang, and Major League Hacking will spotlight how production agents can improve through feedback, evaluations, sandboxing, and open-model routing, with lightning talks and live demos. Speakers will include Jiantao Jiao, NVIDIA Director of AI and Distinguished Scientist, and Balaji Varadarajan, DigitalOcean Inference Engineer.
-Nov 4
-Data Outpost
-Wed, Nov 4 · 8:30 AM PST
-San Francisco
-Over two days of workshops and talks hosted by MotherDuck (with Sigma, OpenAI, Stripe, Clay, Vercel, Braintrust, and many more engineering, data, and AI leaders, plan to dive deep on how AI is shaping data and how work and decisions are made for some of the fastest-growing organizations.
 Nov 4
 Elastic{ON} AI San Francisco
 Wed, Nov 4 · 9:00 AM PST
@@ -63,65 +53,35 @@ Manas Singh, Technical Product Manager for Accelerated ML and Vector Search, NVI
 Victor Moreira, Product Manager, LangChain
 Vanessa Sauter, Cyber Deployment Engineer, OpenAI
 Nov 2
-Fireworks: Deploy with Microsoft &amp; NVIDIA
-Mon, Nov 2 · 9:00 AM PST
-San Francisco, CA
-Fireworks, Microsoft, and NVIDIA will host a team hackathon challenging builders to deploy and evaluate open models, then improve performance, efficiency, or cost against a baseline. Teams of 2–5 will compete for prizes up to $10,000 and present their results at the closing demos.
-Nov 2
 GamesBeat Next 2026
-Mon, Nov 2 · 9:00 AM PST
+Mon, Nov 2 · 9:00 AM PST LIVE
 San Francisco, CA
 GamesBeat Next will bring 500 senior tech and entertainment leaders, 80% C-level, for two days of curated networking, deal-making, and executive roundtables. Conversations will explore AI, UGC economies, platforms, live services, and emerging monetization models.
-Nov 2
-Fireworks: Deploy Buildathon with Microsoft &amp; NVIDIA
-Mon, Nov 2 · 9:00 AM PST
-San Francisco, CA
-Fireworks, Microsoft, and NVIDIA will challenge teams of 2–5 to deploy and evaluate an open-model solution, tuning quality, efficiency, accuracy, latency, or cost against a baseline. Teams will compete for $10,000, additional cash prizes, and NVIDIA DGX Spark hardware.
-Nov 2
-Fireworks: Deploy with Microsoft &amp; NVIDIA
-Mon, Nov 2 · 9:00 AM PST
-San Francisco, CA
-Teams of 2–5 will build and deploy an open-model solution for a task they define, then evaluate its quality, efficiency, and business value against a baseline. The competition will award $10,000, $5,000, and $3,000 to the top three teams, with support from Fireworks, Microsoft, and NVIDIA.
-Nov 2
-Builders Night
-Mon, Nov 2 · 6:30 PM PST
-540 Laguna St
-Builders Night will bring software, hardware, business, and creative projects into a focused weekly work sprint, with quiet build time followed by peer feedback and support. Hosted by Rally SF, a community for AI-first builders and operators, the gathering will offer accountability and momentum without lectures or networking.
 Nov 3
 TechEquity Ai Summit 2026: Talks + AI Agent Workshops
 Tue, Nov 3 · 9:00 AM PST
 135 Constitution Dr
 The TechEquity Summit will gather over 2,000 AI leaders, founders, investors, and educators from diverse sectors for four days of keynotes, workshops, and networking focused on responsible AI development and real-world applications. Attendees will include seasoned developers, startup founders, and career-transition professionals eager to deepen their hands-on AI expertise.
 Nov 3
-Own Your AI: Build an Agentic AI Model Factory - in person Hack Night
-Tue, Nov 3 · 5:00 PM PST
-San Francisco, CA
-This hands-on session will show how to build a LangGraph-powered ML engineer agent that evaluates, fine-tunes, deploys, and retrains open models using Union.ai on AWS, keeping models, data, and infrastructure under your control. Attendees will then experiment with their own models and datasets, exploring practical approaches to sovereign AI and end-to-end model ownership.
-Nov 3
 AI in the Real World: Where It Works and Where It Breaks
 Tue, Nov 3 · 5:00 PM PST
 Palo Alto, CA
 BDev Ventures and Haynes Boone will bring together AI and legal experts to examine how AI is working, and where risks around ownership, liability, and regulation emerge, as it moves into software and the physical world. The panel will feature BDev Ventures Partner Keshia Theobald-van Gent, Personal AI CEO Suman Kanuganti, Fusion Fund Venture Partner Chi-Chao Chang, and moderator Roger Royse, Partner at Haynes Boone.
-Nov 3
-Make SF Better: A Hack Night with Mistral AI
-Tue, Nov 3 · 5:00 PM PST
-San Francisco, CA
-Engineers, designers, creative technologists, and people with firsthand knowledge of San Francisco’s everyday challenges will build and demo prototypes to make life better for residents, using Mistral AI and Elasticsearch. Projects may tackle transit, neighborhood businesses, public spaces, community connections, or city services, with SF open data available as a starting point.
 Nov 3
 Own Your AI: Build an Agentic AI Model Factory - Hack Night
 Tue, Nov 3 · 5:00 PM PST
 San Francisco, CA
 Attendees will build a LangGraph-powered ML engineer agent that evaluates, fine-tunes, deploys, and retrains open models on their own AWS infrastructure, using Union.ai’s durable workflow runtime. The hands-on session will cover model ownership and sovereign AI, followed by time to experiment with models, datasets, and evaluation workflows.
 Nov 3
-AI Dev Night with Microsoft and Elastic
-Tue, Nov 3 · 5:30 PM PST
-Humanmade
-Advance registration through the external event website will be required for admission; the event details are not provided.
-Nov 3
-Decision Models SF | Demo Night
-Tue, Nov 3 · 5:30 PM PST
+Make SF Better: A Hack Night with Mistral AI
+Tue, Nov 3 · 5:00 PM PST
 San Francisco, CA
-Liquid AI will spotlight decision models, fast, structured systems that return calibrated probabilities for tasks across text, vision, and audio, with a technical talk and developer showcase. Presenters will include Maxime Labonne, Liquid AI’s Head of Post-Training and creator of the open-source LLM Course, and Viviana Márquez, an AI engineer and instructor who has taught more than 4,000 learners.
+Engineers, designers, creative technologists, and people with firsthand knowledge of San Francisco’s everyday challenges will build and demo prototypes to make life better for residents, using Mistral AI and Elasticsearch. Projects may tackle transit, neighborhood businesses, public spaces, community connections, or city services, with SF open data available as a starting point.
+Nov 3
+Own Your AI: Build an Agentic AI Model Factory - in person Hack Night
+Tue, Nov 3 · 5:00 PM PST
+San Francisco, CA
+This hands-on session will show how to build a LangGraph-powered ML engineer agent that evaluates, fine-tunes, deploys, and retrains open models using Union.ai on AWS, keeping models, data, and infrastructure under your control. Attendees will then experiment with their own models and datasets, exploring practical approaches to sovereign AI and end-to-end model ownership.
 Nov 3
 How to get press without a PR agency
 Tue, Nov 3 · 5:30 PM PST
@@ -132,6 +92,16 @@ Building Voice AI That Holds Up in Production: Coval x Cloudflare
 Tue, Nov 3 · 5:30 PM PST
 101 Townsend St
 Brooke Hopkins, Coval founder and CEO who previously led evaluation infrastructure at Waymo, and Korinne Alpers, Cloudflare’s Voice AI product manager and co-author of its experimental Agents SDK voice pipeline, will discuss building, testing, and operating reliable voice agents at production scale. The fireside chat will cover latency, conversation state, regression testing, and human review, followed by audience Q&amp;A.
+Nov 3
+Decision Models SF | Demo Night
+Tue, Nov 3 · 5:30 PM PST
+San Francisco, CA
+Liquid AI will spotlight decision models, fast, structured systems that return calibrated probabilities for tasks across text, vision, and audio, with a technical talk and developer showcase. Presenters will include Maxime Labonne, Liquid AI’s Head of Post-Training and creator of the open-source LLM Course, and Viviana Márquez, an AI engineer and instructor who has taught more than 4,000 learners.
+Nov 3
+AI Dev Night with Microsoft and Elastic
+Tue, Nov 3 · 5:30 PM PST
+Humanmade
+Advance registration through the external event website will be required for admission; the event details are not provided.
 Nov 3
 Urgent AI Risks
 Tue, Nov 3 · 6:00 PM PST
@@ -163,8 +133,28 @@ Coffee Club | Early Stage B2B Tech Founders &amp; Funders
 Wed, Nov 4 · 10:00 AM PST
 San Francisco, CA
 Forum Ventures team members Deirdre Clute and Sruthi Sivanandan will host a relaxed coffee meetup for pre-Series A B2B and AI founders and investors, with a focus on fostering connections for underrepresented voices in tech. The gathering will draw on Forum Ventures’ experience as an early-stage fund, accelerator, and AI venture studio.
+Nov 4
+Physical AI Exchange: Robotics &amp; Applied AI
+Wed, Nov 4 · 2:30 PM PST
+Trellis Coworking &amp; Events
+Builders will meet in person to explore robotics, Physical AI, and real-world applied AI.
+Nov 4
+Reading Group (+🧋): How Efficiently does AI Turn Energy into Useful Work?
+Wed, Nov 4 · 4:00 PM PST
+San Francisco, CA
+Stanford computer science PhD researchers Jon Saad-Falcon and Avanika Narayan will present Intelligence per Watt, a study measuring how effectively local AI models deliver capability relative to energy use across 20+ models, 8 accelerators, and 1 million real-world queries. Recently accepted to NeurIPS 2026 and covered by outlets including the Financial Times and Reuters, the research will explore how efficiency metrics can guide where AI workloads run.
+Nov 4
+Notion x Clover: Security Leaders Building for the AI Era
+Wed, Nov 4 · 4:00 PM PST
+San Francisco, CA
+Notion and Clover will host security leaders for a practical look at AI-powered vulnerability discovery and how security organizations may evolve in the AI era. Speakers will include Notion’s Head of Application &amp; Infrastructure Security and CISOs and security executives from Notion, Vercel, and Amazon, with Clover co-founder Or Chen moderating the panel.
+Nov 4
+Design Chat with Ian Silber, Fmr. Head of Product Design, OpenAI
+Wed, Nov 4 · 4:30 PM PST
+San Francisco, CA
+South Park Commons will host a Design Chat with Ian Silber, former Head of Product Design at OpenAI, where he led design for ChatGPT and Codex. Silber will share perspectives shaped by his work at OpenAI, Instagram, including Reels, and Artifact.
 Nov 7
 AIE Code Summit 2026 Hackathon
 Sat, Nov 7 · 9:00 AM PST
 San Francisco, CA
-The AI Engineer Code Summit Hackathon will bring developers together to tackle frontier AI engineering challenges, building agents that improve through repeated runs, reconstruct software from incomplete evidence, and verify code before it merges. Hosted with Meta, Google DeepMind, MongoDB, Subquadratic, and Fetch.ai, the one-day event will award $11,000 in prizes, including $5,000 for the best use of Meta’s Model API.
+The one-day AI Engineer Code Summit Hackathon will challenge teams to build coding agents that improve autonomously, reconstruct software from imperfect evidence, and verify code before it merges, with $11,000 in prizes. Industry experts Ivan Leo of Google DeepMind and Mike Beltzner of Meta will serve as speakers and judges, alongside partners Meta, Google DeepMind, MongoDB, Subquadratic, and Fetch.ai.
