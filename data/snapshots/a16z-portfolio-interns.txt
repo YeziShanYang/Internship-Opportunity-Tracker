@@ -6,7 +6,7 @@ a16z
 Software Is Eating the World
 X LinkedIn Substack
 © 2026 Andreessen Horowitz . All Portfolio Jobs Companies Disclosures
-692 companies. 18,646 jobs. It’s time to build.
+692 companies. 18,728 jobs. It’s time to build.
 All Portfolio Jobs Jobs by Company a16z Jobs a16z TalentPlace
 Filter jobs by role and more
 Roles
@@ -21,7 +21,7 @@ Internships only Remote options All jobs
 Salary Any
 Posted <age>
 Country:us Seed Venture Clear filters
-46 jobs
+42 jobs
 Astro Mechanica
 GNC Engineering Intern
 $40 – $55 per hour · San Francisco, California, United States · Posted <age>
@@ -97,11 +97,6 @@ Founders Associate - CEO Office
 $25 – $35 per hour • The compensation range listed reflects the expected salary band for this position. Final compensation is determined on an individual basis and may vary depending on factors such as experience, qualifications, skills, and location. · New York Office, New York City, New York, USA · Posted <age>
 Enterprise · Series A · 201–500 employees
 Apply Interested
-Amca
-Electrical Engineering Internship (Winter Spring 2027)
-USD 30–50 (Hourly Pay Range) · El Segundo, CA · Posted <age>
-American Dynamism · Series B · 201–500 employees
-Apply Interested
 Heron Power
 Intern, Medium Voltage Test Engineering
 Scotts Valley, California, United States · Posted <age>
@@ -110,16 +105,6 @@ Apply Interested
 Amca
 Sourcing Intern, Supply Chain (Summer 2027)
 USD 30–50 (Hourly Pay Range) · El Segundo · Posted <age>
-American Dynamism · Series B · 201–500 employees
-Apply Interested
-Amca
-Supply Chain Engineering Intern (Summer 2027)
-USD 30–50 (Hourly Pay Range) · El Segundo, CA · Posted <age>
-American Dynamism · Series B · 201–500 employees
-Apply Interested
-Amca
-Production Operations Internship (Summer 2027)
-USD 30–50 (Hourly Pay Range) · El Segundo, CA · Posted <age>
 American Dynamism · Series B · 201–500 employees
 Apply Interested
 Amca
@@ -132,11 +117,6 @@ Intern, Electrical Engineering (Compliance) - Spring 2027
 Scotts Valley, California, United States · Posted <age>
 American Dynamism · Series B · 51–200 employees
 Apply Interested
-Amca
-Growth Internship (Summer 2027)
-USD 30–50 (Hourly Pay Range) · El Segundo, CA · Posted <age>
-American Dynamism · Series B · 201–500 employees
-Apply Interested
 Neighbor
 Data Science Internship (Current PhD) - Summer 2027
 Lehi, UT · Posted <age>
@@ -146,5 +126,25 @@ Genesis Molecular AI
 Software Engineer Intern - 2027
 San Mateo, CA, New York, NY · Posted <age>
 Bio + Health, CLF · Series B · 51–200 employees
+Apply Interested
+Cowboy Space Corporation
+Intern, Software Engineering, 2027
+San Carlos, California, United States · Posted <age>
+American Dynamism · Series B · 51–200 employees
+Apply Interested
+Ventrilo
+Software Engineer Intern
+Salary range USD 30 - 40 / hour · Menlo Park, CA · Posted <age>
+Enterprise, Infra · Seed · 2–10 employees
+Apply Interested
+ConductorAI
+Software Engineer Intern
+New York City, New York, United States · Posted <age>
+American Dynamism · Series A · 11–50 employees
+Apply Interested
+Cowboy Space Corporation
+Internship 2027
+Kent, Washington, United States · Posted <age>
+American Dynamism · Series B · 51–200 employees
 Apply Interested
 Show more jobs

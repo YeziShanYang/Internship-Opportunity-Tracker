@@ -35,26 +35,26 @@ UK
 Our Stories
 Your jobs
 Jobs for you
-Director, Global Transaction Banking
-Gurugram (India), Pune (India)
-Test Manager
+Senior Full Stack Developer
+London (United Kingdom)
+KYC Analyst
+Noida (India)
+Fraud &amp; Dispute Analyst
 Pune (India)
-VP - CATS Pune Lead
+Financial Crime Testing Programme Lead
+London (United Kingdom), Glasgow (United Kingdom)
+Relationship Director - Media
+London (United Kingdom)
+Java Kafka Developer
 Pune (India)
-KYC Processing Analyst
-Gurugram (India)
-Private Banking Executive
-Dublin (Ireland)
-Full Stack Engineer
+Java Kafka Developer
 Pune (India)
-Data Modeller
-Pune (India)
-DevOps Engineer
-Pune (India)
-FullStack Developer
-Pune (India)
-Engineering Manager VP
-Pune (India)
+Analyst - Financial Control
+Mumbai (India)
+Analyst - Financial Control
+Mumbai (India)
+Analyst - Financial Control
+Mumbai (India)
 Recently viewed jobs
 No jobs viewed yet.
 See all Barclays jobs
@@ -102,7 +102,7 @@ Sign up for job alerts
 Make sure you see job opportunities when they become available. Just add a few details below to stay up to date with jobs that suit you and your skills.
 Email
 Interested In Search for a category and select one from the list of suggestions. Select a location from the list of options. Finally, click &#x201C;Add&#x201D; to create your job alert. Category
-Location Location Aberdeen, Scotland Amsterdam, North Holland Belfast, Northern Ireland Bengaluru, Karnataka Birmingham, England Bournemouth, England Bristol, England Cambridge, England Carlisle, England Chennai, Tamil Nadu Chicago, Illinois Cramlington, England Douglas, Douglas Dublin, Leinster Edinburgh, Scotland Frankfurt am Main, Hesse Glasgow, Scotland Greater Manchester, England Guildford, England Gurugram, Haryana Hamburg, Hamburg Hanley Swan, England Harrogate, England Henderson, Nevada Hong Kong, Central and Western District Houston, Texas Ipswich, England Knutsford, England Leeds, England Liverpool, England Livingston, Scotland London, England Mexico City, Mexico City Milan, Lombardy Monaco, Municipality of Monaco Mumbai, Maharashtra New Delhi, National Capital Territory of Delhi New York, New York Newport, Wales Noida, Uttar Pradesh Northampton, England Norwich, England Oxford, England Paris, Île-de-France Region Prague, Czechia Pune, Maharashtra Saint Helier, St Helier San Francisco, California Seattle, Washington Sheffield, England Shrewsbury, England Singapore, Singapore Southampton, England Sunderland, England Swansea, Wales Tel Aviv, Tel Aviv Tokyo, Tokyo Toronto, Ontario Whippany, New Jersey Wilmington, Delaware Wolverhampton, England York, England
+Location Location Aberdeen, Scotland Amsterdam, North Holland Belfast, Northern Ireland Bengaluru, Karnataka Birmingham, England Bournemouth, England Bristol, England Cambridge, England Carlisle, England Chennai, Tamil Nadu Chicago, Illinois Cramlington, England Douglas, Douglas Dublin, Leinster Edinburgh, Scotland Frankfurt am Main, Hesse Glasgow, Scotland Greater Manchester, England Gurugram, Haryana Hamburg, Hamburg Henderson, Nevada Hong Kong, Central and Western District Houston, Texas Ipswich, England Knutsford, England Leeds, England Liverpool, England Livingston, Scotland London, England Mexico City, Mexico City Milan, Lombardy Monaco, Municipality of Monaco Mumbai, Maharashtra New Delhi, National Capital Territory of Delhi New York, New York Newport, Wales Noida, Uttar Pradesh Northampton, England Norwich, England Oxford, England Paris, Île-de-France Region Prague, Czechia Pune, Maharashtra Saint Helier, St Helier San Francisco, California Seattle, Washington Sheffield, England Shrewsbury, England Singapore, Singapore Southampton, England Sunderland, England Swansea, Wales Tel Aviv, Tel Aviv Tokyo, Tokyo Whippany, New Jersey Wilmington, Delaware York, England
 Add x
 Sign up
 *By submitting your information, you acknowledge that you have read our privacy policy and consent to receive email communication from Barclays.

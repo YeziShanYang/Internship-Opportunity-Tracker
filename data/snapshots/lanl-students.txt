@@ -110,6 +110,7 @@ Training
 Organization
 Organization
 36A30C
+54K00C
 71D00C/PLUTONIUM INFRASTRUCTURE ENGINEERING DIVISION OFFICE
 71D50C PIE-CRO Construction Readiness Office
 71E03C
@@ -201,6 +202,7 @@ Computing &amp; Artificial Intelligence Division (CAI-DO)
 Construction Project Execution - Project Completion and Startup Group
 Construction Project Execution - Project Completion and Startup Group (CPE-PCX)
 CP-BSM/Bradbury Science Museum
+CP-CPO/CP-Community Partnerships Office
 C-PCS/Chemical Diagnostics And Engineering
 C-PCS/Physical Chem &amp; Applied Spectroscopy
 C-PCS/Physical Chem &amp; Applied Spectroscopy Group
@@ -212,8 +214,10 @@ Deputy Laboratory Director for Weapons (DDW’s) Office
 Design Engineers (PFE-DE)
 Detonation Science and Technology/Q-6
 DP-1/ Detonator Production- Product Engineering
+DP-2/Detonator Production- Process Engineering
 DP-2/Detonator Production-Process Engineering
 DP-5/ Detonator Production-Production Integration Office
+DP-IPO/ Detonator Production - Infrastructure Planning Office
 DP-IPO/Detonator Production - Infrastructure Planning Office
 DP-IPO/Detonator Production- Infrastructure Planning Office
 E-1 / Mechanical &amp; Thermal Engineering
@@ -242,6 +246,7 @@ EES-17/National Security Earth Science
 EES-17/National Security Earth Science Group
 EES-DO/ Earth &amp; Environmental Sciences
 EES-DO/Earth &amp; Environmental Sciences
+EM-OPS/Emergency Operations
 EM-RESP/Emergency Response
 Engineering (PFE-RCMR)
 Engineering Services - Fire Protection Engineering/ES-FPE
@@ -416,6 +421,7 @@ OSH-DO/Occupational Safety &amp; Health Division
 OSH-DO/Occupational Safety and Health Division Office
 OSH-DS/Occupational Safety and Health Deployed Services
 OSH-ISH/Occupational Safety and Health Industrial Safety &amp; Hygiene
+OSH-PPS/Occupational Safety and Health Plutonium Production Support
 P-1 / Dynamic Imaging And Radiography
 P-1/Dynamic Radiography and Imaging
 P-2/Applied &amp; Fundamental Physics Group
@@ -487,6 +493,7 @@ PRRO/Product Realization and Reliability Office
 PSD-1 / Metal Production
 PSD-1/Metal Production
 PSD-3/ARIES
+PSD-4/Material Recovery and Recycling
 PSD-4/Materials Recovery &amp; Recycle
 PSD-DO / Plutonium Supply and Disposition
 PSD-DO/Plutonium Supply and Disposition
@@ -600,6 +607,7 @@ V-6 / Nondestructive Testing &amp; Evaluation
 V-6/Nondestructive Testing &amp; Evaluation
 Various Organizations
 V-DO/Weapons Engineering Verification &amp; Validation Division Office
+W-2/W76 Systems Engineering Group
 W-3/W78 Systems Engineering Group
 W-4/W88 Systems Engineering Group
 W-8/Production Liaison Group
@@ -610,6 +618,7 @@ Waste Management-Waste Generator Services (WM-WGS)
 W-DO/Weapon Systems Engineering Division
 Weapons Facilities Operations Divisions
 Weapons Infrastructure Program Office - WIPO
+WE-FAST/Workplace Experience: Furniture, Amenities &amp; Space Team
 WFO/Weapons Facilities Operations Divisions
 WFO-FMO/Facilities Management &amp; Operations Programs
 WFO-HE/High Explosives
@@ -635,6 +644,7 @@ XTD-RTA/Radiation Transport Applications
 XTD-RTA/X-Theoretical Design Radiation Transport Applications
 Organization
 36A30C
+54K00C
 71D00C/PLUTONIUM INFRASTRUCTURE ENGINEERING DIVISION OFFICE
 71D50C PIE-CRO Construction Readiness Office
 71E03C
@@ -726,6 +736,7 @@ Computing &amp; Artificial Intelligence Division (CAI-DO)
 Construction Project Execution - Project Completion and Startup Group
 Construction Project Execution - Project Completion and Startup Group (CPE-PCX)
 CP-BSM/Bradbury Science Museum
+CP-CPO/CP-Community Partnerships Office
 C-PCS/Chemical Diagnostics And Engineering
 C-PCS/Physical Chem &amp; Applied Spectroscopy
 C-PCS/Physical Chem &amp; Applied Spectroscopy Group
@@ -737,8 +748,10 @@ Deputy Laboratory Director for Weapons (DDW’s) Office
 Design Engineers (PFE-DE)
 Detonation Science and Technology/Q-6
 DP-1/ Detonator Production- Product Engineering
+DP-2/Detonator Production- Process Engineering
 DP-2/Detonator Production-Process Engineering
 DP-5/ Detonator Production-Production Integration Office
+DP-IPO/ Detonator Production - Infrastructure Planning Office
 DP-IPO/Detonator Production - Infrastructure Planning Office
 DP-IPO/Detonator Production- Infrastructure Planning Office
 E-1 / Mechanical &amp; Thermal Engineering
@@ -767,6 +780,7 @@ EES-17/National Security Earth Science
 EES-17/National Security Earth Science Group
 EES-DO/ Earth &amp; Environmental Sciences
 EES-DO/Earth &amp; Environmental Sciences
+EM-OPS/Emergency Operations
 EM-RESP/Emergency Response
 Engineering (PFE-RCMR)
 Engineering Services - Fire Protection Engineering/ES-FPE
@@ -941,6 +955,7 @@ OSH-DO/Occupational Safety &amp; Health Division
 OSH-DO/Occupational Safety and Health Division Office
 OSH-DS/Occupational Safety and Health Deployed Services
 OSH-ISH/Occupational Safety and Health Industrial Safety &amp; Hygiene
+OSH-PPS/Occupational Safety and Health Plutonium Production Support
 P-1 / Dynamic Imaging And Radiography
 P-1/Dynamic Radiography and Imaging
 P-2/Applied &amp; Fundamental Physics Group
@@ -1012,6 +1027,7 @@ PRRO/Product Realization and Reliability Office
 PSD-1 / Metal Production
 PSD-1/Metal Production
 PSD-3/ARIES
+PSD-4/Material Recovery and Recycling
 PSD-4/Materials Recovery &amp; Recycle
 PSD-DO / Plutonium Supply and Disposition
 PSD-DO/Plutonium Supply and Disposition
@@ -1125,6 +1141,7 @@ V-6 / Nondestructive Testing &amp; Evaluation
 V-6/Nondestructive Testing &amp; Evaluation
 Various Organizations
 V-DO/Weapons Engineering Verification &amp; Validation Division Office
+W-2/W76 Systems Engineering Group
 W-3/W78 Systems Engineering Group
 W-4/W88 Systems Engineering Group
 W-8/Production Liaison Group
@@ -1135,6 +1152,7 @@ Waste Management-Waste Generator Services (WM-WGS)
 W-DO/Weapon Systems Engineering Division
 Weapons Facilities Operations Divisions
 Weapons Infrastructure Program Office - WIPO
+WE-FAST/Workplace Experience: Furniture, Amenities &amp; Space Team
 WFO/Weapons Facilities Operations Divisions
 WFO-FMO/Facilities Management &amp; Operations Programs
 WFO-HE/High Explosives
@@ -1198,11 +1216,13 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 23
+Showing 12 out of 25
 Job Title
 Job Number
 Organization
 City, State
+Plasma Physics Undergraduate Students IRC146637 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
+Applied Mathematics Undergraduate Students IRC146635 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 RFID Software Developer - Undergraduate Student IRC146481 NEN-1 / Safeguards Science and Techno Los Alamos, NM
 ALDDP Undergraduate Student IRC146477 ALDDP / Associate Laboratory Director for Defense Protection Los Alamos, NM
 NEN-2 Undergraduate Student IRC146390 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY Los Alamos, NM
@@ -1210,13 +1230,11 @@ Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Ala
 Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
-Undergraduate and Graduating High Schools Senior Internship - Engineering IRC146161 Various Organizations Los Alamos, NM
 Undergraduate and Graduating High School Senior Internship - Professional/Non-Technical IRC146162 Various Organizations Los Alamos, NM
 Undergraduate and Graduating High School Senior Internship - Computational Sciences IRC146158 Various Organizations Los Alamos, NM
 Undergraduate and Graduating High School Senior Internship - Physical Sciences IRC146163 Various Organizations Los Alamos, NM
-Intelligence and Space Research Division Undergraduate Internship IRC146105 ISR-DO/Intelligence and Space Research Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 23
+Showing 12 out of 25
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

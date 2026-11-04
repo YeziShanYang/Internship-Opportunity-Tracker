@@ -2,6 +2,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-1/brand-4/candidate/jobboard/vac
 Campus Opportunities
 Jefferies
 <timestamp>
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2056-2028-Investment-Banking-Summer-Analyst-Program-New-York-LP-Advisory-Group/en-GB
+2028 Investment Banking Summer Analyst Program - New York, LP Advisory Group
+<timestamp>
+<timestamp>
+ID:2056
+Title:2028 Investment Banking Summer Analyst Program - New York, LP Advisory Group
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2029-2028-Investment-Banking-Summer-Analyst-Program-New-York-Latin-America-Coverage-Group/en-GB
 2028 Investment Banking Summer Analyst Program – New York, Latin America Coverage Group
 <timestamp>
