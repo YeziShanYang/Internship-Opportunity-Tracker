@@ -31,6 +31,17 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Spectrum
+2027 Summer Intern: Software Engineer
+<age> Saved
+In-Office
+Englewood, CO, USA
+Internship
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Paid, full-time software engineering internship supporting private wireless and network initiatives. Responsibilities include developing user interfaces and portals, integrating customer use cases, coding for Android platforms, applying AI/ML, testing radio and core network solutions, and researching LTE, 5G, 6G, and non-terrestrial networks. Interns also participate in professional development, mentoring, networking, and cross-functional activities.
+Top Skills:
+5G 6G Ai/Ml Android APIs C Java JSON Lte Non-Terrestrial Networks Python Radio Access Network (Ran)
 T-Mobile
 Summer 2027 Software Engineering Internship
 <age> Saved
@@ -44,19 +55,6 @@ Other &#x2022; Utilities
 Participate in an 11-week paid software engineering internship developing capabilities for T-Mobile frontline Care and Retail users and website platforms. Work includes software projects, analytical insights, JIRA-based work tracking, and GitLab code and documentation management. Interns receive hands-on training, mentorship, and opportunities to collaborate with employees and leaders while delivering real business impact.
 Top Skills:
 Gitlab JIRA
-T-Mobile
-Summer 2027 T-Ads Software Engineering Internship
-<age> Saved
-In-Office
-Philadelphia, PA, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Participate in an 11-week software engineering internship on T-Mobile’s T-Ads ad technology team. Build and improve high-scale software supporting digital out-of-home advertising, including real-time bidding, backend services, dynamic creative, and web tools. Write, review, test, and deploy production code; collaborate with Product, Design, QA, and engineering teams; receive mentorship and code reviews; own a project from planning through launch; and present the completed work to the engineering organization.
-Top Skills:
-Git Go JavaScript Python React Rest Apis Scala SQL Typescript
 Geneva Trading
 C&#x2B;&#x2B; Developer (Intern)
 <age> Saved
@@ -97,8 +95,8 @@ Software engineering interns complete a 10-week project with mentorship, buildin
 Top Skills:
 C C&#x2B;&#x2B; Distributed Storage Java Jvm Perl Private Cloud Public Cloud Python Ruby Unix
 New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
 Use For Free
 BAE Systems, Inc.
 Software Engineering Intern III, Summer 2027
@@ -113,17 +111,6 @@ Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#
 Software Engineering Intern III will support software development for aerospace and defense applications. Responsibilities include designing, developing, and testing software using Agile methods; integration testing; algorithm and data analysis; troubleshooting; documentation; and work in Windows or Linux development environments with x86 or PowerPC targets. The intern will also participate in BAE Systems’ LEAP career development and networking program. This is an onsite role in southern New Hampshire and requires US Person status and eligibility for a US DoD security clearance.
 Top Skills:
 Agile C C&#x2B;&#x2B; Git Java Linux Microsoft Office Suite Powerpc Python Windows X86
-Spectrum
-2027 Summer Intern: Software Engineer
-<age> Saved
-In-Office
-St Louis, MO, USA
-Internship
-Internship
-eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
-Paid, full-time software engineering internship supporting workforce management, technician scheduling, and dispatch tools. Interns will build features across web applications, APIs, databases, and cloud services; use AI-assisted development and pattern analysis; and participate in the full software development lifecycle. The program also includes mentorship, professional development, networking, community service, and final presentations.
-Top Skills:
-AI Databases Java Python
 Genius AI
 Engineering Intern (Summer 2027)
 <age> Saved

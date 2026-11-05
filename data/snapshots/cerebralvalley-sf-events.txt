@@ -48,95 +48,89 @@ Tue, Nov 3 · 9:00 AM PST LIVE
 The TechEquity Summit will gather over 2,000 AI leaders, founders, investors, and educators from diverse sectors for four days of keynotes, workshops, and networking focused on responsible AI development and real-world applications. Attendees will include seasoned developers, startup founders, and career-transition professionals eager to deepen their hands-on AI expertise.
 Nov 4
 Data Outpost
-Wed, Nov 4 · 8:30 AM PST
+Wed, Nov 4 · 8:30 AM PST LIVE
 San Francisco
 Over two days of workshops and talks hosted by MotherDuck (with Sigma, OpenAI, Stripe, Clay, Vercel, Braintrust, and many more engineering, data, and AI leaders, plan to dive deep on how AI is shaping data and how work and decisions are made for some of the fastest-growing organizations.
-Nov 4
-Make all your data an AI advantage at Elastic{ON} AI
-Wed, Nov 4 · 9:00 AM PST
-SHACK15
-Elastic{ON} AI will deliver a free, one-day technical conference for developers, SREs, security analysts, and technical leaders, featuring expert-led demos and real-world sessions on Search, Security, Observability, and AI. Highlights will include the Elasticsearch Platform, ES|QL, AI integrations for real-time agents, and a three-month Elastic Certification extension for in-person attendees.
-Nov 4
-Elastic{ON} AI San Francisco
-Wed, Nov 4 · 9:00 AM PST
-SHACK15
-Elastic{ON} is coming to San Francisco, and this one is all about AI. Join us as we hear from top companies like LangChain, Mastra, NVIDIA, OpenAI, and Temporal on building and scaling AI agents and applications. Space is limited, so register now to reserve your spot.
-Speakers:
-Sam Bhagwat, Founder &amp; CEO, Mastra
-Johann Schleier-Smith, Technical Lead, AI, Temporal
-Manas Singh, Technical Product Manager for Accelerated ML and Vector Search, NVIDIA
-Victor Moreira, Product Manager, LangChain
-Vanessa Sauter, Cyber Deployment Engineer, OpenAI
-Nov 4
-Coffee Club | Early Stage B2B Tech Founders &amp; Funders
-Wed, Nov 4 · 10:00 AM PST
+Nov 5
+AIAS+ — AI for Scientific Discovery · Terence Tao, Jeffrey Ullman, Yejin Choi, Daphne Koller &amp; more
+Thu, Nov 5 · 12:00 AM PST LIVE
 San Francisco, CA
-Forum Ventures team members Deirdre Clute and Sruthi Sivanandan will host a relaxed coffee meetup for pre-Series A B2B and AI founders and investors, with a focus on fostering connections for underrepresented voices in tech. The gathering will draw on Forum Ventures’ experience as an early-stage fund, accelerator, and AI venture studio.
-Nov 4
-Different by Design: Lessons from Building Lovable
-Wed, Nov 4 · 11:00 AM PST
-Stanford, CA
-Felix Haas, who has shaped products at Gorillas and Lovable, co-founded an acquired design studio, and is a Sequoia Capital Scout and angel investor, will share practical lessons on product design, branding, and building Lovable. Hosted by the Stanford GSB Entrepreneurship Club, the conversation will explore how design can help founders create products and companies people love.
-Nov 4
-Physical AI Exchange: Robotics &amp; Applied AI
-Wed, Nov 4 · 2:30 PM PST
-Trellis Coworking &amp; Events
-Builders will meet in person to explore robotics, Physical AI, and real-world applied AI.
-Nov 4
-Notion x Clover: Security Leaders Building for the AI Era
-Wed, Nov 4 · 4:00 PM PST
+AIAS+, the Chen Institute Symposium for AI Advancing Science &amp; Society, will bring together technical sessions, keynotes, panels, and networking focused on AI’s impact on science and society. Organized by the Tianqiao and Chrissy Chen Institute, the conference will offer one- and three-day passes with meals and conference materials.
+Nov 5
+AIAS+ 2026 — AI for Scientific Discovery
+Thu, Nov 5 · 8:00 AM PST
+The Ritz-Carlton
+AIAS+ 2026 will bring together more than 100 scientists, AI developers, and investors, including a 2026 Nobel laureate, a Turing Award winner, and Fields Medalists, for talks, workshops, and discussions on AI-driven discovery and the future of scientific work. The symposium will explore AI’s limits, reliability, and how to protect science as the technology advances.
+Nov 5
+BoxWorks Dev Summit 2026
+Thu, Nov 5 · 8:00 AM PST
+San Francisco Marriott Marquis
+BoxWorks Dev Summit will feature keynotes from Box CEO Aaron Levie, NVIDIA CEO Jensen Huang, and Intel CEO Lip-Bu Tan, alongside developer sessions, interactive demos, and community networking. Hands-on workshops and technical deep dives will explore building with Box, AI, and leading AI tools.
+Nov 5
+Reverie
+Thu, Nov 5 · 8:00 AM PST
+The Contemporary Jewish Museum
+Reverie will bring together AI builders behind ambitious training runs for a one-day, two-track summit on the data systems powering modern models. Attendees will hear technical talks and panels on architectures, tradeoffs, failures, and lessons from experienced practitioners.
+Nov 5
+Reverie 2026
+Thu, Nov 5 · 8:30 AM PST
+Contemporary Jewish Museum
+A one-day technical summit will explore the data systems powering world models, generative video, physical AI, multimodal search, and agentic research. Sessions will focus on how teams curate, enrich, retrieve, prepare, and evaluate the data behind these models.
+Nov 5
+ALD: The Enterprise AI Builders Conference
+Thu, Nov 5 · 9:00 AM PST
+AWS Builder Loft
+AI Loves Data San Francisco will bring enterprise AI practitioners, machine learning engineers, architects, and technology leaders together to explore practical GenAI and intelligent-agent deployment. Practitioner-led sessions will feature experienced leaders from organizations including ThoughtSpot, Adobe, Nextdata, and Expedia, with technical insights on production systems, orchestration, and evaluation.
+Nov 5
+Voice Agents Forum
+Thu, Nov 5 · 9:00 AM PST
+Digital Jungle SF
+Engineers, founders, and researchers will gather to tackle the real production challenges of voice agents—from latency and turn-taking to orchestration and human handoff—with practical insights from teams already shipping these systems across customer support, healthcare, and financial services. Expect hands-on workshops, keynotes from voices like Pete Warden (CEO, Moonshine AI) and Rissa Cao (CEO, Fish Audio), and direct conversations with 20+ companies actually building production-grade voice AI.
+Nov 5
+TVR Signal Series
+Thu, Nov 5 · 9:45 AM PST
+SPIN San Francisco
+Technologists, builders, and engineers will explore the future of AI infrastructure and security through industry conversations, practical insights, and networking. The free event will bring together professionals working across technology and engineering.
+Nov 5
+Founders Inc: Physical AI at Open Campus
+Thu, Nov 5 · 2:00 PM PST
 San Francisco, CA
-Notion and Clover will host security leaders for a practical look at AI-powered vulnerability discovery and how security organizations may evolve in the AI era. Speakers will include Notion’s Head of Application &amp; Infrastructure Security and CISOs and security executives from Notion, Vercel, and Amazon, with Clover co-founder Or Chen moderating the panel.
-Nov 4
-Reading Group (+🧋): How Efficiently does AI Turn Energy into Useful Work?
-Wed, Nov 4 · 4:00 PM PST
-San Francisco, CA
-Stanford computer science PhD researchers Jon Saad-Falcon and Avanika Narayan will present Intelligence per Watt, a study measuring how effectively local AI models deliver capability relative to energy use across 20+ models, 8 accelerators, and 1 million real-world queries. Recently accepted to NeurIPS 2026 and covered by outlets including the Financial Times and Reuters, the research will explore how efficiency metrics can guide where AI workloads run.
-Nov 4
-Design Chat with Ian Silber, Fmr. Head of Product Design, OpenAI
-Wed, Nov 4 · 4:30 PM PST
-San Francisco, CA
-South Park Commons will host a Design Chat with Ian Silber, former Head of Product Design at OpenAI, where he led design for ChatGPT and Codex. Silber will share perspectives shaped by his work at OpenAI, Instagram, including Reels, and Artifact.
-Nov 4
-Tech &amp; AI Social
-Wed, Nov 4 · 5:00 PM PST
-Bella lounge and bar SF
-Albert’s List will organize an upcoming event that our meetup group will help promote; the description does not include the cost or other event details.
-Nov 4
-Robot Learning #02 — World Models &amp; Dexterous Manipulation
-Wed, Nov 4 · 5:00 PM PST
-San Francisco, CA
-The second Robot Learning meetup will bring robotics founders, researchers, and ML engineers together to explore how data, world models, and vision-language-action systems enable reliable manipulation. Practitioners will share demos and discuss training and evaluation datasets, transfer to physical tasks, and robustness.
-Nov 4
-Data for AI: Open vs Locked
-Wed, Nov 4 · 5:00 PM PST
-OneSpace Work
-The Data for AI meetup will explore open versus locked-in data ecosystems in the age of agents, including table formats, semantics, catalogs, interoperability, and when vendor lock-in makes sense. Practitioner talks and Q&amp;A will bring data engineers, AI/ML engineers, platform architects, and industry leaders together for real-world lessons and war stories.
-Nov 4
-The Pragmatic Engineer Unplugged
-Wed, Nov 4 · 5:00 PM PST
-SFJAZZ
-Author and Pragmatic Engineer host Gergely Orosz will speak live with software engineering leaders Bryan Cantrill and Diogo Almeida about how software is built today, AI’s impact on engineering, and what it means for teams. The conversation will draw on the speakers’ professional experience and WorkOS’s enterprise infrastructure used by more than 2,000 companies, including OpenAI, Anthropic, Cursor, and Replit.
-Nov 4
-An Evening with Denmark&#x27;s AI Enterprise Alliance
-Wed, Nov 4 · 5:30 PM PST
-Menlo Park, CA
-Consul General Jacob Vind and the American-Danish Business Council will host an executive reception connecting leaders from Denmark’s AI Enterprise Alliance, including executives from Bang &amp; Olufsen, Hempel, Netcompany, Ramboll, and Salling Group, with experts in enterprise technology, frontier AI, venture capital, and academia. The program will spotlight how these companies, which employ more than 100,000 people worldwide, aim to turn AI investment into measurable business value and new cross-industry collaborations.
-Nov 4
-Self-Improving Products with Codex
-Wed, Nov 4 · 5:30 PM PST
-Amplitude
-Product leader and Behind the Craft founder Peter Yang will co-host a Codex community meetup featuring live demos, practical AI workflows with Codex and Amplitude, and audience Q&amp;A on building self-improving products. Product leaders, engineers, founders, and builders will exchange ideas and explore Amplitude’s AI capabilities.
-Nov 4
-Bay Area Frontier Research Club #30 | Worlds for Agents (dinner + paper discussion @ SignalFire)
-Wed, Nov 4 · 5:30 PM PST
-San Francisco, CA
-Frontier Research Club will examine how world models can train agents to predict useful outcomes, imagine future actions, and practice autonomously, with research talks and technical discussion. OpenAI Research Scientist Bonnie Li, a key contributor to DeepMind’s Genie 2 and SIMA 2, and UC Berkeley BAIR PhD researcher and Meta FAIR Visiting Researcher Jiaxin Ge, lead author of Agima and co-lead of a CoRL 2026 Spotlight, will present their work.
-Nov 4
-Korea–SF AI Founders &amp; Friends
-Wed, Nov 4 · 5:30 PM PST
-San Francisco, CA
-Korean AI startup founders will exchange ideas and build connections with San Francisco-area founders, investors, and business leaders, exploring AI and international growth. The event is part of AICA’s U.S. expansion program, operated by PEN Ventures, a global accelerator and investment firm.
+As Blueprint enters its fifth week, about 10 founders building in Physical AI, robotics, automation, manufacturing, and other frontier technologies will get an introduction to Founders, Inc., a community for ambitious frontier-tech builders, followed by tours and open-format time. The program will run from 2:00 to 5:00 PM on Thursday, November 5.
+Nov 5
+Korean AI Startup Demo Day
+Thu, Nov 5 · 2:00 PM PST
+Frontier Tower
+Eight AI startups selected for a South Korean Ministry of SMEs and Startups deep-tech initiative will pitch their technologies, receive investor feedback, and connect with investors and strategic partners. The afternoon will showcase ventures in areas including AI agents, compute infrastructure, industrial safety, and maritime operations.
+Nov 5
+Media Showcase | Frame 2.0
+Thu, Nov 5 · 4:00 PM PST
+Lighthaven
+The evening will celebrate creators shaping public understanding of AI through creative showcases, a Creator Gallery, and conversations with creators, investors, media founders, and AI safety researchers. Food and drinks will round out the festival.
+Nov 5
+Panel Discussion - Propaganda Machines (In the Age of Ai)
+Thu, Nov 5 · 4:00 PM PST
+Barrows Hall
+The discussion will explore how AI platforms, influencers, and deepfakes will reshape public truths, and the challenges they will pose to trust and information.
+Nov 5
+AI Over 50
+Thu, Nov 5 · 4:30 PM PST
+540 Laguna St, San Francisco + Hogwarts Hall
+People 50+ will take part in a facilitated circle conversation about how AI is shaping work, entrepreneurship, and career transitions, with time to share experiences and support one another. The discussion will be led by Chris Heuer, a Gen X internet pioneer and founder of the global Social Media Club.
+Nov 5
+Llama Lounge 27: The AI Startup Event Series
+Thu, Nov 5 · 5:00 PM PST
+SAP
+Jeremiah Owyang&#x27;s Llama Lounge will bring together 10 cutting-edge AI startups pitching alongside heavy-hitter investors from Blitzscaling Ventures, NFX, and Samsung NEXT, plus AI leaders from Google, Microsoft, and SAP for three hours of demos and networking. Chris Yeh, coauthor of Blitzscaling, will emcee the startup pitches in what&#x27;s become a signature gathering that&#x27;s been covered by Forbes, TechCrunch, and The Atlantic.
+Nov 5
+SYSTEM UPDATE with The Pragmatic Engineer
+Thu, Nov 5 · 5:00 PM PST
+The Howard SF
+Sentry and The Pragmatic Engineer will bring developers, founders, and engineering leaders together for a live discussion on agentic coding and automated debugging, featuring leaders from OpenAI, Linear, and DoorDash sharing production lessons and what’s changing. The evening will also feature a Teenage Engineering demo station, networking, and light refreshments.
+Nov 5
+Agent-Led Growth / Agent Experience Demo Night @ Auth0/Okta (#7th Edition)
+Thu, Nov 5 · 5:00 PM PST
+Okta
+Lightsage’s Agent Experience Night will showcase agent-growth strategies, AI demos from companies including Auth0, and the launch of AgentExperienceArena.com and DevToolArena.com, followed by networking. Designed for agent experience and growth engineers, API/MCP/CLI developers, technical founders, and investors, the event will feature Lightsage, whose platform is used by 50+ agent-first companies.
 Nov 7
 AIE Code Summit 2026 Hackathon
 Sat, Nov 7 · 9:00 AM PST

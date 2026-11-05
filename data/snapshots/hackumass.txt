@@ -3,6 +3,7 @@ Applications for HackUMass XIV are open now!
 ☰
 About Us
 Schedule
+Prizes
 Sponsors
 FAQ
 Team
@@ -87,6 +88,33 @@ Judging
 Project Deliberation
 4:30 PM
 Closing Ceremony
+Prizes
+Check out the prizes up for grabs across our different hackathon categories!
+General
+Best Overall
+Second Place
+Third Place
+Software
+Best Software Hack
+Best UI/UX
+Best Beginner Software
+MedTech
+Best MedTech Hack
+AI
+Most Impactful AI Hack
+Best Beginner AI Hack
+Hardware
+Best Hardware Hack
+Best Beginner Hardware
+Best Mechanical Hack
+Entrepreneurship
+Best Pitch
+Cybersecurity
+Most Secure Hack
+Best AI Security Hack
+Public Good
+Best Accessibility Hack
+Best UMass Hack
 Our Sponsors
 Gold Sponsors
 Supporting Sponsors

@@ -125,7 +125,9 @@ A-2/Intelligence &amp; Systems Analysis
 A-3/Technology Applications
 A-3/Technology Applications Group
 A-4/Advanced Research in Cyber Systems
+A-5/ Nuclear Threat Reduction &amp; Deterrence
 A-5/Complex Response Solutions
+Acquisition Services Management Governance (ASM-GO)
 Actinide Analytical Chemistry
 A-DO / Analytics, Intelligence and Technology Division Office
 A-DO/Analytics, Intelligence and Technology Division
@@ -138,6 +140,7 @@ ALDPI/LIP Decontamination &amp; Decommissioning
 ALDPI/LIP Late Install Division
 ALDPI/LIP-DD Decontamination &amp; Decommissioning
 ALDPI/Strategic Planning
+ALDPI/The Line Item Project-Early Installs (LIP-EI)
 ALDPS/Associate Laboratory Directorate for Physical Sciences
 ALDW-DAQ/Design Agency Quality
 ALDW-PIO-MISP/ALDW Program Integration - Mission Integration &amp; Special Projects
@@ -156,6 +159,8 @@ AOT-MDE / Mechanical Design Engineering
 AOT-MDE/Mechanical Design Engineering
 AOT-OPS / Accelerator Operations
 AOT-OPS/Accelerator Operations
+AOT-OPS/AOT-Accelerator Operations
+AOT-OPS/AOT-Acecelator Operations
 AOT-RFE/Accelerator Operations and Technology Division Radio Frequency Engineering
 AOT-RFE/Radio Frequency Engineering
 AOT-RFE/RF Engineering
@@ -173,6 +178,7 @@ C-AAC / Actinide Analytical Chemistry
 C-AAC/ Actinide Analytical Chemistry
 C-AAC/Actinide Analytical Chemistry
 CAI-1/Applied Computer Science Group
+CAI-2 / Computational Physics and Methods
 CAI-2 / Computational Physics and Methods Group
 CAI-2/Computational Physics and Methods
 CAI-2/Computational Physics and Methods Group
@@ -214,6 +220,7 @@ Deputy Laboratory Director for Weapons (DDW’s) Office
 Design Engineers (PFE-DE)
 Detonation Science and Technology/Q-6
 DP-1/ Detonator Production- Product Engineering
+DP-2/ Detonator Production- Process Engineering
 DP-2/Detonator Production- Process Engineering
 DP-2/Detonator Production-Process Engineering
 DP-5/ Detonator Production-Production Integration Office
@@ -244,6 +251,7 @@ EES-17 / NATIONAL SECURITY EARTH SCIENCE
 EES-17/Geophysics
 EES-17/National Security Earth Science
 EES-17/National Security Earth Science Group
+EES-DO / Earth &amp; Environmental Sciences
 EES-DO/ Earth &amp; Environmental Sciences
 EES-DO/Earth &amp; Environmental Sciences
 EM-OPS/Emergency Operations
@@ -258,6 +266,7 @@ ES-FPE/Engineering Services - Fire Protection Engineering
 ES-FPS/Engineering Services - Fire Protection Systems
 ES-LFO/Engineering Services - LANSCE Facility Operations
 Essential Balance of Plant Group (PFE-EBP)
+ES-STO/Engineering Services - Science &amp; Technology Operations
 ES-UI/Engineering Services - Utilities &amp; Infrastructure
 ES-UPD/Engineering Services - Utilities &amp; Infrastructure Project Delivery
 ES-WFO/Engineering Services - Weapons Facilities Operations
@@ -272,6 +281,7 @@ Foreign Immigration, Visits &amp; Analysis (OCI-FVA)
 GS-IET/Intelligence &amp; Emerging Threats Program Office
 Health Physics Measurements
 HPC-DO/ High Performance Computing
+HPC-DO/ High Performance Computing Division
 HPC-DO/High Performance Computing
 HPC-ENV/High Performance Computing Environments Group
 HPC-ENV/HPC Environments
@@ -297,6 +307,7 @@ IQPA-Plutonium Infrastructure Quality/IQPA-PIQ
 IQPA-QSS
 IQPA-QSS/IQPA-Institutional Quality Support Services
 ISD-NS/Network Services
+ISD-PS/Programmatic Services
 ISR/Intelligence and Space Research Division
 ISR-1/Space Science &amp; Applications
 ISR-2/Electromagnetic Sciences &amp; Cognitive Space Applications
@@ -311,6 +322,7 @@ ISR-6 / Space Remote Sensing and Data Science
 ISR-6 /Space Remote Sensing and Data Science
 ISR-6/Space Remote Sensing and Data Science
 ISR-7/ Space Systems Assurance and Implementation
+ISR-7/Space Systems Assurance &amp; Implementation
 ISR-7/Space Systems Assurance &amp; Implementation Group
 ISR-8/Space Nuclear Sensing
 ISR-DO/Intelligence &amp; Space Research
@@ -327,6 +339,7 @@ J-6/The DARHT Engineering, Operations, and Physics Group
 J-6/The Engineering, Operations, and Physics
 J-DO/INTEGRATED WEAPONS EXPERIMENTS
 Joint Laboratory Office Nevada (JLON)
+LANSCE-FO/LANSCE Facility Operations
 LIP Early Install Division
 LIP Planning &amp; Reporting- Richland
 LOG-CFTTRG/Logistics Craft Training
@@ -342,6 +355,7 @@ M-3/Focused Experiments
 M-6/Explosive Applications &amp; Special Projects Group
 M-6/Explosive Applications and Spec Prjcts
 M-8/HE FABRICATION AND DISPOSITION
+M-8/M-8 HE Fabrication and Disposition
 M-9 / Shock And Detonation Physics
 M-9/ Shock and Detonation Physics
 M-9/Shock &amp; Detonation Physics
@@ -420,6 +434,7 @@ Operations Support/TA55-OPS1
 OSH-DO/Occupational Safety &amp; Health Division
 OSH-DO/Occupational Safety and Health Division Office
 OSH-DS/Occupational Safety and Health Deployed Services
+OSH-ISH/Occupational Safety and Health - Industrial Hygiene &amp; Safety
 OSH-ISH/Occupational Safety and Health Industrial Safety &amp; Hygiene
 OSH-PPS/Occupational Safety and Health Plutonium Production Support
 P-1 / Dynamic Imaging And Radiography
@@ -493,12 +508,14 @@ PRRO/Product Realization and Reliability Office
 PSD-1 / Metal Production
 PSD-1/Metal Production
 PSD-3/ARIES
+PSD-4 / Material Recovery and Recycle
 PSD-4/Material Recovery and Recycling
 PSD-4/Materials Recovery &amp; Recycle
 PSD-DO / Plutonium Supply and Disposition
 PSD-DO/Plutonium Supply and Disposition
 PSP-5/Power Supply Production
 PSP-6/PS Assembly &amp; Product Characterization
+PSP-6/PS Assembly and Product Characterization
 PSS-1/Manufacturing Systems &amp; Infrastructure Support
 PSS-2/Operational Safety &amp; Compliance Programs
 PSS-4/Factory Operations &amp; Industrial Engineering
@@ -548,6 +565,7 @@ Sigma-2/Finishing Manufacturing Sciences
 SIGMA-DO / SIGMA DIVISION
 SIGMA-DO/SIGMA Division Office
 SIGMA-DO/SIGMA-DIvision Office
+SIGMA-OPS/SIGMA Operations
 SIGMA-OPS/Sigma Operations Group
 SO-PS/Personal Security
 SO-SS/Security Systems
@@ -609,6 +627,7 @@ Various Organizations
 V-DO/Weapons Engineering Verification &amp; Validation Division Office
 W-2/W76 Systems Engineering Group
 W-3/W78 Systems Engineering Group
+W-4/W88 Systems Engineering
 W-4/W88 Systems Engineering Group
 W-8/Production Liaison Group
 W-9/Weapon Systems Surveillance
@@ -659,7 +678,9 @@ A-2/Intelligence &amp; Systems Analysis
 A-3/Technology Applications
 A-3/Technology Applications Group
 A-4/Advanced Research in Cyber Systems
+A-5/ Nuclear Threat Reduction &amp; Deterrence
 A-5/Complex Response Solutions
+Acquisition Services Management Governance (ASM-GO)
 Actinide Analytical Chemistry
 A-DO / Analytics, Intelligence and Technology Division Office
 A-DO/Analytics, Intelligence and Technology Division
@@ -672,6 +693,7 @@ ALDPI/LIP Decontamination &amp; Decommissioning
 ALDPI/LIP Late Install Division
 ALDPI/LIP-DD Decontamination &amp; Decommissioning
 ALDPI/Strategic Planning
+ALDPI/The Line Item Project-Early Installs (LIP-EI)
 ALDPS/Associate Laboratory Directorate for Physical Sciences
 ALDW-DAQ/Design Agency Quality
 ALDW-PIO-MISP/ALDW Program Integration - Mission Integration &amp; Special Projects
@@ -690,6 +712,8 @@ AOT-MDE / Mechanical Design Engineering
 AOT-MDE/Mechanical Design Engineering
 AOT-OPS / Accelerator Operations
 AOT-OPS/Accelerator Operations
+AOT-OPS/AOT-Accelerator Operations
+AOT-OPS/AOT-Acecelator Operations
 AOT-RFE/Accelerator Operations and Technology Division Radio Frequency Engineering
 AOT-RFE/Radio Frequency Engineering
 AOT-RFE/RF Engineering
@@ -707,6 +731,7 @@ C-AAC / Actinide Analytical Chemistry
 C-AAC/ Actinide Analytical Chemistry
 C-AAC/Actinide Analytical Chemistry
 CAI-1/Applied Computer Science Group
+CAI-2 / Computational Physics and Methods
 CAI-2 / Computational Physics and Methods Group
 CAI-2/Computational Physics and Methods
 CAI-2/Computational Physics and Methods Group
@@ -748,6 +773,7 @@ Deputy Laboratory Director for Weapons (DDW’s) Office
 Design Engineers (PFE-DE)
 Detonation Science and Technology/Q-6
 DP-1/ Detonator Production- Product Engineering
+DP-2/ Detonator Production- Process Engineering
 DP-2/Detonator Production- Process Engineering
 DP-2/Detonator Production-Process Engineering
 DP-5/ Detonator Production-Production Integration Office
@@ -778,6 +804,7 @@ EES-17 / NATIONAL SECURITY EARTH SCIENCE
 EES-17/Geophysics
 EES-17/National Security Earth Science
 EES-17/National Security Earth Science Group
+EES-DO / Earth &amp; Environmental Sciences
 EES-DO/ Earth &amp; Environmental Sciences
 EES-DO/Earth &amp; Environmental Sciences
 EM-OPS/Emergency Operations
@@ -792,6 +819,7 @@ ES-FPE/Engineering Services - Fire Protection Engineering
 ES-FPS/Engineering Services - Fire Protection Systems
 ES-LFO/Engineering Services - LANSCE Facility Operations
 Essential Balance of Plant Group (PFE-EBP)
+ES-STO/Engineering Services - Science &amp; Technology Operations
 ES-UI/Engineering Services - Utilities &amp; Infrastructure
 ES-UPD/Engineering Services - Utilities &amp; Infrastructure Project Delivery
 ES-WFO/Engineering Services - Weapons Facilities Operations
@@ -806,6 +834,7 @@ Foreign Immigration, Visits &amp; Analysis (OCI-FVA)
 GS-IET/Intelligence &amp; Emerging Threats Program Office
 Health Physics Measurements
 HPC-DO/ High Performance Computing
+HPC-DO/ High Performance Computing Division
 HPC-DO/High Performance Computing
 HPC-ENV/High Performance Computing Environments Group
 HPC-ENV/HPC Environments
@@ -831,6 +860,7 @@ IQPA-Plutonium Infrastructure Quality/IQPA-PIQ
 IQPA-QSS
 IQPA-QSS/IQPA-Institutional Quality Support Services
 ISD-NS/Network Services
+ISD-PS/Programmatic Services
 ISR/Intelligence and Space Research Division
 ISR-1/Space Science &amp; Applications
 ISR-2/Electromagnetic Sciences &amp; Cognitive Space Applications
@@ -845,6 +875,7 @@ ISR-6 / Space Remote Sensing and Data Science
 ISR-6 /Space Remote Sensing and Data Science
 ISR-6/Space Remote Sensing and Data Science
 ISR-7/ Space Systems Assurance and Implementation
+ISR-7/Space Systems Assurance &amp; Implementation
 ISR-7/Space Systems Assurance &amp; Implementation Group
 ISR-8/Space Nuclear Sensing
 ISR-DO/Intelligence &amp; Space Research
@@ -861,6 +892,7 @@ J-6/The DARHT Engineering, Operations, and Physics Group
 J-6/The Engineering, Operations, and Physics
 J-DO/INTEGRATED WEAPONS EXPERIMENTS
 Joint Laboratory Office Nevada (JLON)
+LANSCE-FO/LANSCE Facility Operations
 LIP Early Install Division
 LIP Planning &amp; Reporting- Richland
 LOG-CFTTRG/Logistics Craft Training
@@ -876,6 +908,7 @@ M-3/Focused Experiments
 M-6/Explosive Applications &amp; Special Projects Group
 M-6/Explosive Applications and Spec Prjcts
 M-8/HE FABRICATION AND DISPOSITION
+M-8/M-8 HE Fabrication and Disposition
 M-9 / Shock And Detonation Physics
 M-9/ Shock and Detonation Physics
 M-9/Shock &amp; Detonation Physics
@@ -954,6 +987,7 @@ Operations Support/TA55-OPS1
 OSH-DO/Occupational Safety &amp; Health Division
 OSH-DO/Occupational Safety and Health Division Office
 OSH-DS/Occupational Safety and Health Deployed Services
+OSH-ISH/Occupational Safety and Health - Industrial Hygiene &amp; Safety
 OSH-ISH/Occupational Safety and Health Industrial Safety &amp; Hygiene
 OSH-PPS/Occupational Safety and Health Plutonium Production Support
 P-1 / Dynamic Imaging And Radiography
@@ -1027,12 +1061,14 @@ PRRO/Product Realization and Reliability Office
 PSD-1 / Metal Production
 PSD-1/Metal Production
 PSD-3/ARIES
+PSD-4 / Material Recovery and Recycle
 PSD-4/Material Recovery and Recycling
 PSD-4/Materials Recovery &amp; Recycle
 PSD-DO / Plutonium Supply and Disposition
 PSD-DO/Plutonium Supply and Disposition
 PSP-5/Power Supply Production
 PSP-6/PS Assembly &amp; Product Characterization
+PSP-6/PS Assembly and Product Characterization
 PSS-1/Manufacturing Systems &amp; Infrastructure Support
 PSS-2/Operational Safety &amp; Compliance Programs
 PSS-4/Factory Operations &amp; Industrial Engineering
@@ -1082,6 +1118,7 @@ Sigma-2/Finishing Manufacturing Sciences
 SIGMA-DO / SIGMA DIVISION
 SIGMA-DO/SIGMA Division Office
 SIGMA-DO/SIGMA-DIvision Office
+SIGMA-OPS/SIGMA Operations
 SIGMA-OPS/Sigma Operations Group
 SO-PS/Personal Security
 SO-SS/Security Systems
@@ -1143,6 +1180,7 @@ Various Organizations
 V-DO/Weapons Engineering Verification &amp; Validation Division Office
 W-2/W76 Systems Engineering Group
 W-3/W78 Systems Engineering Group
+W-4/W88 Systems Engineering
 W-4/W88 Systems Engineering Group
 W-8/Production Liaison Group
 W-9/Weapon Systems Surveillance
@@ -1216,11 +1254,12 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 25
+Showing 12 out of 26
 Job Title
 Job Number
 Organization
 City, State
+Undergrad Student ST 1 IRC146706 PSD-4 / Material Recovery and Recycle Los Alamos, NM
 Plasma Physics Undergraduate Students IRC146637 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 Applied Mathematics Undergraduate Students IRC146635 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 RFID Software Developer - Undergraduate Student IRC146481 NEN-1 / Safeguards Science and Techno Los Alamos, NM
@@ -1232,9 +1271,8 @@ Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Eart
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Undergraduate and Graduating High School Senior Internship - Professional/Non-Technical IRC146162 Various Organizations Los Alamos, NM
 Undergraduate and Graduating High School Senior Internship - Computational Sciences IRC146158 Various Organizations Los Alamos, NM
-Undergraduate and Graduating High School Senior Internship - Physical Sciences IRC146163 Various Organizations Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 25
+Showing 12 out of 26
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

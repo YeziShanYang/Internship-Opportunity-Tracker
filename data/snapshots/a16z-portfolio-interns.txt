@@ -6,7 +6,7 @@ a16z
 Software Is Eating the World
 X LinkedIn Substack
 © 2026 Andreessen Horowitz . All Portfolio Jobs Companies Disclosures
-692 companies. 18,728 jobs. It’s time to build.
+692 companies. 18,737 jobs. It’s time to build.
 All Portfolio Jobs Jobs by Company a16z Jobs a16z TalentPlace
 Filter jobs by role and more
 Roles
@@ -92,11 +92,6 @@ Intern, Graphic Design
 Scotts Valley, California, United States · Posted <age>
 American Dynamism · Series B · 51–200 employees
 Apply Interested
-Lio
-Founders Associate - CEO Office
-$25 – $35 per hour • The compensation range listed reflects the expected salary band for this position. Final compensation is determined on an individual basis and may vary depending on factors such as experience, qualifications, skills, and location. · New York Office, New York City, New York, USA · Posted <age>
-Enterprise · Series A · 201–500 employees
-Apply Interested
 Heron Power
 Intern, Medium Voltage Test Engineering
 Scotts Valley, California, United States · Posted <age>
@@ -116,6 +111,11 @@ Heron Power
 Intern, Electrical Engineering (Compliance) - Spring 2027
 Scotts Valley, California, United States · Posted <age>
 American Dynamism · Series B · 51–200 employees
+Apply Interested
+Amca
+Growth Internship (Summer 2027)
+USD 30–50 (Hourly Pay Range) · El Segundo, CA · Posted <age>
+American Dynamism · Series B · 201–500 employees
 Apply Interested
 Neighbor
 Data Science Internship (Current PhD) - Summer 2027

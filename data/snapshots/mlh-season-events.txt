@@ -12,7 +12,6 @@ NOV 06 - 08
 Everywhere, Worldwide, US
 Digital
 Richardson , Texas
-HR
 HackUTD Roadshow
 NOV 06
 Richardson, Texas, US
@@ -128,7 +127,6 @@ NOV 13 - 15
 Princeton, New Jersey, US
 In-Person HARDWARE
 Brooklyn , New York
-NS
 NASA&#x27;s Space Apps Challenge NYC
 NOV 13 - 15
 Brooklyn, New York, US
@@ -229,16 +227,16 @@ HackBI X
 JAN 16 - 17
 Alexandria, Virginia, US
 In-Person HIGH SCHOOL
-Missisauga , Ontario
-Hackville 2027
-JAN 22 - 24
-Missisauga, Ontario, CA
-In-Person DIVERSITY
 Washington , DC
 Hoya Hacks
 JAN 22 - 24
 Washington, DC, US
 In-Person
+Missisauga , Ontario
+Hackville 2027
+JAN 23 - 24
+Missisauga, Ontario, CA
+In-Person DIVERSITY
 Toronto , Ontario
 ElleHacks
 JAN 29 - 31
@@ -254,11 +252,6 @@ UGAHacks
 FEB 05 - 07
 Athens , Georgia, US
 In-Person
-Raleigh , North Carolina
-Hack_NCState
-FEB 06 - 07
-Raleigh, North Carolina, US
-In-Person
 West Lafayette , Indiana
 InnovateHer
 FEB 06 - 07
@@ -269,6 +262,11 @@ SpartaHack
 FEB 06 - 07
 East Lansing, Michigan, US
 In-Person
+Raleigh , North Carolina
+Hack_NCState
+FEB 06 - 07
+Raleigh, North Carolina, US
+In-Person HARDWARE
 Toronto , Ontario
 MakeUofT
 FEB 13 - 14
@@ -295,7 +293,6 @@ FEB 26 - 28
 Urbana, Illinois, US
 In-Person
 A Coruña , A Coruña
-H
 HackUDC
 FEB 26 - 28
 A Coruña, A Coruña, ES
