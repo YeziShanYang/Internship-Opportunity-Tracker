@@ -114,6 +114,7 @@ Organization
 71D00C/PLUTONIUM INFRASTRUCTURE ENGINEERING DIVISION OFFICE
 71D50C PIE-CRO Construction Readiness Office
 71E03C
+77000C
 7C030C
 87000A
 8Q020A
@@ -191,6 +192,7 @@ CAI-DO Computing and Artificial Intelligence
 CAI-DO/Computing and Artificial Intelligence
 C-CDE/ Chemical Diagnostics And Engineering
 C-CDE/Chemical Diagnostics And Engineering
+CEA-TEC / Technical Editing and Communications
 CEA-TEC/Technical Editing and Communications
 Center For Integrated Nanotechnologies
 Center For Integrated Nanotechnologies/MPA-CINT
@@ -198,6 +200,7 @@ Chemistry
 Chief Information Office (CIO)
 C-IIAC / Inorganic Isotope &amp; Actinide Chem
 CIO / Chief Information Officer
+CISO-CS/Cybersecurity
 CISO-PO/CHIEF INFORMATION SECURITY PROGRAM OFFICE
 CISO-PO/Program Office
 CM/Construction Management
@@ -215,6 +218,7 @@ C-PCS/Physical Chem &amp; Applied Spectroscopy Group
 CPE/Construction Project Execution
 CPE-PS/Project Services
 CWF-WCRR/Waste Characterization, Reduction, and Repackaging
+DARHT Engineering Operations and Physics Group (J-6)
 DARHT Experiments and Radiographic Science (J-4)
 Deputy Laboratory Director for Weapons (DDW’s) Office
 Design Engineers (PFE-DE)
@@ -288,6 +292,7 @@ HPC-ENV/HPC Environments
 HPC-ENV/HPC Environments Group
 HPC-SYS/HPC Systems
 HPC-SYS/HPC Systems Group
+HR-OPS/Human Resources Operations
 Human Resources - Field Services Weapons (HR-FS-WP)
 Human Resources - Operations (HR-OPS)
 Human Resources Labor Relations Group (HR-LR)
@@ -340,6 +345,7 @@ J-6/The Engineering, Operations, and Physics
 J-DO/INTEGRATED WEAPONS EXPERIMENTS
 Joint Laboratory Office Nevada (JLON)
 LANSCE-FO/LANSCE Facility Operations
+LDRD/Lab Directed Research &amp; Development
 LIP Early Install Division
 LIP Planning &amp; Reporting- Richland
 LOG-CFTTRG/Logistics Craft Training
@@ -387,6 +393,7 @@ MSS-DATA/MSS Data Systems &amp; Technologies
 MSS-DO/Maintenance &amp; Site Services Division Office
 MSS-LFO/LANSCE Facility Operations
 MSS-MP/Maintenance Programs
+MSS-OOI / MSS- Office of Improvement
 MSS-RLUOB/Radiological Laboratory Utility Office Building Chemistry &amp; Metallurgy Research
 MSS-TA55/MSS-TA55 Group
 MSS-UI/Utilities &amp; Infrastructure
@@ -424,6 +431,7 @@ Nuclear Criticality Safety (NCS)
 Nuclear Engineering &amp; Nonproliferation: Safeguards Science and Techno (NEN-1)
 Nuclear Material Control and Accountability Group (NMCA)
 Nuclear Materials and TRU Waste Shipping (NPI-7)
+OCCI-UNCL
 Occupational Safety &amp; Health (OSH) Industrial Safety and Hygiene (ISH)
 OCI-CTA/Counterintelligence Activities &amp; Threat Awareness
 OCI-FVA/Foreign Immigration, Visits, &amp; Analysis
@@ -445,6 +453,7 @@ P-3 / Nuclear And Particle Physics and Applications
 P-4 / Thermonuclear Plasma Physics
 P-4/Thermonuclear Plasma Physics
 PA/Project Analytics
+PA-2/ Assurance Verification &amp; Operations
 PAT-2 / Technical And Personnel Pipelines
 PC / Project Controls
 PC /Project Controls
@@ -491,11 +500,13 @@ Plutonium Facilities Enineering - Waste Facilities (PFE-WF)
 Plutonium Foundry/PT-4
 Plutonium Infrastructure Engineering (PIE-INST1)
 Plutonium Infrastructure Engineering Division (PIE-DO)
+Plutonium Machining/PT-2
 Plutonium NDE &amp; Inspection/PT-7
 PM/Project Management
 PM-DO /Project Management Division
 PM-DO/Project Management Division
 PMDS/Process Maintenance &amp; Decontamination Services
+PMMO/Plutonium Modernization Mission Office
 Product Realization &amp; Reliability Office
 Product Realization and Reliability Office (PRRO)
 Production Assurance (PA-DO)
@@ -542,10 +553,12 @@ Rad Liquid Waste Facilities/CWF-RLWF
 Radiation Protection - Programs (RP-PROG)
 Radiation Protection Division (RP)
 Radiation Protection Field Support (RP-FS)
+Radiation Protection Mission &amp; Deployed Support - Field Support (RPS-FS)
 Radiation Protection Programs (RP-PROG) Health Physics Operations
 Radiation Protection Services Group
 Radiation Protection TA55 Support (RP-TA55)
 Radiation Protection-Programs (RP-PROG)
+Raditaion Protection - Division Office
 Rapid Response Team (PFE-RRT)
 RP-PROG/Radiation Protection Programs
 RSO/Repository Science &amp; Operations
@@ -574,6 +587,7 @@ SPM-PM/Program Managment
 SPM-SI/ Stockpile Integration
 SP-NMCA/ Nuclear Material Control &amp; Accountability
 SP-NMCA/Nuclear Material Control and Accountability
+SP-NMCA/Nuclear Material Control and Accountability Group
 SRO-RL / Research Library
 SSO-2/SCIF &amp; SAPF Operations
 SSO-3 / SPECIAL SECURITY IT &amp; CYBER OPERATIONS
@@ -646,6 +660,7 @@ WIPO (Weapons Infrastructure Program Office)
 WMS-1/New Employee Training &amp; Workforce Development
 W-MSO/Military &amp; Stockpile Operations Office
 WRS-NSRC MS/NSRC Mission Support
+WRS-NSRCMS/NSRC Mission Support
 WRS-WMT/Weapons Mission Technology
 X Theoretical Design Division
 X Theoretical Design/XTD-DO
@@ -667,6 +682,7 @@ Organization
 71D00C/PLUTONIUM INFRASTRUCTURE ENGINEERING DIVISION OFFICE
 71D50C PIE-CRO Construction Readiness Office
 71E03C
+77000C
 7C030C
 87000A
 8Q020A
@@ -744,6 +760,7 @@ CAI-DO Computing and Artificial Intelligence
 CAI-DO/Computing and Artificial Intelligence
 C-CDE/ Chemical Diagnostics And Engineering
 C-CDE/Chemical Diagnostics And Engineering
+CEA-TEC / Technical Editing and Communications
 CEA-TEC/Technical Editing and Communications
 Center For Integrated Nanotechnologies
 Center For Integrated Nanotechnologies/MPA-CINT
@@ -751,6 +768,7 @@ Chemistry
 Chief Information Office (CIO)
 C-IIAC / Inorganic Isotope &amp; Actinide Chem
 CIO / Chief Information Officer
+CISO-CS/Cybersecurity
 CISO-PO/CHIEF INFORMATION SECURITY PROGRAM OFFICE
 CISO-PO/Program Office
 CM/Construction Management
@@ -768,6 +786,7 @@ C-PCS/Physical Chem &amp; Applied Spectroscopy Group
 CPE/Construction Project Execution
 CPE-PS/Project Services
 CWF-WCRR/Waste Characterization, Reduction, and Repackaging
+DARHT Engineering Operations and Physics Group (J-6)
 DARHT Experiments and Radiographic Science (J-4)
 Deputy Laboratory Director for Weapons (DDW’s) Office
 Design Engineers (PFE-DE)
@@ -841,6 +860,7 @@ HPC-ENV/HPC Environments
 HPC-ENV/HPC Environments Group
 HPC-SYS/HPC Systems
 HPC-SYS/HPC Systems Group
+HR-OPS/Human Resources Operations
 Human Resources - Field Services Weapons (HR-FS-WP)
 Human Resources - Operations (HR-OPS)
 Human Resources Labor Relations Group (HR-LR)
@@ -893,6 +913,7 @@ J-6/The Engineering, Operations, and Physics
 J-DO/INTEGRATED WEAPONS EXPERIMENTS
 Joint Laboratory Office Nevada (JLON)
 LANSCE-FO/LANSCE Facility Operations
+LDRD/Lab Directed Research &amp; Development
 LIP Early Install Division
 LIP Planning &amp; Reporting- Richland
 LOG-CFTTRG/Logistics Craft Training
@@ -940,6 +961,7 @@ MSS-DATA/MSS Data Systems &amp; Technologies
 MSS-DO/Maintenance &amp; Site Services Division Office
 MSS-LFO/LANSCE Facility Operations
 MSS-MP/Maintenance Programs
+MSS-OOI / MSS- Office of Improvement
 MSS-RLUOB/Radiological Laboratory Utility Office Building Chemistry &amp; Metallurgy Research
 MSS-TA55/MSS-TA55 Group
 MSS-UI/Utilities &amp; Infrastructure
@@ -977,6 +999,7 @@ Nuclear Criticality Safety (NCS)
 Nuclear Engineering &amp; Nonproliferation: Safeguards Science and Techno (NEN-1)
 Nuclear Material Control and Accountability Group (NMCA)
 Nuclear Materials and TRU Waste Shipping (NPI-7)
+OCCI-UNCL
 Occupational Safety &amp; Health (OSH) Industrial Safety and Hygiene (ISH)
 OCI-CTA/Counterintelligence Activities &amp; Threat Awareness
 OCI-FVA/Foreign Immigration, Visits, &amp; Analysis
@@ -998,6 +1021,7 @@ P-3 / Nuclear And Particle Physics and Applications
 P-4 / Thermonuclear Plasma Physics
 P-4/Thermonuclear Plasma Physics
 PA/Project Analytics
+PA-2/ Assurance Verification &amp; Operations
 PAT-2 / Technical And Personnel Pipelines
 PC / Project Controls
 PC /Project Controls
@@ -1044,11 +1068,13 @@ Plutonium Facilities Enineering - Waste Facilities (PFE-WF)
 Plutonium Foundry/PT-4
 Plutonium Infrastructure Engineering (PIE-INST1)
 Plutonium Infrastructure Engineering Division (PIE-DO)
+Plutonium Machining/PT-2
 Plutonium NDE &amp; Inspection/PT-7
 PM/Project Management
 PM-DO /Project Management Division
 PM-DO/Project Management Division
 PMDS/Process Maintenance &amp; Decontamination Services
+PMMO/Plutonium Modernization Mission Office
 Product Realization &amp; Reliability Office
 Product Realization and Reliability Office (PRRO)
 Production Assurance (PA-DO)
@@ -1095,10 +1121,12 @@ Rad Liquid Waste Facilities/CWF-RLWF
 Radiation Protection - Programs (RP-PROG)
 Radiation Protection Division (RP)
 Radiation Protection Field Support (RP-FS)
+Radiation Protection Mission &amp; Deployed Support - Field Support (RPS-FS)
 Radiation Protection Programs (RP-PROG) Health Physics Operations
 Radiation Protection Services Group
 Radiation Protection TA55 Support (RP-TA55)
 Radiation Protection-Programs (RP-PROG)
+Raditaion Protection - Division Office
 Rapid Response Team (PFE-RRT)
 RP-PROG/Radiation Protection Programs
 RSO/Repository Science &amp; Operations
@@ -1127,6 +1155,7 @@ SPM-PM/Program Managment
 SPM-SI/ Stockpile Integration
 SP-NMCA/ Nuclear Material Control &amp; Accountability
 SP-NMCA/Nuclear Material Control and Accountability
+SP-NMCA/Nuclear Material Control and Accountability Group
 SRO-RL / Research Library
 SSO-2/SCIF &amp; SAPF Operations
 SSO-3 / SPECIAL SECURITY IT &amp; CYBER OPERATIONS
@@ -1199,6 +1228,7 @@ WIPO (Weapons Infrastructure Program Office)
 WMS-1/New Employee Training &amp; Workforce Development
 W-MSO/Military &amp; Stockpile Operations Office
 WRS-NSRC MS/NSRC Mission Support
+WRS-NSRCMS/NSRC Mission Support
 WRS-WMT/Weapons Mission Technology
 X Theoretical Design Division
 X Theoretical Design/XTD-DO
@@ -1254,11 +1284,12 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 26
+Showing 12 out of 27
 Job Title
 Job Number
 Organization
 City, State
+Professional (non-STEM) - Undergraduate Student Intern IRC146778 MSS-OOI / MSS- Office of Improvement Los Alamos, NM
 Undergrad Student ST 1 IRC146706 PSD-4 / Material Recovery and Recycle Los Alamos, NM
 Plasma Physics Undergraduate Students IRC146637 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 Applied Mathematics Undergraduate Students IRC146635 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
@@ -1270,9 +1301,8 @@ Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Rob
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Undergraduate and Graduating High School Senior Internship - Professional/Non-Technical IRC146162 Various Organizations Los Alamos, NM
-Undergraduate and Graduating High School Senior Internship - Computational Sciences IRC146158 Various Organizations Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 26
+Showing 12 out of 27
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

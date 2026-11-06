@@ -8,7 +8,7 @@ Application deadline Closed September 28, 2026
 Location Julis Romo Rabinowitz Building November 13-15, 2026
 Event weekend Confirmed November 13-15, 2026
 Guest speaker Stephen Wolfram November 13-15, 2026
-Sponsors CoStar Group, Amazon, Salesforce, Dan Porter, Arlequin, D. E. Shaw, Capital One, Photon, Scale AI, LangChain, ChatOverflow, Projects Board, COS Department, Justin Bojarski November 13-15, 2026
+Sponsors CoStar Group, Amazon, Salesforce, Peri, Arlequin, D. E. Shaw, Capital One, Photon, Scale AI, LangChain, ChatOverflow, Projects Board, COS Department, Justin Bojarski November 13-15, 2026
 With love HackPrinceton November 13-15, 2026
 About HackPrinceton
 Come build with us. Bring an idea and build it here.
@@ -54,7 +54,7 @@ HackPrinceton · Fall 2026 36H 13
 NOV
 HackPrinceton · Fall 2026 36H 13
 NOV
-HackPrinceton · Fall 2026 Dan Porter 36H 13
+HackPrinceton · Fall 2026 36H 13
 NOV
 HackPrinceton · Fall 2026 36H 13
 NOV

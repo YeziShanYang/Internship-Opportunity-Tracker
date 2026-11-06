@@ -1,9 +1,10 @@
-2027 Season Schedule // Major League Hacking
+2027 Season Schedule | Major League Hacking
 Skip to main content Participate Organizers Community About DEV Attend For Businesses
 Sign In
 2027
 Find, compete, and earn points at the largest, most diverse hacker events in the world.
-Filter events This Month Next Month Diversity Focused Region Sponsored
+Filter events This Month Next Month Diversity Focused Region Sort: Date
+Sponsored
 Upcoming Events
 2026
 Everywhere , Worldwide
@@ -60,7 +61,7 @@ Calgary , Alberta
 Hack the Change
 NOV 07 - 08
 Calgary, Alberta, CA
-In-Person HARDWARE
+In-Person Hardware
 Mississauga , Ontario
 Sheridan Datathon 2026
 NOV 07 - 08
@@ -75,7 +76,8 @@ Rochester , New York
 HACK.COMS
 NOV 07 - 08
 Rochester, New York, US
-In-Person DIVERSITY
+Computing Organization for Multicultural Students
+In-Person Diversity
 Edinburgh , Edinburgh
 HackTheBurgh
 NOV 07 - 08
@@ -100,7 +102,7 @@ Buffalo , Northeast
 UB Hacking
 NOV 07 - 08
 Buffalo, Northeast , US
-In-Person HARDWARE
+In-Person Hardware
 Salisbury , MD
 GullHacks
 NOV 07 - 08
@@ -125,228 +127,8 @@ Princeton , New Jersey
 HackPrinceton Fall 2026
 NOV 13 - 15
 Princeton, New Jersey, US
-In-Person HARDWARE
-Brooklyn , New York
-NASA&#x27;s Space Apps Challenge NYC
-NOV 13 - 15
-Brooklyn, New York, US
-In-Person
-Amherst , MA
-HackUMass
-NOV 13 - 15
-Amherst, MA, US
-In-Person
-Arlington , Texas
-HackUTA
-NOV 14 - 15
-Arlington, Texas, US
-In-Person
-La Jolla , CA
-SanD Hacks
-NOV 14 - 15
-La Jolla, CA, US
-In-Person
-Ypsilanti , Michigan
-Hack The Nest
-NOV 14 - 15
-Ypsilanti, Michigan, US
-In-Person HARDWARE
-Durham , County Durham
-DurHack
-NOV 14 - 15
-Durham, County Durham, GB
-In-Person
-Tempe , Arizona
-sunhacks
-NOV 14 - 15
-Tempe, Arizona, US
-In-Person
-London , Ontario
-Hack Western 13
-NOV 20 - 22
-London, Ontario, CA
-In-Person HARDWARE
-St. John&#x27;s , Newfoundland and Labrador / Avalon Peninsula
-Tech For Community 2026
-NOV 21 - 22
-St. John&#x27;s, Newfoundland and Labrador / Avalon Peninsula, CA
-In-Person HIGH SCHOOL HARDWARE
-Wellesley , Massachesetts
-WHACK (Wellesley Hackathon)
-NOV 21 - 22
-Wellesley , Massachesetts, US
-In-Person
-Boston , MA
-BostonHacks
-NOV 21 - 22
-Boston, MA, US
-In-Person
-Lleida , Lleida, Spain
-HackEPS
-NOV 28 - 29
-Lleida, Lleida, Spain, ES
-In-Person
-Sheffield , South Yorkshire
-HackSheffield11
-NOV 28 - 29
-Sheffield, South Yorkshire, GB
-In-Person
-Manhattan , Kansas
-Hack Cats
-DEC 04 - 06
-Manhattan, Kansas, US
-In-Person
-2027
-Hamilton , Ontario
-DeltaHacks
-JAN 09 - 10
-Hamilton, Ontario, CA
-In-Person
-Toronto , Ontario
-UofTHacks
-JAN 15 - 17
-Toronto, Ontario, CA
-In-Person
-Ottawa , Ontario
-uOttaHack 9
-JAN 15 - 17
-Ottawa, Ontario , CA
-In-Person
-Los Angeles , CA
-QWER Hacks
-JAN 16 - 17
-Los Angeles, CA, US
-In-Person DIVERSITY
-Vancouver , British Columbia
-nwHacks
-JAN 16 - 17
-Vancouver, British Columbia, CA
-In-Person
-Alexandria , Virginia
-HackBI X
-JAN 16 - 17
-Alexandria, Virginia, US
-In-Person HIGH SCHOOL
-Washington , DC
-Hoya Hacks
-JAN 22 - 24
-Washington, DC, US
-In-Person
-Missisauga , Ontario
-Hackville 2027
-JAN 23 - 24
-Missisauga, Ontario, CA
-In-Person DIVERSITY
-Toronto , Ontario
-ElleHacks
-JAN 29 - 31
-Toronto, Ontario, CA
-In-Person DIVERSITY
-Providence , RI
-Hack@Brown 2027
-FEB 05 - 07
-Providence, RI, US
-In-Person
-Athens , Georgia
-UGAHacks
-FEB 05 - 07
-Athens , Georgia, US
-In-Person
-West Lafayette , Indiana
-InnovateHer
-FEB 06 - 07
-West Lafayette, Indiana, US
-In-Person DIVERSITY
-East Lansing , Michigan
-SpartaHack
-FEB 06 - 07
-East Lansing, Michigan, US
-In-Person
-Raleigh , North Carolina
-Hack_NCState
-FEB 06 - 07
-Raleigh, North Carolina, US
-In-Person HARDWARE
-Toronto , Ontario
-MakeUofT
-FEB 13 - 14
-Toronto, Ontario, CA
-In-Person
-San Francisco , CA
-SF Hacks
-FEB 19 - 21
-San Francisco, CA, US
-In-Person
-Clemson , SC
-CUhackit
-FEB 20 - 21
-Clemson, SC, US
-In-Person
-Atlanta , GA
-Hacklytics 2027
-FEB 26 - 28
-Atlanta, GA, US
-In-Person
-Urbana , Illinois
-HackIllinois
-FEB 26 - 28
-Urbana, Illinois, US
-In-Person
-A Coruña , A Coruña
-HackUDC
-FEB 26 - 28
-A Coruña, A Coruña, ES
-In-Person
-Cincinnati , Ohio
-RevolutionUC
-FEB 27 - 28
-Cincinnati, Ohio, US
-In-Person
-New Brunswick , New Jersey
-HackHERS
-FEB 27 - 28
-New Brunswick, New Jersey, US
-In-Person DIVERSITY
-Rochester , New York
-WiCHacks
-FEB 27 - 28
-Rochester, New York, US
-In-Person DIVERSITY
-Newark , Delaware
-HenHacks
-MAR 06 - 07
-Newark, Delaware, US
-In-Person
-Kent , Ohio
-Kent Hack Enough
-MAR 06 - 07
-Kent, Ohio, US
-In-Person
-La Jolla , California
-Diamondhacks
-APR 04 - 05
-La Jolla, California , US
-In-Person
-Montreal , Quebec
-MariHacks
-APR 09 - 10
-Montreal, Quebec, CA
-In-Person DIVERSITY
-Lawrence , Kansas
-HackKU27
-APR 09 - 11
-Lawrence, Kansas, US
-In-Person
-Richardson , TX
-WEHack
-APR 10 - 11
-Richardson, TX, US
-In-Person DIVERSITY
-Los Angeles , California
-LA Hacks 27
-APR 16 - 18
-Los Angeles, California, US
-In-Person
+In-Person Hardware
+Show more upcoming events
 Past Events
 2026
 New delhi , New delhi
@@ -383,7 +165,7 @@ San Francisco , California
 Cal Hacks 13.0
 OCT 23 - 25
 San Francisco, California, US
-In-Person HARDWARE
+In-Person Hardware
 Los Angeles , CA
 LA Hacks AI Hackathon 2026
 OCT 17 - 18
@@ -393,12 +175,12 @@ Hyattsville , Maryland
 Technica Hacks
 OCT 17 - 18
 Hyattsville, Maryland, US
-In-Person DIVERSITY
+In-Person Diversity
 London , London
 IKU Womxn in STEM Hackathon
 OCT 17 - 18
 London, London, GB
-In-Person DIVERSITY
+In-Person Diversity
 Seattle , Washington
 DubHacks
 OCT 17 - 18
@@ -408,7 +190,7 @@ Charlottesville , VA
 Girls Hoo Hack 2026
 OCT 17 - 18
 Charlottesville, VA, US
-In-Person DIVERSITY HARDWARE
+In-Person Diversity Hardware
 Green Bay , WI
 HackGB
 OCT 17 - 18
@@ -443,7 +225,7 @@ Princeton , New Jersey
 hackPHS
 OCT 10 - 11
 Princeton, New Jersey, US
-In-Person HIGH SCHOOL
+In-Person High school
 Houston , Texas
 CodeRED Orion
 OCT 10 - 11
@@ -469,7 +251,8 @@ Hack Knight
 OCT 09 - 11
 Flushing, New York, US
 In-Person
-24 past events shown
+24 upcoming and 24 past events shown
+Location data © OpenStreetMap contributors
 Footer
 Major League Hacking We help run the global hacker community. It&#x27;s our mission to empower hackers, just like you.
 Instagram Discord TikTok LinkedIn YouTube

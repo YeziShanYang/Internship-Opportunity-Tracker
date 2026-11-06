@@ -2,6 +2,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-1/brand-4/candidate/jobboard/vac
 Campus Opportunities
 Jefferies
 <timestamp>
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1858-2027-Investment-Banking-Analyst-Houston-Energy-Group-February-Start/en-GB
+2027 Investment Banking Analyst - Houston, Energy Group (February Start)
+<timestamp>
+<timestamp>
+ID:1858
+Title:2027 Investment Banking Analyst - Houston, Energy Group (February Start)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2056-2028-Investment-Banking-Summer-Analyst-Program-New-York-LP-Advisory-Group/en-GB
 2028 Investment Banking Summer Analyst Program - New York, LP Advisory Group
 <timestamp>
@@ -236,12 +242,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1997
 Title:2027 Equities Sales &amp; Trading Summer Analyst Program - Cash Trading - Hong Kong
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1992-2027-Equities-Sales-Trading-Summer-Analyst-Program-Prime-Services-Hong-Kong/en-GB
-2027 Equities Sales &amp; Trading Summer Analyst Program - Prime Services - Hong Kong
-<timestamp>
-<timestamp>
-ID:1992
-Title:2027 Equities Sales &amp; Trading Summer Analyst Program - Prime Services - Hong Kong
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1984-2027-Equity-Research-Summer-Analyst-Program-Hong-Kong/en-GB
 2027 Equity Research Summer Analyst Program - Hong Kong
 <timestamp>

@@ -31,6 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+CrowdStrike
+Sales Data Analytics Intern
+<age> Saved
+Hybrid
+2 Locations
+20-25 Hourly
+Internship
+20-25 Hourly
+Internship
+Cloud &#x2022; Computer Vision &#x2022; Information Technology &#x2022; Sales &#x2022; Security &#x2022; Cybersecurity
+Supports Sales Excellence through data analysis, reporting, CRM data quality, dashboard maintenance, and business intelligence. Partners with sales leaders to define key metrics, standardize datasets, identify discrepancies, and develop Tableau dashboards. Handles ad hoc analytics requests and transforms sales data into actionable insights. The internship requires strong analytical, communication, organizational, and collaboration skills, along with proficiency in office productivity tools and a willingness to use AI technologies.
+Top Skills:
+Artificial Intelligence Business Intelligence Clari CRM Domo Google Apps Google Sheets Excel Microsoft Office Suite Power BI Salesforce SQL Tableau
 Ericsson
 Data Analyst Intern
 <age> Saved
@@ -79,6 +92,10 @@ eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; M
 Paid, full-time 11-week data analytics internship focused on fraud-ring identification, graph analytics, data extraction and cleaning, data engineering, visualization, customer-readable reporting, and communicating insights. The intern will use tools such as Tableau, Power BI, and Excel, make data-driven recommendations, and collaborate with cross-functional teams while participating in professional development and networking activities.
 Top Skills:
 Graph Analytics Microsoft Access Excel Microsoft Powerpoint Microsoft Word Power BI Tableau
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Wells Fargo
 2027 Technology Summer Internship &#x2013; Early Careers (Data Engineering)
 <age> Saved
@@ -92,10 +109,6 @@ Fintech &#x2022; Financial Services
 Data Engineering Interns will develop and maintain scalable data pipelines, APIs, data products, and enterprise platforms. Responsibilities include data ingestion, transformation, validation, governance, quality monitoring, metadata management, cloud and distributed computing, CI/CD, testing, and observability. Interns will also use approved generative AI tools, support AI-enabled engineering workflows, and collaborate with engineers, architects, product teams, and business stakeholders. The 10-week hybrid program includes training, mentorship, and potential consideration for a subsequent full-time Technology Analyst role.
 Top Skills:
 Algorithms APIs Artificial Intelligence Ci/Cd Cloud Technologies Copilot Data Governance Data Modeling Data Pipelines Data Structures Distributed Computing Generative Ai Grafana Machine Learning Metadata Management Object-Oriented Programming Power BI Prompt Engineering Python SAS SQL Tableau Version Control
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Liberty Mutual Insurance
 Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA (Summer 2027)
 <age> Saved
@@ -144,19 +157,6 @@ Consumer Web &#x2022; eCommerce &#x2022; Information Technology &#x2022; Retail 
 Supports reporting and optimization for Lowe’s Pro and Services business. The intern analyzes performance metrics, develops dashboards and reports, identifies process improvements, collaborates cross-functionally, and helps translate business insights into technical requirements and adopted solutions. The role provides experience in data visualization, analytics, sales enablement, operational excellence, and customer-focused decision-making.
 Top Skills:
 Excel MS Office Microsoft Powerpoint
-New York Life
-2027 Business Analytics &amp; Digital Transformation Summer Internship
-<age> Saved
-Hybrid
-New York, NY, USA
-27-27 Hourly
-Internship
-27-27 Hourly
-Internship
-Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Technology &#x2022; Insurance &#x2022; Financial Services &#x2022; Big Data Analytics
-Summer interns support business analytics and digital transformation initiatives by building dashboards, analyzing datasets, developing visualizations, researching digital product enhancements, and assisting with automation and process improvement. The role involves translating data into actionable insights, collaborating with professionals, and using technology to support business decisions. Candidates must be enrolled in an accredited four-year institution and graduate between December 2027 and May 2030.
-Top Skills:
-Excel Power BI Python SQL Tableau
 1
 2
 3
@@ -164,7 +164,7 @@ Excel Power BI Python SQL Tableau
 5
 ...
 ...
-47
+48
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

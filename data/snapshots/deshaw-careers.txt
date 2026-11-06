@@ -190,9 +190,6 @@ New York
 Researcher - People Analytics : The D.&nbsp;E.&nbsp;Shaw group seeks a people analytics professional to join its Human Capital (HC) Analytics team as a research associate. Members of HC Analytics are curators of employee&hellip;
 Human Capital
 New York
-Senior AI Engineer – Human Capital : The D.&nbsp;E.&nbsp;Shaw group seeks a senior engineer with a deep interest in artificial intelligence (AI) to help lead its Human Capital (HC) team’s AI initiatives. This individual will&hellip;
-Human Capital
-New York
 Technical Project Manager – Human Capital : The D.&nbsp;E.&nbsp;Shaw group seeks a technical project manager to join its Human Capital (HC) Products team, which manages technology that optimizes HC processes, integrates AI&hellip;
 Investment Analysis
 New York
@@ -263,6 +260,9 @@ Strategy and Business Development Associate : The D.&nbsp;E.&nbsp;Shaw group see
 Strategy and Business Development
 New York
 Strategy and Business Development Associate – Commercial Data Insights : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive, analytical, and resourceful individual to join its strategy and business development (SBD) arm, working with our Investor Relations and&hellip;
+Technology
+New York
+Application Security Engineer : The D.&nbsp;E.&nbsp;Shaw group seeks application security engineers to join its Information Security team within the Systems group. This team is dedicated to advancing the firm's security&hellip;
 Technology
 New York
 Founder's Office: InfoSec Generalist : The D.&nbsp;E.&nbsp;Shaw group seeks a talented technologist with impressive achievements to join the Founder's Office, which provides direct technical support to the firm's founder. This&hellip;

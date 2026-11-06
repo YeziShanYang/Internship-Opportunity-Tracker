@@ -58,7 +58,7 @@ acronaviation	Electrical Engineer Intern - St. Pete Site @ St Petersburg, FL	URL
 acronaviation	Manufacturing Engineer Intern - Grand Rapids Site @ Grand Rapids, MI	URL=https://jobs.lever.co/acronaviation/2893b51b-c93c-4875-9912-1292ab0f4926
 acronaviation	Production Planning Intern - Grand Rapids Site @ Grand Rapids, MI	URL=https://jobs.lever.co/acronaviation/284a8d3b-8b83-4049-9464-60e91beee3fe
 acronaviation	Software Engineer Intern - St. Pete Site @ St Petersburg, FL	URL=https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed
-acronaviation	Supply Chain Intern @ Grand Rapids, MI	URL=https://jobs.lever.co/acronaviation/a655f828-8c33-4624-ac3d-ba677af3de27
+acronaviation	Supply Chain Intern @ Grand Rapids, MI	Type=On-site; URL=https://jobs.lever.co/acronaviation/a655f828-8c33-4624-ac3d-ba677af3de27
 acronaviation	Sustaining Engineer Intern - Grand Rapids Site @ Grand Rapids, MI	URL=https://jobs.lever.co/acronaviation/e2c8a9f9-3b23-4ab9-bbc6-f37401892770
 acronaviation	Systems Engineer Intern - St. Pete Site @ St Petersburg, FL	URL=https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184
 advancedagrilytics	Illinois Field Specialist Intern - (Summer 2027) @ Illinois	Type=Intern; URL=https://jobs.lever.co/advancedagrilytics/de6bf9d4-8eaa-4347-b0dc-5578a8e6c19a
@@ -89,7 +89,6 @@ dadavidson	Class of 2028 Diversified Industrials Group, Investment Banking - Sum
 dadavidson	Class of 2028 Equity Capital Markets Research Intern @ New York, NY	Type=Temporary; URL=https://jobs.lever.co/dadavidson/18eacdf7-ac6b-4111-a815-9d4afd5259e3
 dadavidson	Class of 2028 Financial Institutions Group, Investment Banking - Summer Analyst @ Chicago, IL	Type=Temporary; URL=https://jobs.lever.co/dadavidson/b47a40ae-9850-418b-98e8-3f58b6bee7c6
 dadavidson	Technology Group, Investment Banking – Summer Analyst – 2028 Grads @ New York, NY	Type=Temporary; URL=https://jobs.lever.co/dadavidson/2210a46e-aa69-47ce-959a-a2835feb6081
-dadavidson	Technology Group, Investment Banking – Summer Analyst – 2028 Grads @ Portland, OR	Type=Temporary; URL=https://jobs.lever.co/dadavidson/777160c4-9248-4f8e-bceb-71d4dd72f885
 diversified-automation	Controls Engineering Co-Op @ Louisville, KY	Type=Co-op; URL=https://jobs.lever.co/diversified-automation/9506c50b-2859-4a78-a6b2-229b1366611d
 diversified-automation	Hardware Engineering Co-Op @ Louisville, KY	Type=Co-op; URL=https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3
 drivetrain	Engineering Intern – Gen AI for FP&A Platform @ United States	Type=Internship; URL=https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d
@@ -196,6 +195,7 @@ palantir	Software Engineer, Internship - Production Infrastructure @ New York, N
 palantir	Software Engineer, Internship - Production Infrastructure @ Seattle, WA	Type=Internship; URL=https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1
 palantir	Software Engineer, Internship - Production Infrastructure @ Washington, D.C.	Type=Internship; URL=https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86
 palantir	Software Engineer, Internship - Query Engines @ New York, NY	Type=Internship; URL=https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13
+palantir	Software Engineer, Internship - Sovereign AI Systems @ New York, NY	Type=Internship; URL=https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312
 palantir	Software Engineer, Internship @ Denver, CO	Type=Internship; URL=https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249
 palantir	Software Engineer, Internship @ New York, NY	Type=Internship; URL=https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d
 palantir	Software Engineer, Internship @ Palo Alto, CA	Type=Internship; URL=https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c
@@ -218,6 +218,7 @@ palantir	Year at Palantir - Forward Deployed Software Engineer, Internship - USG
 palantir	Year at Palantir - Software Engineer, Internship @ New York, NY	Type=Internship; URL=https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329
 quantco-	Data Science Intern @ USA	Type=Full-Time; URL=https://jobs.lever.co/quantco-/09da5ced-a2fc-4cf1-9013-c177bb673e02
 sep	Software Engineer (2027 start dates, in person) @ Westfield, IN	Type=Full-time; URL=https://jobs.lever.co/sep/f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08
+shieldai	EWIS Harness Design - Engineer I - New Grad @ Seattle, Washington	Type=Full Time Employee; URL=https://jobs.lever.co/shieldai/8436804b-9460-4a14-9062-b45d4583a00a
 shieldai	Electrical Engineer I - New Grad (BOS) @ Boston, Massachusetts	URL=https://jobs.lever.co/shieldai/c9321f8a-b367-4dcb-9308-bd64ae6bac1d
 shieldai	Electrical Engineer I - New Grad (SEA) (R6107) @ Seattle, Washington	URL=https://jobs.lever.co/shieldai/37fa20c1-57dc-4aa1-9515-ecc87f22f31b
 shieldai	Electrical Engineer I - New Grad @ Dallas, Texas	URL=https://jobs.lever.co/shieldai/1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89
@@ -235,6 +236,7 @@ shieldai	Engineer II, Integration - New Grad - 6202 @ Washington, D.C.	Type=Full
 shieldai	Engineer II, Simulation Framework - New Grad - 6204 @ San Diego, California	Type=Full Time Employee; URL=https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62
 shieldai	Engineer II, Software - Factory - New Grad - 6217 @ Washington, D.C.	Type=Full Time Employee; URL=https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5
 shieldai	Engineer II, Software Test and Automation - New Grad - 6221 @ Washington, D.C.	Type=Full Time Employee; URL=https://jobs.lever.co/shieldai/ebf49595-032b-493d-a80e-3ac00eb4d0ab
+shieldai	June 2027 Co-Op - Software Engineer Intern @ Dallas, Texas	Type=Intern; URL=https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949
 shieldai	June 2027 Co-op - Reliability Engineering #5953 @ Seattle, Washington	Type=Intern; URL=https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3
 shieldai	RF Engineer I - New Grad (R6108) @ Seattle, Washington	Type=Full Time Employee; URL=https://jobs.lever.co/shieldai/a9d061e9-4d28-4a30-8381-5f2dc28b4416
 shieldai	Software Development Engineer - New Graduate @ San Diego, California	Type=Full Time Employee; URL=https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583
@@ -317,10 +319,13 @@ standtogether	KIP Spring 2027 - Student Fellow (Research and Analysis) - Empire 
 standtogether	KIP Spring 2027 - Training and Education Intern - Atlas Network @ Arlington, Virginia	Type=ST Fellowships - Hybrid; URL=https://jobs.lever.co/standtogether/4544fd5a-2854-40db-9e4d-a3b7da8cad3a
 standtogether	KIP Spring 2027 - Trustee & Government Affairs Intern - The American Council of Trustees and Alumni @ Washington, DC	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/eaac73d6-76c5-4fbc-a3a2-3822f55afbad
 standtogether	KIP Spring 2027- Events and Meetings Intern - American Legislative Exchange Council @ Arlington, Virginia	Type=ST Fellowships - On-Site; URL=https://jobs.lever.co/standtogether/83c15ecb-a29d-498c-83a6-3ff1a0d4fc10
+tri	Accelerated Science Intern, Bridging Atomistic Modeling to Real Electrochemical Systems @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418
+tri	Accelerated Science Intern, Machine Learning/Agentic AI @ Cambridge, MA	Type=Intern; URL=https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495
+tri	Accelerated Science Intern, Multi-Agent Learning and Coordination @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/86e6a285-bb0a-4e84-8bf9-bd498d45c33d
+tri	Accelerated Science Intern, Multi-scale Physics Battery Modeling @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593
 tri	Accelerated Science Intern, Representation Learning for Molecules and Materials @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7
 tri	Automated Driving Advanced Development Intern, Machine Learning Research @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4
 tri	Automated Driving Advanced Development Intern, Machine Learning Research @ Los Altos, CA #2	Type=Intern; URL=https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b
-tri	Bridging Atomistic Modeling to Real Electrochemical Systems Modeling Intern @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418
 tri	Human Aware Interactions and Learning Intern @ Cambridge, MA	Type=Intern; URL=https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7
 tri	Human Interactive Driving Intern, Platform Research Systems Integration @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3
 tri	Human Interactive Driving Research Intern, Decision-Making for Driving at the Limits @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/3e69a8d4-6286-4d00-8677-7597e98fdb56
@@ -330,12 +335,13 @@ tri	Human Interactive Driving Research Intern, World Models @ Los Altos, CA	Type
 tri	Human Interactive Driving Research Intern, World Models @ Los Altos, CA #2	Type=Intern; URL=https://jobs.lever.co/tri/828d98d0-f914-404f-b537-5d05236128bb
 tri	Human-Centered AI Research Intern, Causal Reasoning Models @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f
 tri	Human-Centered AI Research Intern, Human Language Models @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e
-tri	Machine Learning/Agentic AI Intern @ Cambridge, MA	Type=Intern; URL=https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495
-tri	Multi-scale Physics Battery Modeling Intern @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593
 tri	Robotics Intern, Human-Machine Interaction Research @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047
 tri	Robotics Intern, Human-Machine Interaction Research @ Los Altos, CA #2	Type=Intern; URL=https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8
+tri	Robotics Intern, Human-Robot Interaction @ Cambridge, MA	Type=Intern; URL=https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642
+tri	Robotics Intern, Mechanical Engineering @ Cambridge, MA	Type=Intern; URL=https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9
 tri	Robotics Intern, Post-Training and Continual Learning @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43
 tri	Robotics Intern, Trustworthy Learning under Uncertainty @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424
+tri	Robotics Intern, World Action Models for Robot Policy @ Cambridge, MA	Type=Intern; URL=https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d
 tri	Robotics Intern, World Foundation Models @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478
 tri	Robotics Research Intern, Manipulation @ Los Altos, CA	Type=Intern; URL=https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd
 veeva	Associate Software Engineer - 2027 Start Dates @ California - Pleasanton	Type=Full-Time; URL=https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6
