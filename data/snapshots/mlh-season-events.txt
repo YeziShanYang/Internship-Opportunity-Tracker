@@ -12,11 +12,6 @@ Solana Hackathon
 NOV 06 - 08
 Everywhere, Worldwide, US
 Digital
-Richardson , Texas
-HackUTD Roadshow
-NOV 06
-Richardson, Texas, US
-In-Person
 Miami , FL
 SharkByte
 NOV 06 - 08
@@ -72,12 +67,6 @@ CommuniHacks
 NOV 07 - 08
 Kitchener, Ontario, CA
 In-Person
-Rochester , New York
-HACK.COMS
-NOV 07 - 08
-Rochester, New York, US
-Computing Organization for Multicultural Students
-In-Person Diversity
 Edinburgh , Edinburgh
 HackTheBurgh
 NOV 07 - 08
@@ -128,9 +117,24 @@ HackPrinceton Fall 2026
 NOV 13 - 15
 Princeton, New Jersey, US
 In-Person Hardware
+Brooklyn , New York
+NASA&#x27;s Space Apps Challenge NYC
+NOV 13 - 15
+Brooklyn, New York, US
+In-Person
+Amherst , MA
+HackUMass
+NOV 13 - 15
+Amherst, MA, US
+In-Person
 Show more upcoming events
 Past Events
 2026
+Richardson , Texas
+HackUTD Roadshow
+NOV 06
+Richardson, Texas, US
+In-Person
 New delhi , New delhi
 hackCBS 9.O
 OCT 31 - NOV 01
@@ -245,11 +249,6 @@ Saltillo , Coahuila
 Hackathon TecNM Campus Saltillo 2026
 OCT 09 - 10
 Saltillo, Coahuila, MX
-In-Person
-Flushing , New York
-Hack Knight
-OCT 09 - 11
-Flushing, New York, US
 In-Person
 24 upcoming and 24 past events shown
 Location data © OpenStreetMap contributors

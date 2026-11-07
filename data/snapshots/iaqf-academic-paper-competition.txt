@@ -69,7 +69,7 @@ Student FAQ
 Log in
 Events /&nbsp; Upcoming
 Switch to Calendar View
-IAQF &amp; Thalesians Seminar Series: Navigating Power Markets: Instruments and Risk. A Seminar by Ritesh Kumar.
+IAQF &amp; Thalesians Seminar Series: A Kernel Machine for Large-Scale Corporate Default Modeling. A Seminar by Chao Zhang
 When
 17 Nov 2026
 &nbsp;
@@ -77,8 +77,11 @@ When
 Location
 Fordham University McNally Amphitheater 140 West 62nd Street New York, NY 10023
 Register
-Navigating Power Markets: Instruments and Risk
-A Seminar by Ritesh Kumar
+Please note:
+Speaker change for the upcoming November 17th seminar
+A Kernel Machine for Large-Scale
+Corporate Default Modeling
+A Seminar by Chao Zhang
 Tuesday November 17, 2026
 6:00 PM Seminar Begins
 7:30 PM Reception
@@ -90,14 +93,10 @@ New York, NY 10023
 Free Registration!
 For Virtual Attendees: Please select virtual instead of member type upon registration.
 Abstract:
-The power market is characterized by unique market dynamics, price volatility, physical constraints, and the continuous interaction between electricity generation, transmission, demand, and financial markets. This presentation provides an overview of power market trading, key trading instruments, and risk management practices used by market participants to navigate these complexities.
-It introduces the fundamentals of power market trading and explores the major instruments used to manage price and volume exposure, including physical and financial power contracts, forwards, futures, options, and other structured products. The presentation also examines the key risks faced by market participants, such as price, volume, basis, liquidity, credit, operational, and regulatory risks, and discusses approaches to identifying, measuring, and mitigating these risks.
+We present a scalable kernel logistic regression framework for estimating forward-looking, real-world corporate default probabilities using features derived from financial variables and structural credit-model outputs. This kernel machine is used in the Bloomberg Corporate Default Risk Model (DRSK). The model learns a globally defined nonlinear log-odds function in a reproducing kernel Hilbert space. The chosen hybrid linear–Gaussian radial-basis-function kernel is universal and capable of approximating a broad class of nonlinear dynamics. Under standard conditions and an appropriate regularization scheme, the associated learning procedure is universally consistent, with prediction risk converging to the Bayes risk as the sample size increases.
+The application involves large-scale, highly imbalanced default data spanning multiple regions, sectors, and credit cycles. To address the computational cost of conventional kernel machine training, we combine majority-class down-sampling with selection-bias correction and select model complexity through cross-validation and Bayesian optimization. Empirical results demonstrate improved calibration and out-of-sample predictive performance relative to conventional logistic regression. The results show that universal kernel methods can be successfully deployed for large-scale, rare-event corporate default modeling.
 Bio:
-Ritesh Kumar is an energy specialist with more than 18 years of experience in energy modeling, risk management, price forecasting, asset valuation, and the pricing of structured instruments.
-Ritesh currently works at Balyasny Asset Management as a Quantitative Risk Researcher in Commodity Risk Analytics. Prior to that, he worked at AES Clean Energy as a Quantitative Risk Manager, where he led a team of analysts responsible for pricing prospective deals and modeling risks for AES Clean Energy’s multi-billion-dollar portfolio. His work at AES focused primarily on renewable power, including solar, wind, and battery storage.
-Prior to AES, Ritesh worked at NRG Energy, where, as a Risk Manager, he led a team of analysts managing risks across various ISOs, including ERCOT, PJM, NYISO, NEPOOL, and MISO. Before joining NRG Energy, Ritesh worked at Deutsche Bank as an Assistant Vice President, where he led a team of 10 analysts responsible for performing valuations for commodities and FX portfolios comprising positions across multiple geographies, including the Americas, Europe, and Asia-Pacific.
-Ritesh has published several scholarly and peer-reviewed articles on energy modeling and risk management in leading finance journals and has pioneered novel solutions in these areas.
-Ritesh earned a Master of Business Administration in Finance from Rice University in Houston and completed a certificate course in Mathematical Finance from IIQF. He also earned a Master’s degree in Data Analytics from Middle Georgia State University and a Bachelor’s degree in Mechanical Engineering from the National Institute of Technology.
+Chao Zhang is a Quantitative Researcher on Bloomberg’s Quant Risk Analytics team. His work focuses on the development of machine learning and quantitative models for a wide range of applications in finance and risk analytics, including credit, market, and climate risk. He earned his PhD in Mathematical Statistics from the University of California, Santa Barbara, where his research encompassed functional and distributional data analysis, as well as statistical and machine learning.
 Show details
 For information about sponsoring one of our events&nbsp; click here &nbsp;or email&nbsp; info@iaqf.org &nbsp;for details.
 Subscribe to our mailing list

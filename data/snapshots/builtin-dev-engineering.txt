@@ -35,15 +35,84 @@ T-Mobile
 Summer 2027 Software Engineering Internship
 <age> Saved
 In-Office
-Atlanta, GA, USA
+Overland Park, KS, USA
 27-50 Hourly
 Internship
 27-50 Hourly
 Internship
 Other &#x2022; Utilities
-Participate in an 11-week paid software engineering internship, developing capabilities for T-Mobile’s Care and Retail frontline users and website. Projects include software development, analytical insights, code and documentation management, and work tracking using GitLab and JIRA. Interns receive mentorship, training, and hands-on experience while collaborating with employees and other interns.
+An 11-week paid software engineering internship developing, testing, deploying, and documenting customer care applications. Interns will build voice, chat, and other applications for frontline support teams using microservices, virtualization, software-defined networking, network functions virtualization, and big data platforms. Responsibilities include creating scalable and highly available software, collaborating with technical teams, applying emerging technologies, and improving existing processes.
 Top Skills:
-Gitlab JIRA
+Big Data Platforms Microservices Network Functions Virtualization Software-Defined Networking Virtualization
+T-Mobile
+Summer 2027 Software Engineering Internship
+<age> Saved
+In-Office
+Bellevue, WA, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+Paid 11-week software engineering internship involving mentorship, stakeholder requirements gathering, solution development, and design, documentation, development, and testing. Interns will help build data and AI solutions, support data governance and privacy consent management, and contribute to near-real-time streaming data architecture and intelligence platforms.
+Top Skills:
+AI Real-Time Data Architecture Streaming Data
+T-Mobile
+Summer 2027 Software Engineer HR Data Products Internship
+<age> Saved
+In-Office
+Bellevue, WA, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+Participate in an 11-week software engineering internship focused on building secure HR and Workplace Experience data products. Join a scrum team to implement user stories, create code commits, merge requests, and deployments. Responsibilities include data analysis, engineering, data modeling, semantic layer creation, and developing enterprise-scalable role-based access control solutions. Interns receive mentorship, training, and hands-on project experience.
+Top Skills:
+Rbac
+Notion
+Software Engineering Intern, Frontend (Summer 2027)
+<age> Saved
+Hybrid
+New York, NY, USA
+57-61 Hourly
+Internship
+57-61 Hourly
+Internship
+Artificial Intelligence &#x2022; Productivity &#x2022; Software
+Software Engineering Interns will work on Notion’s Web Infrastructure team, building performant, scalable, and accessible frontend foundations. Responsibilities may include developing reusable web patterns, creating tooling for testing, debugging, and profiling frontend features, and building desktop infrastructure with OS integrations. Candidates should be pursuing a relevant degree, developing React and TypeScript proficiency, have prior internship experience, and demonstrate problem-solving, collaboration, adaptability, user empathy, and interest in AI technologies.
+Top Skills:
+Embeddings Llms Machine Learning React Typescript
+Notion
+Software Engineering Intern, iOS (Summer 2027)
+<age> Saved
+Hybrid
+New York, NY, USA
+57-61 Hourly
+Internship
+57-61 Hourly
+Internship
+Artificial Intelligence &#x2022; Productivity &#x2022; Software
+Software Engineering Intern supporting Notion’s iOS platform. The intern will own and ship a focused production project, improve mobile build, testing, screenshot, observability, and CI/CD workflows, and collaborate with mobile platform, AI, and core product engineers. The role provides exposure to shared frameworks, release quality, build systems, and Rust. Candidates should be pursuing a relevant degree, have prior internship experience, programming experience, AI prototyping exposure, and be available to work onsite in New York during summer 2027.
+Top Skills:
+Ci/Cd Embeddings iOS Llms Machine Learning Python React Rust Swift Typescript
+IMC Trading
+Quant Performance Engineer Intern - Summer 2027
+<age> Saved
+Hybrid
+Chicago, IL, USA
+200K-200K Annually
+Internship
+200K-200K Annually
+Internship
+Fintech &#x2022; Machine Learning &#x2022; Software &#x2022; Financial Services
+Performance Engineer Interns conduct quantitative research on exchange and network technologies, design optimization strategies for electronic trading, develop AI agents, ETL pipelines, and Python algorithms, and reverse-engineer and stress-test low-latency systems. They collaborate with traders and hardware and software engineers to improve liquidity-taking, quoting, and ultra-low-latency trading strategies.
+Top Skills:
+Etl Pipelines Machine Learning Network Programming Python Statistical Modeling Systems Programming
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 InterSystems
 Summer Internship 2027
 <age> Saved
@@ -96,10 +165,6 @@ Artificial Intelligence &#x2022; Big Data &#x2022; Cloud &#x2022; Information Te
 Software Engineering Interns will design and implement software, machine learning models, security features, workflow tools, and exploratory technology projects. They will contribute production code across Rubrik product areas while collaborating with experienced engineers and mentors. The role requires full-time availability in Palo Alto from January 11 through May 7, 2027, enrollment in a computer science-related degree program, and knowledge of core computer science concepts.
 Top Skills:
 C&#x2B;&#x2B; Distributed Systems Go Java JavaScript Machine Learning Objective-C Python
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 Two Sigma
 Software Engineering Internship (Summer 2027)
 <age> Saved
@@ -139,30 +204,6 @@ Beauty &#x2022; Enterprise Web &#x2022; Fintech &#x2022; Payments &#x2022; Softw
 Engineering intern will build, test, debug, and ship web and mobile product features alongside senior engineers. The role includes creating AI-powered automation, interpreting usage data with analysts, iterating rapidly with AI-assisted development, and learning new languages, frameworks, and AI-native practices. This is an in-person NYC internship from June 8 through August 20, 2027.
 Top Skills:
 AI Grpc JavaScript Kotlin Postgres React Ruby SQL Typescript
-Micron Technology
-Intern - Product Yield Software Engineer
-<age> Saved
-In-Office
-Boise, ID, USA
-Internship
-Internship
-Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x2022; Machine Learning
-Develop software, automation, dashboards, and web-based tools that help engineers analyze semiconductor manufacturing and product data. Responsibilities include processing large datasets, visualization, workflow automation, AI-assisted engineering applications, debugging, testing, documentation, and collaboration with engineering teams. The intern will own a project from problem definition through implementation and demonstration while gaining experience at the intersection of software, data analytics, and semiconductor manufacturing.
-Top Skills:
-Artificial Intelligence C C&#x2B;&#x2B; Data Visualization Generative Ai Git Java Linux Machine Learning Perl Python Relational Databases SQL Unix Web Development
-Cargill
-Software Engineer Intern Summer 2027 - Atlanta, GA
-<age> Saved
-In-Office
-Atlanta, GA, USA
-29-34 Hourly
-Internship
-29-34 Hourly
-Internship
-Food &#x2022; Greentech &#x2022; Logistics &#x2022; Sharing Economy &#x2022; Transportation &#x2022; Agriculture &#x2022; Industrial
-Summer internship working on cloud, big-data, and application development projects within Cargill's Digital Technology & Data team. Interns contribute individually and on teams, receive mentorship and performance evaluations, and participate in networking and development events. Typical 12-week, paid, on-site assignment with potential for return offers based on performance.
-Top Skills:
-Agile Development Application Development Big Data Platform Cloud Platform Database Design Structured Programming Systems Analysis And Design
 1
 2
 3
@@ -170,7 +211,7 @@ Agile Development Application Development Big Data Platform Cloud Platform Datab
 5
 ...
 ...
-85
+86
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

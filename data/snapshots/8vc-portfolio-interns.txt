@@ -62,7 +62,7 @@ Series A
 Series B
 Clear all
 Powered by Getro
-Showing 38 jobs
+Showing 35 jobs
 Summer 2027 Internship - Field Engineer
 General Matter
 Location: paducah, ky, usa
@@ -649,7 +649,7 @@ Software
 Transportation
 + 99 more
 View job
-2027 Internship Behavior Machine Learning Engineer, World Models
+2027 Internship Hardware Engineer
 Bedrock Robotics
 Location: San Francisco, CA, USA
 Posted <age>
@@ -679,7 +679,7 @@ Software
 Transportation
 + 99 more
 View job
-2027 Internship Hardware Engineer
+2027 Internship Behavior Machine Learning Engineer, World Models
 Bedrock Robotics
 Location: San Francisco, CA, USA
 Posted <age>

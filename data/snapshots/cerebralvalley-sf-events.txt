@@ -11,21 +11,16 @@ Discover
 San Francisco is where the frontier labs ship, and the calendar shows it. Explore Cerebral Valley&#x27;s curated selection of hackathons, research talks, demo nights, and founder dinners across the Bay.
 Featured Previous slide
 Next slide
-Nov 7
-AIE Code Summit 2026 Hackathon
-Sat, Nov 7 · 9:00 AM PST
+Nov 9
+Build Day: OpenRouter x Meta
+Mon, Nov 9 · 5:30 PM PST
 San Francisco, CA
-The one-day AI Engineer Code Summit Hackathon will challenge teams to build coding agents that improve autonomously, reconstruct software from imperfect evidence, and verify code before it merges, with $11,000 in prizes. Industry experts Ivan Leo of Google DeepMind and Mike Beltzner of Meta will serve as speakers and judges, alongside partners Meta, Google DeepMind, MongoDB, Subquadratic, and Fetch.ai.
+OpenRouter and Meta Superintelligence Labs will bring developers together for a talk on the Muse model family, led by Saurabh Baji, Meta’s Senior Director of Engineering, followed by a 60-minute hands-on build challenge with complimentary credits and product experts on hand. Participants can explore practical Muse applications and demo their creations.
 Nov 12
 merge(happy_hour) → self_improving_agents @ SGLang Summit
 Thu, Nov 12 · 6:00 PM PST
 San Francisco, CA
 DigitalOcean, NVIDIA, SGLang, and Major League Hacking will spotlight how production agents can improve through feedback, evaluations, sandboxing, and open-model routing, with lightning talks and live demos. Speakers will include Jiantao Jiao, NVIDIA Director of AI and Distinguished Scientist, and Balaji Varadarajan, DigitalOcean Inference Engineer.
-Nov 10
-AWS x NVIDIA Workshop for Model Customization
-Tue, Nov 10 · 9:30 AM PST
-San Francisco, CA
-ML engineers, data scientists, AI leaders, and infrastructure professionals will get hands-on experience fine-tuning NVIDIA Nemotron 3 with Amazon SageMaker AI, evaluating it against a baseline, and deploying it to a real-time endpoint. The workshop will cover when to prompt or fine-tune and how customization can improve production AI agents while managing accuracy, latency, and cost.
 Nov 10
 Built on Bedrock Demo Night
 Tue, Nov 10 · 5:00 PM PST
@@ -36,103 +31,108 @@ VapiCon 2026
 Wed, Nov 11 · 8:30 AM PST
 Fort Mason Festival Pavilion 2 Marina Boulevard #260 San Francisco, CA 94123
 The community behind the first-ever voice AI summit will return for two days of practical insights on what’s working and what’s next in voice AI.
-Nov 9
-Build Day: OpenRouter x Meta
-Mon, Nov 9 · 5:30 PM PST
+Nov 10
+AWS x NVIDIA Workshop for Model Customization
+Tue, Nov 10 · 9:30 AM PST
 San Francisco, CA
-OpenRouter and Meta Superintelligence Labs will bring developers together for a talk on the Muse model family, led by Saurabh Baji, Meta’s Senior Director of Engineering, followed by a 60-minute hands-on build challenge with complimentary credits and product experts on hand. Participants can explore practical Muse applications and demo their creations.
-Nov 3
-TechEquity Ai Summit 2026: Talks + AI Agent Workshops
-Tue, Nov 3 · 9:00 AM PST LIVE
-135 Constitution Dr
-The TechEquity Summit will gather over 2,000 AI leaders, founders, investors, and educators from diverse sectors for four days of keynotes, workshops, and networking focused on responsible AI development and real-world applications. Attendees will include seasoned developers, startup founders, and career-transition professionals eager to deepen their hands-on AI expertise.
-Nov 5
-AIAS+ — AI for Scientific Discovery · Terence Tao, Jeffrey Ullman, Yejin Choi, Daphne Koller &amp; more
-Thu, Nov 5 · 12:00 AM PST LIVE
-San Francisco, CA
-AIAS+, the Chen Institute Symposium for AI Advancing Science &amp; Society, will bring together technical sessions, keynotes, panels, and networking focused on AI’s impact on science and society. Organized by the Tianqiao and Chrissy Chen Institute, the conference will offer one- and three-day passes with meals and conference materials.
-Nov 5
-BoxWorks Dev Summit 2026
-Thu, Nov 5 · 8:00 AM PST LIVE
-San Francisco Marriott Marquis
-BoxWorks Dev Summit will feature keynotes from Box CEO Aaron Levie, NVIDIA CEO Jensen Huang, and Intel CEO Lip-Bu Tan, alongside developer sessions, interactive demos, and community networking. Hands-on workshops and technical deep dives will explore building with Box, AI, and leading AI tools.
+ML engineers, data scientists, AI leaders, and infrastructure professionals will get hands-on experience fine-tuning NVIDIA Nemotron 3 with Amazon SageMaker AI, evaluating it against a baseline, and deploying it to a real-time endpoint. The workshop will cover when to prompt or fine-tune and how customization can improve production AI agents while managing accuracy, latency, and cost.
 Nov 5
 AIAS+ 2026 — AI for Scientific Discovery
 Thu, Nov 5 · 8:00 AM PST LIVE
 The Ritz-Carlton
 AIAS+ 2026 will bring together more than 100 scientists, AI developers, and investors, including a 2026 Nobel laureate, a Turing Award winner, and Fields Medalists, for talks, workshops, and discussions on AI-driven discovery and the future of scientific work. The symposium will explore AI’s limits, reliability, and how to protect science as the technology advances.
 Nov 6
-Agentic Internet Workshop* #3 AIW3
-Fri, Nov 6 · 8:00 AM PST
-Computer History Museum
-AI agent protocol developers will gather to shape interconnection standards and cross-SDO collaboration through open-agenda discussions, bringing together independent innovators and corporate technologists working on the frontier of agentic AI.
-Nov 6
-Startup World Cup 2026 Grand Finale
-Fri, Nov 6 · 8:00 AM PST
-Hilton San Francisco Union Square
-On Nov. 6, the Startup World Cup 2026 Grand Finale will crown one startup with a $1 million prize. The event will spotlight finalists competing for the top award.
-Nov 6
-Powering the AI Economy
-Fri, Nov 6 · 8:30 AM PST
-101 California St
-The event will explore how energy innovation and investment will power the AI economy across California, Spain, and Europe. Topics will connect the energy needs of AI with opportunities for growth and collaboration.
-Nov 6
-TechEquity Ai Summit 2026 - AI in Healthcare
-Fri, Nov 6 · 8:30 AM PST
-135 Constitution Dr
-The upcoming event will explore AI and innovation across diagnosis and imaging, robotic surgery, drug discovery, patient monitoring, clinical decision support, and mental health, with safety and ethics woven throughout.
-Nov 6
-Biotech Open Pitch Session
-Fri, Nov 6 · 9:30 AM PST
-Frances C. Arrillaga Alumni Center
-Stanford student and alumni founders will pitch early-stage biotech and science-driven ideas, gathering feedback and connecting with invited investors, potential teammates, and advisors. The morning session will spotlight emerging concepts in biotech, while a separate afternoon showcase will feature AI and deep-tech medical startups competing for a $25,000 prize.
-Nov 6
-Founder/VC Breakfast
-Fri, Nov 6 · 10:00 AM PST
-San Francisco, CA
-Founders, investors, and startup operators will gather for a curated breakfast and candid conversations on fundraising, growth, and building AI companies. A panel featuring Joseph Nagle, Managing Partner at Partner Track, and Zoe Samuel, Venture Partner at Starshot Capital and Board Member at Work on Climate, will offer perspectives from both sides of the table.
-Nov 6
-Beyond the AI Hype: Building the Next Generation of Intelligent Enterprises
-Fri, Nov 6 · 12:30 PM PST
-101 Howard Street
-The USF Data Science Speaker Series will feature Raghu Banda, an Enterprise Architect specializing in AI and innovation.
-Nov 6
-Hack the Feed: Creator Tools Hackathon with Oriane, GMI Cloud &amp; Lovable
-Fri, Nov 6 · 1:00 PM PST
-Amplitude Analytics
-Creators, developers, and marketers will build data-powered social video tools in a one-day hackathon, using free credits from Oriane, Lovable, and GMI Cloud for live demos and a chance at cash and partner-credit prizes. The jury includes experienced founders, investors, tech creators, and product leaders, including an ex-WhatsApp engineer, a Meta growth analyst, and professionals from Superhuman, Notion, Snowflake, and Dropbox.
-Nov 6
-Founders GTM Coffee Meetup
-Fri, Nov 6 · 2:00 PM PST
-San Francisco, CA
-Founders and early builders from pre-seed to Series A will swap practical GTM insights over coffee, alongside operators and investors. Hosts Thred, FinalLayer, which has generated 20M+ impressions for 50+ customers, and Olive, an embedded GTM engineering team for AI startups, will bring hands-on experience in growth, content, and pipeline building.
-Nov 6
-Qualcomm UNO Q Hack Night #3
-Fri, Nov 6 · 5:00 PM PST
-Qualcomm
-Qualcomm and HackerSquad will lead a hands-on workshop building local AI applications on the Arduino UNO Q, combining real-time control, Linux-class computing, and edge AI. AI developers, embedded engineers, makers, robotics builders, and researchers will explore multimodal sensing and autonomous on-device intelligence without cloud inference.
-Nov 6
-Gemini Argon vs Claude Fable vs GPT Sol
-Fri, Nov 6 · 5:00 PM PST
-Mountain View, CA
-This informal, discussion-based Gemini meetup will feature networking and a dedicated discussion session, with Google Security checking government-issued IDs at entry. Photos and videos may be taken during the event.
-Nov 6
-Table tennis, pizza &amp; beers at Healthleap
-Fri, Nov 6 · 5:30 PM PST
-San Francisco, CA
-AI builders, engineers, founders, and tech operators will unwind over table tennis, pizza, and beers, with relaxed conversation and no presentations or formal agenda.
-Nov 6
-Diwali Special Founders Session 🪔
-Fri, Nov 6 · 5:30 PM PST
-San Francisco, CA
-A Diwali evening will bring founders, investors, builders, and AI enthusiasts together for thoughtful conversations on how AI is creating new opportunities for startups and entrepreneurs. Attendees will exchange ideas and explore what’s next beyond today’s AI tools.
-Nov 6
-Built at the Frontier: AIAS⁺ Startup &amp; Builder Night
-Fri, Nov 6 · 5:30 PM PST
-The Ritz-Carlton
-This free evening meetup will connect AI, science, and emerging-tech founders, researchers, and builders through startup introductions and informal conversation. Attendees will meet teams developing new projects and discover opportunities for collaboration, with light bites and drinks provided.
+ThreatModCon 2026
+Fri, Nov 6 · 6:00 PM PST LIVE
+Hyatt Regency San Francisco
+A dedicated threat-modeling conference on Nov. 6–7 will debate whether AI can outperform human threat modelers.
+Nov 7
+MakerMods Physical AI Hackathon
+Sat, Nov 7 · 8:00 AM PST
+Founders, Inc. | San Francisco Lab
+MakerMods and Dream Labs will host a two-day Physical AI hackathon where up to 200 builders will work with bimanual robot arms and Dream-1, Dream Labs’ world action model. Robot-learning researchers, ML engineers, agent builders, hardware hackers, students, and designers will compete in a scored robot challenge or create applications connecting AI agents to real-world actions.
 Nov 7
 AIE Code Summit 2026 Hackathon
 Sat, Nov 7 · 9:00 AM PST
 San Francisco, CA
 The one-day AI Engineer Code Summit Hackathon will challenge teams to build coding agents that improve autonomously, reconstruct software from imperfect evidence, and verify code before it merges, with $11,000 in prizes. Industry experts Ivan Leo of Google DeepMind and Mike Beltzner of Meta will serve as speakers and judges, alongside partners Meta, Google DeepMind, MongoDB, Subquadratic, and Fetch.ai.
+Nov 7
+Deep Thinker&#x27;s Club: Art &amp; Technology Deep Conversation
+Sat, Nov 7 · 10:00 AM PST
+San Francisco, CA
+This weekly conversation club will bring founders, makers, designers, and curious thinkers together for relaxed discussions, product demos, and thoughtful feedback at the intersection of art and technology. Host Dylan Zhang, Pond AI founder and CEO who raised a $7.5M seed round and attracted 30+ angel investors, will foster genuine connections in a no-pitch, no-pressure atmosphere.
+Nov 7
+RoboRoots 2.0 : Civic Tech Summit
+Sat, Nov 7 · 10:00 AM PST
+African American Art &amp; Culture Complex
+The event will explore hands-on robotics, AI ethics, and workforce pathways, with live demonstrations and guest speakers sharing practical insights.
+Nov 7
+AI War Room - Edition - Saturday, 10:00 AM
+Sat, Nov 7 · 10:00 AM PST
+Victory Point Cafe
+A dynamic gathering will bring together AI enthusiasts, builders, and thinkers to dive into reasoning models, ethics, business implications, and real-world AI impact—with Berkeley&#x27;s AI War Room energy and community driving candid discussions on what&#x27;s reshaping the field right now.
+Nov 7
+Ship Happens: A Seldon Hackathon
+Sat, Nov 7 · 10:00 AM PST
+San Francisco, CA
+Builders will spend a day reinventing a paid software product, using Seldon’s Wren QA agent to test at least two core workflows before live demos. Teams will compete for up to $5,000 across product quality, originality, and audience choice, with hands-on support from the Seldon team.
+Nov 7
+Grok Bot Build Day: Real-World Agents
+Sat, Nov 7 · 12:00 PM PST
+1050 Sansome St
+Grok Bot Build Day will bring builders together for hands-on prototyping with AI agents, software, and optional hardware, with $30 in credits for each builder and $4,500 in prize credits. The afternoon will feature project demos and keynotes, followed by dinner and conversations about agents, robotics, and space.
+Nov 7
+Commit to the Bit - A Plethora Game Creation Hackathon for everyone
+Sat, Nov 7 · 1:00 PM PST
+JOE &amp; THE JUICE
+Commit to the Bit will be a casual game-creation hackathon where teams build an album of three or more connected bite-sized games in three hours, then play and vote on each other’s creations. Open to first-timers and experienced developers alike, the event will feature prizes from Recraft and Solve-it Puzzles, with projects judged on originality, design, artistry, replayability, and how well the games connect.
+Nov 7
+AI Research Hackathon
+Sat, Nov 7 · 11:00 PM PST
+San Francisco, CA
+Teams of 3–5 will spend 48 hours building AI research systems that can run experiments, improve themselves, and collaborate as agent swarms, using partner models, tools, and benchmarks. Participants will receive GPU and API credits, lab mentorship, and prizes, then pitch their work to judges, investors, and leading researchers.
+Nov 8
+Corgi x The Prompting Company Run Club
+Sun, Nov 8 · 9:00 AM PST
+Corgi Cafe
+A relaxed 3.4-mile waterfront social run will bring together founders, marketers, and DevRel professionals from seed-to-Series B software and developer-tool companies, with a corgi, smoothies, and coffee afterward. Hosts include Corgi, a full-stack insurance platform for tech companies backed by Y Combinator, and The Prompting Company, which helps software businesses improve how AI agents discover and use their products.
+Nov 8
+× MIT Hack Day: Energy
+Sun, Nov 8 · 10:00 AM PST
+AGI House SF
+On Nov. 8, builders will develop AI agents that use simulation to advance energy materials, grid and fusion systems, or scientific evaluation, with teams demoing live across San Francisco and MIT. The event is backed by Sundai Club, which has shipped 130+ consecutive hackathons and 1,000+ projects, and Superradiant, a research lab focused on self-improving agents for science.
+Nov 8
+Rally: Visa Pathways &amp; Pickleball for Immigrant Founders (Seed–Series A+)
+Sun, Nov 8 · 4:00 PM PST
+San Francisco, CA
+AI Valley, MeritMap, and E1B2 will bring immigrant founders together for pickleball and conversation about building strong professional profiles, including pathways such as O-1A and EB-1A. The gathering will connect first-generation founders and entrepreneurs navigating their next steps in a relaxed, beginner-friendly setting.
+Nov 9
+AI Engineer Code Summit
+Mon, Nov 9 · 4:00 PM PST
+San Francisco, CA
+The application-only AI Engineer Code Summit will bring together leading coding-agent builders and AI engineers for three days of focused exchange, November 10–12, 2026.
+Nov 9
+5K Run with Apify
+Mon, Nov 9 · 4:45 PM PST
+Fort Point National Historic Site
+Apify and fellow builders will kick off conference week with a sunset 5K, welcoming runners, joggers, and walkers at every pace. The evening will include a curated route, limited-edition runner swag, refreshments, and a chance to connect with fellow conference attendees.
+Nov 9
+Side Quest Hotline Vapi Hackathon
+Mon, Nov 9 · 5:00 PM PST
+150 Spear St
+Build Club will host a three-hour voice AI hackathon ahead of VapiCon, where up to 80 approved builders will create, test, and demo working voice agents. Teams will compete for prizes from Vapi, Exa, Deepgram, Manus, and Seeed Studio, with approved attendees receiving $150 in builder credits.
+Nov 9
+Cloudflare x U.S. Ski &amp; Snowboard: Winter Sports Challenge
+Mon, Nov 9 · 5:00 PM PST
+Shotski’s
+Cloudflare and U.S. Ski &amp; Snowboard will launch a developer challenge using real competition footage and data to build AI-powered tools for snowboard trick analysis and alpine race telemetry. Developers will hear about the technical tracks, starter resources, and Cloudflare platform; submissions will be due November 30, with event VIP tickets and Cloudflare credits among the prizes.
+Nov 9
+AI Builders Night
+Mon, Nov 9 · 5:00 PM PST
+AWS Builder Loft
+Attendees will need to register through the event page and complete a separate required registration form.
+Nov 9
+THE DATABASE MEETUP
+Mon, Nov 9 · 5:30 PM PST
+PlanetScale
+The SF Database Meetup will feature Manish Rai Jain, Egres founder and Dgraph founder, on reimagining Postgres, and Xiangpeng Hao, SpiralDB creator of bbtree and LiquidCache, on building a high-performance Rust ordered map with LLMs and rigorous correctness checks. Talks, Q&amp;A, networking, and database swag will round out the evening.
