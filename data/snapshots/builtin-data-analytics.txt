@@ -31,6 +31,17 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+Spectrum
+2027 Summer Intern: Data Developer
+<age> Saved
+In-Office
+Greenwood Village, CO, USA
+Internship
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Supports the Mobile Device Data and Operations team by collecting, enriching, and distributing product data to catalogs and vendor partners. Develops workflow designs using KNIME or Alteryx, works with Oracle and Snowflake databases, and deploys application tools on AWS. The internship also includes professional development, mentorship, networking, community service, and cross-functional projects.
+Top Skills:
+AI Alteryx AWS Excel Knime Oracle Power Apps Python Regex Sharepoint Snowflake SQL
 T-Mobile
 Summer 2027 Data Engineering Internship
 <age> Saved
@@ -44,19 +55,6 @@ Other &#x2022; Utilities
 Build and test ETL/ELT data pipelines using SQL and Python, ingesting and transforming data from multiple sources into cloud platforms. Implement data-quality checks, monitoring, and documentation; participate in agile ceremonies and code reviews; collaborate with engineers; and present project results to leadership. This is an 11-week paid internship involving real-world data engineering projects and mentorship.
 Top Skills:
 AWS Big Data Cloud Data Platforms Etl/Elt Git Java Python SQL
-T-Mobile
-Summer 2027 Data Engineering Internship
-<age> Saved
-In-Office
-2 Locations
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-An 11-week paid internship focused on designing, building, testing, and documenting data pipelines. The intern will use SQL and Python to ingest, transform, validate, and monitor data from multiple sources in cloud platforms. Responsibilities include data quality improvements, agile collaboration, code reviews, documentation, and presenting project outcomes to leadership. Candidates must pursue a bachelor’s or master’s degree, have relevant technical coursework or project experience, and be authorized to work in the United States.
-Top Skills:
-AWS Cloud Data Platforms Etl/Elt Git Java Python SQL
 Citadel Securities
 Quantitative Researcher - PhD Intern (US)
 <age> Saved
@@ -70,19 +68,6 @@ Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Qu
 As a PhD intern, you will develop and test trading strategies, perform statistical analysis, and collaborate with senior researchers.
 Top Skills:
 C&#x2B;&#x2B; Python R
-Citadel Securities
-Quantitative Researcher - Post-Doctoral Intern (US)
-<age> Saved
-In-Office
-2 Locations
-234K-302K Annually
-Internship
-234K-302K Annually
-Internship
-Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Quantitative Trading
-Conduct quantitative research for automated trading strategies by developing mathematical models, translating algorithms into code, backtesting trading signals, analyzing unconventional data, and refining monetization systems. Collaborate with senior researchers during an 11-week post-doctoral internship while applying advanced probability, statistics, machine learning, and time-series techniques to financial markets.
-Top Skills:
-C&#x2B;&#x2B; Machine Learning Natural Language Processing (Nlp) Pattern Recognition Python R Time-Series Analysis
 CrowdStrike
 Sales Data Analytics Intern
 <age> Saved
@@ -108,8 +93,8 @@ Supports Finance and cross-functional teams by building data pipelines, improvin
 Top Skills:
 APIs Azure Databricks Dax Etl/Elt Generative Ai Machine Learning Excel Microsoft Fabric Power BI Power Query Python SQL
 New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
 Use For Free
 Ahold Delhaize USA
 3rd Party Partnership Intern
@@ -124,17 +109,6 @@ AdTech &#x2022; eCommerce &#x2022; Food &#x2022; Marketing Tech &#x2022; Retail
 Supports strategic third-party delivery partnerships through delivery and marketplace data analysis, operational performance monitoring, reporting, and business reviews. Identifies trends, recurring issues, and improvement opportunities; documents findings and develops recommendations. Collaborates with internal stakeholders and external delivery providers, participates in meetings, and presents analytical insights. The internship also includes mentorship, leadership development, networking, and project-based learning.
 Top Skills:
 Excel Microsoft Powerpoint
-Spectrum
-2027 Summer Intern: Data Insights Analyst (Customer Operations)
-<age> Saved
-In-Office
-Overland Park, KS, USA
-Internship
-Internship
-eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
-Paid, full-time 11-week data analytics internship focused on fraud-ring identification, graph analytics, data extraction and cleaning, data engineering, visualization, customer-readable reporting, and communicating insights. The intern will use tools such as Tableau, Power BI, and Excel, make data-driven recommendations, and collaborate with cross-functional teams while participating in professional development and networking activities.
-Top Skills:
-Graph Analytics Microsoft Access Excel Microsoft Powerpoint Microsoft Word Power BI Tableau
 Wells Fargo
 2027 Technology Summer Internship &#x2013; Early Careers (Data Engineering)
 <age> Saved

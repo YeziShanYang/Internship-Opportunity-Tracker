@@ -37,7 +37,7 @@ San Mateo, CA Posted <age>
 Marketing
 AI, Research
 Growth, 10–100 employees
-Figma Typography Artificial Intelligence 3D Modeling After Effects Compositing Graphic Design Rendering Brand Design
+Rendering Adobe Creative Suite Workflow Scheduling Graphic Design Figma Blender After Effects Brand Design 3D Compositing
 Apply
 #LI-DNI Exowatt Global Supply Manager MBA Spring Intern (Austin)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -45,7 +45,7 @@ Similar jobs pay USD 40,000 - 70,000 / year
 Austin, TX Posted <age>
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Contract Manufacturing Engineering Design Artificial Intelligence Supply Chain Management Spring Infrastructure Solar Energy Aerospace Cost Reduction Procurement
+Engineering Design Strategic Sourcing Procurement Contract Manufacturing Cost Reduction Spring Infrastructure Supply Chain Management Artificial Intelligence Solar Energy
 Apply
 #LI-DNI Exowatt Buyer / Supply Chain &amp; Logistics Spring Intern (Austin)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -53,20 +53,20 @@ Similar jobs pay USD 40,000 - 75,000 / year
 Austin, TX Posted <age>
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Artificial Intelligence Spring Supply Chain Management Logistics Optics Infrastructure SAP Attention to Detail Power Electronics ERP
+Renewable Energy NetSuite Logistics Procurement Power Electronics Spring SAP Follow through Supply Chain Management Infrastructure
 Apply
 #LI-DNI Exowatt Supply Chain &amp; Manufacturing Spring Intern - Manufacturing (Austin)
 Austin, TX Posted <age>
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Sheet Metal GD&amp;T SolidWorks Lean Manufacturing Artificial Intelligence Spring Supply Chain Management Infrastructure Fusion Standard operating procedure
+Industrial Engineering Lean Manufacturing Renewable Energy SolidWorks Sheet Metal GD&amp;T Standard operating procedure Spring Infrastructure Supply Chain Management
 Apply
 #LI-DNI DeepJudge Working Student Quality Assurance - Legal (40-60%)
 Zurich, Zurich, Switzerland, Zurich HQ Posted <age>
 Quality Assurance
 AI, Enterprise Software
 Series A, 10–100 employees
-Quality Assurance Artificial Intelligence Infrastructure Attention to Detail Research Stress Testing User Flow Release Enterprise Search
+Quality Assurance Attention to Detail Release Research Infrastructure Stress Testing Artificial Intelligence User Flow Enterprise Search
 Apply
 #LI-DNI Tera AI [Intern] Videographer / Content Creator (Part-Time)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -74,7 +74,7 @@ Similar jobs pay USD 20,000 - 65,000 / year
 San Francisco, CA, US Posted <age>
 AI
 Seed, 10–100 employees
-Perception Marketing Artificial Intelligence Content Development Attention to Detail Content Management Social Media Journalism B2B Robotics
+Perception Journalism Content Development Social Media Robotics Artificial Intelligence Content Management Marketing B2B Attention to Detail
 Apply
 #LI-DNI Deep Infra Software Engineer Intern (US)
 Always confirm salary details from the job posting.
@@ -83,14 +83,14 @@ Palo Alto, CA, USA Posted 30+ days ago
 Engineering
 AI
 Seed, 10–100 employees
-Artificial Intelligence Git Version Control Systems NumPy Design Patterns Pandas PyTorch TensorFlow Python Cross-functional Team Leadership
+Python Git PyTorch SciPy Design Patterns Pandas NumPy Cross-functional Team Leadership Version Control Systems TensorFlow
 Apply
 #LI-DNI Periodic Labs Research Intern, Thin Films
 Menlo Park, California, United States, Menlo Park, CA Posted 30+ days ago
 Science
 AI, Research
 Seed, 10–100 employees
-MEMS Photolithography Characterization Photonics Artificial Intelligence Optics Optoelectronics SEM Semiconductor Devices Process Flow Documentation
+Thin Films Nanofabrication Good Lab Practice Optoelectronics MEMS Characterization SEM Process Flow Documentation Sputtering Semiconductor Devices
 Apply
 #LI-DNI Simular GTM Intern, Content &amp; Distribution
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -99,7 +99,7 @@ Remote, Hybrid Palo Alto, California, United States, Palo Alto, Remote, Singapor
 Go-to-Market
 AI
 Series A, 10–100 employees
-Artificial Intelligence Marketing Strategy Newsletters Video Editing Organizing Motion Graphics
+Newsletters Marketing Strategy Artificial Intelligence Video Editing Organizing Motion Graphics
 Apply
 #LI-DNI Revel Internship: Forward Deployed Engineer, Test
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -108,14 +108,14 @@ Los Angeles, California, United States, San Francisco, California, United States
 Internship
 Hardware, Manufacturing
 Growth, 10–100 employees
-Quality Assurance Test Automation Artificial Intelligence Instrumentation Test Equipment Physics Sensors C/C++ Python Software Testing
+Python Test Equipment Quality Assurance Embedded Systems Test Automation Sensors Instrumentation Robotics Artificial Intelligence Data Acquisition
 Apply
 #LI-DNI Deep Infra Software Engineer Intern (Europe)
 Remote EU Remote Posted 30+ days ago
 Engineering
 AI
 Seed, 10–100 employees
-Artificial Intelligence Git Version Control Systems NumPy Design Patterns Pandas PyTorch TensorFlow Python Cross-functional Team Leadership
+Python Git PyTorch SciPy Design Patterns Pandas NumPy Cross-functional Team Leadership Version Control Systems TensorFlow
 Apply
 #LI-DNI Singularity Defense Mechanical Engineer - Co-op
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -123,7 +123,7 @@ Similar jobs pay USD 40,000 - 85,000 / year
 Gardena, CA Posted 30+ days ago
 Defense &amp; Space, Manufacturing
 Series A, 10–100 employees
-SolidWorks NX PTC Creo Aerospace CAD Prototyping
+SolidWorks PTC Creo NX Prototyping CAD Aerospace
 Apply
 #LI-DNI Revel Internship: Forward Deployed Engineer, Software
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -132,7 +132,7 @@ Los Angeles, California, United States, San Francisco, California, United States
 Internship
 Hardware, Manufacturing
 Growth, 10–100 employees
-Artificial Intelligence Build Automation Software Test Equipment Industrial Automation Systems Engineering Sensors C/C++ Python Aerospace Data Acquisition
+Python Test Equipment Industrial Automation Embedded Systems Systems Engineering Sensors Robotics Artificial Intelligence Data Acquisition C/C++
 Apply
 #LI-DNI Revel Internship: Embedded Software Engineer
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -141,7 +141,7 @@ Los Angeles, California, United States, San Francisco, California, United States
 Internship
 Hardware, Manufacturing
 Growth, 10–100 employees
-Linux Communication Protocols Computer Architecture Operating Systems Networking Technologies Sensors Industrial Automation Research C/C++ Aerospace
+Industrial Automation Networking Technologies Embedded Software Linux Research Sensors Systems Programming Aerospace Robotics Operating Systems
 Apply
 #LI-DNI Simular GTM Intern, Growth Operations
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -150,7 +150,7 @@ Remote, Hybrid Palo Alto, California, United States, Palo Alto, Remote, Singapor
 Go-to-Market
 AI
 Series A, 10–100 employees
-Analytics Automation Salesforce Marketing Strategy Attention to Detail CRM HubSpot
+Analytics HubSpot CRM Salesforce Automation Marketing Strategy Attention to Detail
 Apply
 Show more jobs Back to top
 Share these results

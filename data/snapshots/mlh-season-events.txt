@@ -67,6 +67,12 @@ CommuniHacks
 NOV 07 - 08
 Kitchener, Ontario, CA
 In-Person
+Rochester , New York
+HACK.COMS
+NOV 07 - 08
+Rochester, New York, US
+Computing Organization for Multicultural Students
+In-Person Diversity
 Edinburgh , Edinburgh
 HackTheBurgh
 NOV 07 - 08
@@ -122,139 +128,11 @@ NASA&#x27;s Space Apps Challenge NYC
 NOV 13 - 15
 Brooklyn, New York, US
 In-Person
-Amherst , MA
-HackUMass
-NOV 13 - 15
-Amherst, MA, US
-In-Person
-Show more upcoming events
-Past Events
-2026
-Richardson , Texas
-HackUTD Roadshow
-NOV 06
-Richardson, Texas, US
-In-Person
-New delhi , New delhi
-hackCBS 9.O
-OCT 31 - NOV 01
-New delhi, New delhi, IN
-In-Person
-University Park , PA
-Hack at Penn State
-OCT 24 - 25
-University Park, PA, US
-In-Person
-Durham , NC
-DuQuantum
-OCT 24 - 25
-Durham, NC, US
-In-Person
-Austin , TX
-HackTX 26
-OCT 24 - 25
-Austin, TX, US
-In-Person
-Oxford , England
-OxHack &#x27;26
-OCT 24 - 25
-Oxford, England, GB
-In-Person
-Stony Brook , New York
-SBUHacks
-OCT 23 - 25
-Stony Brook, New York, US
-In-Person
-San Francisco , California
-Cal Hacks 13.0
-OCT 23 - 25
-San Francisco, California, US
-In-Person Hardware
-Los Angeles , CA
-LA Hacks AI Hackathon 2026
-OCT 17 - 18
-Los Angeles, CA, US
-In-Person
-Hyattsville , Maryland
-Technica Hacks
-OCT 17 - 18
-Hyattsville, Maryland, US
-In-Person Diversity
-London , London
-IKU Womxn in STEM Hackathon
-OCT 17 - 18
-London, London, GB
-In-Person Diversity
-Seattle , Washington
-DubHacks
-OCT 17 - 18
-Seattle, Washington, US
-In-Person
-Charlottesville , VA
-Girls Hoo Hack 2026
-OCT 17 - 18
-Charlottesville, VA, US
-In-Person Diversity Hardware
-Green Bay , WI
-HackGB
-OCT 17 - 18
-Green Bay, WI, US
-In-Person
-Scarborough , Ontario
-Hack the Valley
-OCT 16 - 18
-Scarborough, Ontario, CA
-In-Person
-Gainesville , Florida
-SwampHacks XII
-OCT 16 - 18
-Gainesville, Florida, US
-In-Person
-Ghaziabad , Uttar Pradesh
-Innohacks 4.0
-OCT 10 - 11
-Ghaziabad, Uttar Pradesh, IN
-In-Person
-Columbia , SC
-Palmetto Hacks
-OCT 10 - 11
-Columbia, SC, US
-In-Person
-Piscataway , New Jersey
-HackRU
-OCT 10 - 11
-Piscataway, New Jersey , US
-In-Person
-Princeton , New Jersey
-hackPHS
-OCT 10 - 11
-Princeton, New Jersey, US
-In-Person High school
-Houston , Texas
-CodeRED Orion
-OCT 10 - 11
-Houston, Texas, US
-In-Person
-Orlando , Florida
-Knight Hacks IX
-OCT 09 - 11
-Orlando, Florida, US
-In-Person
-Atlanta , Georgia
-Hacklanta
-OCT 09 - 11
-Atlanta, Georgia, US
-In-Person
-Saltillo , Coahuila
-Hackathon TecNM Campus Saltillo 2026
-OCT 09 - 10
-Saltillo, Coahuila, MX
-In-Person
 24 upcoming and 24 past events shown
 Location data © OpenStreetMap contributors
 Footer
 Major League Hacking We help run the global hacker community. It&#x27;s our mission to empower hackers, just like you.
-Instagram Discord TikTok LinkedIn YouTube
+Instagram Discord X DEV LinkedIn YouTube
 Hackathons Upcoming Hackathons
 Global Hack Week
 TechTogether

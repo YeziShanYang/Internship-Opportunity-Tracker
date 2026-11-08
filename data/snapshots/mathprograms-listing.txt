@@ -45,8 +45,6 @@ Institute for Advanced Study, School of Mathematics
 Institute for Advanced Study/South America
 [ GSS27 ] THE GEOMETRY OF SINGULAR SETS: SCHOOL ON GEOMETRIC MEASURE THEORY, HARMONIC ANALYSIS AND PDE (IAS/South America, a Program of the Institute for Advanced Study) &nbsp; Apply
 [ HCA27 ] HIGHER CATEGORIES AND APPLICATIONS (IAS/South America, a Program of the Institute for Advanced Study) &nbsp; Apply
-Joint Mathematics Meetings, Special Programs
-[ 2027CHILD ] 2027CHILD &nbsp; Apply
 Ross Mathematics Foundation, Ross Mathematics Program
 [ RP2 ] Mentor / Course Assistant at RP2 &nbsp; Apply
 University of California, Los Angeles, Department of Mathematics
@@ -63,5 +61,5 @@ Williams College, Mathematics and Statistics
 [ NTPROBABILITY ] Williams College SMALL REU 2027: Number Theory and Probability &nbsp; Apply
 [ POLYMATHREU2027 ] Polymath Jr-REU2027 &nbsp; Apply
 [ TROPICAL ] Williams College SMALL REU 2027: Tropical Geometry &nbsp; Apply
-(29 programs listed)
+(28 programs listed)
 &copy; 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.

@@ -31,6 +31,17 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Spectrum
+2027 Summer Intern: Software Engineer - P&amp;T
+<age> Saved
+In-Office
+St Louis, MO, USA
+Internship
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Paid, full-time software engineering internship supporting customer-context data patterns, decision-engineering tools, requirements analysis, and data-platform products. Interns collaborate with department teams, participate in professional development, networking, mentorship, and cross-functional activities. Candidates must be rising seniors pursuing a bachelor’s degree, maintain at least a 3.0 GPA, and be authorized to work in the U.S. without current or future employment-based sponsorship.
+Top Skills:
+Python
 T-Mobile
 Summer 2027 Software Engineering Internship
 <age> Saved
@@ -44,32 +55,6 @@ Other &#x2022; Utilities
 An 11-week paid software engineering internship developing, testing, deploying, and documenting customer care applications. Interns will build voice, chat, and other applications for frontline support teams using microservices, virtualization, software-defined networking, network functions virtualization, and big data platforms. Responsibilities include creating scalable and highly available software, collaborating with technical teams, applying emerging technologies, and improving existing processes.
 Top Skills:
 Big Data Platforms Microservices Network Functions Virtualization Software-Defined Networking Virtualization
-T-Mobile
-Summer 2027 Software Engineering Internship
-<age> Saved
-In-Office
-Bellevue, WA, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Paid 11-week software engineering internship involving mentorship, stakeholder requirements gathering, solution development, and design, documentation, development, and testing. Interns will help build data and AI solutions, support data governance and privacy consent management, and contribute to near-real-time streaming data architecture and intelligence platforms.
-Top Skills:
-AI Real-Time Data Architecture Streaming Data
-T-Mobile
-Summer 2027 Software Engineer HR Data Products Internship
-<age> Saved
-In-Office
-Bellevue, WA, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Participate in an 11-week software engineering internship focused on building secure HR and Workplace Experience data products. Join a scrum team to implement user stories, create code commits, merge requests, and deployments. Responsibilities include data analysis, engineering, data modeling, semantic layer creation, and developing enterprise-scalable role-based access control solutions. Interns receive mentorship, training, and hands-on project experience.
-Top Skills:
-Rbac
 Notion
 Software Engineering Intern, Frontend (Summer 2027)
 <age> Saved
@@ -83,19 +68,6 @@ Artificial Intelligence &#x2022; Productivity &#x2022; Software
 Software Engineering Interns will work on Notion’s Web Infrastructure team, building performant, scalable, and accessible frontend foundations. Responsibilities may include developing reusable web patterns, creating tooling for testing, debugging, and profiling frontend features, and building desktop infrastructure with OS integrations. Candidates should be pursuing a relevant degree, developing React and TypeScript proficiency, have prior internship experience, and demonstrate problem-solving, collaboration, adaptability, user empathy, and interest in AI technologies.
 Top Skills:
 Embeddings Llms Machine Learning React Typescript
-Notion
-Software Engineering Intern, iOS (Summer 2027)
-<age> Saved
-Hybrid
-New York, NY, USA
-57-61 Hourly
-Internship
-57-61 Hourly
-Internship
-Artificial Intelligence &#x2022; Productivity &#x2022; Software
-Software Engineering Intern supporting Notion’s iOS platform. The intern will own and ship a focused production project, improve mobile build, testing, screenshot, observability, and CI/CD workflows, and collaborate with mobile platform, AI, and core product engineers. The role provides exposure to shared frameworks, release quality, build systems, and Rust. Candidates should be pursuing a relevant degree, have prior internship experience, programming experience, AI prototyping exposure, and be available to work onsite in New York during summer 2027.
-Top Skills:
-Ci/Cd Embeddings iOS Llms Machine Learning Python React Rust Swift Typescript
 IMC Trading
 Quant Performance Engineer Intern - Summer 2027
 <age> Saved
@@ -109,10 +81,6 @@ Fintech &#x2022; Machine Learning &#x2022; Software &#x2022; Financial Services
 Performance Engineer Interns conduct quantitative research on exchange and network technologies, design optimization strategies for electronic trading, develop AI agents, ETL pipelines, and Python algorithms, and reverse-engineer and stress-test low-latency systems. They collaborate with traders and hardware and software engineers to improve liquidity-taking, quoting, and ultra-low-latency trading strategies.
 Top Skills:
 Etl Pipelines Machine Learning Network Programming Python Statistical Modeling Systems Programming
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 InterSystems
 Summer Internship 2027
 <age> Saved
@@ -128,17 +96,10 @@ Artificial Intelligence &#x2022; Big Data &#x2022; Healthtech &#x2022; Machine L
 Paid 12-week, in-person software development internship in Boston beginning June 1, 2027. Interns complete training, collaborate with developers and mentors, develop a nine-week software project, participate in networking events, and present their work to senior leadership. The program is designed for currently enrolled undergraduate or graduate students in STEM disciplines and may lead to future internships or full-time opportunities.
 Top Skills:
 Angularjs C C&#x2B;&#x2B; Java JavaScript JSON Python
-Spectrum
-2027 Summer Intern: Software Engineer
-<age> Saved
-In-Office
-Englewood, CO, USA
-Internship
-Internship
-eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
-Paid, full-time software engineering internship supporting private wireless and network initiatives. Responsibilities include developing user interfaces and portals, integrating customer use cases, coding for Android platforms, applying AI/ML, testing radio and core network solutions, and researching LTE, 5G, 6G, and non-terrestrial networks. Interns also participate in professional development, mentoring, networking, and cross-functional activities.
-Top Skills:
-5G 6G Ai/Ml Android APIs C Java JSON Lte Non-Terrestrial Networks Python Radio Access Network (Ran)
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Geneva Trading
 C&#x2B;&#x2B; Developer (Intern)
 <age> Saved
@@ -211,7 +172,7 @@ AI Grpc JavaScript Kotlin Postgres React Ruby SQL Typescript
 5
 ...
 ...
-86
+85
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters
