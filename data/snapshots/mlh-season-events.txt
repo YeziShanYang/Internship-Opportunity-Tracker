@@ -7,102 +7,6 @@ Filter events This Month Next Month Diversity Focused Region Sort: Date
 Sponsored
 Upcoming Events
 2026
-Everywhere , Worldwide
-Solana Hackathon
-NOV 06 - 08
-Everywhere, Worldwide, US
-Digital
-Miami , FL
-SharkByte
-NOV 06 - 08
-Miami, FL, US
-In-Person
-Turku , Varsinais-Suomi
-Since AI Hackathon
-NOV 06 - 08
-Turku, Varsinais-Suomi, FI
-In-Person
-Peterborough , Ontario
-HackTrent
-NOV 06 - 08
-Peterborough, Ontario, CA
-In-Person
-York PA , PA
-YCP Hacks
-NOV 06 - 08
-York PA, PA, US
-In-Person
-Richardson , Texas
-HackUTD
-NOV 07 - 08
-Richardson, Texas, US
-In-Person
-Hamilton , Ontario
-BioHacks
-NOV 07 - 08
-Hamilton, Ontario, CA
-In-Person
-New York , New York
-MakeCU
-NOV 07 - 08
-New York, New York, US
-In-Person
-Troy , New York
-HackRPI 2026
-NOV 07 - 08
-Troy, New York, US
-In-Person
-Calgary , Alberta
-Hack the Change
-NOV 07 - 08
-Calgary, Alberta, CA
-In-Person Hardware
-Mississauga , Ontario
-Sheridan Datathon 2026
-NOV 07 - 08
-Mississauga, Ontario, CA
-In-Person
-Kitchener , Ontario
-CommuniHacks
-NOV 07 - 08
-Kitchener, Ontario, CA
-In-Person
-Rochester , New York
-HACK.COMS
-NOV 07 - 08
-Rochester, New York, US
-Computing Organization for Multicultural Students
-In-Person Diversity
-Edinburgh , Edinburgh
-HackTheBurgh
-NOV 07 - 08
-Edinburgh, Edinburgh, GB
-In-Person
-Cincinnati , Ohio
-MakeUC
-NOV 07 - 08
-Cincinnati , Ohio, US
-In-Person
-Vancovuer , British Columbia
-HackCamp
-NOV 07 - 08
-Vancovuer, British Columbia, CA
-In-Person
-College Station , Texas
-TAMU Datathon
-NOV 07 - 08
-College Station, Texas, US
-In-Person
-Buffalo , Northeast
-UB Hacking
-NOV 07 - 08
-Buffalo, Northeast , US
-In-Person Hardware
-Salisbury , MD
-GullHacks
-NOV 07 - 08
-Salisbury, MD, US
-In-Person
 Atlanta , GA
 Emory Hacks
 NOV 13 - 15
@@ -128,6 +32,102 @@ NASA&#x27;s Space Apps Challenge NYC
 NOV 13 - 15
 Brooklyn, New York, US
 In-Person
+Amherst , MA
+HackUMass
+NOV 13 - 15
+Amherst, MA, US
+In-Person
+Arlington , Texas
+HackUTA
+NOV 14 - 15
+Arlington, Texas, US
+In-Person
+La Jolla , CA
+SanD Hacks
+NOV 14 - 15
+La Jolla, CA, US
+In-Person
+Ypsilanti , Michigan
+Hack The Nest
+NOV 14 - 15
+Ypsilanti, Michigan, US
+In-Person Hardware
+Durham , County Durham
+DurHack
+NOV 14 - 15
+Durham, County Durham, GB
+In-Person
+Tempe , Arizona
+sunhacks
+NOV 14 - 15
+Tempe, Arizona, US
+In-Person
+London , Ontario
+Hack Western 13
+NOV 20 - 22
+London, Ontario, CA
+In-Person Hardware
+St. John&#x27;s , Newfoundland and Labrador / Avalon Peninsula
+Tech For Community 2026
+NOV 21 - 22
+St. John&#x27;s, Newfoundland and Labrador / Avalon Peninsula, CA
+In-Person High school Hardware
+Wellesley , Massachesetts
+WHACK (Wellesley Hackathon)
+NOV 21 - 22
+Wellesley , Massachesetts, US
+In-Person
+Boston , MA
+BostonHacks
+NOV 21 - 22
+Boston, MA, US
+In-Person
+Lleida , Lleida, Spain
+HackEPS
+NOV 28 - 29
+Lleida, Lleida, Spain, ES
+In-Person
+Sheffield , South Yorkshire
+HackSheffield11
+NOV 28 - 29
+Sheffield, South Yorkshire, GB
+In-Person
+Manhattan , Kansas
+Hack Cats
+DEC 04 - 06
+Manhattan, Kansas, US
+In-Person
+2027
+Hamilton , Ontario
+DeltaHacks
+JAN 09 - 10
+Hamilton, Ontario, CA
+In-Person
+Toronto , Ontario
+UofTHacks
+JAN 15 - 17
+Toronto, Ontario, CA
+In-Person
+Ottawa , Ontario
+uOttaHack 9
+JAN 15 - 17
+Ottawa, Ontario , CA
+In-Person
+Los Angeles , CA
+QWER Hacks
+JAN 16 - 17
+Los Angeles, CA, US
+In-Person Diversity
+Vancouver , British Columbia
+nwHacks
+JAN 16 - 17
+Vancouver, British Columbia, CA
+In-Person
+Alexandria , Virginia
+HackBI X
+JAN 16 - 17
+Alexandria, Virginia, US
+In-Person High school
 24 upcoming and 24 past events shown
 Location data © OpenStreetMap contributors
 Footer

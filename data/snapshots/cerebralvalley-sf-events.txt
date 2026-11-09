@@ -36,31 +36,6 @@ AWS x NVIDIA Workshop for Model Customization
 Tue, Nov 10 · 9:30 AM PST
 San Francisco, CA
 ML engineers, data scientists, AI leaders, and infrastructure professionals will get hands-on experience fine-tuning NVIDIA Nemotron 3 with Amazon SageMaker AI, evaluating it against a baseline, and deploying it to a real-time endpoint. The workshop will cover when to prompt or fine-tune and how customization can improve production AI agents while managing accuracy, latency, and cost.
-Nov 7
-MakerMods Physical AI Hackathon
-Sat, Nov 7 · 8:00 AM PST LIVE
-Founders, Inc. | San Francisco Lab
-MakerMods and Dream Labs will host a two-day Physical AI hackathon where up to 200 builders will work with bimanual robot arms and Dream-1, Dream Labs’ world action model. Robot-learning researchers, ML engineers, agent builders, hardware hackers, students, and designers will compete in a scored robot challenge or create applications connecting AI agents to real-world actions.
-Nov 7
-AI Research Hackathon
-Sat, Nov 7 · 11:00 PM PST LIVE
-San Francisco, CA
-Teams of 3–5 will spend 48 hours building AI research systems that can run experiments, improve themselves, and collaborate as agent swarms, using partner models, tools, and benchmarks. Participants will receive GPU and API credits, lab mentorship, and prizes, then pitch their work to judges, investors, and leading researchers.
-Nov 8
-Corgi x The Prompting Company Run Club
-Sun, Nov 8 · 9:00 AM PST
-Corgi Cafe
-A relaxed 3.4-mile waterfront social run will bring together founders, marketers, and DevRel professionals from seed-to-Series B software and developer-tool companies, with a corgi, smoothies, and coffee afterward. Hosts include Corgi, a full-stack insurance platform for tech companies backed by Y Combinator, and The Prompting Company, which helps software businesses improve how AI agents discover and use their products.
-Nov 8
-× MIT Hack Day: Energy
-Sun, Nov 8 · 10:00 AM PST
-AGI House SF
-On Nov. 8, builders will develop AI agents that use simulation to advance energy materials, grid and fusion systems, or scientific evaluation, with teams demoing live across San Francisco and MIT. The event is backed by Sundai Club, which has shipped 130+ consecutive hackathons and 1,000+ projects, and Superradiant, a research lab focused on self-improving agents for science.
-Nov 8
-Rally: Visa Pathways &amp; Pickleball for Immigrant Founders (Seed–Series A+)
-Sun, Nov 8 · 4:00 PM PST
-San Francisco, CA
-AI Valley, MeritMap, and E1B2 will bring immigrant founders together for pickleball and conversation about building strong professional profiles, including pathways such as O-1A and EB-1A. The gathering will connect first-generation founders and entrepreneurs navigating their next steps in a relaxed, beginner-friendly setting.
 Nov 9
 AI Engineer Code Summit
 Mon, Nov 9 · 4:00 PM PST
@@ -106,26 +81,31 @@ Builders Night
 Mon, Nov 9 · 6:30 PM PST
 550 Laguna St
 Builders Night will give software, hardware, business, and creative builders focused time to make progress alongside others, with a quiet work sprint and a share-back for lessons, asks, and peer support. It will bring together AI-first builders and operators seeking accountability and momentum.
+Nov 9
+Theranos of AI industry? YCSE Debrief &amp; AI Chat
+Mon, Nov 9 · 7:15 PM PST
+San Francisco, CA
+An open-forum discussion will examine what’s acceptable in the AI industry, potential harms, misleading claims, and accountability when rapid development outpaces auditing. Attendees will share brief introductions and perspectives before an evening of discussion and networking.
 Nov 10
 After Tokens
 Tue, Nov 10 · 8:00 AM PST
 TERRA
 After Tokens will bring engineers building AI economy infrastructure together for technical talks and production-system breakdowns on metering, pricing, billing, entitlements, cost control, and moving beyond token-based models. Hosted by Stigg, the one-day conference will explore how AI usage connects to what customers actually buy.
 Nov 10
-Run by Apify
+VantaCon 2026 | The AI governance event
 Tue, Nov 10 · 9:00 AM PST
-The Pearl
-Power users will showcase real-world builds and strategies on the Apify platform, giving businesses and builders a chance to see what&#x27;s possible and grab actionable insights for their own projects.
+Convene SF
+VantaCon will bring together 650+ practitioners from leading companies and leaders shaping AI trust and governance. Attendees will share proven AI-risk strategies, practical frameworks, and perspectives that will help set the agenda for trust.
 Nov 10
 Climbing
 Tue, Nov 10 · 9:00 AM PST
 Benchmark Climbing
 AIE Code Summit week will kick off with a relaxed morning of coached bouldering, with climbing shoes and chalk provided and no experience needed. A smoothie and matcha bar will offer a laid-back alternative, hosted by Cognition, DeepMind, and Judgment Labs.
 Nov 10
-VantaCon 2026 | The AI governance event
+Run by Apify
 Tue, Nov 10 · 9:00 AM PST
-Convene SF
-VantaCon will bring together 650+ practitioners from leading companies and leaders shaping AI trust and governance. Attendees will share proven AI-risk strategies, practical frameworks, and perspectives that will help set the agenda for trust.
+The Pearl
+Power users will showcase real-world builds and strategies on the Apify platform, giving businesses and builders a chance to see what&#x27;s possible and grab actionable insights for their own projects.
 Nov 10
 AWS x NVIDIA Workshop for Model Customization
 Tue, Nov 10 · 9:30 AM PST
@@ -136,3 +116,23 @@ Run by Apify
 Tue, Nov 10 · 10:00 AM PST
 The Pearl
 Run by Apify will bring founders, developers, and technical teams building with Apify Actors together for a single-track day of keynotes, live demos, and practical lessons from production. Attendees will connect with experienced builders and the Apify team, with catering and an evening reception also planned.
+Nov 10
+Akamai AI Summit
+Tue, Nov 10 · 12:00 PM PST
+Oracle Park
+AI leaders from Akamai, NVIDIA, IDC, and Reactor will explore distributed inference, secure agentic workloads, and real-time multimodal AI through expert talks, live architecture demos, and hands-on infrastructure testing. CTOs, founders, and engineering leaders will also hear futurist Salim Ismail’s perspective on how AI will reshape organizations.
+Nov 10
+Culture Slop Live!
+Tue, Nov 10 · 2:30 PM PST
+San Francisco, CA
+Culture Slop LIVE! will close its first season with five talks on how technology shapes culture and taste, alongside an edible sculptural gallery. Speakers include designers, artists, researchers, investors, and founders, including Baukunst co-founder Tyler Mincey and Wabi founder and CEO Eugenia Kuyda.
+Nov 10
+Notion 101 for Small Businesses
+Tue, Nov 10 · 3:00 PM PST
+San Francisco, CA
+Small-business operators will learn Notion fundamentals, explore workflows tailored to retail, e-commerce, or services, and build a practical Business OS with guidance from Notion experts. The beginner-friendly, hands-on session will also add an AI layer to a real business workflow such as scheduling, inventory, client management, or content.
+Nov 10
+partner demo day
+Tue, Nov 10 · 3:00 PM PST
+San Francisco, CA
+The Residency F26 Demo Day will showcase ambitious founders building across AI, robotics, computing, data networks, and hardware, with demos followed by networking and startup booths. The Residency’s proven global network spans 16 residencies across three continents and has supported seven companies valued at $100 million or more, including unicorn Prime Intellect.

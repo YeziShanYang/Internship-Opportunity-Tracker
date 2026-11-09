@@ -2,6 +2,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-1/brand-4/candidate/jobboard/vac
 Campus Opportunities
 Jefferies
 <timestamp>
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2024-Class-of-2029-U-S-Women-in-Research-Mentorship-Program/en-GB
+Class of 2029: U.S. Women in Research Mentorship Program
+<timestamp>
+<timestamp>
+ID:2024
+Title:Class of 2029: U.S. Women in Research Mentorship Program
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1858-2027-Investment-Banking-Analyst-Houston-Energy-Group-February-Start/en-GB
 2027 Investment Banking Analyst - Houston, Energy Group (February Start)
 <timestamp>
@@ -38,12 +44,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:2040
 Title:2028 Investment Banking Summer Analyst Program – Boston, Industrials Group
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2043-2028-Investment-Banking-Summer-Analyst-Program-Chicago-Industrials-Group/en-GB
-2028 Investment Banking Summer Analyst Program – Chicago, Industrials Group
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2043-2028-Investment-Banking-Summer-Analyst-Program-Chicago-or-New-York-Industrials-Group/en-GB
+2028 Investment Banking Summer Analyst Program – Chicago or New York, Industrials Group
 <timestamp>
 <timestamp>
 ID:2043
-Title:2028 Investment Banking Summer Analyst Program – Chicago, Industrials Group
+Title:2028 Investment Banking Summer Analyst Program – Chicago or New York, Industrials Group
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2045-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Technology-Media-Telecom-Group/en-GB
 2028 Investment Banking Summer Analyst Program – Charlotte, Technology, Media &amp; Telecom Group
 <timestamp>
