@@ -31,6 +31,58 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Citadel
+Software Engineer - Intern (US)
+<age> Saved
+In-Office
+4 Locations
+5K-6K Annually
+Internship
+5K-6K Annually
+Internship
+Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
+11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
+Top Skills:
+Distributed Computing Machine Learning Natural Language Processing Web Frameworks
+NBCUniversal
+Media Tech: Product &amp; Engineering Internships - Summer 2027
+<age> Saved
+Hybrid
+New York, NY, USA
+38-43 Hourly
+Internship
+38-43 Hourly
+Internship
+AdTech &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology &#x2022; News &#x2B; Entertainment &#x2022; App development
+Paid summer internship for actively enrolled students supporting NBCUniversal’s Media Tech organization. Interns may work in advertising technology integrations, AI-powered enterprise products, or network operations and Wi-Fi. Responsibilities include applying programming skills, working with APIs and structured data, exploring network infrastructure, prototyping AI agents, and contributing to technical projects. The role requires 40 hours per week in New York from June 7 through August 13, 2027.
+Top Skills:
+APIs Generative Ai JavaScript JSON Linux macOS Python Rf Time-Series Databases Typescript Wi-Fi Windows 11
+NBCUniversal
+Media Tech: Product &amp; Engineering Internships - Summer 2027
+<age> Saved
+Hybrid
+Los Angeles, CA, USA
+38-43 Hourly
+Internship
+38-43 Hourly
+Internship
+AdTech &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology &#x2022; News &#x2B; Entertainment &#x2022; App development
+Paid Summer 2027 Media Tech internship offering technical experience across platform engineering, studio production technology, and product and AI solutions. Interns may work on enterprise platforms, APIs, cloud technologies, production systems, Salesforce, data modeling, AI agents, prompt engineering, and technology strategy. The program requires full-time availability, active enrollment, U.S. work authorization without sponsorship, and on-site work in Universal City, California.
+Top Skills:
+Ai Agents Api Authentication Ci/Cd Claude Code Cloud Technologies Data Modeling Excel Git Git Github Actions Github Copilot HTTP JSON Llm Integrations Openai Codex Power Apps Power Automate Power BI Prompt Engineering Python Rest Apis Salesforce SQL
+New York Life
+2027 New York Life Direct Summer Internship Program - IBM i Developer
+<age> Saved
+Hybrid
+Tampa, FL, USA
+25-25 Hourly
+Internship
+25-25 Hourly
+Internship
+Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Technology &#x2022; Insurance &#x2022; Financial Services &#x2022; Big Data Analytics
+Intern will develop, test, enhance, and support IBM i enterprise applications using RPG, CL, SQL, DB2 for i, and ILE concepts. Responsibilities include database development, debugging, testing, code reviews, application integration, automation, and exploring responsible Generative AI tools. The role includes mentorship, collaboration with technical and business teams, participation in the software development lifecycle, and completion and presentation of an internship project.
+Top Skills:
+APIs Control Language (Cl) Db2 For I Free-Format Rpg Generative Ai Git Ibm I Integrated Language Environment (Ile) Restful Web Services SQL Visual Studio Code
 Spectrum
 2027 Summer Intern: Software Engineer - P&amp;T
 <age> Saved
@@ -42,6 +94,10 @@ eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; M
 Paid, full-time software engineering internship supporting customer-context data patterns, decision-engineering tools, requirements analysis, and data-platform products. Interns collaborate with department teams, participate in professional development, networking, mentorship, and cross-functional activities. Candidates must be rising seniors pursuing a bachelor’s degree, maintain at least a 3.0 GPA, and be authorized to work in the U.S. without current or future employment-based sponsorship.
 Top Skills:
 Python
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 T-Mobile
 Summer 2027 Software Engineering Internship
 <age> Saved
@@ -96,10 +152,6 @@ Artificial Intelligence &#x2022; Big Data &#x2022; Healthtech &#x2022; Machine L
 Paid 12-week, in-person software development internship in Boston beginning June 1, 2027. Interns complete training, collaborate with developers and mentors, develop a nine-week software project, participate in networking events, and present their work to senior leadership. The program is designed for currently enrolled undergraduate or graduate students in STEM disciplines and may lead to future internships or full-time opportunities.
 Top Skills:
 Angularjs C C&#x2B;&#x2B; Java JavaScript JSON Python
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Geneva Trading
 C&#x2B;&#x2B; Developer (Intern)
 <age> Saved
@@ -115,17 +167,6 @@ Fintech &#x2022; Financial Services
 Ten-week paid software engineering internship developing, testing, and deploying C++ solutions for a proprietary trading platform. Interns work with large datasets, network programming, multithreaded applications, AI coding tools, and cross-functional technologists and researchers. The role includes mentorship, complex problem-solving, collaboration, and opportunities for full-time employment after graduation.
 Top Skills:
 Ai/Ml Frameworks C&#x2B;&#x2B; Claude Code Data Pipelines Git Linux Relational Databases Tcp/Ip
-Rubrik
-Software Engineering Winter Internship
-<age> Saved
-In-Office
-Palo Alto, CA, USA
-Internship
-Internship
-Artificial Intelligence &#x2022; Big Data &#x2022; Cloud &#x2022; Information Technology &#x2022; Software &#x2022; Cybersecurity &#x2022; Data Privacy
-Software Engineering Interns will design and implement software, machine learning models, security features, workflow tools, and exploratory technology projects. They will contribute production code across Rubrik product areas while collaborating with experienced engineers and mentors. The role requires full-time availability in Palo Alto from January 11 through May 7, 2027, enrollment in a computer science-related degree program, and knowledge of core computer science concepts.
-Top Skills:
-C&#x2B;&#x2B; Distributed Systems Go Java JavaScript Machine Learning Objective-C Python
 Two Sigma
 Software Engineering Internship (Summer 2027)
 <age> Saved
@@ -139,32 +180,6 @@ Fintech &#x2022; Software &#x2022; Financial Services
 Software engineering interns complete a 10-week project with mentorship, building scalable infrastructure, cloud and storage systems, trading platforms, data ingestion pipelines, model deployment environments, and productivity tools. Responsibilities emphasize reliability, high performance, low latency, experimentation, and collaboration across engineering and corporate teams. Interns are matched with a specific team before starting and present their completed project at the program’s conclusion.
 Top Skills:
 C C&#x2B;&#x2B; Distributed Storage Java Jvm Perl Private Cloud Public Cloud Python Ruby Unix
-BAE Systems, Inc.
-Software Engineering Intern III, Summer 2027
-<age> Saved
-Hybrid
-Nashua, NH, USA
-50K-69K Annually
-Internship
-50K-69K Annually
-Internship
-Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity &#x2022; Defense
-Software Engineering Intern III will support software development for aerospace and defense applications. Responsibilities include designing, developing, and testing software using Agile methods; integration testing; algorithm and data analysis; troubleshooting; documentation; and work in Windows or Linux development environments with x86 or PowerPC targets. The intern will also participate in BAE Systems’ LEAP career development and networking program. This is an onsite role in southern New Hampshire and requires US Person status and eligibility for a US DoD security clearance.
-Top Skills:
-Agile C C&#x2B;&#x2B; Git Java Linux Microsoft Office Suite Powerpc Python Windows X86
-Genius AI
-Engineering Intern (Summer 2027)
-<age> Saved
-Hybrid
-2 Locations
-25-50 Hourly
-Internship
-25-50 Hourly
-Internship
-Beauty &#x2022; Enterprise Web &#x2022; Fintech &#x2022; Payments &#x2022; Software
-Engineering intern will build, test, debug, and ship web and mobile product features alongside senior engineers. The role includes creating AI-powered automation, interpreting usage data with analysts, iterating rapidly with AI-assisted development, and learning new languages, frameworks, and AI-native practices. This is an in-person NYC internship from June 8 through August 20, 2027.
-Top Skills:
-AI Grpc JavaScript Kotlin Postgres React Ruby SQL Typescript
 1
 2
 3
@@ -172,7 +187,7 @@ AI Grpc JavaScript Kotlin Postgres React Ruby SQL Typescript
 5
 ...
 ...
-85
+84
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

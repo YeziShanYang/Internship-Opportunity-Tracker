@@ -128,10 +128,13 @@ A-3/Technology Applications Group
 A-4/Advanced Research in Cyber Systems
 A-5/ Nuclear Threat Reduction &amp; Deterrence
 A-5/Complex Response Solutions
+Accelerator Operations
 Acquisition Services Management Governance (ASM-GO)
 Actinide Analytical Chemistry
 A-DO / Analytics, Intelligence and Technology Division Office
 A-DO/Analytics, Intelligence and Technology Division
+ADS-BADS/Business Applications &amp; Data Services
+ADS-DO/Application &amp; Data Services
 ALDBUS ERP Program Office (ALDBUS-ERP)
 ALDCELS
 ALDDP / Associate Laboratory Director for Defense Protection
@@ -204,6 +207,7 @@ CISO-CS/Cybersecurity
 CISO-PO/CHIEF INFORMATION SECURITY PROGRAM OFFICE
 CISO-PO/Program Office
 CM/Construction Management
+CM-ALDPI/Construction Manager Division
 C-NR / Nuclear &amp; Radiochemistry
 C-NR/Nuclear &amp; Radiochemistry
 C-NR/Nuclear &amp; Radiochemistry Group
@@ -264,6 +268,7 @@ Engineering (PFE-RCMR)
 Engineering Services - Fire Protection Engineering/ES-FPE
 Engineering Services Division Fire Protection Engineering Group (ES-FPE)
 EPC-CP/Environmental Compliance Programs
+EPC-CP/Environmental Protection and Compliance - Compliance Programs
 ES-DO/Engineering Services Division Office
 ES-FP/Fire Protection-Group Office
 ES-FPE/Engineering Services - Fire Protection Engineering
@@ -281,6 +286,7 @@ ETM/Engineering Technology and Maturation
 Fabrication Manufacturing Science/SIGMA-1
 Facilities &amp; Operations Directorate (F&amp;O)
 Finance Operations (FIN-OPS)
+Financial Operations and Reporting (CNTL-AFR)
 Foreign Immigration, Visits &amp; Analysis (OCI-FVA)
 GS-IET/Intelligence &amp; Emerging Threats Program Office
 Health Physics Measurements
@@ -304,6 +310,7 @@ IF-DO / Institutional Facilities FOD
 IF-DSL - Institutional Facilities Data, S&amp;M, and Leased Operations
 Institutional Quality and Performance Assurance—Institutional Quality (IQPA-IQ)
 Institutional Quality Group (IQPA-IQ)
+Institutional, Programmatic and SPP (FIN-INST)
 IQPA-MPCL/Metrology Program &amp; Calibration Laboratory
 IQPA-PI Quality Assurance
 IQPA-PIQ/IQPA-Plutonium Infrastructure Quality
@@ -356,6 +363,7 @@ LOG-MM/Materials Management
 LOG-PT/Packaging and Transportation
 LOG-PT/Packing and Transportation
 LOG-SUP/Logisitics Superintendent Field Work Execution
+LOG-SUP/Logistics Superintendent Field Work Execution
 LOG-SUP/Logistics Superintendent Field Work Execution Group
 M-3/Focused Experiments
 M-6/Explosive Applications &amp; Special Projects Group
@@ -374,6 +382,7 @@ MPA-11 / Materials Synthesis and Integrated Devices
 MPA-11/ Materials Synthesis and Integrated Devices
 MPA-11/ Materials Synthesis and Integrated Devices/Materials Chemistry
 MPA-11/Materials Chemistry
+MPA-11/Materials Synthesis &amp; Integrated Devices
 MPA-11/Materials Synthesis and Integrated Devices
 MPA-11/Materials Synthesis and Integrated Devices Group
 MPA-CINT / Center For Integrated Nanotechnologies
@@ -435,6 +444,7 @@ OCCI-UNCL
 Occupational Safety &amp; Health (OSH) Industrial Safety and Hygiene (ISH)
 OCI-CTA/Counterintelligence Activities &amp; Threat Awareness
 OCI-FVA/Foreign Immigration, Visits, &amp; Analysis
+OES/Offices of Experimental Sciences
 OH-MS/Medical Services
 OH-MS/Occupational Health Medical Services
 Operations Integration Center (TA55-OPS4)
@@ -459,6 +469,7 @@ PC / Project Controls
 PC /Project Controls
 PC/ Project Controls
 PC/Project Controls
+PC-ALDW-X/PC ALD Weapons Engineering &amp; Weapons Physics
 PCR-CE/PCR - Cost Estimating
 P-DO/Physics
 PF-AM/Prototype Fabrication - Applied Metrology
@@ -549,6 +560,7 @@ Q-5/High Explosives Science and Technology
 Q-5/High Explosives Science and Technology Group
 Q-6/ Detonation Science and Technology
 Q-6/Detonation Science and Technology
+Q-7/Gas Transfer Systems
 Rad Liquid Waste Facilities/CWF-RLWF
 Radiation Protection - Programs (RP-PROG)
 Radiation Protection Division (RP)
@@ -605,6 +617,7 @@ T-1/Physics And Chemistry Of Materials Group
 T-2 / Nuc &amp; Particle Phys, Astrophys &amp; Cosmol
 T-2 /Nuc &amp; Particle Phys, Astrophys &amp; Cosmol
 T-2/ Nuc &amp; Particle Phys, Astrophys &amp; Cosmol
+T-2/ Nuclear and Particle Physics, Astrophysics and Cosmology
 T-2/Nuclear and Particle Physics, Astrophysics and Cosmology
 T-2/Nuclear and Particle Physics, Astrophysics and Cosmology (NPAC)
 T-3 / Fluid Dynamics And Solid Mechanics
@@ -621,6 +634,7 @@ T-6/Theoretical Biology And Biophysics
 TA-55 Facility Operations (TA55-OPS1)
 TA55 Facility Operations (TA55-OPS2)
 TA-55 Facility Operations/TA55-OPS2
+TA55 Operations Integration Center (TA55-OPS4)
 TA55-OPS2/TA-55 Facility Operations
 T-DO/THEORETICAL
 T-DO/Theoretical Division
@@ -630,6 +644,7 @@ The Technical Training Center (TTC) Training Systems and Standards Group
 UI-EST/UI - Electric, Steam &amp; Turbine Operations
 UI-EST/UI - Electric, Steam and Turbine Operations
 UI-PATS/UI - Parking and Transportation Services
+UI-RM/UI - Reinvestment &amp; Modernization
 UI-RM/Utilities &amp; Infrastructure - Reinvestment and Modernization
 UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
 UI-WGW/UI - Water, Gas and Waste Water Operations
@@ -643,6 +658,7 @@ W-2/W76 Systems Engineering Group
 W-3/W78 Systems Engineering Group
 W-4/W88 Systems Engineering
 W-4/W88 Systems Engineering Group
+W-8/Production Liaison Engineering
 W-8/Production Liaison Group
 W-9/Weapon Systems Surveillance
 W-9/Weapons Systems Surveillance
@@ -696,10 +712,13 @@ A-3/Technology Applications Group
 A-4/Advanced Research in Cyber Systems
 A-5/ Nuclear Threat Reduction &amp; Deterrence
 A-5/Complex Response Solutions
+Accelerator Operations
 Acquisition Services Management Governance (ASM-GO)
 Actinide Analytical Chemistry
 A-DO / Analytics, Intelligence and Technology Division Office
 A-DO/Analytics, Intelligence and Technology Division
+ADS-BADS/Business Applications &amp; Data Services
+ADS-DO/Application &amp; Data Services
 ALDBUS ERP Program Office (ALDBUS-ERP)
 ALDCELS
 ALDDP / Associate Laboratory Director for Defense Protection
@@ -772,6 +791,7 @@ CISO-CS/Cybersecurity
 CISO-PO/CHIEF INFORMATION SECURITY PROGRAM OFFICE
 CISO-PO/Program Office
 CM/Construction Management
+CM-ALDPI/Construction Manager Division
 C-NR / Nuclear &amp; Radiochemistry
 C-NR/Nuclear &amp; Radiochemistry
 C-NR/Nuclear &amp; Radiochemistry Group
@@ -832,6 +852,7 @@ Engineering (PFE-RCMR)
 Engineering Services - Fire Protection Engineering/ES-FPE
 Engineering Services Division Fire Protection Engineering Group (ES-FPE)
 EPC-CP/Environmental Compliance Programs
+EPC-CP/Environmental Protection and Compliance - Compliance Programs
 ES-DO/Engineering Services Division Office
 ES-FP/Fire Protection-Group Office
 ES-FPE/Engineering Services - Fire Protection Engineering
@@ -849,6 +870,7 @@ ETM/Engineering Technology and Maturation
 Fabrication Manufacturing Science/SIGMA-1
 Facilities &amp; Operations Directorate (F&amp;O)
 Finance Operations (FIN-OPS)
+Financial Operations and Reporting (CNTL-AFR)
 Foreign Immigration, Visits &amp; Analysis (OCI-FVA)
 GS-IET/Intelligence &amp; Emerging Threats Program Office
 Health Physics Measurements
@@ -872,6 +894,7 @@ IF-DO / Institutional Facilities FOD
 IF-DSL - Institutional Facilities Data, S&amp;M, and Leased Operations
 Institutional Quality and Performance Assurance—Institutional Quality (IQPA-IQ)
 Institutional Quality Group (IQPA-IQ)
+Institutional, Programmatic and SPP (FIN-INST)
 IQPA-MPCL/Metrology Program &amp; Calibration Laboratory
 IQPA-PI Quality Assurance
 IQPA-PIQ/IQPA-Plutonium Infrastructure Quality
@@ -924,6 +947,7 @@ LOG-MM/Materials Management
 LOG-PT/Packaging and Transportation
 LOG-PT/Packing and Transportation
 LOG-SUP/Logisitics Superintendent Field Work Execution
+LOG-SUP/Logistics Superintendent Field Work Execution
 LOG-SUP/Logistics Superintendent Field Work Execution Group
 M-3/Focused Experiments
 M-6/Explosive Applications &amp; Special Projects Group
@@ -942,6 +966,7 @@ MPA-11 / Materials Synthesis and Integrated Devices
 MPA-11/ Materials Synthesis and Integrated Devices
 MPA-11/ Materials Synthesis and Integrated Devices/Materials Chemistry
 MPA-11/Materials Chemistry
+MPA-11/Materials Synthesis &amp; Integrated Devices
 MPA-11/Materials Synthesis and Integrated Devices
 MPA-11/Materials Synthesis and Integrated Devices Group
 MPA-CINT / Center For Integrated Nanotechnologies
@@ -1003,6 +1028,7 @@ OCCI-UNCL
 Occupational Safety &amp; Health (OSH) Industrial Safety and Hygiene (ISH)
 OCI-CTA/Counterintelligence Activities &amp; Threat Awareness
 OCI-FVA/Foreign Immigration, Visits, &amp; Analysis
+OES/Offices of Experimental Sciences
 OH-MS/Medical Services
 OH-MS/Occupational Health Medical Services
 Operations Integration Center (TA55-OPS4)
@@ -1027,6 +1053,7 @@ PC / Project Controls
 PC /Project Controls
 PC/ Project Controls
 PC/Project Controls
+PC-ALDW-X/PC ALD Weapons Engineering &amp; Weapons Physics
 PCR-CE/PCR - Cost Estimating
 P-DO/Physics
 PF-AM/Prototype Fabrication - Applied Metrology
@@ -1117,6 +1144,7 @@ Q-5/High Explosives Science and Technology
 Q-5/High Explosives Science and Technology Group
 Q-6/ Detonation Science and Technology
 Q-6/Detonation Science and Technology
+Q-7/Gas Transfer Systems
 Rad Liquid Waste Facilities/CWF-RLWF
 Radiation Protection - Programs (RP-PROG)
 Radiation Protection Division (RP)
@@ -1173,6 +1201,7 @@ T-1/Physics And Chemistry Of Materials Group
 T-2 / Nuc &amp; Particle Phys, Astrophys &amp; Cosmol
 T-2 /Nuc &amp; Particle Phys, Astrophys &amp; Cosmol
 T-2/ Nuc &amp; Particle Phys, Astrophys &amp; Cosmol
+T-2/ Nuclear and Particle Physics, Astrophysics and Cosmology
 T-2/Nuclear and Particle Physics, Astrophysics and Cosmology
 T-2/Nuclear and Particle Physics, Astrophysics and Cosmology (NPAC)
 T-3 / Fluid Dynamics And Solid Mechanics
@@ -1189,6 +1218,7 @@ T-6/Theoretical Biology And Biophysics
 TA-55 Facility Operations (TA55-OPS1)
 TA55 Facility Operations (TA55-OPS2)
 TA-55 Facility Operations/TA55-OPS2
+TA55 Operations Integration Center (TA55-OPS4)
 TA55-OPS2/TA-55 Facility Operations
 T-DO/THEORETICAL
 T-DO/Theoretical Division
@@ -1198,6 +1228,7 @@ The Technical Training Center (TTC) Training Systems and Standards Group
 UI-EST/UI - Electric, Steam &amp; Turbine Operations
 UI-EST/UI - Electric, Steam and Turbine Operations
 UI-PATS/UI - Parking and Transportation Services
+UI-RM/UI - Reinvestment &amp; Modernization
 UI-RM/Utilities &amp; Infrastructure - Reinvestment and Modernization
 UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
 UI-WGW/UI - Water, Gas and Waste Water Operations
@@ -1211,6 +1242,7 @@ W-2/W76 Systems Engineering Group
 W-3/W78 Systems Engineering Group
 W-4/W88 Systems Engineering
 W-4/W88 Systems Engineering Group
+W-8/Production Liaison Engineering
 W-8/Production Liaison Group
 W-9/Weapon Systems Surveillance
 W-9/Weapons Systems Surveillance
@@ -1284,25 +1316,25 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 27
+Showing 12 out of 26
 Job Title
 Job Number
 Organization
 City, State
 Professional (non-STEM) - Undergraduate Student Intern IRC146778 MSS-OOI / MSS- Office of Improvement Los Alamos, NM
 Undergrad Student ST 1 IRC146706 PSD-4 / Material Recovery and Recycle Los Alamos, NM
-Applied Mathematics Undergraduate Students IRC146635 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 Plasma Physics Undergraduate Students IRC146637 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
+Applied Mathematics Undergraduate Students IRC146635 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 RFID Software Developer - Undergraduate Student IRC146481 NEN-1 / Safeguards Science and Techno Los Alamos, NM
 ALDDP Undergraduate Student IRC146477 ALDDP / Associate Laboratory Director for Defense Protection Los Alamos, NM
 NEN-2 Undergraduate Student IRC146390 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY Los Alamos, NM
-Sigma Division Undergraduate Student IRC146362 SIGMA-DO / SIGMA DIVISION Los Alamos, NM
 Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Undergraduate and Graduating High Schools Senior Internship - Engineering IRC146161 Various Organizations Los Alamos, NM
+Undergraduate and Graduating High School Senior Internship - Professional/Non-Technical IRC146162 Various Organizations Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 27
+Showing 12 out of 26
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

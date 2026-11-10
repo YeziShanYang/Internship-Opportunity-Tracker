@@ -89,26 +89,26 @@ Who we&rsquo;re looking for : First-year students or sophomores pursuing a quant
 For more info:&nbsp; Analyst Early Experiences - AnalystEE@capitalone.com &nbsp;
 Check out the Students &amp; Grads event page to find info sessions on the programs and connect with the recruiting teams.
 ALL JOBS
-R1005426
-Part Time Branch Ambassador - Brooklyn South
-R1005427
-Relationship Manager
-R244934
-Manager, Data Analysis, Flights - Capital One Travel
-R1004324
-Director - Machine Learning Engineering
-R1004323
-Director - Software Engineering
-R1004322
-Director - AI Engineering
-R1004284
-Senior Associate, Product Manager-Small Business Bank Associate Servicing
-R1002548
-Full-stack Engineer 4
-R249922
-Distinguished AI Engineer
-R249828
-Senior Manager, Product Design
+R247093
+Product Manager - Capital One Travel
+R1005287
+Full Time Branch Ambassador - Canarsie
+R1004224
+Salesforce Integration Engineer 4
+R999416
+Principal Risk Specialist, Compliance Governance Analyst
+R999403
+Product Manager - Card Integrations
+R999184
+Sr. Associate, Capital Markets &amp; Analytics
+R249739
+Manager, Creative Director - Retail Bank
+R249195
+Sr. Business Director, Customer Data Strategy
+R248564
+Manager, Product Management - Customer Identity &amp; Core
+R247907
+Business Director, Acquisitions Strategy &amp; General Management (Co-Brand Card Partnerships)
 View all of our available opportunities
 Related Content
 Explore Capital One Internships

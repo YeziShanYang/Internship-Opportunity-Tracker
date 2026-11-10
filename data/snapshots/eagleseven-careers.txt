@@ -20,6 +20,7 @@ Our proprietary trading platform is built to respond to the needs of an ever-cha
 Careers
 Open positions
 Junior Trader
+Senior Systems Engineer (Linux)
 Senior Software Developer (Shared Services)
 Technology Operations Engineer
 Energy Trader
@@ -59,6 +60,47 @@ Paid Time Off
 Flexible Spending Account
 Pre-tax Transit Benefits
 Complimentary Lunch and Beverages
+Apply for this position
+Senior Systems Engineer (Linux)
+Eagle Seven is seeking a Senior Systems Engineer to lead the technical design, planning, and implementation of our hardware and operating system strategies. In this role, you will act as a key technical expert with direct influence over the design, implementation, and performance of our trading systems.&nbsp; The successful candidate will be a self-starter who takes initiative, demonstrates a strong sense of ownership and is driven to provide creative and skilled solutions to technical problems and business challenges.&nbsp;
+&nbsp;Primary Responsibilities include:&nbsp;
+Driving the planning and execution of technical projects focused on optimizing Linux-based trading systems, including hardware, network, and OS improvements.&nbsp;
+Managing and enhancing a global trading infrastructure to ensure high availability, performance, and scalability.&nbsp;
+Developing solutions to automate and resolve a wide range of infrastructure tasks and issues to ensure seamless operations along with reducing manual intervention.&nbsp;
+Diagnosing and troubleshooting complex hardware and software problems, providing rapid resolutions to minimize downtime.&nbsp;
+Overseeing system installations, ensuring they are maintained to the latest firm standards.&nbsp;
+Conducting benchmarking and fine-tuning to optimize system and application performance.&nbsp;
+Providing technical expertise and guidance to improve existing hardware strategy including standards, life-cycle periods, vendor management and capacity planning.&nbsp;
+Staying current with the latest technology trends in the industry; propose, evaluate and implement new solutions.&nbsp;
+7+ years advanced knowledge of Linux system administration including kernel management, file systems, and networking
+5+ years of experience in supporting, managing, monitoring, and debugging live trading environments with a focus on reliability, performance and automation
+Proficient with configuration management tools, such as Salt, Ansible, Puppet, Chef, etc.&nbsp;
+Advanced proficiency in shell scripting (Bash) to automate routine tasks and enhance operational workflows
+Comfortable with Python programming, with a focus on automation, systems integration, and process efficiency&nbsp;
+Exposure and working knowledge of Git version control and automation workflows&nbsp;
+Understanding of File, Block and Object storage technologies and their applications&nbsp;
+Strong working knowledge of virtualization/containerization solutions
+Familiarity with databases; standalone and clusters, replication and point in time recovery
+Demonstrated ability to manage and deliver multiple projects effectively with high attention to detail in a fast-paced, mission-critical environment
+Excellent communication, interpersonal, and problem-solving skills, including the ability to present both technical and non-technical ideas clearly and effectively across teams&nbsp;
+Motivated to identify and solve issues swiftly and correctly with root cause analysis
+High degree of flexibility and adaptability; comfortable in a dynamic working environment&nbsp;
+Familiarity with Windows/Linux hybrid environments
+Eagle Seven offers a competitive and comprehensive benefits package to all full-time employees.
+Medical PPO and HMO coverage through BlueCross BlueShield
+Health Savings Account (with enrollment into a High Deductible Health Plan)
+Dental coverage through Guardian
+Vision coverage through VSP
+401k Retirement Savings Plan with Employer Match
+Company Paid Life Insurance
+Company Paid Disability Insurance
+Paid Time Off
+Flexible Spending Account
+Pre-tax Transit Benefits
+Complimentary Lunch and Beverages
+Access to Building Gym and Bike Room
+The minimum base salary for this role starts at $180,000. This role is eligible for a discretionary performance bonus as part of the total compensation package, in addition to the benefits listed above. Exact compensation offered may vary based on factors including, but not limited to, the candidate's experience, qualifications, and skill set.
+&nbsp;
 Apply for this position
 Senior Software Developer (Shared Services)
 Eagle Seven is seeking a Senior Software Developer to design and build systems that support firmwide positions, PnL, and risk services. These systems transform high-volume trading and market data into accurate, timely, and actionable information.

@@ -93,12 +93,6 @@ US-NY-New York
 Additional Locations
 US-IL-Chicago
 Job Title
-FPGA Developer - Poland
-We are looking to hire a senior hardware engineer to join a small and growing FPGA team developing key components of a high-performance FPGA platform. This role offers broad technical scope and exposure across multiple layers of computing technology, from RTL and verification to high-speed interfaces and system integration.
-Successful candidates will work on full-stack FPGA systems in a highly collaborative environment, contributing to architecture, implementation, verification, performance optimization, and tooling/CI improvements.
-Job Location
-PL-Warsaw
-Job Title
 Quantitative Trader/Researcher - Futures
 Designing, developing and managing profitable systematic trading strategies in US Cash Treasury and Futures FI, FX, Equity and Commodities markets. The candidate is expected to perform its own trading strategy design and research. As such, the role requires high level development in C++ and Python. We expect the candidate to collaborate with the team&rsquo;s technology and trading experts for production implementation.
 &nbsp;

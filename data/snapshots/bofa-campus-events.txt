@@ -2,6 +2,19 @@ https://bankcampuscareers.tal.net/vx/mobile-0/candidate/jobboard/vacancy/2/feed
 Campus Events
 Bank of America
 <timestamp>
+https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/15286-2029%E5%B9%B4%E5%9B%BD%E5%86%85%E5%A4%A7%E5%AD%A6-%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%8D%92%E6%A5%AD%E3%81%8A%E3%82%88%E3%81%B3%E4%BF%AE%E4%BA%86%E4%BA%88%E5%AE%9A%E8%80%85-%E3%83%9E%E3%82%A4%E3%83%9A%E3%83%BC%E3%82%B8%E7%99%BB%E9%8C%B2%E7%94%A8URL/en-GB
+2029年国内大学・大学院卒業および修了予定者 マイページ登録用URL
+<timestamp>
+<timestamp>
+~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15286
+Title:2029年国内大学・大学院卒業および修了予定者 マイページ登録用URL
+Region:Asia Pacific
+Country:Japan
+Line of Business:FIRMWIDE
+Program (Event):Firmwide
+Event description:バンク・オブ・アメリカでは、弊社の業務内容や企業文化、そして実際に働く社員について、学生のみなさんにより深く知っていただくために、当社内にてイベントの開催を予定しております。 詳細が決まり次第メールでお知らせいたしますので、こちらにご登録をお願いいたします。
+Event address / venue details:.
+Event Timezone:Asia/Tokyo
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/15268-Bank-of-America-Hedge-Fund-Future-Leaders-Forum/en-GB
 Bank of America Hedge Fund Future Leaders Forum
 <timestamp>
@@ -72,32 +85,3 @@ Program (Event):Private Bank Program
 Event description:Join our virtual information session to learn more about Bank of America's 2028 Wealth Management Summer Analyst Program with The Private Bank. Hear directly from business professionals as they share insights into their roles, career journeys, and what a
 Event address / venue details:Virtual - A meeting link will be shared with registered attendees prior to the event.
 Event Timezone:US/Eastern
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/14953-Bank-of-America-APAC-Careers-Roadshow-Philadelphia/en-GB
-Bank of America | APAC Careers Roadshow | Philadelphia
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:14953
-Title:Bank of America | APAC Careers Roadshow | Philadelphia
-Event Date:17 Nov 2026 04:30 PM EST
-Region:Asia Pacific
-Country:Hong Kong
-Line of Business:FIRMWIDE
-Program (Event):Chief Financial Office Program,Firmwide,Global Capital Markets Program,Global Equities Program,Global FICC Program,Global Investment Banking Program,Global Operations Program,Global Payments Solutions Program,Global Quants Program,Global Technology Program
-School/University:University of Pennsylvania
-Event description:Interested in building your career in Asia Pacific? Join Bank of America for an exclusive in-person event at University of Pennsylvania campus this November. This event offers a unique opportunity to learn more about Bank of America's Asia Pacific busines
-Event address / venue details:University of Pennsylvania Campus
-Event Timezone:EST
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-0/candidate/so/pm/1/pl/2/opp/14954-Bank-of-America-APAC-Careers-Roadshow-Boston/en-GB
-Bank of America | APAC Careers Roadshow | Boston
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:14954
-Title:Bank of America | APAC Careers Roadshow | Boston
-Event Date:18 Nov 2026 05:00 PM EST
-Region:Asia Pacific
-Country:Hong Kong
-Line of Business:FIRMWIDE
-Program (Event):Chief Financial Office Program,Firmwide,Global Capital Markets Program,Global Equities Program,Global FICC Program,Global Investment Banking Program,Global Operations Program,Global Payments Solutions Program,Global Quants Program,Global Technology Program
-Event description:Interested in building your career in Asia Pacific? Join Bank of America for an exclusive in-person event at our Boston office this November. This event offers a unique opportunity to learn more about Bank of America's Asia Pacific businesses and explore
-Event address / venue details:Bank of America Boston Office
-Event Timezone:EST
