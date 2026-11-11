@@ -6,7 +6,7 @@ a16z
 Software Is Eating the World
 X LinkedIn Substack
 © 2026 Andreessen Horowitz . All Portfolio Jobs Companies Disclosures
-692 companies. 18,761 jobs. It’s time to build.
+692 companies. 18,805 jobs. It’s time to build.
 All Portfolio Jobs Jobs by Company a16z Jobs a16z TalentPlace
 Filter jobs by role and more
 Roles
@@ -21,10 +21,15 @@ Internships only Remote options All jobs
 Salary Any
 Posted <age>
 Country:us Seed Venture Clear filters
-41 jobs
+42 jobs
+Genesis Molecular AI
+Computational Chemistry Intern - 2027
+San Mateo, CA · Posted <age>
+Bio + Health, CLF · Series B · 51–200 employees
+Apply Interested
 Adaptive Security
 GTM Intern - Winter/Spring
-$25 per hour · NYC; LA, United States · Posted <age>
+$35 per hour · NYC; LA, United States · Posted <age>
 Infra · Series B · 201–500 employees
 Apply Interested
 Astro Mechanica
@@ -141,10 +146,5 @@ Cowboy Space Corporation
 Internship 2027
 Kent, Washington, United States · Posted <age>
 American Dynamism · Series B · 51–200 employees
-Apply Interested
-Amca
-Electrical Engineering Internship (Summer 2027)
-USD 30–50 (Hourly Pay Range) · El Segundo, CA · Posted <age>
-American Dynamism · Series B · 201–500 employees
 Apply Interested
 Show more jobs

@@ -31,6 +31,71 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Palantir Technologies
+Software Engineer, Intern - Connectivity Platform and Product
+<age> Saved
+In-Office
+New York, NY, USA
+126K-126K Annually
+Internship
+126K-126K Annually
+Internship
+Artificial Intelligence &#x2022; Software
+Build connectivity products and integrations across backend services, frontend interfaces, and compute platforms. Develop SDKs, APIs, authentication flows, security frameworks, and high-scale data workflows connecting enterprise systems to Foundry. Diagnose performance and correctness issues, collaborate with infrastructure and product teams, and learn across multiple languages, services, networks, and execution environments. The role is approximately 75% backend and 25% frontend.
+Top Skills:
+Cassandra Envoy Git Go Gradle GraphQL HTTP Java Kubernetes Python React Tcp Tls Typescript Udp
+Palantir Technologies
+Software Engineer, Internship - Data Connectors
+<age> Saved
+In-Office
+New York, NY, USA
+126K-126K Annually
+Internship
+126K-126K Annually
+Internship
+Artificial Intelligence &#x2022; Software
+Build and maintain data connectors, connectivity SDKs, and supporting infrastructure for Palantir Foundry. Develop features for imports, exports, change data capture, queries, and writeback; improve build, testing, packaging, and distribution systems; collaborate on orchestration, streaming, and serverless integrations; and debug production performance and reliability issues.
+Top Skills:
+Debezium Flink Git Go Gradle Iceberg Java Kafka Kubernetes Python
+Palantir Technologies
+Software Engineer, Intern - Connectivity Platform and Product
+<age> Saved
+In-Office
+Denver, CO, USA
+126K-126K Annually
+Internship
+126K-126K Annually
+Internship
+Artificial Intelligence &#x2022; Software
+Build backend and frontend features for Palantir’s connectivity platform, including SDKs, integrations, APIs, authentication flows, security frameworks, and high-scale data workflows. Diagnose performance and correctness issues, support networking functionality, and collaborate with engineers and customer-facing teams. The role is approximately 75% backend and 25% frontend, involving distributed systems, databases, cloud computing, networking, and software architecture.
+Top Skills:
+Cassandra Envoy Git Go Gradle GraphQL HTTP Java Kubernetes Python React Tcp Tls Typescript Udp
+T-Mobile
+Summer 2027 T-Ads Software Engineering Internship
+<age> Saved
+In-Office
+Philadelphia, PA, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+Participate in an 11-week paid software engineering internship building media playback technology for T-Mobile’s advertising ecosystem. Develop and test Kotlin Multiplatform features, port functionality from a legacy player, validate performance across Android, Linux, and Windows hardware, and collaborate with engineers, product partners, and designers. Contribute to Agile ceremonies, code reviews, debugging, and software quality practices while gaining mentorship and hands-on experience.
+Top Skills:
+Android Git Java Kotlin Kotlin Multiplatform Linux Typescript Windows
+T-Mobile
+Summer 2027 T-Ads Software Engineering Internship
+<age> Saved
+In-Office
+Philadelphia, PA, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+Paid 11-week software engineering internship with T-Mobile’s T-Ads ad-tech team. Interns will build and ship production-ready software for a real-time Digital Out-of-Home advertising platform, including bidstream, backend services, dynamic creative, and web tools. Responsibilities include coding, testing, code reviews, project planning, collaboration with Product, Design, and QA, and presenting completed work. Candidates need experience with at least one supported programming language, Git, and a completed project or prior technical experience.
+Top Skills:
+Git Go JavaScript Python React Rest Apis Scala SQL Typescript
 Citadel
 Software Engineer - Intern (US)
 <age> Saved
@@ -44,6 +109,10 @@ Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Bi
 11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
 Top Skills:
 Distributed Computing Machine Learning Natural Language Processing Web Frameworks
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 NBCUniversal
 Media Tech: Product &amp; Engineering Internships - Summer 2027
 <age> Saved
@@ -57,19 +126,6 @@ AdTech &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology &#x
 Paid summer internship for actively enrolled students supporting NBCUniversal’s Media Tech organization. Interns may work in advertising technology integrations, AI-powered enterprise products, or network operations and Wi-Fi. Responsibilities include applying programming skills, working with APIs and structured data, exploring network infrastructure, prototyping AI agents, and contributing to technical projects. The role requires 40 hours per week in New York from June 7 through August 13, 2027.
 Top Skills:
 APIs Generative Ai JavaScript JSON Linux macOS Python Rf Time-Series Databases Typescript Wi-Fi Windows 11
-NBCUniversal
-Media Tech: Product &amp; Engineering Internships - Summer 2027
-<age> Saved
-Hybrid
-Los Angeles, CA, USA
-38-43 Hourly
-Internship
-38-43 Hourly
-Internship
-AdTech &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology &#x2022; News &#x2B; Entertainment &#x2022; App development
-Paid Summer 2027 Media Tech internship offering technical experience across platform engineering, studio production technology, and product and AI solutions. Interns may work on enterprise platforms, APIs, cloud technologies, production systems, Salesforce, data modeling, AI agents, prompt engineering, and technology strategy. The program requires full-time availability, active enrollment, U.S. work authorization without sponsorship, and on-site work in Universal City, California.
-Top Skills:
-Ai Agents Api Authentication Ci/Cd Claude Code Cloud Technologies Data Modeling Excel Git Git Github Actions Github Copilot HTTP JSON Llm Integrations Openai Codex Power Apps Power Automate Power BI Prompt Engineering Python Rest Apis Salesforce SQL
 New York Life
 2027 New York Life Direct Summer Internship Program - IBM i Developer
 <age> Saved
@@ -94,28 +150,11 @@ eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; M
 Paid, full-time software engineering internship supporting customer-context data patterns, decision-engineering tools, requirements analysis, and data-platform products. Interns collaborate with department teams, participate in professional development, networking, mentorship, and cross-functional activities. Candidates must be rising seniors pursuing a bachelor’s degree, maintain at least a 3.0 GPA, and be authorized to work in the U.S. without current or future employment-based sponsorship.
 Top Skills:
 Python
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
-T-Mobile
-Summer 2027 Software Engineering Internship
-<age> Saved
-In-Office
-Overland Park, KS, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-An 11-week paid software engineering internship developing, testing, deploying, and documenting customer care applications. Interns will build voice, chat, and other applications for frontline support teams using microservices, virtualization, software-defined networking, network functions virtualization, and big data platforms. Responsibilities include creating scalable and highly available software, collaborating with technical teams, applying emerging technologies, and improving existing processes.
-Top Skills:
-Big Data Platforms Microservices Network Functions Virtualization Software-Defined Networking Virtualization
 Notion
 Software Engineering Intern, Frontend (Summer 2027)
 <age> Saved
 Hybrid
-New York, NY, USA
+2 Locations
 57-61 Hourly
 Internship
 57-61 Hourly
@@ -167,19 +206,6 @@ Fintech &#x2022; Financial Services
 Ten-week paid software engineering internship developing, testing, and deploying C++ solutions for a proprietary trading platform. Interns work with large datasets, network programming, multithreaded applications, AI coding tools, and cross-functional technologists and researchers. The role includes mentorship, complex problem-solving, collaboration, and opportunities for full-time employment after graduation.
 Top Skills:
 Ai/Ml Frameworks C&#x2B;&#x2B; Claude Code Data Pipelines Git Linux Relational Databases Tcp/Ip
-Two Sigma
-Software Engineering Internship (Summer 2027)
-<age> Saved
-Hybrid
-New York, NY, USA
-4K-4K Hourly
-Internship
-4K-4K Hourly
-Internship
-Fintech &#x2022; Software &#x2022; Financial Services
-Software engineering interns complete a 10-week project with mentorship, building scalable infrastructure, cloud and storage systems, trading platforms, data ingestion pipelines, model deployment environments, and productivity tools. Responsibilities emphasize reliability, high performance, low latency, experimentation, and collaboration across engineering and corporate teams. Interns are matched with a specific team before starting and present their completed project at the program’s conclusion.
-Top Skills:
-C C&#x2B;&#x2B; Distributed Storage Java Jvm Perl Private Cloud Public Cloud Python Ruby Unix
 1
 2
 3

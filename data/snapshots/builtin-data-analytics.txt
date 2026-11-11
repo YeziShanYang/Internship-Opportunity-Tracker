@@ -31,6 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+T-Mobile
+Summer 2027 Business Analytics &amp; Reporting Internship
+<age> Saved
+In-Office
+Bellevue, WA, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+An 11-week paid internship supporting T-Mobile’s Wholesale & Roaming performance intelligence team. The intern will analyze and integrate data, build dashboards, evaluate financial and operational trends, investigate forecast variances, assess growth and pricing opportunities, improve data quality, automate reporting, and present actionable recommendations to business, technical, and financial stakeholders.
+Top Skills:
+Excel Power BI Python Snowflake SQL Tableau
 Citadel
 Quantitative Research Engineer - PhD Intern (US)
 <age> Saved
@@ -70,19 +83,6 @@ eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; M
 Supports the Mobile Device Data and Operations team by collecting, enriching, and distributing product data to catalogs and vendor partners. Develops workflow designs using KNIME or Alteryx, works with Oracle and Snowflake databases, and deploys application tools on AWS. The internship also includes professional development, mentorship, networking, community service, and cross-functional projects.
 Top Skills:
 AI Alteryx AWS Excel Knime Oracle Power Apps Python Regex Sharepoint Snowflake SQL
-T-Mobile
-Summer 2027 Data Engineering Internship
-<age> Saved
-In-Office
-2 Locations
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Build and test ETL/ELT data pipelines using SQL and Python, ingesting and transforming data from multiple sources into cloud platforms. Implement data-quality checks, monitoring, and documentation; participate in agile ceremonies and code reviews; collaborate with engineers; and present project results to leadership. This is an 11-week paid internship involving real-world data engineering projects and mentorship.
-Top Skills:
-AWS Big Data Cloud Data Platforms Etl/Elt Git Java Python SQL
 Citadel Securities
 Quantitative Researcher - PhD Intern (US)
 <age> Saved
@@ -97,8 +97,8 @@ As a PhD intern, you will develop and test trading strategies, perform statistic
 Top Skills:
 C&#x2B;&#x2B; Python R
 New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
 Use For Free
 CrowdStrike
 Sales Data Analytics Intern
@@ -124,32 +124,6 @@ Cloud &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Machi
 Supports Finance and cross-functional teams by building data pipelines, improving data quality and governance, automating reporting, developing Power BI dashboards, applying AI and analytics, and contributing to financial models, forecasts, reconciliations, and executive insights.
 Top Skills:
 APIs Azure Databricks Dax Etl/Elt Generative Ai Machine Learning Excel Microsoft Fabric Power BI Power Query Python SQL
-Ahold Delhaize USA
-3rd Party Partnership Intern
-<age> Saved
-In-Office
-Chicago, IL, USA
-34K-38K Hourly
-Internship
-34K-38K Hourly
-Internship
-AdTech &#x2022; eCommerce &#x2022; Food &#x2022; Marketing Tech &#x2022; Retail
-Supports strategic third-party delivery partnerships through delivery and marketplace data analysis, operational performance monitoring, reporting, and business reviews. Identifies trends, recurring issues, and improvement opportunities; documents findings and develops recommendations. Collaborates with internal stakeholders and external delivery providers, participates in meetings, and presents analytical insights. The internship also includes mentorship, leadership development, networking, and project-based learning.
-Top Skills:
-Excel Microsoft Powerpoint
-Wells Fargo
-2027 Technology Summer Internship &#x2013; Early Careers (Data Engineering)
-<age> Saved
-Hybrid
-Charlotte, NC, USA
-38-63 Hourly
-Internship
-38-63 Hourly
-Internship
-Fintech &#x2022; Financial Services
-Data Engineering Interns will develop and maintain scalable data pipelines, APIs, data products, and enterprise platforms. Responsibilities include data ingestion, transformation, validation, governance, quality monitoring, metadata management, cloud and distributed computing, CI/CD, testing, and observability. Interns will also use approved generative AI tools, support AI-enabled engineering workflows, and collaborate with engineers, architects, product teams, and business stakeholders. The 10-week hybrid program includes training, mentorship, and potential consideration for a subsequent full-time Technology Analyst role.
-Top Skills:
-Algorithms APIs Artificial Intelligence Ci/Cd Cloud Technologies Copilot Data Governance Data Modeling Data Pipelines Data Structures Distributed Computing Generative Ai Grafana Machine Learning Metadata Management Object-Oriented Programming Power BI Prompt Engineering Python SAS SQL Tableau Version Control
 Liberty Mutual Insurance
 Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA (Summer 2027)
 <age> Saved
@@ -163,6 +137,30 @@ Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing T
 An 11-week analyst internship involving qualitative and quantitative data analysis, performance trend research, opportunity identification, and recommendations supporting business decisions in the insurance industry. Interns collaborate individually and in teams, use analytical and technical tools, participate in training, and develop business acumen while exploring potential full-time opportunities.
 Top Skills:
 Artificial Intelligence Excel Power BI Python R SAS Snowflake SQL
+IDeaS
+Marketing Analytics Intern
+<age> Saved
+Hybrid
+Bloomington, MN, USA
+Internship
+Internship
+Software &#x2022; Analytics &#x2022; Hospitality
+Supports cross-channel marketing attribution and influence modeling by documenting data sources, defining business rules, mapping and normalizing interaction data, testing reporting prototypes, and recommending implementation steps. The intern also assists with AWS marketing data organization, segmentation research, data hygiene, process documentation, and stakeholder communications. The role requires analytical thinking, thorough documentation, clear communication, and collaboration across marketing and technical teams.
+Top Skills:
+AWS Data Modeling Data Visualization Hubspot Marketing Automation Salesforce Spreadsheets SQL
+Atlassian
+Data Engineer Intern, 2027 Summer U.S.
+<age> Saved
+In-Office or Remote
+Seattle, WA, USA
+47-64 Hourly
+Internship
+47-64 Hourly
+Internship
+Cloud &#x2022; Information Technology &#x2022; Productivity &#x2022; Security &#x2022; Software &#x2022; App development &#x2022; Automation
+Data Engineering Interns will define metrics, instrument logging, ingest and model data, transform datasets, ensure data quality and governance, and support visualization, reporting, alerting, and scalable systems. They will partner with product, analytics, and data consumers to improve product engagement, efficiency, costs, and strategic decision-making. The 12-week, full-time internship includes technical training, mentorship, and hands-on project experience.
+Top Skills:
+Python Relational Databases SQL
 1
 2
 3
@@ -170,7 +168,7 @@ Artificial Intelligence Excel Power BI Python R SAS Snowflake SQL
 5
 ...
 ...
-47
+45
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

@@ -89,26 +89,26 @@ Who we&rsquo;re looking for : First-year students or sophomores pursuing a quant
 For more info:&nbsp; Analyst Early Experiences - AnalystEE@capitalone.com &nbsp;
 Check out the Students &amp; Grads event page to find info sessions on the programs and connect with the recruiting teams.
 ALL JOBS
-R247093
-Product Manager - Capital One Travel
-R1005287
-Full Time Branch Ambassador - Canarsie
-R1004224
-Salesforce Integration Engineer 4
-R999416
-Principal Risk Specialist, Compliance Governance Analyst
-R999403
-Product Manager - Card Integrations
-R999184
-Sr. Associate, Capital Markets &amp; Analytics
-R249739
-Manager, Creative Director - Retail Bank
-R249195
-Sr. Business Director, Customer Data Strategy
-R248564
-Manager, Product Management - Customer Identity &amp; Core
-R247907
-Business Director, Acquisitions Strategy &amp; General Management (Co-Brand Card Partnerships)
+R247703
+Accounting, Audit and Tax Manager
+R1004319
+Senior Director - Software Engineering
+R1004320
+Senior Director - Machine Learning Engineering
+R1004514
+Lead Software Engineer
+R249906
+Data Analysis Manager - Enterprise Services Risk Analytics
+R249555
+Senior Data Analyst - Analytics &amp; Transformation
+R248806
+Senior Business Analyst - Credit Reporting &amp; Performance
+R248275
+Data Analysis Manager - Analytics &amp; Transformation
+R248273
+Senior Data Analyst - Analytics &amp; Transformation
+R247753
+Senior Data Analyst - Risk Product Data
 View all of our available opportunities
 Related Content
 Explore Capital One Internships

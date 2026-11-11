@@ -476,12 +476,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1833
 Title:2027 Investment Banking Internship – Frankfurt, Equity Capital Markets (July / October Start Dates)
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1815-2027-Summer-Analyst-Program-Investment-Banking-Singapore/en-GB
-2027 Summer Analyst Program - Investment Banking - Singapore
-<timestamp>
-<timestamp>
-ID:1815
-Title:2027 Summer Analyst Program - Investment Banking - Singapore
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1821-2027-Investment-Banking-Off-Cycle-Internship-Programme-Paris-Generalist-Team-January-start/en-GB
 2027 Investment Banking Off-Cycle Internship Programme Paris - Generalist Team (January start)
 <timestamp>
