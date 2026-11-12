@@ -248,12 +248,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1997
 Title:2027 Equities Sales &amp; Trading Summer Analyst Program - Cash Trading - Hong Kong
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1984-2027-Equity-Research-Summer-Analyst-Program-Hong-Kong/en-GB
-2027 Equity Research Summer Analyst Program - Hong Kong
-<timestamp>
-<timestamp>
-ID:1984
-Title:2027 Equity Research Summer Analyst Program - Hong Kong
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1986-2027-Risk-Management-Summer-Internship-Programme-London/en-GB
 2027 Risk Management Summer Internship Programme - London
 <timestamp>

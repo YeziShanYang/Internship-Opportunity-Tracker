@@ -3,17 +3,14 @@ Skip to Main Content Events
 Search Sign In Sign In
 Discover
 Submit Event
+Sign In
 Event Type
 All Events CV Events Hackathons
 AI Events in San Francisco
 Submit Event
+Sign In
 Discover
 San Francisco is where the frontier labs ship, and the calendar shows it. Explore Cerebral Valley&#x27;s curated selection of hackathons, research talks, demo nights, and founder dinners across the Bay.
-Nov 9
-AI Engineer Code Summit
-Mon, Nov 9 · 4:00 PM PST LIVE
-San Francisco, CA
-The application-only AI Engineer Code Summit will bring together leading coding-agent builders and AI engineers for three days of focused exchange, November 10–12, 2026.
 Nov 10
 VantaCon 2026 | The AI governance event
 Tue, Nov 10 · 9:00 AM PST LIVE
@@ -21,86 +18,86 @@ Convene SF
 VantaCon will bring together 650+ practitioners from leading companies and leaders shaping AI trust and governance. Attendees will share proven AI-risk strategies, practical frameworks, and perspectives that will help set the agenda for trust.
 Nov 11
 VapiCon 2026
-Wed, Nov 11 · 8:00 AM PST
+Wed, Nov 11 · 8:00 AM PST LIVE
 Festival Pavilion
 The Frontier Voice AI Summit will bring builders, product and business leaders, growth teams, and operators together for two days exploring what’s working, and what’s next, in voice AI. The program will feature morning keynotes, a Vapi product keynote, afternoon breakouts, a fireside chat, and daily happy hours.
-Nov 11
-AI Agents in Healthcare | Operator Breakfast
-Wed, Nov 11 · 8:00 AM PST
+Nov 12
+SGLang Summit 2026 by LMSYS
+Thu, Nov 12 · 9:00 AM PST
+Fort Mason Center
+SGLang Summit 2026 will bring 2,000+ engineers, researchers, builders, and leaders together to explore frontier AI models, infrastructure, hardware, agents, robotics, and real-world applications through talks, workshops, demos, and technical sessions. Speakers will include Intel CEO Lip-Bu Tan, OpenAI’s Lilian Weng, Thinking Machines Lab’s Soumith Chintala, and Perplexity CEO Aravind Srinivas.
+Nov 12
+Do Not Disturb
+Thu, Nov 12 · 9:30 AM PST
+Entrepreneurs First
+A 32-hour hackathon will challenge teams of 1–3 to build impressive AI agents that use phones, with every feature accessible from a phone. Hosted by Entrepreneur First in partnership with LangChain, the event will bring together 100 builders to compete for $3,000 in cash prizes.
+Nov 12
+Do Not Disturb HACKATHON
+Thu, Nov 12 · 9:30 AM PST
 San Francisco, CA
-Founders, operators, and healthcare leaders will discuss what drives adoption, customer willingness to pay, and real-world value for AI agents in healthcare over breakfast and candid conversation. The event will feature perspectives from Inflect Capital, an early-stage healthcare fund backed by Vituity, Informed Ventures, and AI-powered care navigation company Rely Health.
-Nov 11
-AI Loves Data - GenAI and Intelligent Agents in the Enterprise
-Wed, Nov 11 · 8:00 AM PST
+On November 12–13, 100 builders will compete in a 32-hour hackathon to create phone-accessible AI agents, with $3,000 in prizes at stake. The event will be held in partnership with LangChain, Bond AI, and Intertech Talents, and teams of one to three will build their projects.
+Nov 12
+Gen AI Pitch Competition hosted by Cloudtech x SV-SBDC x AWS
+Thu, Nov 12 · 11:00 AM PST
+Mitchell Park Community Center
+In partnership with AWS and Cloudtech, this competition will spotlight promising AI ideas and projects, showcasing innovative work from emerging and established AI talent.
+Nov 12
+Separating the Signal from the Noise: AI in Biology
+Thu, Nov 12 · 12:00 PM PST
+Mission Bay Conference Center
+Leading researchers will dig into how AI is transforming biological discovery by cutting through noise to extract meaningful patterns from massive datasets.
+Nov 12
+How an AI Token Meets the best Product？@Microsoft GCR Incubator
+Thu, Nov 12 · 1:30 PM PST
+Microsoft
+Microsoft Incubator’s upcoming event will feature General Manager Olivia Zhang on startup resources and AI trends, plus ZooWork Co-Founder and CMO Gene Deng sharing how to turn enterprise AI agents into practical business value. Founder stories, a retail AI panel, and live startup pitches will offer insights into growth, monetization, and potential incubator support.
+Nov 12
+Physical AI Conference 2026
+Thu, Nov 12 · 2:00 PM PST
+Plug &amp; Play Tech Center
+The third annual Physical AI Conference 2026 will explore real-world advances in mobility, robotics, drones, and AI through expert keynotes, startup pitches, and industry discussions. Speakers will include Amazon Last Mile’s CV/ML Science Lead Yelin Kim, Plug and Play VC Prajwal Deshkar, and Seoul National University professor and CryptoLab/HEaaN CEO Jung Hee Cheon.
+Nov 12
+Fireside Chat with Tanay Kothari, Wispr Flow
+Thu, Nov 12 · 3:00 PM PST
+San Francisco, CA
+South Park Commons will host a fireside chat with Tanay Kothari, Wispr co-founder and CEO, four-time founder, Stanford AI graduate, and Forbes 30 Under 30 honoree. The conversation will explore his path from building early startups to developing an AI-powered voice productivity tool.
+Nov 12
+AI Uncanny Valley Underground
+Thu, Nov 12 · 3:30 PM PST
+San Francisco, CA
+An informal weekly virtual meetup will bring together people interested in AI for open conversation every Thursday at 6:30 PM Pacific.
+Nov 12
+The Founder Game ARG
+Thu, Nov 12 · 4:00 PM PST
+San Francisco, CA
+Participants will step into the role of aspiring founders in a first-of-its-kind in-person AI alternate reality game, using strategy and hacker-style problem-solving to build a billion-dollar business. The experience will feature challenges, fun, and prizes.
+Nov 12
+AI Night with AWS x Anthropic
+Thu, Nov 12 · 4:30 PM PST
 AWS Builder Loft
-Data science leaders and AI researchers will converge for curated sessions exploring how machine learning drives enterprise innovation, with senior executives and top local talent diving into predictive analytics and real-world AI implementations.
-Nov 11
-VapiCon 2026
-Wed, Nov 11 · 8:30 AM PST
-Fort Mason Festival Pavilion 2 Marina Boulevard #260 San Francisco, CA 94123
-The community behind the first-ever voice AI summit will return for two days of practical insights on what’s working and what’s next in voice AI.
-Nov 11
-Open Source AI Breakfast with 1Password x Founders Bay x You.com
-Wed, Nov 11 · 9:30 AM PST
+Registration for the upcoming AICamp event will be handled through its event page.
+Nov 12
+AWS Partner Showcase (12th Edition) with Anthropic, Grafana, Supabase, Miggo
+Thu, Nov 12 · 4:30 PM PST
+AWS Loft
+AICamp will offer expert-led tech talks, workshops, bootcamps, and crash courses to help developers build AI skills and keep pace with the industry. Its programming will be led by experienced experts.
+Nov 12
+AWS Partner Showcase Extended with Anthropic, Grafana, Supabase, Miggo
+Thu, Nov 12 · 4:30 PM PST
 San Francisco, CA
-AI founders, open-source builders, engineers, and investors will explore AI agents, infrastructure, security, and open-source innovation through lightning talks and panels hosted by Founders Bay, 1Password, and You.com. The event will draw on Founders Bay’s 200,000-plus community and 1Password’s experience protecting data for more than 180,000 businesses, alongside a Tesla vehicle and showroom experience.
-Nov 11
-Medal x General Intuition
-Wed, Nov 11 · 3:00 PM PST
-Stanford, CA
-Medal and General Intuition will present talks and Q&amp;A on gameplay clips, spatial and temporal reasoning research, and commercial applications, with potential previews of unreleased work. General Intuition is a frontier research lab backed by leading investors and recently valued at $6.2 billion; its team will also connect with researchers and engineers about internships and other opportunities.
-Nov 11
-Early Days #02 with Google DeepMind: Open Models, Security &amp; AI Defensibility
-Wed, Nov 11 · 4:00 PM PST
+The 12th AWS Agentic AI Partner Showcase will feature experts from AWS, Anthropic, Grafana, Supabase, and Miggo demonstrating production-ready agentic AI systems through live demos, technical deep dives, and implementation discussions. Developers, engineers, and technology leaders will gain practical insights into AWS integration, deployment, and monitoring, with opportunities for expert Q&amp;A.
+Nov 12
+How to Build Better Products with AI Evals by Hamel Husain &amp; Shreya Shankar
+Thu, Nov 12 · 4:30 PM PST
+Mountain View, CA
+AI evals experts Hamel Husain and Shreya Shankar will share practical frameworks for testing AI features, interpreting results, and making confident product decisions, followed by Q&amp;A. The book launch will also feature signing and networking, with in-person attendees receiving a complimentary, author-signed copy of *Evals for AI Engineers*.
+Nov 12
+Keeping Pace With AI: The Skills and Workflows Teams Need Now
+Thu, Nov 12 · 5:00 PM PST
 San Francisco, CA
-Antler and Google DeepMind will explore Gemini 4 Argon, Gemini 4 Carbon, and open-weight Gemma models, with a keynote and fireside discussion on AI defensibility and startup growth. The session will offer founders practical insights from DeepMind experts and Antler’s early-stage venture and founder community.
-Nov 11
-Lauren Kolodny @ Entrepreneurial Thought Leaders Speaker Series (ETL)
-Wed, Nov 11 · 4:30 PM PST
-Nvidia Auditorium
-Lauren Kolodny, co-founder and managing partner of Acrew Capital, will share insights on investing in companies transforming financial services through AI and technology as part of the Entrepreneurial Thought Leaders series. A three-time Forbes Midas List honoree, she led Chime’s Series A and supported the company through its 2025 IPO.
-Nov 11
-The Software Factory Debate
-Wed, Nov 11 · 5:00 PM PST
-San Francisco, CA
-Product and engineering leaders will pressure-test what AI-powered “software factories” can actually deliver, debating how agents may reshape planning, specs, testing, and handoffs, and where real-world bottlenecks remain. The discussion will feature Ben Levine, CPO at Candidly, whose background spans AI product leadership, data science at Twitter, and research at Microsoft Research Labs.
-Nov 11
-BioPioneers × Cycore: AI &amp; Biotech Happy Hour
-Wed, Nov 11 · 5:00 PM PST
-Madarae
-BioPioneers and Cycore will host a casual evening for biotech, techbio, and AI founders, scientists, operators, and investors to exchange ideas and build connections. The gathering will draw on BioPioneers’ life-sciences community and Cycore’s expertise in cybersecurity, compliance, and AI governance.
-Nov 11
-Vlad Tenev (Co-Founder, RobinHood &amp; HarmonicMath)
-Wed, Nov 11 · 5:30 PM PST
-Stanford University CEMEX Auditorium
-Vlad Tenev, Robinhood co-founder and CEO and Harmonic co-founder and executive chairman, will speak in Stanford AI Club’s ’26–’27 Speaker Series. He’ll share perspectives shaped by building a public fintech company and an AI system that verifies mathematical proofs; Tenev holds mathematics degrees from Stanford and UCLA.
-Nov 11
-The Rise of Enterprise AI Agents: From Internal Copilots to Customer-Facing
-Wed, Nov 11 · 5:30 PM PST
-5 Palo Alto Square
-Founders and investors will explore enterprise AI agents, with VC insights, startup pitches, and dinner conversations on the agenda.
-Nov 11
-SGLang x NVIDIA Meetup
-Wed, Nov 11 · 5:30 PM PST
-San Francisco, CA
-NVIDIA, SGLang, and Modal will host an evening of lightning technical talks, roundtables, demos, and community conversation ahead of the inaugural SGLang Summit. Engineers from the teams behind these tools will discuss inference performance, tooling, and developer experience, with food, drinks, and raffle prizes also planned.
-Nov 11
-Atlassian Code Summit Happy Hour
-Wed, Nov 11 · 6:00 PM PST
-San Francisco, CA
-Atlassian’s engineering and product leaders behind Jira, Bitbucket, and DX will share insights on AI-native software development during an intimate happy hour alongside AI Engineer Code Summit. Attendees will connect with experienced product and engineering peers over drinks, bites, and a raffle for Atlassian Williams Racing swag.
-Nov 11
-Wiki3: Own Your Own AI Workshop
-Wed, Nov 11 · 6:00 PM PST
-Hacker Dojo
-The Wiki3 AI Owners Group will host a free, hands-on workshop on running AI models on your own computer. Attendees will get practical experience with local AI tools and workflows.
-Nov 11
-Beyond Vibe Code: Are You Production Ready?
-Wed, Nov 11 · 6:00 PM PST
-San Francisco, CA
-This upcoming event will examine how AI-generated apps can move from quick prototypes to secure, reliable, production-ready systems that scale, with candid insights, live demos, and networking. It will bring together enterprise operators, innovation leads, founders, builders, and investors focused on taking AI software from pilot to production.
-Nov 11
-Researchers, Paper and Pizza
-Wed, Nov 11 · 6:00 PM PST
-San Francisco, CA
-The weekly robotics series will explore cutting-edge research in LLMs, robotics, simulation, and BCI in a casual setting, with pizza, beverages, and a low-fi DJ set. The music may be noticeable, so noise-sensitive attendees should plan accordingly.
+AI and data leaders will explore how organizations can redesign team workflows, identify what drives successful AI adoption, and train talent to keep pace with evolving systems. The evening will pair candid discussion with after-work networking in a deliberately small group.
+Nov 12
+Robotics Founders Evening: Founders on Scale, Hardware and Shenzhen
+Thu, Nov 12 · 5:00 PM PST
+Mission Robotics
+Three robotics founders, Anand Lalwani of Cardinal Robotics (Forbes 30 Under 30), Abhinav Das of Orangewood Labs (YC W18), and Max Williams of Axonnic (YC F26), will share hard-won lessons on scaling robots beyond the lab, finding training data, and building for real customers. Moderated by former Slush CPO Henri Mäkivirta, the panel will also explore what they would do differently and take questions from the audience.

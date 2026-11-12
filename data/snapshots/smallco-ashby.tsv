@@ -54,6 +54,7 @@ ibotta
 interplay
 kognitos
 kos.ai
+leantechniques
 maximor
 maxinsights
 mechanize
@@ -166,7 +167,6 @@ allen-control-systems	Software Engineering Intern, 2027 @ Austin, TX	Type=Intern
 allen-control-systems	Systems Engineering Intern, 2027 @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476
 allen-control-systems	Technical Design Artist, Intern 2027 @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/allen-control-systems/476bf9ef-17f2-41fd-ae07-ba1090668677
 allium	Engineering Intern - General / AI @ New York	Type=FullTime; URL=https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e
-antares	Business Operations Finance Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/9976c2a9-3667-4152-a4ea-affa8b637026
 antares	Electrical Engineering Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d
 antares	Government Affairs Intern @ DC	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/0ba5a72f-35b5-451e-b05a-8f96c9d3101e
 antares	IT Helpdesk Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/c06333ba-ce06-43c2-be34-615a3582d5df
@@ -204,12 +204,10 @@ architect	Member of Technical Staff - Research Intern @ Palo Alto	Type=FullTime;
 astera	Robotics Systems Intern @ Emeryville HQ	Type=Intern; URL=https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8
 auctor	Software Engineering Intern @ New York	Type=FullTime; URL=https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607
 barnes	2027 BT RISE Internship - Business Development & Client Growth Intern @ Indianapolis	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/ab15ad85-b790-41f2-9e07-6f9325dd9fe5
-barnes	2027 BT RISE Internship - Human Resources @ Indianapolis	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/fe259ef2-8e4b-4d43-9c2f-b2fc147fbf3e
 barnes	2027 BT RISE Internship - Information Security @ Indianapolis	Type=Intern; URL=https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177
 barnes	2027 BT RISE Internship - Information Technology Data Intern @ Indianapolis	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0
 barnes	2027 BT RISE Internship - Legal Talent Management @ Indianapolis	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/41d1eb86-bd05-4c1e-ad17-d62cfd9f40ce
 base-power	Accounting Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/1b275bc7-7ea3-49f2-a41a-209431458d36
-base-power	Business Operations Intern, Commercial Partnerships @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/db6bb778-21d3-47d1-8f97-a42543f88b8f
 base-power	Deployments Engineering Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935
 base-power	Deployments Operations Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/7be0dc29-e42c-4a1f-8512-fd94c13aabf2
 base-power	Design Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd
@@ -349,6 +347,7 @@ ibotta	Software Engineer Intern @ Denver, CO	Type=FullTime; URL=https://jobs.ash
 interplay	AI Labs Intern @ New York	Type=Contract; URL=https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac
 kognitos	Software Engineer Intern (AI-Native) — Fall 2026 @ San Jose - HQ	Type=FullTime; URL=https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5
 kos.ai	Software Engineer Intern @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3
+leantechniques	Software Engineer Intern - Hybrid @ Hybrid	Type=FullTime; URL=https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c
 maximor	Software Engineer (New Grad) @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e
 maximor	Software engineering Intern @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8
 maximor	Startup Generalist (New Grad) @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/maximor/b75360eb-63dc-4cb0-99b7-67e25986c584
@@ -387,8 +386,6 @@ notion	Software Engineering Intern, Frontend (Summer 2027) @ New York, New York	
 notion	Software Engineering Intern, iOS (Summer 2027) @ New York, New York	Type=Intern; URL=https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947
 odysseyml	Research Internship @ Palo Alto	Type=Intern; URL=https://jobs.ashbyhq.com/odysseyml/85dc0f84-8a0a-45b2-ba70-30364750b5be
 oneapp	AI Research Intern @ United States (Remote)	Type=Intern; URL=https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7
-oneapp	Finance Intern @ New York Office	Type=Intern; URL=https://jobs.ashbyhq.com/oneapp/07c0a56b-f130-4055-9ccd-f200883d9a5c
-oneapp	Legal & Compliance Intern @ New York Office	Type=Intern; URL=https://jobs.ashbyhq.com/oneapp/f641bb45-b779-4a71-a775-9ee8e43bc8c2
 oneapp	Partnerships Intern @ New York Office	Type=Intern; URL=https://jobs.ashbyhq.com/oneapp/a6db6bbb-bc8d-43d2-9dd6-1047a9d5aec5
 opusclip	AI Product Management Intern @ Mountain View	Type=FullTime; URL=https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea
 opusclip	Customer Experience Test Automation Intern @ Burnaby	Type=FullTime; URL=https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818
@@ -427,6 +424,7 @@ revel	Internship: Forward Deployed Engineer, Test @ Los Angeles	Type=Intern; URL
 revel	Internship: Full Stack Software Engineer @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314
 revel	Internship: Software Engineer, Test @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/revel/f080b27d-92c7-4e1f-a85f-b4a7c166d738
 rhoda-ai	Optical Sensing Intern - Robot Perception @ Mountain View	Type=Intern; URL=https://jobs.ashbyhq.com/rhoda-ai/df2aa2a4-ca56-4fa6-b106-89a7fc6a9bb4
+rhoda-ai	Research Intern @ Mountain View	Type=FullTime; URL=https://jobs.ashbyhq.com/rhoda-ai/20056166-79de-420b-8569-d0b15ee83599
 rhoda-ai	Software Engineer Intern, Inference @ Mountain View	Type=Intern; URL=https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4
 rhoda-ai	Software Engineer Intern, Rhoda Platform @ Mountain View	Type=FullTime; URL=https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5
 rilla	Generalist Intern, 2027 @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/rilla/450c6d61-15d8-40b8-8f72-bfbe49935831

@@ -31,6 +31,56 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Finance Jobs
+SharkNinja
+Summer 2027: Commercial Finance Internship, Americas (May through August)
+<age> Saved
+In-Office
+Needham, MA, USA
+26-35 Hourly
+Internship
+26-35 Hourly
+Internship
+Beauty &#x2022; Robotics &#x2022; Design &#x2022; Appliances &#x2022; Manufacturing
+Supports the Global Product FP&A team with standard costing, cost variance analysis, inventory valuation, purchase price variance reconciliation, margin analysis, financial reporting, and month-end close activities. The intern collaborates with Product Development, Supply Chain, Sourcing, and Inventory Accounting teams while contributing to reporting standardization, automation initiatives, financial planning, and ad hoc analysis.
+Top Skills:
+Excel Financial Modeling Financial Reporting Systems
+SharkNinja
+Summer 2027: Accounting Intern (May through August)
+<age> Saved
+In-Office
+Needham, MA, USA
+28-34 Hourly
+Internship
+28-34 Hourly
+Internship
+Beauty &#x2022; Robotics &#x2022; Design &#x2022; Appliances &#x2022; Manufacturing
+The Accounting Intern will support general ledger analysis, account reconciliations, data entry, retailer deduction validation, accounting procedures, audit activities, internal controls, and ad hoc reporting. The role involves researching financial questions, resolving transactional issues with internal and external partners, and maintaining accurate records while learning within a fast-paced Finance team.
+Top Skills:
+Excel Microsoft Powerpoint Microsoft Word
+SharkNinja
+Summer 2027: Category Finance Intern (May through August)
+<age> Saved
+In-Office
+Needham, MA, USA
+28-34 Hourly
+Internship
+28-34 Hourly
+Internship
+Beauty &#x2022; Robotics &#x2022; Design &#x2022; Appliances &#x2022; Manufacturing
+Supports category finance through P&L management, SKU and regional reporting, margin modeling, scenario analysis, dashboard improvement, and financial insights for consumer product launches. Partners with Finance, Marketing, Product Development, Category, and Sales teams; resolves discrepancies, automates recurring calculations, manages projects, and presents findings to senior leaders.
+Top Skills:
+Excel
+Globe Life
+Investment Intern - 2027 Spring Internship
+<age> Saved
+Remote
+USA
+Internship
+Internship
+Insurance &#x2022; Financial Services
+Analyze credit risk for corporate and municipal debt issuers, monitor industry and company developments, and perform financial, scenario, sensitivity, and reinvestment analyses. The intern will prepare earnings call summaries, build financial models, present sector outlooks, develop investment recommendations, and support broader investment team projects.
+Top Skills:
+Bloomberg Terminal MS Office
 Ahold Delhaize USA
 Financial Assurance Intern
 <age> Saved
@@ -44,32 +94,6 @@ AdTech &#x2022; eCommerce &#x2022; Food &#x2022; Marketing Tech &#x2022; Retail
 Supports the Risk & Controls team by evaluating financial and IT controls, testing business processes and systems, tracking defects, analyzing risks, improving monitoring reports, and recommending control enhancements. The intern uses data analytics, visualizations, and process-flow tools while collaborating across finance, accounting, supply chain, merchandising, and IT functions.
 Top Skills:
 Data Visualization Excel MS Office Process Flow Tools SAP
-Ahold Delhaize USA
-Financial Planning &amp; Analysis Intern
-<age> Saved
-In-Office
-Salisbury, NC, USA
-34K-38K Hourly
-Internship
-34K-38K Hourly
-Internship
-AdTech &#x2022; eCommerce &#x2022; Food &#x2022; Marketing Tech &#x2022; Retail
-Supports the FP&A team with financial analysis, reporting, planning deliverables, and financial-results synthesis. The intern will collaborate on team projects, improve reporting processes, identify efficiency opportunities, and recommend actionable solutions. The role also includes professional development, mentoring, leadership sessions, and presenting project work to company leaders.
-Top Skills:
-Excel MS Office Microsoft Powerpoint Power BI
-Ahold Delhaize USA
-Financial Planning &amp; Analysis Intern
-<age> Saved
-In-Office
-Quincy, MA, USA
-34K-38K Hourly
-Internship
-34K-38K Hourly
-Internship
-AdTech &#x2022; eCommerce &#x2022; Food &#x2022; Marketing Tech &#x2022; Retail
-Supports the FP&A team with financial analysis, reporting, planning deliverables, data synthesis, standardized templates, and process improvement. The intern collaborates with FP&A colleagues, analyzes financial results, identifies efficiency opportunities, and recommends actionable solutions while developing finance, analytical, and business skills through mentorship and project work.
-Top Skills:
-Excel MS Office Microsoft Power Bi Microsoft Powerpoint
 Citadel
 Trader: Fixed Income &amp; Macro Rotational Trader - Intern (US)
 <age> Saved
@@ -81,6 +105,10 @@ Internship
 Internship
 Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
 Participate in a structured fixed income and macro trading rotation. Develop expertise in financial markets, apply statistical techniques to trading, adapt investment approaches, and use advanced trading technology. Collaborate with traders, quantitative researchers, and technologists while identifying opportunities and managing risk. The internship also includes networking with senior team members and peers.
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Wells Fargo
 2028 Investment Banking Summer Internship &#x2013; Early Careers (Houston)
 <age> Saved
@@ -101,10 +129,6 @@ Internship
 Internship
 Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Financial Services
 Tax interns support client engagements by preparing individual, business, and fiduciary tax returns and projections, researching tax issues, analyzing data, responding to client requests, and identifying process improvements. They use tax and accounting software, conduct limited tax interviews, and collaborate with professionals while developing accounting, communication, organizational, and client-service skills.
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Micron Technology
 Intern - Corporate Development
 <age> Saved
@@ -116,17 +140,6 @@ Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x202
 Supports Micron’s Corporate Development team through venture investment analysis, M&A due diligence, strategic and quantitative analysis, market landscape development, and evaluation of strategic opportunities. The intern will prepare insights and recommendations for management while researching the semiconductor ecosystem and working with global teams. The role requires strong quantitative and analytical abilities, financial modeling knowledge, teamwork, attention to detail, and proficiency using AI tools responsibly.
 Top Skills:
 Ai Tools Financial Modeling Financial Statements Excel Valuation
-Globe Life
-FP&amp;A Intern - 2027 Summer Internship
-<age> Saved
-In-Office
-McKinney, TX, USA
-Internship
-Internship
-Insurance &#x2022; Financial Services
-Supports the FP&A team through clerical work, programming-related tasks, departmental and cross-functional projects, and backup coverage. The intern gains exposure to senior management and mentors while developing finance, communication, problem-solving, and organizational skills in a collaborative environment.
-Top Skills:
-Object-Oriented Programming
 ServiceNow
 Finance Intern - Undergrad Summer 2027
 <age> Saved
@@ -162,19 +175,6 @@ Internship
 Internship
 Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
 Supports transfer pricing and international tax projects through research, analysis, tax return assistance, intercompany pricing strategy development, and compliance activities. Collaborates with the Japanese Business Network to build cultural and market insight while learning PwC tax methodologies. The intern gathers information, identifies patterns, contributes to client-service projects, seeks feedback, and develops professional skills.
-Rocket
-Summer 2027 Real Estate Financial Analysis (Investment and Asset Management)
-<age> Saved
-In-Office
-Detroit, MI, USA
-18-18 Hourly
-Internship
-18-18 Hourly
-Internship
-Fintech &#x2022; Real Estate &#x2022; Sales &#x2022; Financial Services
-Summer 2027 internship focused on real estate financial analysis within Investment or Asset Management. Interns will gain exposure to capital markets, acquisitions, dispositions, public financing, asset management, hospitality asset management, and office/retail leasing. The role is fully on-site in downtown Detroit, runs June 1 through August 5, 2027, and requires full-time weekday availability. Candidates should be entering their junior year or higher and demonstrate Microsoft Office proficiency, communication, critical thinking, independence, and teamwork.
-Top Skills:
-Excel MS Office PowerPoint Word
 1
 2
 3
@@ -182,7 +182,7 @@ Excel MS Office PowerPoint Word
 5
 ...
 ...
-183
+185
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

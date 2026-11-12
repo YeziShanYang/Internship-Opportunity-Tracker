@@ -1,7 +1,7 @@
 Careers | Wintermute
-OTC DeFi Liquidity Ventures Insights Company Log-In
-Back OTC Spot Options Forwards CFDs Tailored products Node API Liquidity
-Back Liquidity Algorithmic trading
+OTC Liquidity Node Ventures Insights Company Log-In
+Back OTC Spot Options Forwards CFDs Tailored products API Liquidity
+Back Liquidity DeFi Algorithmic trading
 Back Ventures Portfolio
 Back Insights Discover
 Back Company Who we serve Careers Events Construct Campus
@@ -16,15 +16,15 @@ CFDs
 CFDs Leveraged access
 Tailored products
 Tailored products Custom designed strategies
-Node
-Node Institutional gateway
 API Liquidity
 API Liquidity Programmatic liquidity
-DeFi DeFi
 Liquidity Liquidity Liquidity
 Liquidity Unlock deep liquidity for your token
+DeFi
+DeFi Access liquidity across DeFi
 Algorithmic trading
 Algorithmic trading Cutting-edge exchange trading
+Node Node
 Ventures Ventures Ventures
 Ventures Team up with an early stage investor
 Portfolio
@@ -43,7 +43,7 @@ Events Meet us at the next event
 Construct
 Construct Build alongside top operators
 Campus
-Campus What we&#x27;re doing next
+Campus What we’re doing next
 Node.Wintermute.Com Log-In
 Empowering people to achieve more
 Join Wintermute’s dynamic, high-performing, and collaborative team culture

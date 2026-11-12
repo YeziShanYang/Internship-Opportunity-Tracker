@@ -50,28 +50,62 @@ Hacking Begins
 Hardware Table Opens
 9:30 PM
 Workshop: Team Building
+10:45 PM
+Workshop: LLMs and Gamification
+ILC S140
 Saturday, November 14
 9:00 AM
 Breakfast
 ILC Main Atrium
-9:00 AM
-Workshop: The Next Step: Turning Hacks into Ventures
 11:15 AM
-Workshop: MLH AI Studio + Cursor
-12:00 PM
+Workshop: MLH Intro to Google AI Studios
+11:15 AM
+Workshop: Intro to Open-Source Intelligence
+ILC S120
+11:45 AM
+Workshop: Hackathon A-Team with SpaceXSI
+12:15 PM
 Lunch
 ILC Main Atrium
+1:00 PM
+Workshop: Model Routing: Building Smarter, Faster, and Cheaper AI Applications
+ILC N151
+1:00 PM
+Workshop: Data-Over-Sound "Spy" Communications
+ILC S140
+1:00 PM
+Workshop: Building a Database for Your Hackathon Project
+ILC S120
 2:00 PM
 Sponsor Fair
 ILC Main Atrium
+3:30 PM
+Workshop: Your Idea Isn't Too Big: A Comprehensive Guide to Algorithmic Thinking
 4:45 PM
-Workshop: Capital One Mario Kart Tournament
+Workshop: Capital One Smash Tournament
+4:45 PM
+Workshop: From Idea to AI App: Building Your First AI-Powered Prototype
+ILC S120
+4:45 PM
+Workshop: From Breadboard to PCB
+ILC S131
 6:00 PM
 Dinner
 ILC Main Atrium
 7:00 PM
 Workshop: MLH TechTogether Meetup
-ILC Main Atrium
+ILC N151 / ILC Atrium
+7:00 PM
+Workshop: The Next Step: Turning Hacks into Ventures
+ILC S120
+8:15 PM
+Workshop: Your MVP Is Probably Too Big: How to Scope a Product You Can Actually Ship
+ILC S131
+8:15 PM
+Workshop: From Hack to Hired
+ILC N151
+9:30 PM
+Workshop: Intro to AI Security &amp; Safety
 Sunday, November 15
 12:00 AM
 Insomnia Cookies
@@ -115,6 +149,17 @@ Best AI Security Hack
 Public Good
 Best Accessibility Hack
 Best UMass Hack
+Public Good
+Best Use of Nessie (Capital One)
+Best Agentic Hack (Sentient OS)
+MLH
+Best Domain Name from GoDaddy Registry
+Best Use of Tiger Data
+Build Your Hackathon A-Team with SpaceXSI
+Best Use of Gemini API
+Best Use of Solana
+Best Use of Vultr
+Best Use of MongoDB Atlas
 Our Sponsors
 Gold Sponsors
 Supporting Sponsors

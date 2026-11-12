@@ -44,32 +44,6 @@ Artificial Intelligence &#x2022; Software
 Build connectivity products and integrations across backend services, frontend interfaces, and compute platforms. Develop SDKs, APIs, authentication flows, security frameworks, and high-scale data workflows connecting enterprise systems to Foundry. Diagnose performance and correctness issues, collaborate with infrastructure and product teams, and learn across multiple languages, services, networks, and execution environments. The role is approximately 75% backend and 25% frontend.
 Top Skills:
 Cassandra Envoy Git Go Gradle GraphQL HTTP Java Kubernetes Python React Tcp Tls Typescript Udp
-Palantir Technologies
-Software Engineer, Internship - Data Connectors
-<age> Saved
-In-Office
-New York, NY, USA
-126K-126K Annually
-Internship
-126K-126K Annually
-Internship
-Artificial Intelligence &#x2022; Software
-Build and maintain data connectors, connectivity SDKs, and supporting infrastructure for Palantir Foundry. Develop features for imports, exports, change data capture, queries, and writeback; improve build, testing, packaging, and distribution systems; collaborate on orchestration, streaming, and serverless integrations; and debug production performance and reliability issues.
-Top Skills:
-Debezium Flink Git Go Gradle Iceberg Java Kafka Kubernetes Python
-Palantir Technologies
-Software Engineer, Intern - Connectivity Platform and Product
-<age> Saved
-In-Office
-Denver, CO, USA
-126K-126K Annually
-Internship
-126K-126K Annually
-Internship
-Artificial Intelligence &#x2022; Software
-Build backend and frontend features for Palantir’s connectivity platform, including SDKs, integrations, APIs, authentication flows, security frameworks, and high-scale data workflows. Diagnose performance and correctness issues, support networking functionality, and collaborate with engineers and customer-facing teams. The role is approximately 75% backend and 25% frontend, involving distributed systems, databases, cloud computing, networking, and software architecture.
-Top Skills:
-Cassandra Envoy Git Go Gradle GraphQL HTTP Java Kubernetes Python React Tcp Tls Typescript Udp
 T-Mobile
 Summer 2027 T-Ads Software Engineering Internship
 <age> Saved
@@ -83,19 +57,6 @@ Other &#x2022; Utilities
 Participate in an 11-week paid software engineering internship building media playback technology for T-Mobile’s advertising ecosystem. Develop and test Kotlin Multiplatform features, port functionality from a legacy player, validate performance across Android, Linux, and Windows hardware, and collaborate with engineers, product partners, and designers. Contribute to Agile ceremonies, code reviews, debugging, and software quality practices while gaining mentorship and hands-on experience.
 Top Skills:
 Android Git Java Kotlin Kotlin Multiplatform Linux Typescript Windows
-T-Mobile
-Summer 2027 T-Ads Software Engineering Internship
-<age> Saved
-In-Office
-Philadelphia, PA, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Paid 11-week software engineering internship with T-Mobile’s T-Ads ad-tech team. Interns will build and ship production-ready software for a real-time Digital Out-of-Home advertising platform, including bidstream, backend services, dynamic creative, and web tools. Responsibilities include coding, testing, code reviews, project planning, collaboration with Product, Design, and QA, and presenting completed work. Candidates need experience with at least one supported programming language, Git, and a completed project or prior technical experience.
-Top Skills:
-Git Go JavaScript Python React Rest Apis Scala SQL Typescript
 Citadel
 Software Engineer - Intern (US)
 <age> Saved
@@ -109,10 +70,6 @@ Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Bi
 11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
 Top Skills:
 Distributed Computing Machine Learning Natural Language Processing Web Frameworks
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 NBCUniversal
 Media Tech: Product &amp; Engineering Internships - Summer 2027
 <age> Saved
@@ -139,6 +96,10 @@ Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Tec
 Intern will develop, test, enhance, and support IBM i enterprise applications using RPG, CL, SQL, DB2 for i, and ILE concepts. Responsibilities include database development, debugging, testing, code reviews, application integration, automation, and exploring responsible Generative AI tools. The role includes mentorship, collaboration with technical and business teams, participation in the software development lifecycle, and completion and presentation of an internship project.
 Top Skills:
 APIs Control Language (Cl) Db2 For I Free-Format Rpg Generative Ai Git Ibm I Integrated Language Environment (Ile) Restful Web Services SQL Visual Studio Code
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Spectrum
 2027 Summer Intern: Software Engineer - P&amp;T
 <age> Saved

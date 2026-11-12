@@ -1,5 +1,8 @@
 MIT Pokerbots 2027
 Pokerbots
+$50k and daily free lunch! Pokerbots 2027 registration is live !
+The form is not binding. We will also send you a link to pre-register through MIT once it opens in December.
+Blotto Day and Info Session: Thursday, November 19, 5-6 PM in 4-153. Play here
 What is Pokerbots?
 6.9630, or MIT Pokerbots, is a computerized poker tournament. Teams have one month to program a completely autonomous pokerbot which competes against other bots in a unique poker variant.
 Competitors must learn and apply concepts in mathematics, computer science, and economics not normally developed together in academic settings in order to conquer their opponents and emerge victorious.
@@ -20,7 +23,7 @@ You will need to submit functioning pokerbots for various checkpoints throughout
 Do I have to be an MIT student to participate?
 For our course and tournament in January, you must be able to register for MIT IAP classes. If you are cross-registering, bring your papers in on the first day of class for us to sign. At least one member of your team must have MIT certificates to access our competition server.
 How do I register?
-Here !
+Here ! Since MIT pre-registration for IAP has not yet opened, we will also remind you to officially pre-register through email if you fill out this form.
 Do I have to be on campus?
 Nope! Our lectures are recorded on Zoom and posted online. In addition, all submissions can be done online and we have virtual office hours and Piazza
 How much time will it take to make a pokerbot?
@@ -30,31 +33,35 @@ Yes! Students taking the class on listener status are allowed to compete and win
 2027 Sponsors
 Interested in sponsoring? Send us an email at pokerbots-sponsor@mit.edu .
 Meet the team!
-Sri Saraf '26
-Co-President
 Bobby Costin '28
-Co-President
-Sejal Rathi '26
-Vice President
-Jacob Jobraeel '27
-Innovation Chair
-Jacob David '26
-Head Instructor
+President
 Sam Zhou '27
-Tech Lead
-Paco Gomez '26
-Engine Lead
-Steve Zhang '28
-Server Lead
+Innovation Chair
 Landon Sims '29
-Engine Developler
 Reese Long '29
-Server Developler
 Alan Duan '29
-Treasurer
 Michelle Gao '29
+Zeviel Pineda '30
+Teaching Staff
+Eduardo Barraza '30
+Tech Staff
+Julian Wu '30
+Treasurer
+Angela Ho '30
 Sponsorship Director
 Alumni
+Sri Saraf
+Co-President (2026)
+Sejal Rathi
+Vice President (2026)
+Jacob Jobraeel
+Innovation Chair (2026)
+Jacob David
+Head Instructor (2026)
+Paco Gomez
+Engine Lead (2026)
+Steve Zhang
+Server Lead (2026)
 Alexander Zhang '26
 Co-President (2025)
 Gaurab Das '25

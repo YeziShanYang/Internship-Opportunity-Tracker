@@ -89,12 +89,14 @@ Who we&rsquo;re looking for : First-year students or sophomores pursuing a quant
 For more info:&nbsp; Analyst Early Experiences - AnalystEE@capitalone.com &nbsp;
 Check out the Students &amp; Grads event page to find info sessions on the programs and connect with the recruiting teams.
 ALL JOBS
+R1005636
+Senior Manager, Project Management (Hybrid)
+R1001986
+Principal Associate, Risk Management
 R247703
 Accounting, Audit and Tax Manager
-R1004319
-Senior Director - Software Engineering
-R1004320
-Senior Director - Machine Learning Engineering
+R1005429
+Principal Data Analyst - Enterprise Services
 R1004514
 Lead Software Engineer
 R249906
@@ -107,8 +109,6 @@ R248275
 Data Analysis Manager - Analytics &amp; Transformation
 R248273
 Senior Data Analyst - Analytics &amp; Transformation
-R247753
-Senior Data Analyst - Risk Product Data
 View all of our available opportunities
 Related Content
 Explore Capital One Internships
