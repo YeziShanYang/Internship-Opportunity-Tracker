@@ -1769,6 +1769,48 @@ class VcBoardHarvestTests(_IsolatedState, unittest.TestCase):
         self.assertEqual(merged[1]["company"], "Cartesia")
 
 
+class BackedByTests(_IsolatedState, unittest.TestCase):
+    """"Backed by" is evidence that a startup is real, read off the posting's own board
+    or the VC board the change came from. Added 2026-11-13."""
+
+    ROWS = [{"board": "ashby:axiommath", "company": "Axiom Math", "backers": "Menlo Ventures",
+             "first_seen": "2026-11-13", "last_seen": "2026-11-13"},
+            {"board": "greenhouse:skildai-careers", "company": "Skild AI",
+             "backers": "Felicis; Lightspeed", "first_seen": "2026-11-13",
+             "last_seen": "2026-11-13"}]
+    SOURCES = [
+        {"source_id": "khosla-portfolio-interns", "method": "page_text",
+         "program_names": "Khosla Ventures portfolio internships (early-stage US)"},
+        {"source_id": "simplify-2027", "method": "github_readme"},
+        {"source_id": "skild", "method": "greenhouse", "url": "skildai-careers"},
+    ]
+
+    def _change(self, source_id, **kw):
+        return models.Change(source_id=source_id, kind="added", key="Firm / Intern",
+                             detail="d", **kw)
+
+    def test_backing_comes_from_the_posting_link_whichever_source_found_it(self):
+        from process import backers
+        out = backers.annotate([
+            self._change("simplify-2027",
+                         posting_url="https://jobs.ashbyhq.com/axiommath/bc49-uuid"),
+            self._change("khosla-portfolio-interns", url="https://jobs.khoslaventures.com/x"),
+            self._change("skild", url="https://example.com/careers?gh_jid=5471524008"),
+            self._change("simplify-2027", posting_url="https://jobs.ashbyhq.com/unknownco/1"),
+        ], self.ROWS, self.SOURCES)
+        self.assertEqual([c.backers for c in out],
+                         ["Menlo Ventures", "Khosla Ventures", "Felicis; Lightspeed", ""])
+
+    def test_the_digest_prints_it_as_a_fact(self):
+        change = self._change("simplify-2027", backers="Menlo Ventures")
+        judgment = models.Judgment(change=change, relevant=True, outcome=models.MODEL,
+                                   confidence="high")
+        self.assertIn("**Backed by:** Menlo Ventures", digest._notes(judgment))
+        bare = models.Judgment(change=self._change("simplify-2027"), relevant=True,
+                               outcome=models.MODEL, confidence="high")
+        self.assertNotIn("Backed by", digest._notes(bare), "unknown is not printed")
+
+
 class Phase2DiscoveryTests(_IsolatedState, unittest.TestCase):
     def test_14_9o_discovery_never_writes_sources_csv(self):
         """Discovery proposes and never adds. Watched against a seeded copy rather

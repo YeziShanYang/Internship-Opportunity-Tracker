@@ -28,7 +28,7 @@ from core import clock, models, paths
 from enrich import bodies as enrich_bodies
 from gather import clients, collect
 from persist import artifacts, store
-from process import build, parse_ats, snapshot as snap, suppress
+from process import backers as backing, build, parse_ats, snapshot as snap, suppress
 import screen
 
 
@@ -203,7 +203,7 @@ def _suppress(
     programs: list[dict[str, str]],
     sources: list[dict[str, str]] | None = None,
 ) -> tuple[list[models.Change], list[models.FilterReport]]:
-    return suppress.suppress(
+    changes, filters = suppress.suppress(
         [change for result in results for change in result.changes],
         muted=suppress.muted_programmes(programs),
         applied=store.read_applied(),
@@ -215,6 +215,9 @@ def _suppress(
             if (source.get("method") or "").strip() == "github_readme"
         ),
     )
+    # After suppression, so only the change that survived is annotated -- which also
+    # means an aggregator duplicate of a backed startup's posting carries the backing.
+    return backing.annotate(changes, store.read_backers(), sources or []), filters
 
 
 def _write_change_set(

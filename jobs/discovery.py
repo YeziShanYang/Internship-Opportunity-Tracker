@@ -52,7 +52,7 @@ from core import clock, paths, profile
 from core import text as coretext
 from persist import store
 from gather import ats, browser, github_readme
-from process import parse_ats, parse_readme
+from process import backers as backing, parse_ats, parse_readme
 
 GITHUB_SEARCH = "https://api.github.com/search/repositories"
 
@@ -507,7 +507,7 @@ def mine_pages(
 # them because the firm invested, which makes these the vetted route to startups: the
 # harvest below reads the employer ATS board behind each posting and records the
 # investor, so a startup can be watched in full rather than through the newest twenty.
-VC_BOARD_SUFFIX = "-portfolio-interns"
+VC_BOARD_SUFFIX = backing.VC_BOARD_SUFFIX
 # Its own budget rather than a share of BUDGET_SECONDS, which the page probe can use up
 # on its own; six of the boards render in the headless browser.
 VC_BUDGET_SECONDS = 150.0
@@ -522,10 +522,7 @@ def is_vc_board(source: dict[str, str]) -> bool:
             and (source.get("method") or "").strip() == "page_text")
 
 
-def investor_name(source: dict[str, str]) -> str:
-    """'Khosla Ventures portfolio internships (early-stage US)' -> 'Khosla Ventures'."""
-    name = (source.get("program_names") or "").split(" portfolio")[0].strip()
-    return name or (source.get("source_id") or "").removesuffix(VC_BOARD_SUFFIX)
+investor_name = backing.investor_name
 
 
 def wide_getro_url(url: str) -> str | None:

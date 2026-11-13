@@ -183,6 +183,19 @@ Rules, in priority order:
    should NOT err toward keeping. It is safe to be decisive because a ruled-out row is
    still printed, with this reason, in the digest's RULED OUT block. If you genuinely
    cannot tell how large the employer is, keep it.
+9. Rule out an "internship" that is not a real job at a real company. This person wants
+   startups, but only real ones. Rule out when the POSTING TEXT states any of these:
+   unpaid, equity-only or commission-only pay, or "no salary"; a campus ambassador,
+   brand rep or referral-bonus scheme presented as an internship; an applicant asked to
+   pay for training, a course or placement; or a "founder" or "co-founder intern" pitch
+   that describes no product, customers or team. Also rule out a posting that does not
+   identify the company at all. Name it in `why`: "unpaid role", "equity-only pay",
+   "commission-only", "ambassador scheme", "pays to apply", "no identifiable company".
+   Rule only on what the posting states. A posting that omits pay, or a company you have
+   not heard of, is NOT grounds -- most real startup postings do both, and rule 8 keeps
+   unfamiliar startups on purpose. A "Backed by" line means named investors list the
+   company in their portfolio: treat it as evidence the company is real and, unless the
+   posting says otherwise, a startup or small company for `employer_size`.
 
 If the POSTING TEXT is missing or a fetch error is noted, you are judging on a job
 title alone. Say so in `why`, use confidence "low", and do NOT rule the item out on
@@ -231,8 +244,9 @@ nine real opportunities were withheld for want of room.
 * `eligibility` -- rules 1, 2, 6 and 7. This person cannot apply, or the role is not
   in their field. These are checkable against the posting text and have proven reliable, so the
   digest prints them compactly.
-* `value` -- rule 8 alone. This person could apply and it is in their field, but the
-  employer is a large enterprise whose internship a first-year is unlikely to land. This is a judgement rather than a fact, it is the one that has been
+* `value` -- rules 8 and 9. This person could apply and it is in their field, but the
+  employer is a large enterprise whose internship a first-year is unlikely to land, or
+  the "internship" is not a real paid job at an identifiable company. This is a judgement rather than a fact, it is the one that has been
   wrong, and the digest prints these in full so they can be argued with.
 * the empty string when relevant is true."""
 
@@ -326,6 +340,8 @@ def _render_change(change: models.Change, posting: tuple[str, str] | None = None
         lines.append(f"Link: {change.url}")
     if change.rolling:
         lines.append("NOTE: mentions a firm that reviews on a rolling basis.")
+    if change.backers:
+        lines.append(f"Backed by (listed on these investors' portfolio boards): {change.backers}")
     lines.append("")
     lines.append(change.detail[:4000])
 

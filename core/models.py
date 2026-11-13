@@ -55,6 +55,11 @@ class Change:
     # here lets the classifier judge real requirements without a second HTTP request,
     # and without `enrich` having to guess a URL it cannot always construct.
     posting_text: str = ""
+    # The investors behind the startup that posted this, "; "-joined, when the posting's
+    # own board is one the VC portfolio boards link to (data/backers.csv) or the change
+    # came from a VC board itself. Evidence that a startup is real, printed as a fact;
+    # empty means "not known", never "not backed".
+    backers: str = ""
 
 
 @dataclass(frozen=True)

@@ -6,7 +6,7 @@ Opportunity digest — 2026-09-12
 
 ## ■ FOR FRESHMEN & UNDERCLASSMEN (1)
 
-_Built for first- or second-years, plus Stanford's own programmes. A posting stays here until it comes down; a Stanford page shows on the morning it changes._
+_Built for first- or second-years, plus Stanford's own programmes. A posting stays here for 7 days or until it comes down; a Stanford page shows on the morning it changes._
 
 | Company | Position | Notes |
 |---|---|---|

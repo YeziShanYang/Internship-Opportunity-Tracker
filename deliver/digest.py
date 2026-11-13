@@ -245,6 +245,7 @@ def _notes(judgment: models.Judgment) -> str:
         ("Deadline", _deadline_note(judgment)),
         ("Year", judgment.class_year),
         ("Location", judgment.location),
+        ("Backed by", judgment.change.backers),
     ]
     if not judgment.classified:
         items.append(("", "⚠ unverified — open the page"))
@@ -414,8 +415,8 @@ def render(
         body.append(f"## ■ FOR FRESHMEN & UNDERCLASSMEN ({len(first_years)})")
         body.append("")
         body.append("_Built for first- or second-years, plus Stanford's own programmes. A "
-                    "posting stays here until it comes down; a Stanford page shows on the "
-                    "morning it changes._")
+                    f"posting stays here for {urgency.PIN_DAYS} days or until it comes down; "
+                    "a Stanford page shows on the morning it changes._")
         body.append("")
         body.append("| Company | Position | Notes |")
         body.append("|---|---|---|")
