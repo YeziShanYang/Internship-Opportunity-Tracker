@@ -6,10 +6,10 @@
 
 ## Overview
 
-A daily job that watches **250 sources, covering about 580 job boards and programme pages,** for quant, math and CS
+A daily job that watches **279 sources, covering about 610 job boards and programme pages,** for ML/AI, quant, math and CS
 internships, reads the postings that changed overnight, throws out the ones I can't
-apply to, and mails me what's left as a single table. It has run every morning since
-2026-09-05 and costs a median of about **8 cents a day**.
+apply to, and mails me what's left as a single table. It has delivered every morning since
+2026-09-06 and costs a median of about **19 cents a day**.
 
 There is no server and no mailing list. The job runs on GitHub Actions and delivers by
 opening a GitHub Issue, which means GitHub's own notification email is the delivery
@@ -47,8 +47,8 @@ Opportunity digest — 2026-09-20
 - classifier: 6 calls · 14,972 in · 2,950 out · ~$0.0071 est. (gpt-5-mini, effort=low)
 ```
 
-That was a quiet Sunday — 5 opportunities and 6 classifier calls. A typical weekday is
-35-65 calls and around 8 cents; see [Results](#results).
+That was a quiet Sunday in September — 5 opportunities and 6 classifier calls. A typical
+day now is 150-250 calls and 20-30 cents; see [Results](#results).
 
 ## Table of Contents
 - [Overview](#overview)
@@ -109,7 +109,7 @@ The files that matter most, roughly in the order I'd read them:
    that prompt enforces.
 5. **[`deliver/urgency.py`](deliver/urgency.py)** — what gets to be urgent, which I have
    now been wrong about in both directions.
-6. **[`data/`](data/)** — the database: 351 programmes, 250 sources, the slug lists
+6. **[`data/`](data/)** — the database: 369 programmes, 279 sources, the slug lists
    behind the three bulk board sources, and one snapshot file per source, all committed on
    every run.
 7. **[`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)** — the long version: every failure
@@ -120,12 +120,15 @@ The files that matter most, roughly in the order I'd read them:
 A **source** is one of three things, and never a fourth:
 
 - An **aggregator** — someone else's curated list, like the SimplifyJobs internship repo.
-  Six of these. Wide, late, and thin on detail, but they catch firms I'd never think to
-  look at.
+  Twelve of these. Wide, late, and thin on detail, but they catch firms I'd never think to
+  look at. Sixteen venture-capital portfolio boards work the same way for startups, with
+  one difference that matters: a company is only on Sequoia's or Khosla's board because
+  the firm invested in it, so every startup there is real.
 - A **named employer's whole board** — every posting Jane Street or D. E. Shaw has,
-  filtered down on my end. 79 of these run through an ATS API (Greenhouse, Workday,
-  Ashby, Lever, Phenom, Eightfold); another ~37 are firms on no public ATS — Hudson
-  River Trading, Millennium, Headlands, Renaissance — watched as plain page text.
+  filtered down on my end. 99 of these run through an ATS API (Greenhouse, Workday,
+  Ashby, Lever, Phenom, Eightfold), 356 smaller employers' boards are read in bulk, and
+  firms on no public ATS — Hudson River Trading, Millennium, Headlands, Renaissance — are
+  watched as plain page text.
 - A **specific programme's own page** — Jane Street FTTP, IMC Launchpad, MIT Pokerbots.
   About 22 of these.
 
@@ -146,12 +149,12 @@ Eight stages in a fixed order. Each one writes an artifact that the next one rea
 any stage can be re-run on its own without redoing the one before it.
 
 ```
-gather    →  fetch 242 sources                      ~11 min, the only slow stage
+gather    →  fetch 267 sources                      most of a ~21 min run
 process   →  parse and diff against yesterday        0.7s, no network at all
 enrich    →  fetch the posting body behind each      O(changes), not O(postings)
              row that actually moved
 screen    →  rule out what a quoted phrase settles   deterministic, no model
-classify  →  one model call per surviving change     ~$0.08 on a normal day
+classify  →  one model call per surviving change     ~$0.25 on a normal day
 render    →  build the digest bytes
 deliver   →  open the Issue, subject to one-a-day
 ```
@@ -176,7 +179,7 @@ Nearly everything gets thrown away, and the order matters:
 
 | Filter | Kind | What it does |
 |:---|:---|:---|
-| student / US screens | deterministic | Drop postings that aren't student roles or aren't in the US. On a typical day this is ~4,100 and ~400 rows. |
+| student / US screens | deterministic | Drop postings that aren't student roles or aren't in the US. On a typical day this is ~30,000 and ~600 rows. |
 | `screen/rules.py` | deterministic | Rule out on a **quoted phrase** from the posting — "rising junior", "PhD candidates". May only rule *out*, never in. Removed 36% of model calls with zero wrong calls. |
 | `classify.py` | one model call | Everything the screen had no opinion on. Returns a JSON judgment: relevant, class year, location, deadline, confidence. |
 
@@ -203,7 +206,7 @@ without anyone noticing, and that has already happened twice here.
 | `MIN_ABSOLUTE_CHARS` | $500$ | The other content floor. A page under this didn't really load. |
 | `SHRINK_RATIO` | $0.4$ | A page that drops below 40% of its last good size is a redesign or a block, not a quiet day. Self-calibrating, so there's no per-source constant to rot. |
 | `MAX_ISSUE_BODY_CHARS` | $65{,}536$ | GitHub's hard limit. Exceed it and the POST 422s and opens *nothing*. |
-| `MAX_CLASSIFICATIONS_PER_RUN` | $250$ | Spend ceiling, counted after the deterministic screen. The worst day observed was 243 model calls (2026-10-03). |
+| `MAX_CLASSIFICATIONS_PER_RUN` | $250$ | Spend ceiling, counted after the deterministic screen. Reached on 17 of the 35 days from 2026-10-10 to 2026-11-13; rows past it are printed unjudged, never dropped. |
 | `CLASSIFY_REASONING_EFFORT` | `low` | Was `minimal`; see [Reflection](#the-model-needed-room-to-think). |
 | `REQUEST_DELAY_SECONDS` | $1.0$ | Requests are serialised and identify themselves. Nothing is hammered. |
 
@@ -213,27 +216,27 @@ It works, and it has kept working, which for this kind of tool is the entire cla
 
 | | |
 |:---|:---|
-| Sources watched | **250** (242 fetched, 8 blocked and handled by hand); three of them read 343 small employers' job boards in bulk |
-| Breakdown | 91 ATS boards · 135 watched pages · 12 aggregator repos · 3 bulk sources · the NSF REU feed · 8 manual |
-| Read each morning | **~33,000** job-board postings, cut to the student roles and diffed against 106 board snapshots and 103 page snapshots |
-| Programmes in the database | **351** |
-| Digests delivered | **33 of 33**, one every day from 2026-09-06 to 2026-10-08 |
-| Cost | **~$0.08/day** median over 23 digests (2026-09-16 to 2026-10-08), range $0.007-$0.25 |
-| Tests | **339 passing** (6 skip without an API key) |
-| Code | ~10,300 lines across 49 modules, plus ~5,500 lines of tests |
-| Runtime | ~20 min on the Actions runner, almost all of it `gather` |
+| Sources watched | **279** (267 fetched, 12 that block automation and are handled by hand); three of them read 356 small employers' job boards in bulk |
+| Breakdown | 99 ATS boards · 152 watched pages (16 of them VC portfolio boards) · 12 aggregator repos · 3 bulk sources · the NSF REU feed · 12 manual |
+| Read each morning | **~33,000** job-board postings, cut to the student roles and diffed against 116 board snapshots and 142 page snapshots |
+| Programmes in the database | **369** |
+| Digests delivered | **69 of 69**, one every day from 2026-09-06 to 2026-11-13 |
+| Cost | **~$0.19/day** median over 59 digests (2026-09-16 to 2026-11-13), range $0.007-$0.30; $0.25 median over the last 30 |
+| Tests | **373 passing** (6 skip without an API key) |
+| Code | ~11,100 lines across 50 modules, plus ~6,000 lines of tests |
+| Runtime | ~21 min median on the Actions runner (17-32 min over the last 30 runs), almost all of it `gather` |
 
 ### Coverage against the largest public list
 
-The question the project has to answer is whether watching 250 sources beats bookmarking
+The question the project has to answer is whether watching 279 sources beats bookmarking
 [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), the most-used internship
 list. `process/coverage.py` answers it weekly and records it in
-[`data/coverage.csv`](data/coverage.csv). Measured on 2026-10-08:
+[`data/coverage.csv`](data/coverage.csv). Measured on 2026-11-13:
 
 | | Tracker | Simplify | Tracker has, Simplify doesn't | Of those, on no public list |
 |:---|---:|---:|---:|---:|
-| Open US internships in quant, math, CS, data and ML | **1,640** | 1,526 | **571 (+37%)** | 125 |
-| Quant only | **177** | 153 | **55 (+36%)** | 29 |
+| Open US internships in quant, math, CS, data and ML | **2,644** | 1,670 | **1,300 (+78%)** | 63 |
+| Quant only | **198** | 157 | **73 (+46%)** | 16 |
 
 "On no public list" means the posting came from an employer's own job board and appears
 on none of the aggregators the tracker reads, Simplify included.
@@ -247,19 +250,24 @@ How it is counted, and why the figure is a floor:
   failing that by company plus most of the title words. The second rule merges some
   genuinely different roles, which can only lower the tracker's count.
 - **Graduate-only and non-US postings are excluded on both sides.**
-- The first baseline, on 2026-10-01, was +14%. The difference is the sources added on
-  2026-10-01 and 10-02, after that baseline was taken, not a change of method. Sources
-  added on 2026-10-08 are not yet in the figure.
+- **The method has not changed; the watchlist has.** The first baseline, on 2026-10-01,
+  was +14%, and the figure rose as sources were added: +37% on 2026-10-08, then between
+  +53% and +93% in the weekly runs since 2026-10-12. Every week is in the CSV.
+- **"On no public list" shrinks as the tracker reads more lists.** It fell from 125 in
+  October to 63, because postings move out of that column the moment any aggregator the
+  tracker reads carries them — the same postings, now counted as on a public list.
 
 ### Selectivity
 
-The digest is not a firehose. Across the 23 digests from 2026-09-16 to 2026-10-08:
+Across the 59 digests from 2026-09-16 to 2026-11-13:
 
-- **59% of changed postings were ruled out before reaching the table** (1,462 of 2,459),
+- **50% of changed postings were ruled out before reaching the table** (6,775 of 13,621),
   on class year, field or employer, each with its reason printed in RULED OUT.
-- **A median of 31 rows a day** reached the table.
-- On the job boards, **about 90% of the postings read each morning are dropped as not
-  student roles** before anything is diffed (30,002 of 33,122 on 2026-10-08).
+- **A median of 72 rows a day** reached the table, plus 9 in the underclassman block. That
+  has grown with the watchlist: the median over the last 30 days is 131. More coverage
+  has meant a longer digest, and the selectivity has not kept pace.
+- On the job boards, **about 92% of the postings read each morning are dropped as not
+  student roles** before anything is diffed (30,295 of 33,082 on 2026-11-13).
 
 ### Speed is not the advantage
 
@@ -270,13 +278,15 @@ reader. The advantage is coverage, and the numbers above are the claim.
 
 A few numbers I find more interesting than the headline ones:
 
-- **127 postings sit on more than one source.** The watchlist overlaps on purpose, so a
-  new role at a well-covered firm arrives as three or four changes on one morning.
+- **About 1,300 posting links appear on more than one source** (of 7,059 across the
+  snapshots on 2026-11-13). The watchlist overlaps on purpose, so a new role at a
+  well-covered firm arrives as three or four changes on one morning.
   Deduping them is harder than it sounds and is discussed [below](#one-row-per-opportunity).
 - **81% of my worst bill was reasoning tokens**, not prompt size. Finding that out took
   reconstructing a run from git history; the digest now just says it.
-- **7 of 592 rows on the biggest aggregator mention a class year at all.** Which is why
-  urgency can't be decided from the row text, and has to read the posting body.
+- **None of the 1,181 rows the tracker reads from the biggest aggregator mention a class
+  year** (7 of 592 when first measured in September). Which is why urgency can't be
+  decided from the row text, and has to read the posting body.
 - **The digest ceiling is about 126 changes.** A table row costs 577 bytes, a ruled-out
   line 226, the footers 6,789. Past that the body trims itself rather than failing to
   send — see [the day it didn't](#the-day-it-delivered-nothing).
