@@ -68,7 +68,7 @@ Please note: DataSURF was previously known as the Summer Undergraduate Research 
 Eligibility
 This research opportunity is for current Stanford University undergraduate students only. To participate, students must not have conferred their undergraduate degree (even if they are a coterm student).
 Students must be in the undergraduate (not graduate) tuition group to participate. Please refer to this Registrar webpage for details on when coterm students are switched to graduate tuition.
-To ensure that students are eligible, please review VPUE’s eligibility requirements .
+To ensure that students are eligible, please review VPUE’s eligibility requirements . Please note that VPUE-supported full-time research opportunities like DataSURF require students to prioritize their research commitment throughout the Summer Quarter: students may participate in only one full-time research opportunity and may undertake no more than 10 hours per week of combined additional commitments.
 Stanford undergraduate students from any department who meet the prerequisites are encouraged to apply. Students in the Data Science (B.A. and B.S.) major will receive additional consideration.
 Students should have taken some coursework in math, probability, statistics, data science, and/or computer science. Some course examples include: DATASCI 112, 120, 154, 156, STATS 32, 60, 117, 118, 141, 191, 195, 200, 202, 217, 229, MATH 51-53, 104, 113, 151, CS 106A/B, 103, 107, 109, MS&amp;E 120, 125, 226.
 More specific prerequisite classes or skills are listed for each project.

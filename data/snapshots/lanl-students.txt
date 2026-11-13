@@ -223,6 +223,7 @@ C-PCS/Physical Chem &amp; Applied Spectroscopy
 C-PCS/Physical Chem &amp; Applied Spectroscopy Group
 CPE/Construction Project Execution
 CPE-PS/Project Services
+CP-PMO/Construction Projects - Project Management Office
 CWF-WCRR/Waste Characterization, Reduction, and Repackaging
 DARHT Engineering Operations and Physics Group (J-6)
 DARHT Experiments and Radiographic Science (J-4)
@@ -490,6 +491,7 @@ PFE-DO/ Plutonium Facilities Engineering Division Office
 PFE-DO/PLUTONIUM FACILITIES ENGINEERING DIVISION OFFICE
 PFE-EBP/Essential Balance of Plant Systems
 PFE-GB/Plutonium Facilities Engineering Glovebox Group
+PFE-PE/ Project Engineering
 PFE-PE/Project Engineering
 PFE-RCMR/CMR &amp; RLUOB
 PFE-RCMR/CMR AND RLUOB
@@ -647,6 +649,7 @@ TA55-OPS2/TA-55 Facility Operations
 T-DO/THEORETICAL
 T-DO/Theoretical Division
 Technical Area 55/TA55-DO
+Technical Training Center (TTC-DO)
 The Dynamic Structure Design, Engineering, and Vessel Operations Group/ J-2
 The Technical Training Center (TTC) Training Systems and Standards Group
 UI-EST/UI - Electric, Steam &amp; Turbine Operations
@@ -673,6 +676,7 @@ W-9/Weapons Systems Surveillance
 Waste Management-Nuclear Waste Operations (WM-NWO)
 Waste Management-Waste Generator Services (WM-WGS)
 Waste Management-WM/WGS
+W-DES/Weapons Design and Engineering Standards
 W-DO/Weapon Systems Engineering Division
 Weapons Facilities Operations Divisions
 Weapons Infrastructure Program Office - WIPO
@@ -817,6 +821,7 @@ C-PCS/Physical Chem &amp; Applied Spectroscopy
 C-PCS/Physical Chem &amp; Applied Spectroscopy Group
 CPE/Construction Project Execution
 CPE-PS/Project Services
+CP-PMO/Construction Projects - Project Management Office
 CWF-WCRR/Waste Characterization, Reduction, and Repackaging
 DARHT Engineering Operations and Physics Group (J-6)
 DARHT Experiments and Radiographic Science (J-4)
@@ -1084,6 +1089,7 @@ PFE-DO/ Plutonium Facilities Engineering Division Office
 PFE-DO/PLUTONIUM FACILITIES ENGINEERING DIVISION OFFICE
 PFE-EBP/Essential Balance of Plant Systems
 PFE-GB/Plutonium Facilities Engineering Glovebox Group
+PFE-PE/ Project Engineering
 PFE-PE/Project Engineering
 PFE-RCMR/CMR &amp; RLUOB
 PFE-RCMR/CMR AND RLUOB
@@ -1241,6 +1247,7 @@ TA55-OPS2/TA-55 Facility Operations
 T-DO/THEORETICAL
 T-DO/Theoretical Division
 Technical Area 55/TA55-DO
+Technical Training Center (TTC-DO)
 The Dynamic Structure Design, Engineering, and Vessel Operations Group/ J-2
 The Technical Training Center (TTC) Training Systems and Standards Group
 UI-EST/UI - Electric, Steam &amp; Turbine Operations
@@ -1267,6 +1274,7 @@ W-9/Weapons Systems Surveillance
 Waste Management-Nuclear Waste Operations (WM-NWO)
 Waste Management-Waste Generator Services (WM-WGS)
 Waste Management-WM/WGS
+W-DES/Weapons Design and Engineering Standards
 W-DO/Weapon Systems Engineering Division
 Weapons Facilities Operations Divisions
 Weapons Infrastructure Program Office - WIPO
@@ -1336,7 +1344,7 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 26
+Showing 12 out of 27
 Job Title
 Job Number
 Organization
@@ -1354,7 +1362,7 @@ WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Per
 Undergraduate and Graduating High Schools Senior Internship - Engineering IRC146161 Various Organizations Los Alamos, NM
 Undergraduate and Graduating High School Senior Internship - Professional/Non-Technical IRC146162 Various Organizations Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 26
+Showing 12 out of 27
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

@@ -4,100 +4,123 @@ Search Sign In Sign In
 Discover
 Submit Event
 Sign In
+Locations
+All Locations SF &amp; Bay Area NYC Boston Seattle London Paris Remote
 Event Type
 All Events CV Events Hackathons
-AI Events in San Francisco
+Events
 Submit Event
 Sign In
 Discover
-San Francisco is where the frontier labs ship, and the calendar shows it. Explore Cerebral Valley&#x27;s curated selection of hackathons, research talks, demo nights, and founder dinners across the Bay.
-Nov 10
-VantaCon 2026 | The AI governance event
-Tue, Nov 10 · 9:00 AM PST LIVE
-Convene SF
-VantaCon will bring together 650+ practitioners from leading companies and leaders shaping AI trust and governance. Attendees will share proven AI-risk strategies, practical frameworks, and perspectives that will help set the agenda for trust.
-Nov 11
-VapiCon 2026
-Wed, Nov 11 · 8:00 AM PST LIVE
-Festival Pavilion
-The Frontier Voice AI Summit will bring builders, product and business leaders, growth teams, and operators together for two days exploring what’s working, and what’s next, in voice AI. The program will feature morning keynotes, a Vapi product keynote, afternoon breakouts, a fireside chat, and daily happy hours.
+Featured Previous slide
+Next slide
+Nov 17
+Builder Night San Francisco | n8n x Vercel x Arize AI
+Tue, Nov 17 · 5:00 PM PST
+San Francisco, CA
+Vercel and n8n will host an evening of practical, demo-led talks on taking AI agents from idea to production. Developers, agent builders, and platform and IT leaders will get insights from people actively shipping agents.
+Nov 18
+AI and the New Abundance and Scarcity, with Mustafa Suleyman, Sarah Guo and Aaron Bastani
+Wed, Nov 18 · 8:00 PM PST
+The Commonwealth Club
+Mustafa Suleyman, Microsoft AI CEO, investor Sarah Guo, and writer and Novara Media cofounder Aaron Bastani will discuss what becomes scarce when intelligence is abundant, in a conversation moderated by Bloomberg’s Shirin Ghaffary. The event will also launch the second issue of *The Humanist Review of AI*, a quarterly journal exploring AI’s impact on society.
 Nov 12
 SGLang Summit 2026 by LMSYS
-Thu, Nov 12 · 9:00 AM PST
+Thu, Nov 12 · 9:00 AM PST LIVE
 Fort Mason Center
 SGLang Summit 2026 will bring 2,000+ engineers, researchers, builders, and leaders together to explore frontier AI models, infrastructure, hardware, agents, robotics, and real-world applications through talks, workshops, demos, and technical sessions. Speakers will include Intel CEO Lip-Bu Tan, OpenAI’s Lilian Weng, Thinking Machines Lab’s Soumith Chintala, and Perplexity CEO Aravind Srinivas.
 Nov 12
-Do Not Disturb
-Thu, Nov 12 · 9:30 AM PST
-Entrepreneurs First
-A 32-hour hackathon will challenge teams of 1–3 to build impressive AI agents that use phones, with every feature accessible from a phone. Hosted by Entrepreneur First in partnership with LangChain, the event will bring together 100 builders to compete for $3,000 in cash prizes.
-Nov 12
 Do Not Disturb HACKATHON
-Thu, Nov 12 · 9:30 AM PST
+Thu, Nov 12 · 9:30 AM PST LIVE
 San Francisco, CA
 On November 12–13, 100 builders will compete in a 32-hour hackathon to create phone-accessible AI agents, with $3,000 in prizes at stake. The event will be held in partnership with LangChain, Bond AI, and Intertech Talents, and teams of one to three will build their projects.
 Nov 12
-Gen AI Pitch Competition hosted by Cloudtech x SV-SBDC x AWS
-Thu, Nov 12 · 11:00 AM PST
-Mitchell Park Community Center
-In partnership with AWS and Cloudtech, this competition will spotlight promising AI ideas and projects, showcasing innovative work from emerging and established AI talent.
+Do Not Disturb
+Thu, Nov 12 · 9:30 AM PST LIVE
+Entrepreneurs First
+A 32-hour hackathon will challenge teams of 1–3 to build impressive AI agents that use phones, with every feature accessible from a phone. Hosted by Entrepreneur First in partnership with LangChain, the event will bring together 100 builders to compete for $3,000 in cash prizes.
 Nov 12
 Separating the Signal from the Noise: AI in Biology
-Thu, Nov 12 · 12:00 PM PST
+Thu, Nov 12 · 12:00 PM PST LIVE
 Mission Bay Conference Center
 Leading researchers will dig into how AI is transforming biological discovery by cutting through noise to extract meaningful patterns from massive datasets.
-Nov 12
-How an AI Token Meets the best Product？@Microsoft GCR Incubator
-Thu, Nov 12 · 1:30 PM PST
-Microsoft
-Microsoft Incubator’s upcoming event will feature General Manager Olivia Zhang on startup resources and AI trends, plus ZooWork Co-Founder and CMO Gene Deng sharing how to turn enterprise AI agents into practical business value. Founder stories, a retail AI panel, and live startup pitches will offer insights into growth, monetization, and potential incubator support.
-Nov 12
-Physical AI Conference 2026
-Thu, Nov 12 · 2:00 PM PST
-Plug &amp; Play Tech Center
-The third annual Physical AI Conference 2026 will explore real-world advances in mobility, robotics, drones, and AI through expert keynotes, startup pitches, and industry discussions. Speakers will include Amazon Last Mile’s CV/ML Science Lead Yelin Kim, Plug and Play VC Prajwal Deshkar, and Seoul National University professor and CryptoLab/HEaaN CEO Jung Hee Cheon.
-Nov 12
-Fireside Chat with Tanay Kothari, Wispr Flow
-Thu, Nov 12 · 3:00 PM PST
+Nov 13
+Multi-Modal AI for Education Hackathon @ Snowflake | Beta Fund × Epic
+Fri, Nov 13 · 9:00 AM PST
+Menlo Park, CA
+Beta Fund and Epic will host a build-first hackathon focused on multimodal education tools that combine text with voice, images, handwriting, or video, with teams creating working demos and measurable learning outcomes. The day will feature an education-AI panel with speakers from Epic, Khan Academy, and Dex, alongside demos and judging by Epic product and UX lead Charis Liang.
+Nov 13
+AIE x MLH Hackathon
+Fri, Nov 13 · 9:00 AM PST
 San Francisco, CA
-South Park Commons will host a fireside chat with Tanay Kothari, Wispr co-founder and CEO, four-time founder, Stanford AI graduate, and Forbes 30 Under 30 honoree. The conversation will explore his path from building early startups to developing an AI-powered voice productivity tool.
-Nov 12
-AI Uncanny Valley Underground
-Thu, Nov 12 · 3:30 PM PST
+Major League Hacking will host a full-day hackathon for AI Engineer Code Summit attendees to turn conference ideas and techniques into working projects, with peer feedback and demos. The day will run from opening ceremony through submissions and demos, wrapping up at 7 p.m.
+Nov 13
+Do Not Disturb Hackathon at Entrepreneurs First
+Fri, Nov 13 · 9:30 AM PST
 San Francisco, CA
-An informal weekly virtual meetup will bring together people interested in AI for open conversation every Thursday at 6:30 PM Pacific.
-Nov 12
-The Founder Game ARG
-Thu, Nov 12 · 4:00 PM PST
-San Francisco, CA
-Participants will step into the role of aspiring founders in a first-of-its-kind in-person AI alternate reality game, using strategy and hacker-style problem-solving to build a billion-dollar business. The experience will feature challenges, fun, and prizes.
-Nov 12
-AI Night with AWS x Anthropic
-Thu, Nov 12 · 4:30 PM PST
+On November 13, 50 builders will have 10 hours to create AI agents that use a phone, with every project required to be phone-accessible and $3,000 in prizes at stake. The hackathon will be backed by Entrepreneurs First, Replit, LangChain, Phone Use, Bond AI, and Intertech Talents.
+Nov 13
+BAND Dark Factory Buildathon
+Fri, Nov 13 · 10:00 AM PST
 AWS Builder Loft
-Registration for the upcoming AICamp event will be handled through its event page.
-Nov 12
-AWS Partner Showcase (12th Edition) with Anthropic, Grafana, Supabase, Miggo
-Thu, Nov 12 · 4:30 PM PST
-AWS Loft
-AICamp will offer expert-led tech talks, workshops, bootcamps, and crash courses to help developers build AI skills and keep pace with the industry. Its programming will be led by experienced experts.
-Nov 12
-AWS Partner Showcase Extended with Anthropic, Grafana, Supabase, Miggo
-Thu, Nov 12 · 4:30 PM PST
+The BAND Dark Factory Buildathon will bring developers, designers, founders, and builders together to create AI software factories with Band Desktop, exploring how coding agents can collaborate to turn specifications into working software. The kickoff will feature prize announcements, a panel discussion, and technical introductions; submissions will be due November 20.
+Nov 13
+Data Engineering Automation in the World of Agentic AI
+Fri, Nov 13 · 12:30 PM PST
+101 Howard Street
+Deep Patel, a Staff Data Engineer at Robinhood, will headline the USF Data Science Speaker Series, sharing professional insights from the field.
+Nov 13
+From Open Models to Live, Interactive Storytelling - MiniMax x SGLang Summit
+Fri, Nov 13 · 1:50 PM PST
 San Francisco, CA
-The 12th AWS Agentic AI Partner Showcase will feature experts from AWS, Anthropic, Grafana, Supabase, and Miggo demonstrating production-ready agentic AI systems through live demos, technical deep dives, and implementation discussions. Developers, engineers, and technology leaders will gain practical insights into AWS integration, deployment, and monitoring, with opportunities for expert Q&amp;A.
-Nov 12
-How to Build Better Products with AI Evals by Hamel Husain &amp; Shreya Shankar
-Thu, Nov 12 · 4:30 PM PST
-Mountain View, CA
-AI evals experts Hamel Husain and Shreya Shankar will share practical frameworks for testing AI features, interpreting results, and making confident product decisions, followed by Q&amp;A. The book launch will also feature signing and networking, with in-person attendees receiving a complimentary, author-signed copy of *Evals for AI Engineers*.
-Nov 12
-Keeping Pace With AI: The Skills and Workflows Teams Need Now
-Thu, Nov 12 · 5:00 PM PST
+MiniMax, fal, SGLang, and Pickford will show how open models, post-training, and optimized inference power audience-driven storytelling, using Pickford’s procedural murder mystery as a case study. A 20-minute live demo will let audience choices shape the story, followed by Q&amp;A with teams specializing in multimodal models, video deployment, inference, and interactive narratives.
+Nov 13
+EVOLVE: 8090 AI Hackathon
+Fri, Nov 13 · 5:00 PM EST
+8090 HQ
+Builders will tackle an overnight sprint to modernize legacy enterprise systems with AI, creating and demoing tools alongside mentors from 8090 and Vercel. More than $3,000 in prizes will be up for grabs.
+Nov 13
+Full-Stack Agents Hackathon
+Fri, Nov 13 · 2:00 PM PST
+FOCUS Innovation Studio
+The hackathon will challenge teams to build working agents that create generative video, automate browsers, or retain persistent memory, using the AdaL agent harness introduced in a hands-on technical session. Projects will be evaluated by a panel of judges.
+Nov 13
+SGLang Summit Workshop by Modal: Inference from First Principles
+Fri, Nov 13 · 2:50 PM PST
 San Francisco, CA
-AI and data leaders will explore how organizations can redesign team workflows, identify what drives successful AI adoption, and train talent to keep pace with evolving systems. The evening will pair candid discussion with after-work networking in a deliberately small group.
-Nov 12
-Robotics Founders Evening: Founders on Scale, Hardware and Shenzhen
-Thu, Nov 12 · 5:00 PM PST
-Mission Robotics
-Three robotics founders, Anand Lalwani of Cardinal Robotics (Forbes 30 Under 30), Abhinav Das of Orangewood Labs (YC W18), and Max Williams of Axonnic (YC F26), will share hard-won lessons on scaling robots beyond the lab, finding training data, and building for real customers. Moderated by former Slush CPO Henri Mäkivirta, the panel will also explore what they would do differently and take questions from the audience.
+Modal Member of Technical Staff Gilford Ting will use first-principles models to explain why modern LLM architectures and serving systems are designed for efficient inference, and what those choices suggest for the next generation. The 60-minute session is aimed at attendees with moderate LLM inference experience; a SGLang Summit Full or Expo pass is required.
+Nov 13
+The Multimodal Hackathon
+Fri, Nov 13 · 3:00 PM PST
+FOCUS Innovation Studio
+Crewbase Collective and AdaL will host a hands-on multimodal AI hackathon, where builders will learn AdaL’s agent tools and prototype solutions in AI video creation, browser automation, or agent memory. Hosted by Crewbase Collective’s Saurabh Khire and AdaL, the event will culminate in demos and prizes including up to a year of AdaL Pro.
+Nov 13
+Diwali Festiverse Agent to Agent Hackathon (SF Edition)
+Fri, Nov 13 · 4:00 PM PST
+San Francisco, CA
+A Diwali-themed AI agent showdown will challenge teams to build autonomous systems that communicate, delegate, and collaborate on real-world problems using sponsor platforms Agent37, Lyzr, AdaL, Finch, and Band. Tracks will include cybersecurity attack-and-defense and financial market analysis and trading.
+Nov 13
+Physical AI Hackathon
+Fri, Nov 13 · 4:00 PM PST
+San Francisco, CA
+The three-day Physical AI Hackathon will give teams dedicated robot kits and compute credits to build and deploy models on real robots, with support from X Square Robot’s team and its open-source WALL-OSS foundation model. Developers, researchers, students, and hobbyists will compete for cash prizes, with qualified participants receiving stipends; X Square Robot builds embodied AI models and hardware deployed in homes and logistics.
+Nov 13
+On-Device AI Hackathon: Cleared for Takeoff ✈️
+Fri, Nov 13 · 5:00 PM PST
+San Francisco, CA
+Developers, ML and edge engineers, founders, and students will build offline AI applications using Liquid Foundation Models and Qualcomm iQ9s, then test them with Wi-Fi switched off. Qualcomm Developer Relations professional Heath Blandford and Liquid AI Developer Relations professional Viviana Márquez will lead a workshop, with Qualcomm iQ9s and Rubik Pi boards awarded to top teams.
+Nov 13
+A Conversation with Vinod Khosla
+Fri, Nov 13 · 5:00 PM PST
+Stanford University
+Stanford ASES will host a fireside conversation with Vinod Khosla, Khosla Ventures founder, Sun Microsystems co-founder, and influential technology investor known for an early bet on OpenAI. In conversation with Shubh Jain, he will discuss AI’s future, building generational companies, emerging technology frontiers, and advice for aspiring founders.
+Nov 13
+AI Software Factories in the Enterprise: Panel Discussion with BAND
+Fri, Nov 13 · 5:30 PM PST
+AWS Builder Loft
+Engineering leaders and practitioners will explore how AI Software Factories coordinate coding agents to turn specifications into software, with a panel on architecture, quality oversight, enterprise governance, and measuring adoption. The discussion will feature Band Desktop and offer perspectives for CTOs, engineering executives, architects, and technical leads evaluating multi-agent workflows.
+Nov 13
+Post-CoRL 2026: What&#x27;s Next for Robot Learning? @Robotics Center
+Fri, Nov 13 · 6:00 PM PST
+Robotics Center of Silicon Valley
+The post-CoRL 2026 discussion will pair paper authors from UC Berkeley and Stanford, including researchers behind work on humanoid navigation, robot memory, and dexterous manipulation, with robotics VCs and frontier-lab researchers from Amazon FAR and 1X. They’ll explore what’s next for robot learning, foundation models, and real-world humanoids.

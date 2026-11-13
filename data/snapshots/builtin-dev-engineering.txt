@@ -31,6 +31,50 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Micron Technology
+Intern - IT Software Engineer
+<age> Saved
+In-Office
+Boise, ID, USA
+Internship
+Internship
+Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x2022; Machine Learning
+Develop full-stack software supporting Micron’s Business Data Warehouse and data factory. Responsibilities include collaborating with software development and global IT teams, applying the software development lifecycle, communicating with stakeholders, and designing utilities, tools, and frameworks that enable data and analytics solutions. The role requires knowledge of algorithms, databases, SQL, object-oriented programming, software architecture, and programming languages including C# and Python.
+Top Skills:
+C# Graph Databases JavaScript Nosql Databases Power BI Python React Relational Databases Snowflake SQL Tableau
+Shield
+2027 Summer Intern - Human Machine Teaming - 6532
+<age> Saved
+In-Office
+Washington, DC, USA
+Internship
+Internship
+Aerospace &#x2022; Artificial Intelligence &#x2022; Machine Learning &#x2022; Robotics &#x2022; Software &#x2022; Defense Technology
+Engineering intern supporting Human Machine Teaming for autonomy SDKs and human-machine interfaces. Responsibilities include eliciting developer, operator, and customer needs; translating them into engineering and HMT requirements; defining acceptance criteria; reviewing designs; evaluating delivered systems; maintaining traceability; creating guidance and training; supporting design reviews and field engagements; and implementing code and integrations when needed. Travel to company, test, demonstration, and customer sites is approximately 20%.
+Top Skills:
+Api Integration Autonomy Software C# C&#x2B;&#x2B; Ci/Cd Cloud-Native Development Commander CSS Docker Forge Git Gitlab Hivemind Sdk HTML Human-Machine Interfaces JavaScript Python Robotics Software Simulation Software
+Spectrum
+2027 Summer Intern: Software Engineer
+<age> Saved
+In-Office
+Greenwood Village, CO, USA
+Internship
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Software Engineering Intern supporting high-scale AWS backend services for video streaming, cloud DVR, authentication, entitlements, and content discovery. Responsibilities include developing Java or TypeScript microservices, writing automated tests, participating in code reviews and Agile ceremonies, optimizing databases and APIs, improving observability with Datadog, documenting architecture and operations, and presenting project results. The internship provides mentorship, professional development, networking, and hands-on experience with enterprise software engineering practices.
+Top Skills:
+AWS Ci/Cd Datadog Docker Documentdb DynamoDB Ec2 Git Gitlab Java JavaScript Kafka Kubernetes RabbitMQ Rest Apis S3 SQL Typescript
+Spectrum
+2027 Summer Intern: Software Engineer
+<age> Saved
+In-Office
+Greenwood Village, CO, USA
+Internship
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Software engineering intern supporting high-scale video platform backend services. Responsibilities include developing Java or TypeScript microservices, writing automated tests, participating in code reviews and Agile ceremonies, optimizing databases and APIs, documenting architecture, enhancing Datadog observability, and researching modernization opportunities. The intern will work in an AWS-based distributed systems environment and present project accomplishments to engineering leadership.
+Top Skills:
+Agile AWS Ci/Cd Datadog Docker Documentdb DynamoDB Ec2 Git Gitlab Java JavaScript Kafka Kubernetes Microservices RabbitMQ Rest Apis S3 SQL Typescript
 Palantir Technologies
 Software Engineer, Intern - Connectivity Platform and Product
 <age> Saved
@@ -44,6 +88,10 @@ Artificial Intelligence &#x2022; Software
 Build connectivity products and integrations across backend services, frontend interfaces, and compute platforms. Develop SDKs, APIs, authentication flows, security frameworks, and high-scale data workflows connecting enterprise systems to Foundry. Diagnose performance and correctness issues, collaborate with infrastructure and product teams, and learn across multiple languages, services, networks, and execution environments. The role is approximately 75% backend and 25% frontend.
 Top Skills:
 Cassandra Envoy Git Go Gradle GraphQL HTTP Java Kubernetes Python React Tcp Tls Typescript Udp
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 T-Mobile
 Summer 2027 T-Ads Software Engineering Internship
 <age> Saved
@@ -96,21 +144,6 @@ Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Tec
 Intern will develop, test, enhance, and support IBM i enterprise applications using RPG, CL, SQL, DB2 for i, and ILE concepts. Responsibilities include database development, debugging, testing, code reviews, application integration, automation, and exploring responsible Generative AI tools. The role includes mentorship, collaboration with technical and business teams, participation in the software development lifecycle, and completion and presentation of an internship project.
 Top Skills:
 APIs Control Language (Cl) Db2 For I Free-Format Rpg Generative Ai Git Ibm I Integrated Language Environment (Ile) Restful Web Services SQL Visual Studio Code
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
-Spectrum
-2027 Summer Intern: Software Engineer - P&amp;T
-<age> Saved
-In-Office
-St Louis, MO, USA
-Internship
-Internship
-eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
-Paid, full-time software engineering internship supporting customer-context data patterns, decision-engineering tools, requirements analysis, and data-platform products. Interns collaborate with department teams, participate in professional development, networking, mentorship, and cross-functional activities. Candidates must be rising seniors pursuing a bachelor’s degree, maintain at least a 3.0 GPA, and be authorized to work in the U.S. without current or future employment-based sponsorship.
-Top Skills:
-Python
 Notion
 Software Engineering Intern, Frontend (Summer 2027)
 <age> Saved
@@ -137,36 +170,6 @@ Fintech &#x2022; Machine Learning &#x2022; Software &#x2022; Financial Services
 Performance Engineer Interns conduct quantitative research on exchange and network technologies, design optimization strategies for electronic trading, develop AI agents, ETL pipelines, and Python algorithms, and reverse-engineer and stress-test low-latency systems. They collaborate with traders and hardware and software engineers to improve liquidity-taking, quoting, and ultra-low-latency trading strategies.
 Top Skills:
 Etl Pipelines Machine Learning Network Programming Python Statistical Modeling Systems Programming
-InterSystems
-Summer Internship 2027
-<age> Saved
-Easy Apply
-In-Office
-Boston, MA, USA
-Easy Apply
-45-45 Annually
-Internship
-45-45 Annually
-Internship
-Artificial Intelligence &#x2022; Big Data &#x2022; Healthtech &#x2022; Machine Learning &#x2022; Software &#x2022; Database &#x2022; Analytics
-Paid 12-week, in-person software development internship in Boston beginning June 1, 2027. Interns complete training, collaborate with developers and mentors, develop a nine-week software project, participate in networking events, and present their work to senior leadership. The program is designed for currently enrolled undergraduate or graduate students in STEM disciplines and may lead to future internships or full-time opportunities.
-Top Skills:
-Angularjs C C&#x2B;&#x2B; Java JavaScript JSON Python
-Geneva Trading
-C&#x2B;&#x2B; Developer (Intern)
-<age> Saved
-Easy Apply
-Hybrid
-Chicago, IL, USA
-Easy Apply
-40-45 Hourly
-Internship
-40-45 Hourly
-Internship
-Fintech &#x2022; Financial Services
-Ten-week paid software engineering internship developing, testing, and deploying C++ solutions for a proprietary trading platform. Interns work with large datasets, network programming, multithreaded applications, AI coding tools, and cross-functional technologists and researchers. The role includes mentorship, complex problem-solving, collaboration, and opportunities for full-time employment after graduation.
-Top Skills:
-Ai/Ml Frameworks C&#x2B;&#x2B; Claude Code Data Pipelines Git Linux Relational Databases Tcp/Ip
 1
 2
 3
@@ -174,7 +177,7 @@ Ai/Ml Frameworks C&#x2B;&#x2B; Claude Code Data Pipelines Git Linux Relational D
 5
 ...
 ...
-84
+85
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

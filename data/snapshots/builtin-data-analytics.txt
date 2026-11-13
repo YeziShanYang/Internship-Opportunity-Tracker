@@ -31,6 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+Spectrum
+2027 Summer Intern: Revenue Assurance Analyst - Corporate
+<age> Saved
+In-Office
+New Connecticut, NY, USA
+31K-33K Annually
+Internship
+31K-33K Annually
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Supports revenue assurance by identifying and quantifying revenue recognition and risk mitigation opportunities. Maintains reports, updates SQL queries, creates datasets, validates billing-system data, collaborates with technical and functional teams, and assists with recurring reporting and month-end processing. The paid, full-time internship also includes professional development, mentorship, networking, and cross-functional activities.
+Top Skills:
+Claude Kiro MS Office SQL
 T-Mobile
 Summer 2027 Business Analytics &amp; Reporting Internship
 <age> Saved
@@ -72,17 +85,6 @@ Fintech &#x2022; Information Technology &#x2022; Machine Learning &#x2022; Softw
 Analytics interns develop and test lending and verification models, conduct statistical and financial analyses, recommend risk, marketing, and operational strategies, create KPIs with senior management, and present findings to executives. The internship involves collaboration across Analytics teams and requires advanced Python programming, SQL, statistical and machine learning knowledge, and the ability to communicate technical concepts clearly.
 Top Skills:
 Machine Learning Python Relational Databases SQL
-Spectrum
-2027 Summer Intern: Data Developer
-<age> Saved
-In-Office
-Greenwood Village, CO, USA
-Internship
-Internship
-eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
-Supports the Mobile Device Data and Operations team by collecting, enriching, and distributing product data to catalogs and vendor partners. Develops workflow designs using KNIME or Alteryx, works with Oracle and Snowflake databases, and deploys application tools on AWS. The internship also includes professional development, mentorship, networking, community service, and cross-functional projects.
-Top Skills:
-AI Alteryx AWS Excel Knime Oracle Power Apps Python Regex Sharepoint Snowflake SQL
 Citadel Securities
 Quantitative Researcher - PhD Intern (US)
 <age> Saved
@@ -97,8 +99,8 @@ As a PhD intern, you will develop and test trading strategies, perform statistic
 Top Skills:
 C&#x2B;&#x2B; Python R
 New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
 Use For Free
 CrowdStrike
 Sales Data Analytics Intern
