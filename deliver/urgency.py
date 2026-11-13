@@ -77,6 +77,22 @@ def _aimed_at_underclassmen(class_year: str, title: str) -> bool:
     return bool(UNDERCLASSMAN.search(class_year)) and not NOT_TARGETED.search(class_year)
 
 
+# How many mornings a pin stays in the top block, counting the one it arrived on. Added
+# 2026-11-13: a pin used to last until its posting came down, and a rolling posting
+# states no close date, so in practice that meant until the employer took the page down.
+# The block had grown to 15 rows, the oldest pinned for 40 mornings, and it was read
+# daily by someone who applies on the morning a posting appears -- after a week the
+# reminder has done its job. Retiring by age also ends the two ways a pin could
+# otherwise never leave: a source that keeps failing, and the same posting pinned again
+# from a second tracker under a different link.
+PIN_DAYS = 7
+
+
+def _pin_expired(first_pinned: str, today: str) -> bool:
+    days = clock.days_until(first_pinned, today)
+    return days is not None and -days >= PIN_DAYS
+
+
 def _deadline_passed(deadline: str) -> bool:
     days = clock.days_until(deadline)
     return days is not None and days < 0
@@ -219,17 +235,21 @@ def refresh_pins(
     today: str,
     describe,
 ) -> list[models.PinnedRow]:
-    """Today's pinned set: yesterday's, minus the ones that came down, plus new ones.
+    """Today's pinned set: yesterday's, minus the ones that came down or aged out, plus
+    new ones.
 
-    Two asymmetries are load-bearing, and both are the same instinct the rest of this
+    A pin lasts `PIN_DAYS` mornings from the one it first appeared on. Inside that window
+    two asymmetries are load-bearing, and both are the same instinct the rest of this
     codebase follows -- a wrong keep costs one line the owner skims, a wrong drop hides
     an opportunity.
 
-    A pin is dropped **only** when the source that carries it was checked successfully
-    this run and no longer lists the row. A failing source, a quarantined one, or a
-    source skipped by `--only` keeps every pin it has: "we have stopped looking" must
-    never be rendered as "it closed", which is the same rule the circuit breaker
-    follows when it insists a quarantined source still appears in HEALTH.
+    Before its time is up, a pin is dropped for absence **only** when the source that
+    carries it was checked successfully this run and no longer lists the row. A failing
+    source, a quarantined one, or a source skipped by `--only` keeps every pin it has:
+    "we have stopped looking" must never be rendered as "it closed", which is the same
+    rule the circuit breaker follows when it insists a quarantined source still appears
+    in HEALTH. Ageing out is a different fact -- the owner has been told for a week --
+    so it applies whatever the source's state.
 
     And only a *relevant* judgment earns a pin. A row the screen or the classifier
     ruled out is not pinned, so the block does not accumulate the non-US, junior-only
@@ -269,6 +289,8 @@ def refresh_pins(
         # A stated close date that has passed ends the pin even while the page is up:
         # Jane Street's Bridge sat pinned three days past its 2026-09-27 deadline.
         if _deadline_passed(row.deadline):
+            continue
+        if _pin_expired(row.first_pinned, today):
             continue
         if row.source_id in checked:
             if row.change_id not in live.get(row.source_id, set()):

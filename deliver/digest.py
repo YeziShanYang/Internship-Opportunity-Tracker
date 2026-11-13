@@ -326,10 +326,10 @@ def _pinned_row(pin: models.PinnedRow, today: str) -> str:
 
     A pin is in the table because it is still open, not because anything happened to
     it, so it costs one line of facts rather than the full bullet cell: the owner has
-    already read the cell on the morning the row arrived, and repeating it every day
-    until the posting comes down is what would make a standing block unreadable -- and,
-    at 577 bytes a full row, undeliverable. "pinned <date>" is there so a row that has
-    sat open for three weeks says so instead of reading as today's news.
+    already read the cell on the morning the row arrived, and repeating it every day of
+    the pin's week is what would make a standing block unreadable -- and, at 577 bytes a
+    full row, undeliverable. "pinned <date>" is there so a row carried for several days
+    says so instead of reading as today's news.
     """
     facts = [bit for bit in (pin.deadline, pin.class_year, pin.location) if bit.strip()]
     facts.append(f"pinned {pin.first_pinned}" if pin.first_pinned != today else "pinned today")
@@ -508,9 +508,10 @@ def render(
         # a block that is working from one that has quietly filled up with stale pins.
         carried = sum(1 for pin in pinned if pin.change_id not in moved)
         body.append(
-            f"- {len(pinned)} underclassman posting(s) pinned to the top block while they "
-            f"stay on their boards; {carried} carried over from an earlier morning. "
-            "A pin is retired only when its source is checked and no longer lists it."
+            f"- {len(pinned)} underclassman posting(s) pinned to the top block; "
+            f"{carried} carried over from an earlier morning. A pin stays "
+            f"{urgency.PIN_DAYS} days, or until its posting comes down or its deadline "
+            "passes."
         )
     if suppressed_applied:
         body.append(

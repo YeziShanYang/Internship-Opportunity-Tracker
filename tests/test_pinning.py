@@ -1,9 +1,10 @@
-"""Underclassman postings stay in the top block until they leave their board.
+"""Underclassman postings stay in the top block for a week, or until they leave their board.
 
-Added 2026-09-18. Every other ACT NOW test is a *dated* reason that
-fires on the morning a row moves; this one is a standing fact about who the posting is
-for, so the interesting cases are all about time and about silence: a pin survives the
-day nothing happens to it, and a pin is never retired by a source that failed.
+Added 2026-09-18, bounded to `urgency.PIN_DAYS` on 2026-11-13. Every other ACT NOW test
+is a *dated* reason that fires on the morning a row moves; this one is a standing fact
+about who the posting is for, so the interesting cases are all about time and about
+silence: a pin survives the day nothing happens to it, a pin is never retired early by a
+source that failed, and every pin ages out after a week whatever its source is doing.
 
 The size cases are here too, because the feature is only deliverable at all because of
 them. Matching the whole snapshot line put 114 rows in scope against GitHub's
@@ -222,6 +223,37 @@ class PinRefreshTests(unittest.TestCase):
             [], [_pin()], {"s": set()}, set(), TODAY, digest.company_and_position)
         self.assertEqual(len(pins), 1)
         self.assertEqual(pins[0].last_seen, YESTERDAY)  # honest about when we last saw it
+
+    def test_a_pin_ages_out_after_a_week(self):
+        """2026-11-13: rolling postings have no close date, so a pin used to last until
+        the page came down. The block reached 15 rows, the oldest 40 mornings old."""
+        live = {"s": {"s:Acme / First-Year Analyst"}}
+        six_days = urgency.refresh_pins(
+            [], [_pin(first_pinned="2026-09-12")], live, {"s"}, TODAY,
+            digest.company_and_position)
+        self.assertEqual(len(six_days), 1, "the seventh morning still shows it")
+        seven_days = urgency.refresh_pins(
+            [], [_pin(first_pinned="2026-09-11")], live, {"s"}, TODAY,
+            digest.company_and_position)
+        self.assertEqual(seven_days, [])
+
+    def test_ageing_out_applies_to_a_failing_source_too(self):
+        """A failing source must not retire a pin early, but it cannot keep one forever:
+        mehek-2027 failed for three weeks and held its Cognex pin the whole time."""
+        pins = urgency.refresh_pins(
+            [], [_pin(first_pinned="2026-09-01")], {"s": set()}, set(), TODAY,
+            digest.company_and_position)
+        self.assertEqual(pins, [])
+
+    def test_a_pinned_row_that_changes_keeps_its_original_date(self):
+        """A row edit is not a new posting, so it must not restart the week."""
+        old = _pin(first_pinned="2026-09-11")
+        moved = _judgment("Acme / First-Year Analyst", kind="changed",
+                          change_id=old.change_id)
+        pins = urgency.refresh_pins(
+            [moved], [old], {"s": {old.change_id}}, {"s"}, TODAY,
+            digest.company_and_position)
+        self.assertEqual(pins, [])
 
     def test_a_removed_row_retires_its_pin(self):
         pins = urgency.refresh_pins(
