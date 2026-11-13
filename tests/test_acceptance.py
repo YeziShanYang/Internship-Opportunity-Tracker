@@ -2605,6 +2605,43 @@ class DeterministicScreenTests(_IsolatedState, unittest.TestCase):
         self.assertDeferred("", title="Marketing Data Scientist Intern")
         self.assertDeferred("", title="Recruiting Software Engineer Intern")
 
+    def test_non_software_engineering_titles_are_settled_without_a_model_call(self):
+        """2026-11-13: ~500 model rule-outs in 30 days were hardware, mechanical, civil or
+        electrical titles that `_TECHNICAL` kept from the older title rule."""
+        for title in ("Acme / Mechanical Engineering Intern @ Austin, TX",
+                      "Firm / Civil Engineering Intern @ St. Cloud, MN",
+                      "Chipco / Digital IC Design Intern, BS @ Austin, TX",
+                      "Lab / Hardware Engineering Intern @ Redwood City"):
+            v = screen.screen(title, "")
+            self.assertIsNotNone(v, title)
+            self.assertEqual(v.rule, "engineering-field-title")
+        # Software-shaped titles, the firm's own name, and the borderline cases stay with
+        # the model: the first three were real rows the model rightly kept.
+        for title in ("Apple / Intern, Site Reliability Engineer @ Cupertino, CA",
+                      "NVIDIA / NVIDIA 2027 Internships: Computer Architecture @ Santa Clara",
+                      "Meta / ASIC EDA Infrastructure Engineer Intern @ Sunnyvale, CA",
+                      "GE Aerospace / Data Analyst Intern @ Cincinnati, OH",
+                      "Rockwell / Intern, Firmware Engineering @ Milwaukee, WI",
+                      "Robotics Co / Software Engineer, Manufacturing Systems @ Austin, TX",
+                      "VC board: Summer 2027 Internship-Manufacturing Engineering (+1 more)"):
+            self.assertIsNone(screen.screen(title, ""), title)
+
+    def test_a_single_foreign_location_is_settled_and_a_us_match_wins(self):
+        """173 "Canada only" model rule-outs in the 30 days to 2026-11-13."""
+        v = screen.screen("Qualcomm / Applied AI Engineer Intern @ Markham, ON, Canada", "")
+        self.assertEqual(v.rule, "non-us-location")
+        self.assertIn('"Markham, ON, Canada"', v.why)
+        for title in ("Talos / Software Intern @ London, NYC",
+                      "HP / AI Engineer Intern @ Vancouver +2 more",
+                      "Firm / ML Intern @ Remote (Canada or US)",
+                      "Firm / SWE Intern @ New London, CT",
+                      "Firm / SWE Intern"):
+            self.assertIsNone(screen.screen(title, ""), title)
+        line = digest._ruled_out_line(models.Judgment.from_screen(
+            models.Change(source_id="s", kind="added", key="Qualcomm / AI Intern", detail="d"),
+            why=v.why, rule=v.rule, version=v.version))
+        self.assertTrue(line.endswith("outside the US (Markham, ON, Canada)"), line)
+
     def test_an_ordinary_technical_title_is_untouched(self):
         self.assertDeferred("", title="Quantitative Research Intern")
 

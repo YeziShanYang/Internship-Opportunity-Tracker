@@ -37,9 +37,11 @@ from __future__ import annotations
 import re
 from dataclasses import dataclass
 
+from process import parse_ats
+
 # Bump when a rule changes. Stored on each verdict, so a rule fix re-screens the
 # backlog instead of applying only to changes seen afterwards.
-VERSION = 3
+VERSION = 4
 
 # The graduation years that exclude this owner, and the ones that include them. A window
 # naming both ("graduating between 2027 and 2030") is inclusive and must not rule out.
@@ -211,6 +213,70 @@ def _excluded_by(pattern, text: str, *, guards=()) -> str | None:
     return None
 
 
+# Rule 7's engineering that is not software, named in a job title. Added 2026-11-13 to
+# take calls off the model: over the 30 digests to that date the model ruled out about
+# 500 rows as hardware, mechanical, civil or electrical, usually on the title alone, and
+# the existing title rule could not reach them because `_TECHNICAL` treats any
+# "engineer" as technical. Scored against those 30 days before adoption: every row this
+# fires on that the model had kept contradicted rule 7 itself (a civil co-op, a hardware
+# verification role). Firmware, embedded and design-verification titles are left to
+# the model; they sit too close to software to settle with a regex.
+_NON_SOFTWARE_ENGINEERING = re.compile(
+    r"\b(?:mechanical|electrical|civil|chemical|aerospace|manufacturing|hardware|structural"
+    r"|industrial\s+engineer\w*|mechatronics|materials\s+(?:science|engineer\w*)|metallurg\w*"
+    r"|asic|fpga|pcb|rf|analog|mixed[\s-]signal|power\s+electronics|thermal|photonics|nuclear"
+    r"|environmental|biomedical|petroleum|mining|geotechnical|construction|packaging|propulsion"
+    r"|avionics|composites|cryogenics|electromechanical|hvac|welding|tooling"
+    r"|process\s+engineer\w*|quality\s+engineer\w*|test\s+engineer\w*|validation\s+engineer\w*"
+    r"|vlsi|digital\s+(?:ic|circuit)|circuit\s+design|ic\s+design|design\s+for\s+test"
+    r"|transportation\s+engineer\w*|traffic|roadway|surveying)\b",
+    re.IGNORECASE,
+)
+# Anything software-shaped in the same title keeps it for the model: "Software Engineer,
+# Manufacturing Systems", "Site Reliability Engineer", "ASIC EDA Infrastructure".
+_SOFTWARE_GUARD = re.compile(
+    r"\b(?:software|data|machine\s+learning|ml|ai|algorithm\w*|quant\w*|computer\s+science"
+    r"|computer\s+engineer\w*|computing|developer|full[\s-]?stack|back[\s-]?end|front[\s-]?end"
+    r"|web|cloud|devops|cyber\w*|security|research\s+scien\w*|scientist|applications?|app"
+    r"|platform|automation|perception|autonomy|simulation|analytics|product\s+manag\w*|it"
+    r"|information\s+technology|site\s+reliability|sre|eda|infrastructure|career\s+fair)\b"
+    r"|\(\+\d+\s+more\)",
+    re.IGNORECASE,
+)
+
+# A row naming several places, or remote work, may include the United States; only a
+# single clearly foreign location settles it.
+_SEVERAL_PLACES = re.compile(r"\+\s*\d+\s+more|\d+\s+locations|\bremote\b", re.IGNORECASE)
+
+
+def _role_and_location(key: str) -> tuple[str, str]:
+    """"Firm / Role @ Place" -> ("Role", "Place"). The firm is dropped so a company
+    called "GE Aerospace" cannot make its data-analyst posting read as aerospace."""
+    role = key.split(" / ", 1)[1] if " / " in key else key
+    head, sep, place = role.rpartition(" @ ")
+    return (head, place.strip()) if sep else (role, "")
+
+
+def screen_location(key: str) -> Verdict | None:
+    """The profile's one location test: a role recruiting only outside the United States.
+
+    Uses the job boards' own location patterns, so an aggregator row is judged exactly
+    as an ATS row already is before it is ever diffed. A US match wins, as it does there.
+    Added 2026-11-13: the model ruled out 173 rows as "Canada only" in the preceding 30
+    days, each a call spent reading a location the row already stated.
+    """
+    _role, place = _role_and_location(key)
+    if not place or _SEVERAL_PLACES.search(place):
+        return None
+    if parse_ats.US_LOCATION.search(place) or not parse_ats.NON_US_LOCATION.search(place):
+        return None
+    return Verdict(
+        why=f'Location is outside the United States ("{place}"), and this owner can only '
+            f"take a US role: {_quote(key)}",
+        rule="non-us-location",
+    )
+
+
 def screen_title(title: str) -> Verdict | None:
     """Rules 6 and 7, on the title alone. Safe without any posting text."""
     sophomore = sophomore_only(title)
@@ -226,6 +292,14 @@ def screen_title(title: str) -> Verdict | None:
             why=f'Title names a field outside quant/maths/software ("{hit.group(0)}") '
                 f"and nothing technical: {_quote(title)}",
             rule="out-of-field-title",
+        )
+    role, _place = _role_and_location(title)
+    hit = _NON_SOFTWARE_ENGINEERING.search(role)
+    if hit and not _SOFTWARE_GUARD.search(role):
+        return Verdict(
+            why=f'Title names engineering that is not software ("{hit.group(0)}"): '
+                f"{_quote(title)}",
+            rule="engineering-field-title",
         )
     return None
 
@@ -270,4 +344,4 @@ def screen_posting(text: str) -> Verdict | None:
 
 def screen(title: str, posting_text: str = "") -> Verdict | None:
     """The whole screen. None means "no opinion" and the change goes to the model."""
-    return screen_title(title) or screen_posting(posting_text)
+    return screen_title(title) or screen_location(title) or screen_posting(posting_text)

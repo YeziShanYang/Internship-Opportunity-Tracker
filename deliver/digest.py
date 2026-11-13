@@ -278,6 +278,8 @@ _SCREEN_LABELS = {
     "advanced-standing": "juniors and above",
     "graduate-only": "graduate students only",
     "sophomore-title": "sophomores only",
+    "engineering-field-title": "non-software engineering role",
+    "non-us-location": "outside the US",
 }
 
 # The field a title-only rule-out matched, e.g. ("Civil Engineering").
@@ -291,9 +293,12 @@ def _ruled_out_line(judgment: models.Judgment) -> str:
     `why` is printed as it stands. A screen rule-out is printed as its rule's label.
     """
     why = judgment.why or "not relevant"
-    if judgment.screen_rule == "out-of-field-title":
+    if judgment.screen_rule in ("out-of-field-title", "engineering-field-title"):
         quoted = _QUOTED.search(why)
         why = f"{quoted.group(1)} role" if quoted else "out-of-field role"
+    elif judgment.screen_rule == "non-us-location":
+        quoted = _QUOTED.search(why)
+        why = f"outside the US ({quoted.group(1)})" if quoted else "outside the US"
     elif judgment.screen_rule in _SCREEN_LABELS:
         why = _SCREEN_LABELS[judgment.screen_rule]
     return f"- **{judgment.change.key}** — {why}"
