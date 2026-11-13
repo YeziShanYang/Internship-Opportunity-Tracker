@@ -204,7 +204,13 @@ _EMPTY_LISTING = re.compile(
     r"(?:upcoming\s+|current\s+|open\s+|available\s+)?"
     r"(?:events?|positions?|openings?|jobs?|opportunities|postings?|programs?)"
     r"(?:\s+(?:are\s+)?(?:available|found|posted|scheduled|listed|open|currently"
-    r"|at\s+this\s+time))*\s*[.!]?$")
+    r"|at\s+this\s+time))*\s*[.!]?$"
+    # A programme page closing its round says so the same way: SIEPR's academic-year
+    # fellows page took down its Autumn 2026 projects on 2026-11-07, shrank from 18,214 to
+    # 5,823 characters, and now reads "Applications for 2026 Autumn quarter are now
+    # closed." That page opens and closes every quarter.
+    r"|^applications?\s+(?:for\s+[^.]{1,60}?\s+)?(?:are|is)\s+(?:now\s+|currently\s+)?"
+    r"closed\s*[.!]?(?:\s|&nbsp;)*$")
 
 
 def _states_empty_listing(previous: str, lines: list[str]) -> bool:

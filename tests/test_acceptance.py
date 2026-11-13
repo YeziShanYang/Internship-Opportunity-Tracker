@@ -1633,6 +1633,17 @@ class Phase2PageWatchTests(_IsolatedState, unittest.TestCase):
         self.assertFalse(third.ok)
         self.assertIn("shrank", third.error)
 
+        # A programme page closing its round, as SIEPR's academic-year page did on
+        # 2026-11-07 (with the literal &nbsp; the normaliser leaves in place).
+        closed = (f"<html><body>{nav}<h2>Fellows</h2>"
+                  "<p>Applications for 2026 Autumn quarter are now closed.&nbsp;</p></body></html>")
+        r = _check_page(self._src(source_id="round"), FakeHTMLClient(listed))
+        store.write_snapshot("round", r.snapshot_text, ext="txt")
+        self.assertTrue(_check_page(self._src(source_id="round"), FakeHTMLClient(closed)).ok)
+        # A deadline announcement is not a closing statement.
+        later = closed.replace("are now closed.&nbsp;", "close on March 1.")
+        self.assertFalse(_check_page(self._src(source_id="round"), FakeHTMLClient(later)).ok)
+
         # Nor is a statement the page already made before it lost its body.
         store.write_snapshot("said", "\n".join(
             parse_page.normalise(listed.replace("<h2>", "<p>No events available</p><h2>"))),
