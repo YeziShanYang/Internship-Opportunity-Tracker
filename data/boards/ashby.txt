@@ -3,6 +3,7 @@
 # listed at least one US undergraduate internship in the target fields that day.
 # Candidates came from employer boards linked by VC portfolio job boards and from a
 # Common Crawl-derived list of Greenhouse, Ashby and Lever boards. One slug per line.
+# 2026-11-13: removed arch.co, beaconsoftware, maximor, tilderesearch, twin-so (board deleted, 404; no renamed slug found).
 AfterQuery
 Applied
 Etched
@@ -22,13 +23,11 @@ ambrook
 antares
 apex-technology-inc
 applied
-arch.co
 architect
 astera
 auctor
 barnes
 base-power
-beaconsoftware
 bedrock-robotics
 bestow
 bild-ai
@@ -72,7 +71,6 @@ kastle
 kognitos
 kos.ai
 leantechniques
-maximor
 maxinsights
 mechanize
 megazone
@@ -128,8 +126,6 @@ telus-digital
 tenex
 terranova
 the-exploration-company
-tilderesearch
-twin-so
 uplane
 valon
 valstad

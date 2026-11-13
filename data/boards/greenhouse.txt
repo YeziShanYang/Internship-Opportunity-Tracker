@@ -3,6 +3,7 @@
 # listed at least one US undergraduate internship in the target fields that day.
 # Candidates came from employer boards linked by VC portfolio job boards and from a
 # Common Crawl-derived list of Greenhouse, Ashby and Lever boards. One slug per line.
+# 2026-11-13: hubspotstudents (404) replaced by hubspotjobs, HubSpot's main board.
 advancedspace
 aechelontechnology
 amca
@@ -78,7 +79,7 @@ headoutcareers
 hevenaerotech
 hpiq
 hrttalentcommunity
-hubspotstudents
+hubspotjobs
 hudl
 idmeuniversityrecruiting
 instead
