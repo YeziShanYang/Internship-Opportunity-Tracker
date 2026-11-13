@@ -39,10 +39,11 @@ import os
 import threading
 
 import screen
-from core import models, paths, profile, text as coretext
+from core import clock, models, paths, profile, text as coretext
 from core.models import Judgment, Usage  # re-exported: the shapes moved to core
 from enrich import bodies as enrich_bodies
 from persist import store
+from process import reuse
 
 MODEL = "claude-opus-5"
 
@@ -680,8 +681,14 @@ def classify(
     sources: dict[str, dict[str, str]],
     bodies: dict[str, enrich_bodies.PostingBody] | None = None,
     verdicts: dict[str, screen.Verdict] | None = None,
+    prior: list[dict[str, str]] | None = None,
 ) -> models.JudgedSet:
     """Classify what is worth classifying. Never raises, never drops a change.
+
+    `prior` is data/judgments.csv. When given, a posting already judged (same employer
+    and title, this cycle) reuses that answer, an employer rule 8 has already ruled out
+    reuses that verdict for a generic title, and rows sharing a posting key this morning
+    are sent to the model once -- see `process.reuse`. None turns all of that off.
 
     Returns the judgments *and* what they cost, together, because the spend is part of
     what the run did and reading it off a module global is what stopped `render` from
@@ -731,7 +738,59 @@ def classify(
     # the screen then settled for free, and 54 rows reached the digest unverified while
     # only 197 calls were made. This list is only ever the overflow past
     # MAX_CLASSIFICATIONS_PER_RUN, so that is what its `why` says.
-    to_judge, summarise_only = triage(unsettled, sources)
+    # Reuse before the cap, so the cap counts questions nobody has answered yet.
+    leaders: dict[str, models.Change] = {}
+    followers: dict[str, list[models.Change]] = {}
+    has_text: dict[str, bool] = {}
+    to_model: list[models.Change] = unsettled
+    if prior is not None:
+        today = clock.today_iso()
+        cycle = clock.recruiting_cycle(today)
+        usable = reuse.index(prior, today, cycle)
+        by_employer = reuse.employer_verdicts(usable)
+        to_model = []
+        for change in unsettled:
+            source = sources.get(change.source_id, {})
+            text = posting_for(change)[0]
+            has_text[change.change_id] = bool(text)
+            key = reuse.posting_key(change, source)
+            row = usable.get(key) if key else None
+            if row is None or not reuse.may_reuse(row, bool(text)):
+                row = reuse.employer_rule_out(change, source, text, by_employer)
+            if row is not None:
+                judgments.append(reuse.reused(change, row))
+                continue
+            if key and key in leaders:
+                followers.setdefault(key, []).append(change)
+                continue
+            if key:
+                leaders[key] = change
+            to_model.append(change)
+
+    def finish() -> models.JudgedSet:
+        """Rows that shared a posting key with one sent this morning take its outcome:
+        its answer when the model gave one, and otherwise the same unjudged state."""
+        if followers:
+            outcome = {j.change.change_id: j for j in judgments}
+            for key, rest in followers.items():
+                lead = outcome.get(leaders[key].change_id)
+                for change in rest:
+                    if lead is not None and lead.outcome == models.MODEL:
+                        employer, title = reuse.employer_and_title(
+                            leaders[key], sources.get(leaders[key].source_id, {}))
+                        judgments.append(reuse.reused(change, reuse.as_row(
+                            lead, key, employer, title,
+                            has_text.get(leaders[key].change_id, False), today, cycle)))
+                    elif lead is not None and lead.outcome == models.ERROR:
+                        judgments.append(Judgment.failed(change, lead.error))
+                    elif lead is not None and lead.outcome == models.OVER_BUDGET:
+                        judgments.append(Judgment.over_budget(change, MAX_CLASSIFICATIONS_PER_RUN))
+                    else:
+                        judgments.append(Judgment.unjudged(
+                            change, lead.why if lead is not None else "Not classified."))
+        return models.JudgedSet(judgments=judgments, usage=USAGE)
+
+    to_judge, summarise_only = triage(to_model, sources)
     judgments += [
         Judgment.over_budget(change, MAX_CLASSIFICATIONS_PER_RUN)
         for change in summarise_only
@@ -745,14 +804,14 @@ def classify(
                 "Not classified: no classifier credentials are configured (neither "
                 "ANTHROPIC_API_KEY nor AZURE_OPENAI_API_KEY), so this is surfaced "
                 "unjudged rather than dropped."))
-        return models.JudgedSet(judgments=judgments, usage=USAGE)
+        return finish()
 
     try:
         client, deployment = build_client(provider)
     except Exception as exc:
         for change in to_judge:
             judgments.append(Judgment.failed(change, str(exc)))
-        return models.JudgedSet(judgments=judgments, usage=USAGE)
+        return finish()
 
     def judge(change: models.Change) -> Judgment:
         return classify_one(
@@ -778,4 +837,4 @@ def classify(
                 f"{judgment.eligible_proposal}\t{judgment.why}"
             )
         judgments.append(judgment)
-    return models.JudgedSet(judgments=judgments, usage=USAGE)
+    return finish()

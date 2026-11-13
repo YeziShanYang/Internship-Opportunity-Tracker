@@ -28,7 +28,7 @@ import typing
 
 # Bump when any artifact shape changes in a way that is not additive-with-a-default.
 # Every artifact carries it, and reading an older one is an error rather than a guess.
-VERSION = 4  # 4: Change.backers (2026-11-13)
+VERSION = 5  # 4: Change.backers; 5: Judgment.reused_on (both 2026-11-13)
 
 
 class ArtifactError(RuntimeError):

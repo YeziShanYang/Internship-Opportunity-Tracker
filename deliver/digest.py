@@ -507,6 +507,13 @@ def render(
     spend = health.usage_line(usage or models.Usage())
     if spend:
         body.append(f"- {spend}")
+    reused = sum(1 for j in judgments if j.outcome == models.REUSED)
+    if reused:
+        # Said beside the spend line because it is the other half of it: answers this
+        # run had without paying, from process.reuse.
+        body.append(
+            f"- · {reused} judgment(s) reused instead of new model calls: the same posting "
+            "judged earlier this cycle, or an employer rule 8 already ruled out.")
     if pinned:
         # A standing block is the one part of the digest that can grow without anyone
         # deciding to grow it, so its size is stated rather than left to be counted.

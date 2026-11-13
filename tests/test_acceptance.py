@@ -1769,6 +1769,131 @@ class VcBoardHarvestTests(_IsolatedState, unittest.TestCase):
         self.assertEqual(merged[1]["company"], "Cartesia")
 
 
+class JudgmentReuseTests(_IsolatedState, unittest.TestCase):
+    """Reuse a model judgment instead of paying for it again. Added 2026-11-13, when
+    real demand was ~320 calls a day against a cap of 250: 16% of judged rows repeated
+    an earlier day, 7% duplicated another row that morning, and 1,255 rule-8 rule-outs
+    fell on 465 employers."""
+
+    TODAY = "2026-11-13"
+    SOURCES = {"simplify-2027": {"source_id": "simplify-2027", "method": "github_readme"},
+               "zshah-2027": {"source_id": "zshah-2027", "method": "github_readme"},
+               "smallco-greenhouse": {"source_id": "smallco-greenhouse",
+                                      "method": "greenhouse_bulk"}}
+
+    def setUp(self):
+        super().setUp()
+        self.calls = []
+
+        def fake(provider, client, deployment, change, posting=None, effort=None):
+            self.calls.append(change.key)
+            return models.Judgment.from_model(change, relevant=True, why="ok",
+                                              confidence="high", employer_size="small")
+        for name, value in (("select_provider", lambda: "azure"),
+                            ("build_client", lambda provider: (None, "dep")),
+                            ("classify_one", fake)):
+            self.enterContext(unittest.mock.patch.object(classify, name, value))
+        self.enterContext(unittest.mock.patch.object(clock, "today_iso", lambda: self.TODAY))
+
+    def _change(self, key, source="simplify-2027", **kw):
+        return models.Change(source_id=source, kind="added", key=key, detail="d",
+                             change_id=f"{source}:{key}", **kw)
+
+    def _row(self, key, **kw):
+        row = {"key": key, "employer": "", "title": "", "relevant": "false",
+               "ruled_out_by": "eligibility", "why": "rising juniors only",
+               "class_year": "rising juniors", "location": "Tucson, AZ", "deadline": "",
+               "employer_size": "large", "confidence": "high", "had_text": "true",
+               "cycle": "2027", "judged_on": "2026-11-01", "last_used": "2026-11-01"}
+        row.update(kw)
+        return row
+
+    def test_the_same_posting_on_two_lists_gets_one_key(self):
+        from process import reuse
+        a = reuse.posting_key(self._change(
+            "RTX (Raytheon) / Software Engineering Intern - Summer 2027 @ Tucson, AZ"),
+            self.SOURCES["simplify-2027"])
+        b = reuse.posting_key(self._change(
+            "[RTX](https://x) / Software Engineering Intern (2027) @ Dulles, VA", "zshah-2027"),
+            self.SOURCES["zshah-2027"])
+        c = reuse.posting_key(self._change(
+            "Co-Op, AI Nucleic Acid Design @ San Francisco, CA USA", "smallco-greenhouse",
+            url="https://job-boards.greenhouse.io/lilasciences/jobs/4465061009"),
+            self.SOURCES["smallco-greenhouse"])
+        d = reuse.posting_key(self._change(
+            "Lila Sciences / Co-Op, AI Nucleic Acid Design @ Cambridge, MA"),
+            self.SOURCES["simplify-2027"])
+        self.assertEqual(a, b)
+        self.assertEqual(a, "rtx|software engineering")
+        self.assertEqual(c, d)
+        self.assertEqual(reuse.posting_key(self._change("Page (2 added, 0 removed)", "p"),
+                                           {"method": "page_text"}), "")
+
+    def test_a_posting_judged_before_is_not_sent_again_and_keeps_its_own_location(self):
+        change = self._change("RTX / Software Engineering Intern @ Dulles, VA")
+        judged = classify.classify([change], self.SOURCES, {}, {},
+                                   prior=[self._row("rtx|software engineering")])
+        self.assertEqual(self.calls, [])
+        [j] = judged.judgments
+        self.assertEqual((j.outcome, j.relevant, j.why), (models.REUSED, False, "rising juniors only"))
+        self.assertEqual(j.location, "Dulles, VA")
+        self.assertEqual(j.reused_on, "2026-11-01")
+        self.assertTrue(j.classified)
+
+    def test_stale_other_cycle_or_title_only_judgments_are_not_reused(self):
+        change = self._change("RTX / Software Engineering Intern @ Dulles, VA")
+        for row in (self._row("rtx|software engineering", judged_on="2026-09-01"),
+                    self._row("rtx|software engineering", cycle="2026")):
+            self.calls.clear()
+            classify.classify([change], self.SOURCES, {}, {}, prior=[row])
+            self.assertEqual(len(self.calls), 1, row)
+        # Judged on the title alone, and the posting can be read now: ask again.
+        bodies = {change.change_id: enrich_bodies.PostingBody(change_id=change.change_id, text="Open to all undergraduates.")}
+        self.calls.clear()
+        classify.classify([change], self.SOURCES, bodies, {},
+                          prior=[self._row("rtx|software engineering", had_text="false")])
+        self.assertEqual(len(self.calls), 1)
+
+    def test_an_employer_rule_8_verdict_covers_only_generic_titles(self):
+        prior = [self._row("rtx|cyber security", ruled_out_by="value",
+                           why="large defence contractor")]
+        generic = self._change("RTX / Software Engineer Co-op @ Aurora, CO")
+        ml = self._change("RTX / Machine Learning Research Intern @ Aurora, CO")
+        open_door = self._change("RTX / IT Intern @ Aurora, CO")
+        bodies = {open_door.change_id: enrich_bodies.PostingBody(
+            change_id=open_door.change_id, text="Open to freshmen and sophomores.")}
+        judged = classify.classify([generic, ml, open_door], self.SOURCES, bodies, {}, prior=prior)
+        by_key = {j.change.key: j for j in judged.judgments}
+        self.assertEqual(by_key[generic.key].outcome, models.REUSED)
+        self.assertEqual(by_key[generic.key].why, "large defence contractor")
+        self.assertEqual(sorted(self.calls), sorted([ml.key, open_door.key]))
+        # An employer the model has ever kept a posting at is never ruled out wholesale.
+        self.calls.clear()
+        kept = prior + [self._row("rtx|data science", relevant="true", ruled_out_by="")]
+        classify.classify([generic], self.SOURCES, {}, {}, prior=kept)
+        self.assertEqual(self.calls, [generic.key])
+
+    def test_duplicates_the_same_morning_cost_one_call(self):
+        a = self._change("Figma / Software Engineer Intern @ San Francisco, CA")
+        b = self._change("Figma / Software Engineer Intern @ New York, NY", "zshah-2027")
+        judged = classify.classify([a, b], self.SOURCES, {}, {}, prior=[])
+        self.assertEqual(len(self.calls), 1)
+        outcomes = sorted(j.outcome for j in judged.judgments)
+        self.assertEqual(outcomes, sorted([models.MODEL, models.REUSED]))
+        follower = next(j for j in judged.judgments if j.outcome == models.REUSED)
+        self.assertEqual(follower.location, "New York, NY")
+        # And the cache keeps the model's answer for the next run.
+        from process import reuse
+        rows = reuse.merge([], judged.judgments, self.SOURCES, {}, self.TODAY, 2027)
+        self.assertEqual([r["key"] for r in rows], ["figma|software engineer"])
+
+    def test_without_prior_nothing_changes(self):
+        a = self._change("Figma / Software Engineer Intern @ San Francisco, CA")
+        b = self._change("Figma / Software Engineer Intern @ New York, NY", "zshah-2027")
+        classify.classify([a, b], self.SOURCES, {}, {})
+        self.assertEqual(len(self.calls), 2)
+
+
 class BackedByTests(_IsolatedState, unittest.TestCase):
     """"Backed by" is evidence that a startup is real, read off the posting's own board
     or the VC board the change came from. Added 2026-11-13."""

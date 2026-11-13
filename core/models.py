@@ -299,9 +299,12 @@ SCREENED = "screened"
 UNCLASSIFIED = "unclassified"
 ERROR = "error"
 OVER_BUDGET = "over_budget"
+# An earlier model judgment of the same posting (or the same employer, for rule 8)
+# applied again instead of paying for the question twice; see process.reuse.
+REUSED = "reused"
 
 #: The outcomes that represent a real verdict on the item.
-DECIDED = (MODEL, SCREENED)
+DECIDED = (MODEL, SCREENED, REUSED)
 
 
 @dataclass
@@ -345,6 +348,8 @@ class Judgment:
     # tell which rule set produced it.
     screen_rule: str = ""
     screen_version: int = 0
+    # The date of the model judgment this one reuses, when outcome is REUSED.
+    reused_on: str = ""
 
     @property
     def classified(self) -> bool:

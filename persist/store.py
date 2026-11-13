@@ -114,6 +114,14 @@ def write_discovered(rows: list[dict[str, str]]) -> None:
     write_csv(paths.DISCOVERED_CSV, paths.DISCOVERED_COLUMNS, rows)
 
 
+def read_judgments() -> list[dict[str, str]]:
+    return read_csv(paths.JUDGMENTS_CSV, paths.JUDGMENT_COLUMNS)
+
+
+def write_judgments(rows: list[dict[str, str]]) -> None:
+    write_csv(paths.JUDGMENTS_CSV, paths.JUDGMENT_COLUMNS, rows)
+
+
 def read_backers() -> list[dict[str, str]]:
     return read_csv(paths.BACKERS_CSV, paths.BACKER_COLUMNS)
 

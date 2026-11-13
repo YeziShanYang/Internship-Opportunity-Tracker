@@ -28,7 +28,7 @@ from core import clock, models, paths
 from enrich import bodies as enrich_bodies
 from gather import clients, collect
 from persist import artifacts, store
-from process import backers as backing, build, parse_ats, snapshot as snap, suppress
+from process import backers as backing, build, parse_ats, reuse, snapshot as snap, suppress
 import screen
 
 
@@ -310,7 +310,8 @@ def run(args: argparse.Namespace) -> int:
     _write_change_set(metrics, changes, filters)
     judged = (
         models.JudgedSet() if args.no_classify
-        else classify.classify(changes, by_id, bodies, verdicts)
+        else classify.classify(changes, by_id, bodies, verdicts,
+                               prior=store.read_judgments())
     )
     judgments = judged.judgments
 
@@ -443,6 +444,14 @@ def run(args: argparse.Namespace) -> int:
     store.write_sources(sources)
     store.write_programs(programs)
     store.write_standing([_pin_to_row(pin) for pin in judged.pinned])
+    # The reuse cache is state like the snapshots, so it is written here and never on a
+    # dry run. `has_text` records whether each judgment saw the posting, which decides
+    # whether it may be reused for a later copy whose text can be read.
+    today = clock.today_iso()
+    store.write_judgments(reuse.merge(
+        store.read_judgments(), judgments, by_id,
+        {c.change_id: bool(enrich_bodies.for_change(bodies, c)[0]) for c in changes},
+        today, clock.recruiting_cycle(today)))
 
     if send:
         print(issue.deliver(title, body))
@@ -583,7 +592,8 @@ def classify_only(args: argparse.Namespace) -> int:
     verdicts = artifacts.read(
         artifacts.SCREENED, "screened", dict[str, screen.Verdict])
     by_id = {s["source_id"]: s for s in store.read_sources()}
-    judged = classify.classify(change_set.changes, by_id, bodies, verdicts)
+    judged = classify.classify(change_set.changes, by_id, bodies, verdicts,
+                               prior=store.read_judgments())
     # The pins belong to judged.json, so the stage that writes it resolves them --
     # otherwise `run.py classify` then `run.py render` would drop every carried row.
     # Every source in the change set was checked to produce it, so all of them may

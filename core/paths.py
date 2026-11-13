@@ -49,6 +49,16 @@ DISCOVERED_COLUMNS = [
 # whole feature. Rows are dropped only when the source that carries them was checked
 # successfully and no longer lists them; a failing or quarantined source keeps its
 # pins, because "we stopped looking" must never read as "it closed".
+# Model judgments kept for reuse, one row per posting key (employer + title). Lets a
+# posting that reappears -- on a second aggregator days later, or as an edited row -- be
+# judged from the answer already paid for. Model judgments only: the screen is free.
+JUDGMENTS_CSV = DATA / "judgments.csv"
+JUDGMENT_COLUMNS = [
+    "key", "employer", "title", "relevant", "ruled_out_by", "why", "class_year",
+    "location", "deadline", "employer_size", "confidence", "had_text", "cycle",
+    "judged_on", "last_used",
+]
+
 STANDING_CSV = DATA / "standing.csv"
 STANDING_COLUMNS = [
     "change_id", "source_id", "company", "position", "url",
