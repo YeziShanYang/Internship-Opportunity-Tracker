@@ -4,8 +4,10 @@
 # Candidates came from employer boards linked by VC portfolio job boards and from a
 # Common Crawl-derived list of Greenhouse, Ashby and Lever boards. One slug per line.
 # 2026-11-13: hubspotstudents (404) replaced by hubspotjobs, HubSpot's main board.
+# 2026-11-13: added aidashinc, c3ascend, figureai, iex-interns, profluent, quantiq, roboforce, solutions (Cadence Solutions), stepstone from the discovery proposals, each with a US in-field student role that day.
 advancedspace
 aechelontechnology
+aidashinc
 amca
 amperesand
 andurilindustries
@@ -23,6 +25,7 @@ botauto
 brevium
 bti36021
 businessolverinvitationonly
+c3ascend
 c3iot
 cartesiansystems
 chicagotradingcampus
@@ -55,6 +58,7 @@ evolver
 examplecorpsandbox
 faradayfuture
 figma
+figureai
 financialtimes33
 flyzipline
 formlabs
@@ -82,6 +86,7 @@ hrttalentcommunity
 hubspotjobs
 hudl
 idmeuniversityrecruiting
+iex-interns
 instead
 integra
 integrainterns
@@ -114,7 +119,9 @@ pathai
 perpay
 phoenixcontact
 prizepicks
+profluent
 psiquantum
+quantiq
 queracomputinginc
 quixquantumbv
 rackner
@@ -125,6 +132,7 @@ rfsmart
 ritual
 robinhood
 roblox
+roboforce
 rocketlab
 rubrik
 sage49
@@ -138,8 +146,10 @@ sharkninjaoperatingllc
 shifttechnology
 singlestore
 skhynixmemorysolutionsamericainc
+solutions
 spacex
 springboard
+stepstone
 stokespacetechnologies
 stripe
 syskahennessy
