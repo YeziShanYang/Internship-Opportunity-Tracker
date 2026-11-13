@@ -362,7 +362,10 @@ def run(args: argparse.Namespace) -> int:
         try:
             with clients.build_github_client(clients.github_token()) as gh, \
                     clients.build_web_client() as web:
-                candidates, discovery_notes = discover.run(gh, web, sources)
+                candidates, discovery_notes, boards = discover.run(gh, web, sources)
+            if not args.dry_run and boards:
+                store.write_backers(
+                    discover.merge_backers(store.read_backers(), boards, clock.today_iso()))
             # Priority triage is a model call, so it sits outside the client block with
             # the rest of the model work. It only ever splits the list: `run` has
             # already decided what a candidate *is*, and this decides whether the owner

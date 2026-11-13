@@ -4,11 +4,13 @@
 # Candidates came from employer boards linked by VC portfolio job boards and from a
 # Common Crawl-derived list of Greenhouse, Ashby and Lever boards. One slug per line.
 # 2026-11-13: removed arch.co, beaconsoftware, maximor, tilderesearch, twin-so (board deleted, 404; no renamed slug found).
+# 2026-11-13: added MaticRobots, axiommath, bridgeneurotech, dryft, formulary, genesis-molecular-ai, mistral.ai: VC-backed startups found through the portfolio boards, each with a US in-field student role that day.
 AfterQuery
 Applied
 Etched
 G2
 Greenboard
+MaticRobots
 NorthwoodSpace
 Perchwell
 Serval
@@ -26,11 +28,13 @@ applied
 architect
 astera
 auctor
+axiommath
 barnes
 base-power
 bedrock-robotics
 bestow
 bild-ai
+bridgeneurotech
 brightstar-ai
 chartahealth
 circleback
@@ -45,6 +49,7 @@ cylake-inc
 cyvl
 dandy
 droyd
+dryft
 dyna-robotics
 eragon
 espa
@@ -53,9 +58,11 @@ exa
 exegy
 fab2
 fable
+formulary
 fundwell
 g2
 gecko-robotics
+genesis-molecular-ai
 genmd
 graymatter-robotics
 gritt
@@ -76,6 +83,7 @@ mechanize
 megazone
 melius
 mercor
+mistral.ai
 modal
 n1
 neocognition

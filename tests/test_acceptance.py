@@ -1719,6 +1719,56 @@ class Phase2PageWatchTests(_IsolatedState, unittest.TestCase):
         self.assertTrue(small.is_discovery_candidate)
         self.assertTrue(small.rolling)
 
+class VcBoardHarvestTests(_IsolatedState, unittest.TestCase):
+    """The weekly harvest of startup ATS boards from the watched VC portfolio boards,
+    added 2026-11-13. A VC board is the vetted route to startups; the harvest reads the
+    board behind each posting so the startup can be watched in full."""
+
+    GETRO = ("https://jobs.example.com/jobs?filter=eyJzZW5pb3JpdHkiOlsiaW50ZXJuc2hpcCJdLCJvcmdh"
+             "bml6YXRpb24uc3RhZ2UiOlsic2VlZCJdLCJzZWFyY2hhYmxlX2xvY2F0aW9ucyI6WyJVbml0ZWQgU3Rh"
+             "dGVzIl19")
+
+    def test_the_link_parser_finds_every_vendor_and_keeps_dotted_ashby_slugs(self):
+        found = coretext.ats_boards(
+            "Apply at https://jobs.ashbyhq.com/mistral.ai/7c40. Or jobs.ashbyhq.com/axiommath.",
+            '<a href="https://boards.greenhouse.io/embed/job_app?for=stepstone&token=1">',
+            "https://jobs.lever.co/Clozd/abc https://job-boards.greenhouse.io/embed/x")
+        self.assertEqual(found, [("ashby", "mistral.ai"), ("ashby", "axiommath"),
+                                 ("greenhouse", "stepstone"), ("lever", "Clozd")])
+
+    def test_investor_name_comes_from_the_rows_own_label(self):
+        self.assertEqual(discover.investor_name(
+            {"source_id": "khosla-portfolio-interns",
+             "program_names": "Khosla Ventures portfolio internships (early-stage US)"}),
+            "Khosla Ventures")
+        self.assertEqual(discover.investor_name(
+            {"source_id": "gv-portfolio-interns", "program_names": ""}), "gv")
+
+    def test_the_wide_url_drops_only_the_internship_facet(self):
+        import base64, urllib.parse
+        wide = discover.wide_getro_url(self.GETRO)
+        raw = urllib.parse.parse_qs(urllib.parse.urlsplit(wide).query)["filter"][0]
+        facets = json.loads(base64.b64decode(raw + "=" * (-len(raw) % 4)))
+        self.assertEqual(facets, {"organization.stage": ["seed"],
+                                  "searchable_locations": ["United States"]})
+        self.assertIsNone(discover.wide_getro_url(
+            "https://jobs.lsvp.com/jobs?internshipOnly=true"), "a Consider board has no facet")
+
+    def test_backers_accumulate_and_are_never_removed(self):
+        rows = [{"board": "ashby:axiommath", "company": "Axiom Math",
+                 "backers": "Menlo Ventures", "first_seen": "2026-11-13",
+                 "last_seen": "2026-11-13"}]
+        merged = discover.merge_backers(rows, {
+            "ashby:axiommath": {"company": "", "investors": {"a16z"}},
+            "ashby:cartesia": {"company": "Cartesia", "investors": {"General Catalyst"}},
+        }, "2026-11-20")
+        self.assertEqual([r["board"] for r in merged], ["ashby:axiommath", "ashby:cartesia"])
+        self.assertEqual(merged[0]["backers"], "Menlo Ventures; a16z")
+        self.assertEqual(merged[0]["first_seen"], "2026-11-13")
+        self.assertEqual(merged[0]["last_seen"], "2026-11-20")
+        self.assertEqual(merged[1]["company"], "Cartesia")
+
+
 class Phase2DiscoveryTests(_IsolatedState, unittest.TestCase):
     def test_14_9o_discovery_never_writes_sources_csv(self):
         """Discovery proposes and never adds. Watched against a seeded copy rather

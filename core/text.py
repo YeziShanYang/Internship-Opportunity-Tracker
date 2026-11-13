@@ -111,3 +111,45 @@ def posting_identities(*texts: str) -> frozenset[str]:
             if segments and _NUMERIC_ID.match(segments[-1]):
                 found.add(f"{host}:{segments[-1]}")
     return frozenset(found)
+
+
+# The public ATS boards a link can name, as (vendor, pattern capturing the board slug).
+# Shared by discovery, which mines slugs out of pages, and by the process stage, which
+# reads the board behind a posting's own link to say which investor backs it. An Ashby
+# slug may contain a dot ("mistral.ai"), but only between word characters, so a sentence
+# ending in a board link does not capture its full stop.
+ATS_BOARD_PATTERNS = (
+    ("greenhouse", re.compile(
+        r"(?:job-boards|boards)(?:\.eu)?\.greenhouse\.io/(?:embed/job_board\?for=)?([A-Za-z0-9_-]+)"
+    )),
+    ("greenhouse", re.compile(r"greenhouse\.io/embed/job_(?:board|app)[^\"'\s]*?[?&]for=([A-Za-z0-9_-]+)")),
+    ("greenhouse", re.compile(r"grnhse_app[^\"'\s]*?[?&]for=([A-Za-z0-9_-]+)")),
+    # The API host, which a site calling Greenhouse from its own JavaScript embeds
+    # directly. Graham's slug appears nowhere else on its careers page, and
+    # "boards-api" is not "boards", so the link patterns above miss it.
+    ("greenhouse", re.compile(
+        r"boards-api(?:\.eu)?\.greenhouse\.io/v\d+/boards/([A-Za-z0-9_-]+)"
+    )),
+    ("lever", re.compile(r"jobs\.(?:eu\.)?lever\.co/([A-Za-z0-9_-]+)")),
+    ("ashby", re.compile(r"jobs\.ashbyhq\.com/([A-Za-z0-9_-]+(?:\.[A-Za-z0-9_-]+)*)")),
+)
+
+# Path segments those patterns can capture that are never a board: `embed`, `job_board`
+# and friends sit in the path of the very URLs matched.
+NOT_A_BOARD_SLUG = frozenset({
+    "embed", "job_board", "job_boards", "jobs", "js", "board", "boards", "api", "v1",
+    "for", "www", "assets", "static", "images", "css", "error", "404",
+})
+
+
+def ats_boards(*texts: str) -> list[tuple[str, str]]:
+    """Every (vendor, slug) board named by a link in the texts, first-seen order, slug as
+    written. Callers key on `f"{vendor}:{slug.lower()}"`."""
+    seen: dict[str, tuple[str, str]] = {}
+    for text in texts:
+        for vendor, pattern in ATS_BOARD_PATTERNS:
+            for slug in pattern.findall(text or ""):
+                if slug.lower() in NOT_A_BOARD_SLUG:
+                    continue
+                seen.setdefault(f"{vendor}:{slug.lower()}", (vendor, slug))
+    return list(seen.values())

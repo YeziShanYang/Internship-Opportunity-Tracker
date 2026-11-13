@@ -35,8 +35,11 @@ issue. It rides along in Monday's digest as an extra section.
 """
 from __future__ import annotations
 
+import base64
+import binascii
 import datetime
 import html as html_module
+import json
 import re
 import time
 import urllib.parse
@@ -46,8 +49,9 @@ import httpx
 
 import classify
 from core import clock, paths, profile
+from core import text as coretext
 from persist import store
-from gather import ats, github_readme
+from gather import ats, browser, github_readme
 from process import parse_ats, parse_readme
 
 GITHUB_SEARCH = "https://api.github.com/search/repositories"
@@ -80,25 +84,9 @@ BUDGET_SECONDS = 180.0
 # The `?for=` and `embed/job_board` shapes matter as much as the plain link: Verition's
 # and Eclipse's slugs appear nowhere on their careers pages except inside a Greenhouse
 # embed script, which is exactly the "click a couple more buttons" case.
-_FINGERPRINTS = (
-    (ats.GREENHOUSE, re.compile(
-        r"(?:job-boards|boards)(?:\.eu)?\.greenhouse\.io/(?:embed/job_board\?for=)?([A-Za-z0-9_-]+)"
-    )),
-    (ats.GREENHOUSE, re.compile(r"greenhouse\.io/embed/job_board[^\"'\s]*?[?&]for=([A-Za-z0-9_-]+)")),
-    (ats.GREENHOUSE, re.compile(r"grnhse_app[^\"'\s]*?[?&]for=([A-Za-z0-9_-]+)")),
-    # The API host, which a site calling Greenhouse from its own JavaScript embeds
-    # directly. Graham's slug appears nowhere else on its careers page, and
-    # "boards-api" is not "boards", so the link patterns above miss it.
-    (ats.GREENHOUSE, re.compile(
-        r"boards-api(?:\.eu)?\.greenhouse\.io/v\d+/boards/([A-Za-z0-9_-]+)"
-    )),
-    (ats.LEVER, re.compile(r"jobs\.(?:eu\.)?lever\.co/([A-Za-z0-9_-]+)")),
-    (ats.ASHBY, re.compile(r"jobs\.ashbyhq\.com/([A-Za-z0-9_-]+)")),
-)
+# Moved to core.text so the process stage can read the board behind a posting link too.
+_FINGERPRINTS = coretext.ATS_BOARD_PATTERNS
 
-# Slugs that are never a board. `embed`, `job_board` and friends appear in the path of
-# the very URLs the patterns above match, so without this the probe proposes a board
-# called "embed" on every Greenhouse-embedding page in the watchlist.
 # Links worth following one hop from a watched careers page. The bug, as found by hand,
 # was that the real board sat a couple of clicks below the watched page, and measured:
 # probing only the watched page rediscovered 8 of the 11 boards the hand audit found.
@@ -114,10 +102,9 @@ _JOB_LINK = re.compile(
 # that links to forty things must not turn into forty fetches.
 MAX_HOPS_PER_PAGE = 3
 
-_NOT_A_SLUG = frozenset({
-    "embed", "job_board", "job_boards", "jobs", "js", "board", "boards", "api", "v1",
-    "for", "www", "assets", "static", "images", "css", "error", "404",
-})
+# Slugs that are never a board (`embed`, `job_board`, ...); without this the probe
+# proposes a board called "embed" on every Greenhouse-embedding page in the watchlist.
+_NOT_A_SLUG = coretext.NOT_A_BOARD_SLUG
 
 # Vendors we can recognise but cannot yet watch, because their slug is a whole tenant
 # URL rather than a name, or because no method reads them. Finding one is still worth
@@ -516,10 +503,164 @@ def mine_pages(
     return list(found.values()), notes
 
 
-def verify(candidates: list[Candidate], client: httpx.Client, deadline: float) -> list[Candidate]:
-    """Drop mined slugs that do not actually answer, so no dead proposal is made."""
+# The watched VC portfolio boards share this suffix in sources.csv. A board is on one of
+# them because the firm invested, which makes these the vetted route to startups: the
+# harvest below reads the employer ATS board behind each posting and records the
+# investor, so a startup can be watched in full rather than through the newest twenty.
+VC_BOARD_SUFFIX = "-portfolio-interns"
+# Its own budget rather than a share of BUDGET_SECONDS, which the page probe can use up
+# on its own; six of the boards render in the headless browser.
+VC_BUDGET_SECONDS = 150.0
+# One API request each. The first harvest found 82 unwatched boards; at the generic
+# probe's 20 a week that backlog would take a month to clear.
+MAX_VC_VERIFICATIONS = 60
+_NEXT_DATA = re.compile(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', re.S)
+
+
+def is_vc_board(source: dict[str, str]) -> bool:
+    return ((source.get("source_id") or "").endswith(VC_BOARD_SUFFIX)
+            and (source.get("method") or "").strip() == "page_text")
+
+
+def investor_name(source: dict[str, str]) -> str:
+    """'Khosla Ventures portfolio internships (early-stage US)' -> 'Khosla Ventures'."""
+    name = (source.get("program_names") or "").split(" portfolio")[0].strip()
+    return name or (source.get("source_id") or "").removesuffix(VC_BOARD_SUFFIX)
+
+
+def wide_getro_url(url: str) -> str | None:
+    """The same Getro filter without its internship facet: early-stage US postings of
+    every kind. None when the url carries no Getro filter with that facet.
+
+    A startup is worth watching before it posts an internship -- startups post a few
+    roles at a time and off the campus calendar -- and its other postings are how the
+    harvest finds its board in the first place.
+    """
+    parts = urllib.parse.urlsplit(url)
+    raw = (urllib.parse.parse_qs(parts.query).get("filter") or [""])[0]
+    if not raw:
+        return None
+    try:
+        facets = json.loads(base64.b64decode(raw + "=" * (-len(raw) % 4)))
+    except (ValueError, binascii.Error):
+        return None
+    if not isinstance(facets, dict) or "seniority" not in facets:
+        return None
+    facets.pop("seniority")
+    encoded = base64.b64encode(
+        json.dumps(facets, separators=(",", ":")).encode()).decode().rstrip("=")
+    return urllib.parse.urlunsplit(parts._replace(query=urllib.parse.urlencode({"filter": encoded})))
+
+
+def _getro_companies(page: str) -> dict[str, str]:
+    """Board key -> company name, from a Getro page's embedded job list. Empty for any
+    page that is not Getro, which is fine: the name is a courtesy, the link is the fact."""
+    match = _NEXT_DATA.search(page)
+    if not match:
+        return {}
+    try:
+        found = json.loads(match.group(1))["props"]["pageProps"]["initialState"]["jobs"]["found"]
+    except (ValueError, KeyError, TypeError):
+        return {}
+    names: dict[str, str] = {}
+    for job in found or []:
+        company = ((job.get("organization") or {}).get("name") or "").strip()
+        for vendor, slug in coretext.ats_boards(job.get("url") or ""):
+            names.setdefault(f"{vendor}:{slug.lower()}", company)
+    return names
+
+
+def _read_board(source: dict[str, str], url: str, client: httpx.Client) -> str:
+    """The board page's HTML, rendered when the row says it must be. "" on any failure:
+    a board the harvest could not read this week is simply not harvested this week."""
+    try:
+        if (source.get("render_js") or "").strip().lower() == "true":
+            page, _final, status, error = browser.render_page(url)
+            return page if not error and status < 400 else ""
+        response = client.get(url, timeout=30)
+        return response.text if response.status_code == 200 else ""
+    except Exception:
+        return ""
+
+
+def mine_vc_boards(
+    sources: list[dict[str, str]], client: httpx.Client, known: set[str]
+) -> tuple[list[Candidate], dict[str, dict], list[str]]:
+    """(unwatched boards as candidates, every board seen with its investors, notes).
+
+    Every board seen is returned, watched or not, because "which investors back this
+    board" is worth recording for boards already watched too: it is what puts "Backed
+    by" on their postings. Only the unwatched ones become candidates, and they still go
+    through `verify` and the priority triage like any other proposal.
+    """
+    deadline = time.monotonic() + VC_BUDGET_SECONDS
+    boards: dict[str, dict] = {}
+    notes: list[str] = []
+    read = 0
+    for source in sources:
+        if not is_vc_board(source):
+            continue
+        if time.monotonic() > deadline:
+            notes.append("discovery: the VC board harvest ran out of time before reading "
+                         "every portfolio board; the rest are read next week.")
+            break
+        investor = investor_name(source)
+        targets = [source["url"]] + [u for u in [wide_getro_url(source["url"])] if u]
+        for target in targets:
+            page = _read_board(source, target, client)
+            if not page:
+                continue
+            read += 1
+            names = _getro_companies(page)
+            for vendor, slug in coretext.ats_boards(page):
+                key = f"{vendor}:{slug.lower()}"
+                entry = boards.setdefault(
+                    key, {"vendor": vendor, "slug": slug, "company": "", "investors": set()})
+                entry["investors"].add(investor)
+                entry["company"] = entry["company"] or names.get(key, "")
+            time.sleep(paths.REQUEST_DELAY_SECONDS)
+
+    candidates = []
+    for key, entry in boards.items():
+        if key in known:
+            continue
+        backed = "; ".join(sorted(entry["investors"]))
+        company = f" ({entry['company']})" if entry["company"] else ""
+        candidates.append(Candidate(
+            kind=entry["vendor"], key=key, title=entry["slug"],
+            url=ats.ENDPOINTS[entry["vendor"]].format(slug=entry["slug"]),
+            evidence=f"linked from the {backed} portfolio board{company}; backed by: {backed}",
+        ))
+    unwatched = len(candidates)
+    notes.append(f"discovery: read {read} VC portfolio board page(s); {len(boards)} startup "
+                 f"board(s) seen, {len(boards) - unwatched} already watched.")
+    return candidates, boards, notes
+
+
+def merge_backers(
+    rows: list[dict[str, str]], boards: dict[str, dict], today: str
+) -> list[dict[str, str]]:
+    """data/backers.csv with this week's sightings folded in. An investor is never
+    removed: a company that dropped off a board's newest twenty is still backed."""
+    by_key = {row["board"]: dict(row) for row in rows}
+    for key, entry in boards.items():
+        row = by_key.get(key) or {"board": key, "company": "", "backers": "",
+                                  "first_seen": today, "last_seen": today}
+        investors = {b.strip() for b in row["backers"].split(";") if b.strip()}
+        row["backers"] = "; ".join(sorted(investors | entry["investors"]))
+        row["company"] = row["company"] or entry["company"]
+        row["last_seen"] = today
+        by_key[key] = row
+    return [by_key[key] for key in sorted(by_key)]
+
+
+def verify(
+    candidates: list[Candidate], client: httpx.Client, deadline: float,
+    budget: int = MAX_SLUG_VERIFICATIONS,
+) -> list[Candidate]:
+    """Drop mined slugs that do not actually answer, so no dead proposal is made.
+    Whatever the budget does not reach is not recorded, so it is tried next week."""
     checked: list[Candidate] = []
-    budget = MAX_SLUG_VERIFICATIONS
     for candidate in candidates:
         if candidate.kind == "repo":
             checked.append(candidate)
@@ -553,14 +694,27 @@ def verify(candidates: list[Candidate], client: httpx.Client, deadline: float) -
 
 def run(
     github: httpx.Client, web: httpx.Client, sources: list[dict[str, str]]
-) -> tuple[list[Candidate], list[str]]:
-    """Never raises. Returns (candidates, notes-for-the-health-block)."""
-    deadline = time.monotonic() + BUDGET_SECONDS
+) -> tuple[list[Candidate], list[str], dict[str, dict]]:
+    """Never raises. Returns (candidates, notes-for-the-health-block, boards seen on the
+    VC portfolio boards with their investors, for `merge_backers`)."""
     notes: list[str] = []
     known = _known(sources)
     seen = {row["key"] for row in store.read_discovered()}
 
     candidates: list[Candidate] = []
+    boards: dict[str, dict] = {}
+    # First, and on budgets of its own, because it is the vetted route to startups and
+    # the generic probes below can spend the whole shared budget between them.
+    try:
+        mined, boards, vc_notes = mine_vc_boards(sources, web, known)
+        notes += vc_notes
+        fresh_vc = [c for c in mined if c.key not in seen]
+        candidates += verify(fresh_vc, web, time.monotonic() + VC_BUDGET_SECONDS,
+                             budget=MAX_VC_VERIFICATIONS)
+    except Exception as exc:
+        notes.append(f"discovery: the VC board harvest failed ({type(exc).__name__}).")
+
+    deadline = time.monotonic() + BUDGET_SECONDS
     try:
         candidates += search_repos(github, known, deadline)
     except Exception as exc:
@@ -579,7 +733,7 @@ def run(
     # A key already on file is never re-proposed, whatever its status. `rejected` is a
     # permanent tombstone; without this the same candidates arrive every Monday.
     fresh = [c for c in candidates if c.key not in seen]
-    return fresh, notes
+    return fresh, notes, boards
 
 
 DISCARDED = "discarded-low-priority"

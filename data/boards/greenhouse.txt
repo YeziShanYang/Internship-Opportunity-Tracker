@@ -5,6 +5,7 @@
 # Common Crawl-derived list of Greenhouse, Ashby and Lever boards. One slug per line.
 # 2026-11-13: hubspotstudents (404) replaced by hubspotjobs, HubSpot's main board.
 # 2026-11-13: added aidashinc, c3ascend, figureai, iex-interns, profluent, quantiq, roboforce, solutions (Cadence Solutions), stepstone from the discovery proposals, each with a US in-field student role that day.
+# 2026-11-13: added lilasciences, skildai-careers: VC-backed startups found through the portfolio boards, each with a US in-field student role that day.
 advancedspace
 aechelontechnology
 aidashinc
@@ -99,6 +100,7 @@ k2spacecorporation
 katalyst
 klaviyocampus
 kodiak
+lilasciences
 lyft
 machindustries
 meshopticaltechnologies
@@ -146,6 +148,7 @@ sharkninjaoperatingllc
 shifttechnology
 singlestore
 skhynixmemorysolutionsamericainc
+skildai-careers
 solutions
 spacex
 springboard

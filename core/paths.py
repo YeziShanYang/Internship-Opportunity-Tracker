@@ -61,6 +61,13 @@ BOARD_LISTS = DATA / "boards"
 # One row per weekly coverage measurement (process.coverage): how many postings in the
 # target fields the tracker sees against Simplify's whole list. Committed, because the
 # trend is the claim worth making and a single week is an anecdote.
+# Which investors back which ATS board, as seen on the watched VC portfolio boards by
+# the weekly discovery pass. Read by the process stage to put "Backed by" on a posting
+# whose own link names one of these boards: evidence that a startup is real rather than
+# a claim about it. One row per board, keyed "vendor:slug" lowercased.
+BACKERS_CSV = DATA / "backers.csv"
+BACKER_COLUMNS = ["board", "company", "backers", "first_seen", "last_seen"]
+
 COVERAGE_CSV = DATA / "coverage.csv"
 COVERAGE_COLUMNS = [
     "date", "scope", "tracker", "simplify", "tracker_only", "employer_only", "lead_pct",
