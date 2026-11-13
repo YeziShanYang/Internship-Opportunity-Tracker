@@ -1,89 +1,20 @@
 LA Hacks | UCLA&#x27;s Student Hackathon
 Skip to main content
-About Impact Judges &amp; Mentors Become an Organizer Sponsor Us AI Hackathon
-HOME about tracks projects faq sponsors team
-ABOUT US OUR IMPACT JUDGES &amp; MENTORS BECOME AN ORGANIZER SPONSOR US AI HACKATHON (SEPARATE EVENT)
+About FAQ Judges &amp; Mentors Sponsor ✦ ✦ ✦ ✦ ✦
+Home About FAQ Judges &amp; Mentors Sponsor ✦ ✦ ✦ ✦ ✦
 LA HACKS
-Pauley Pavilion
-Mid-April 2027
+Mid-April 2027 Pauley Pavilion
 Email for LA Hacks 2027 updates
-Sponsor Us Judges &amp; Mentors
-LA HACKS
-Pauley Pavilion
-Mid-April 2027
+Scroll to explore LA HACKS
+Mid-April 2027 Pauley Pavilion
 Email for LA Hacks 2027 updates
-Sponsor Us Judges &amp; Mentors
-501(c)(3) Educational Non-Profit EIN 81-4540041
-LA Hacks
-LA Hacks is a 501(c)(3) educational nonprofit that organizes a free, student-focused technology hackathon at UCLA. Our mission is to make hands-on technology education accessible—so students can learn, build, collaborate, and connect with industry professionals.
-Our flagship program is the annual 36-hour hackathon at Pauley Pavilion (next: Mid-April 2027), where 1,000+ students build projects with workshops, mentorship, and industry support. We are funded by sponsorships—not donations—and run by student volunteers.
-What we do
-Our hackathon
-Students spend 36 hours developing technology projects while learning new skills, collaborating with teammates, and receiving guidance from mentors and industry professionals—at every experience level.
-Workshops
-Technical and educational sessions during the hackathon cover software, AI, design, hardware, and more. We also occasionally host workshops and educational events outside the annual weekend.
-Mentorship &amp; industry
-Mentors help with ideas, debugging, and learning. Companies and professionals join through mentorship, workshops, talks, and judging—connecting classroom skills to real-world practice.
-$60,000
-in Prizes
-1000+
-Participants
-200
-Projects
-Learn About LA Hacks Our Impact
-$60,000
-in Prizes
-1000+
-Participants
-200
-Projects
-Tracks
-Sustain the Spark
-Sustain the Spark
-Our planet&#x27;s future hangs in the balance, and one bold idea can tip the scales. This track welcomes grassroots innovation and is your space to cultivate projects combating climate change, reducing waste, or accelerating the transition to clean energy. Your project can help the world sustain its spark for years to come.
-Catalyst for Care
-Catalyst for Care
-The pulse of progress beats strongest where it matters the most: human health. This track challenges you to develop solutions that revolutionize the patient-provider experience. From optimizing hospital logistics and streamlining diagnostics to building tools that enhance wellness, your creation will be the catalyst for a healthier world.
-Light the Way
-Light the Way
-A single idea can unlock a universe of knowledge. This track invites you to transform the future of education by making learning accessible to all. You can create projects with accessibility features or interactive learning platforms. How will your spark light up the classrooms of tomorrow?
-Flicker to Flow
-Flicker to Flow
-With all the chaos of the world, how can we turn the flickers into a flowstate? Use this track to focus on enhancing how we work, play, and connect. Whether you automate mundane chores, organize a chaotic schedule, or create a platform that promotes better work-life balance, show us how you can transform friction into function.
-Agentverse - Search &amp; Discovery of Agents
-Agentverse - Search &amp; Discovery of Agents
-Build and Register AI Agents on Agentverse, discoverable via ASI:One, that turn user intent into real, executable outcomes.
-Past Projects
-Proud Puangmaha
-LA Hacks 2025 3rd place winner
-&quot;LA Hacks was the perfect launchpad for OpenSesame.Work, our AI agent co-pilot for job applications. In just 36 hours, we went from a vague idea to a working product with real users testing it live, thanks to mentors who pushed our thinking on both tech and UX. It was the first time we saw how quickly a hackathon can turn a scrappy concept into something people actually want to use.&quot;
-&quot;LA Hacks was the perfect launchpad for OpenSesame.Work, our AI agent co-pilot for job applications. In just 36 hours, we went from a vague idea to a working product with real users testing it live, thanks to mentors who pushed our thinking on both tech and UX. It was the first time we saw how quickly a hackathon can turn a scrappy concept into something people actually want to use.&quot;
-OpenSesame.Work
-Rahut and Proud , LA Hacks 2025
-Say &quot;Open Sesame&quot; to Your Next Job Opportunity!
-View on Devpost
-Puneet Bajaj
-LA Hacks 2025 2nd place winner
-&quot;LAHacks wasn’t just a hackathon — it was a launchpad. From incredible mentors to on-stage pitching in front of 300+ people, everything was thoughtfully organised and inspiring. It was truly an unforgettable weekend.&quot;
-&quot;LAHacks wasn’t just a hackathon — it was a launchpad. From incredible mentors to on-stage pitching in front of 300+ people, everything was thoughtfully organised and inspiring. It was truly an unforgettable weekend.&quot;
-Lumos
-Chayan, Puneet, Kalpesh and Rutuja , LA Hacks 2025
-An AI-powered glasses help Alzheimer&#x27;s patients recognize loved ones, remember routines, and stay safe - giving families more moments of connection and dignity amid the darkness of memory loss.
-View on Devpost
-Daniel Odicho
-LA Hacks 2025 1st place winner
-&quot;To think is to ideate, to do is to build, to speak is to pitch. Hackathons encapsulate the beauty of life.&quot;
-&quot;To think is to ideate, to do is to build, to speak is to pitch. Hackathons encapsulate the beauty of life.&quot;
-Alto
-Neel and Daniel , LA Hacks 2025
-Find, Fix, and Deploy Mobile Bug Fixes - Autonomously, in Minutes.
-View on Devpost
-Explore our history
-Devpost Archive
-2023
-2024
-2025
-Gallery
+This is LA Hacks.
+A free, student-run hackathon at UCLA where 1,000+ builders turn ideas into real projects in just 36 hours. Find your team, learn through workshops, and build alongside mentors and industry experts—whatever your experience level.
+Now entering its 15th year, LA Hacks has grown into one of Southern California&#x27;s largest collegiate hackathons, bringing students together to create what comes next.
+Learn More Our Impact
+in prizes $60,000
+participants 1,000+
+projects 200
 Opening ceremony getting underway!
 Hackers upping their knowledge at workshops
 Judges repping some LA Hacks following their briefing
@@ -93,14 +24,6 @@ Some yummy meals!
 Hackers hard at work in Pauley Pavilion
 Lettuce Eating Contest 🥬
 Happy hackers with their food!
-Spotlight
-Evan Spiegel
-Evan Spiegel is the Co-Founder and CEO of Snap. He gave a keynote speech at LA Hacks 2014 and also spoke at LA Hacks 2025 for a fireside chat about building a global consumer tech platform and leading Snap&#x27;s growth, product vision, and user-centered innovation.
-Frequently Asked Questions
-General Registration Team Formation Travel Reimbursement Logistics
-What is LA Hacks? LA Hacks is UCLA’s premier annual hackathon - uniting talented students from across the nation for an exciting, 36-hour experience of innovation and collaboration. Participants have a unique opportunity to create groundbreaking projects, connect with like-minded peers, and engage with industry professionals in an unparalleled environment. For more details on what the hackathon is like, check out @lahacks on Instagram!
-Who can participate in LA Hacks? LA Hacks is open to college students of all skill levels, from first-time hackers to experienced coders. If you are passionate about technology, creativity, and problem-solving, LA Hacks is the perfect place for you! While LA Hacks is primarily designed for college students, motivated high school students are also welcome to apply.
-Where and when does LA Hacks take place? LA Hacks will be hosted at UCLA&#x27;s Pauley Pavilion, the university’s premier basketball and volleyball arena, in Mid-April 2027.
 Past Sponsors
 Fetch.ai
 ROBLOX
@@ -120,15 +43,15 @@ Gavin Sonntag
 Executive Director
 Kelley Zhang
 HackOps Director
-Elaine Guan
-HackOps
 Himani Jha
+HackOps Director
+Elaine Guan
 HackOps
 Mehul Paparaju
 HackOps
 Spandan Patel
 HackOps
-Vishal Dandamudi
+Andrew Meng
 Finance Director
 Rohan Deshpande
 Finance
@@ -160,14 +83,60 @@ Tawny Huang
 Marketing Director
 Jay Thapar
 Tech Director
-Andrew Meng
-Tech
 Tom Tang
 Tech
 Sarah Zhao
 Tech
-LA Hacks
-501(c)(3) Educational Nonprofit · EIN 81-4540041
-UCLA Pauley Pavilion · [email&#160;protected]
-About Impact Hackathon Mentors &amp; Judges Sponsor Volunteer / Organizer Contact Privacy Policy MLH Code of Conduct
-Made with ❤️ and 🌟 from LA Hacks
+Anne Do
+Executive Director
+Gavin Sonntag
+Executive Director
+Kelley Zhang
+HackOps Director
+Himani Jha
+HackOps Director
+Elaine Guan
+HackOps
+Mehul Paparaju
+HackOps
+Spandan Patel
+HackOps
+Andrew Meng
+Finance Director
+Rohan Deshpande
+Finance
+Ritvik Irigireddy
+Sponsorships Director
+David Doberstein
+Sponsorships Director
+Samuel Ma
+Sponsorships
+Manda Cai
+Sponsorships
+Henry McNamara
+Sponsorships
+Ashutosh Sundresh
+Sponsorships
+Sophia Voudouris
+Sponsorships
+Christine Han
+Sponsorships
+Gina Namkung
+Design Director
+Maggie Ju
+Design
+Matthew Chen
+Design
+Haley Lee
+Design
+Tawny Huang
+Marketing Director
+Jay Thapar
+Tech Director
+Tom Tang
+Tech
+Sarah Zhao
+Tech
+501(c)(3) Educational Nonprofit (EIN 81-4540041)
+UCLA Pauley Pavilion
+Privacy Policy MLH Code of Conduct
