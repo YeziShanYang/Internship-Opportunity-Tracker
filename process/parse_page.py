@@ -162,6 +162,40 @@ def _same_feed(previous: str, text: str) -> bool:
         return old.keys() == new.keys()
     return isinstance(old, list) and isinstance(new, list)
 
+
+# A complete syndication document: the root element opens at the start of the body and
+# closes at its end, so a truncated response does not qualify.
+_ATOM_FEED = re.compile(
+    r'\A\s*(?:<\?xml[^>]*\?>\s*)?<feed\b[^>]*\bxmlns="http://www\.w3\.org/2005/Atom"'
+    r'.*</feed>\s*\Z', re.S)
+_RSS_FEED = re.compile(r"\A\s*(?:<\?xml[^>]*\?>\s*)?<rss\b.*</rss>\s*\Z", re.S)
+
+
+def is_syndication_feed(raw: str) -> bool:
+    """True when the body is a whole Atom, RSS or JSON Feed document.
+
+    The content floors and the shrink guard all ask "is this a page that lost its body?"
+    -- a JavaScript shell, a block page, a partial render. A feed cannot be any of those:
+    a WAF does not answer with an Atom document carrying the board's own feed id, and a
+    feed is not rendered client-side. So for a feed the only meaningful size is its entry
+    count, and zero entries is an empty board, the same fact `parse_ats` reports when a
+    Greenhouse board's `jobs` list is empty. Without this, the tal.net and Teamtailor feeds
+    failed the 500-character floor every morning their board sat empty (pwp-events,
+    moelis-campus, lynx-teamtailor, from late October 2026), which is a quiet board
+    reported as a blind one.
+    """
+    if _ATOM_FEED.match(raw) or _RSS_FEED.match(raw):
+        return True
+    try:
+        doc = json.loads(raw)
+    except ValueError:
+        return False
+    return (
+        isinstance(doc, dict)
+        and str(doc.get("version", "")).startswith("https://jsonfeed.org/version/")
+        and isinstance(doc.get("items"), list)
+    )
+
 # A listing page's own statement that it has nothing listed, as a whole line. Anchored at
 # both ends so prose that merely contains the words ("there are no events like it") is
 # not read as an empty state.
@@ -442,8 +476,9 @@ def assess(
     lines = normalise(fetched.html)
     text = "\n".join(lines)
     ratio = len(text) / max(attempt.size, 1)
+    feed = is_syndication_feed(fetched.html)
 
-    if len(text) < MIN_ABSOLUTE_CHARS:
+    if len(text) < MIN_ABSOLUTE_CHARS and not feed:
         return models.SourceResult(
             source_id=source_id,
             ok=False,
@@ -457,7 +492,7 @@ def assess(
     # construction not one -- Wix's rendered DOM is still 0.001 text. The absolute floor
     # above still applies, so a render that produced nothing still fails.
     rendered = (source.get("render_js") or "").strip().lower() == "true"
-    if ratio < MIN_TEXT_HTML_RATIO and not rendered:
+    if ratio < MIN_TEXT_HTML_RATIO and not rendered and not feed:
         return models.SourceResult(
             source_id=source_id,
             ok=False,
@@ -471,6 +506,7 @@ def assess(
     if (
         previous is not None
         and len(text) < SHRINK_RATIO * len(previous)
+        and not feed
         and not _same_feed(previous, text)
         and not _states_empty_listing(previous, lines)
     ):

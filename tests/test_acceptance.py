@@ -1548,6 +1548,38 @@ class Phase2PageWatchTests(_IsolatedState, unittest.TestCase):
         )
         self.assertFalse(blocked.ok)
 
+    def test_14_9m2a_an_empty_feed_is_an_empty_board_not_a_blind_one(self):
+        """pwp-events, moelis-campus and lynx-teamtailor failed the 500-character floor
+        for weeks from late October 2026 because their boards had nothing listed."""
+        atom = (
+            '<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<feed xmlns="http://www.w3.org/2005/Atom">\n'
+            '  <id>https://x.tal.net/vx/mobile-0/candidate/jobboard/vacancy/1/feed</id>\n'
+            '  <title>Events</title><author><name>Firm</name></author>\n'
+            '  <updated>2026-11-13T18:18:16Z</updated>\n'
+            '</feed>\n'
+        )
+        jsonfeed = ('{"version":"https://jsonfeed.org/version/1.1","title":"Firm",'
+                    '"feed_url":"https://careers.example.com/jobs.json","items":[]}')
+        for sid, body in (("atom", atom), ("jsonfeed", jsonfeed)):
+            r = _check_page(self._src(source_id=sid), FakeHTMLClient(body))
+            self.assertTrue(r.ok, f"{sid}: {r.error}")
+
+        # Emptying out from a full feed is postings closing, not a shrink.
+        entry = ("<entry><id>https://x.tal.net/opp/%d</id><title>Summer Analyst %d</title>"
+                 "<summary>" + "y" * 400 + "</summary></entry>")
+        full = atom.replace("</feed>", "".join(entry % (i, i) for i in range(4)) + "</feed>")
+        base = _check_page(self._src(source_id="drain"), FakeHTMLClient(full))
+        store.write_snapshot("drain", base.snapshot_text, ext="txt")
+        self.assertTrue(_check_page(self._src(source_id="drain"), FakeHTMLClient(atom)).ok)
+
+        # A truncated feed is not a whole document, so it still fails the floor.
+        cut = atom.replace("</feed>\n", "")
+        self.assertFalse(_check_page(self._src(source_id="cut"), FakeHTMLClient(cut)).ok)
+        # Nor is a short block page that happens to mention a feed.
+        self.assertFalse(_check_page(self._src(source_id="blk"), FakeHTMLClient(
+            "<html><body><p>Access denied. Feed unavailable.</p></body></html>")).ok)
+
     def test_14_9m2b_a_listing_that_says_it_is_empty_is_not_a_failure(self):
         """IAQF's upcoming-events page, 2026-10-07: the one seminar passed, the page
         shrank from 3,878 to 1,380 characters and now reads "No events available"."""
