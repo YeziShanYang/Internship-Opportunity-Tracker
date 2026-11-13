@@ -175,8 +175,12 @@ sparing. Three sources the owner adds are worth more than eighteen skimmed past.
 
 "priority": answer "high" only if at least one of these is true.
 
+  - AN ML/AI STARTUP WITH A NAMED BACKER. A startup or small company whose product or
+    research is machine learning or AI, and which the input says is backed by a named
+    investor ("backed by: ..."). ML/AI is this person's first field and a vetted startup
+    their first choice of employer, so the goal is every posting it has.
   - QUANTITATIVE FINANCE. A proprietary trading firm, market maker, hedge fund or quant
-    research shop. This is this person's first field, and the one where the goal is every
+    research shop. This is this person's second field, and one where the goal is every
     posting a firm has rather than whichever ones an aggregator happened to list.
   - A LARGE AGGREGATOR. A repository with thousands of stars tracking maths, CS or quant
     internships. A small one only duplicates the five already watched.
@@ -189,8 +193,8 @@ Answer "low" for everything else. In particular:
   - ALREADY COVERED. The input says "already watched: <source>" when the board was mined
     out of an aggregator this tracker reads every morning, which means its postings
     already reach the owner in the digest. On its own that is enough for "low" -- overridden
-    only by quantitative finance, where whole-board coverage is the point rather than
-    whichever postings an aggregator happened to carry.
+    only by quantitative finance and by a backed ML/AI startup, where whole-board coverage
+    is the point rather than whichever postings an aggregator happened to carry.
   - A generic software employer that runs an internship. Real, but one of thousands, and
     the aggregators list it already.
   - A business whose engineering is not software: aerospace, energy, hardware,

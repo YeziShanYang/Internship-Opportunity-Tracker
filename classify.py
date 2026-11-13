@@ -137,8 +137,9 @@ Rules, in priority order:
    such a gate, so this is the filter that does the most work.
    Absence of a gate is NOT a reason to rule out. "Currently enrolled in a Bachelor's
    degree program" includes a first-year: that is relevant: true.
-7. Rule out roles that are clearly outside this person's field. In scope: software
-   engineering, quantitative research, trading, mathematics, data/ML, and
+7. Rule out roles that are clearly outside this person's field. In scope: machine
+   learning and AI (ML engineering, applied ML, ML research, AI product engineering),
+   software engineering, quantitative research, trading, mathematics, data, and
    finance-adjacent work. Out of scope, as examples: public relations, human
    resources, marketing, recruiting, change management, IT document automation, and
    general business operations. Also out of scope: engineering that is not software --
@@ -152,9 +153,12 @@ Rules, in priority order:
    rule used to do the opposite, keeping famous firms and ruling out small ones.
 
    Keep:
+   * machine learning or AI work at a startup or a small or mid-size company -- ML
+     engineering, applied ML, research, AI products. This is this person's first field
+     and first choice of employer, and the bar is low.
    * anything quantitative -- trading, quant research, quant development, systematic
-     strategy, mathematics, statistics. This is this person's first field and the bar is low.
-   * software, data or ML at a startup or a small or mid-size company, whether or not
+     strategy, mathematics, statistics. This is this person's second field and the bar is low.
+   * software or data work at a startup or a small or mid-size company, whether or not
      you have heard of it. An unfamiliar name is a reason to keep, not to rule out.
    * any role or programme that says it is for first- or second-year students, or open
      to all undergraduate years, at an employer of any size.
