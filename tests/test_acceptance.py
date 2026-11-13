@@ -753,6 +753,40 @@ class NoiseRegressionTests(_IsolatedState, unittest.TestCase):
             "an OPEN -> CLOSING SOON transition is exactly what must be reported",
         )
 
+    def test_mehek_reads_its_field_headings_through_term_subheadings(self):
+        """Late October 2026: mehek-2027 put every table under a `###` term heading
+        inside its `##` field headings, and parsed 0 rows for three weeks."""
+        config = parse_readme.REPO_CONFIGS["mehek-2027"]
+        table = (
+            "| Company | Role | Location | Pay | Posted |\n"
+            "| --- | --- | --- | --- | --- |\n"
+            "| **Point72** | <a href=\"https://x/j/1\">Quant Research Intern</a> | NY |  | 7d |\n"
+        )
+        markdown = (
+            "# Internships\n## Quant and Trading\n### Summer 2027 stated in the role title\n"
+            + table + "### Other stated terms\n" + table.replace("/1", "/2")
+            + "## Product and Design\n### Summer 2027 stated in the role title\n" + table
+        )
+        parsed = parse_readme.extract(markdown, config)
+        self.assertEqual(parsed.sections, ["Quant and Trading"])
+        self.assertEqual(len(parsed.rows), 2)
+        # Every other repo still reads the nearest heading of any depth.
+        self.assertEqual(
+            [t.heading for t in parse_readme.parse_markdown_tables(markdown)][0],
+            "Summer 2027 stated in the role title")
+
+    def test_speedyapply_quant_table_may_drain_but_not_vanish(self):
+        """By November 2026 the SWE list's Quant table was empty and the AI list's
+        down to 8 rows; a row floor reported both as restructures."""
+        config = parse_readme.REPO_CONFIGS["speedyapply-swe-2027"]
+        empty = ("### Quant\n| Company | Position | Location | Salary | Posting | Age |\n"
+                 "|---|---|---|---|---|---|\n\n### Other\n")
+        self.assertEqual(parse_readme.extract(empty, config).sections, ["Quant"])
+        self.assertGreaterEqual(config.min_sections, 1)
+        self.assertEqual(
+            parse_readme.extract(empty.replace("### Quant", "### Trading"), config).sections,
+            [], "a renamed heading leaves no section, which the section floor reports")
+
 
 class RepoCollapseTests(_IsolatedState, unittest.TestCase):
     """A README that restructures must not read as 500 opportunities.

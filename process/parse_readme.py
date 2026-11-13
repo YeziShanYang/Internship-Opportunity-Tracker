@@ -64,6 +64,13 @@ class RepoConfig:
     volatile_markers: tuple[str, ...] = ()
     section_include: re.Pattern[str] | None = None
     section_exclude: re.Pattern[str] | None = None
+    # Which markdown heading depth names a section; deeper headings are ignored. 0 means
+    # the nearest heading of any depth. mehek-2027 moved every table under a `###`
+    # ("Summer 2027 stated in the role title") inside its `##` field headings in late
+    # October 2026, so `section_include` matched nothing and the source parsed 0 rows for
+    # three weeks. Per repo rather than global, because a row's section is part of its
+    # diff key, and changing it for every repo at once would report every row as moved.
+    section_level: int = 0
     # Spec section 10.1 plausibility floors. Pick whichever quantity is *stable* for
     # the repo: NUFT's row count legitimately drains to near zero out of season (58
     # firm tables, 39 of them empty right now), so flooring its rows would cry wolf
@@ -84,11 +91,17 @@ _SPEEDYAPPLY = dict(
     qualifier_columns=("Location",),
     ignore_columns=("Age",),
     section_include=re.compile(r"^quant\b", re.I),
+    # The Quant table drains through the autumn the way NUFT's firm tables do: the SWE
+    # list's was empty and the AI list's down to 8 rows by November 2026, and a row
+    # floor reported both as README restructures. The table's existence is the
+    # invariant -- a renamed or removed Quant heading still fails.
+    min_rows=0,
+    min_sections=1,
 )
 
 REPO_CONFIGS: dict[str, RepoConfig] = {
-    "speedyapply-ai-2027": RepoConfig(**_SPEEDYAPPLY, min_rows=15),
-    "speedyapply-swe-2027": RepoConfig(**_SPEEDYAPPLY, min_rows=5),
+    "speedyapply-ai-2027": RepoConfig(**_SPEEDYAPPLY),
+    "speedyapply-swe-2027": RepoConfig(**_SPEEDYAPPLY),
     "nuft-2027": RepoConfig(
         table_format="markdown",
         role_columns=("Role",),
@@ -171,6 +184,7 @@ REPO_CONFIGS: dict[str, RepoConfig] = {
         qualifier_columns=("Location",),
         ignore_columns=("Posted", "Pay"),
         section_include=re.compile(r"^(quant|software engineering|data science)", re.I),
+        section_level=2,
         min_rows=40,
     ),
     "vanshb03-2027": RepoConfig(
@@ -275,7 +289,7 @@ def stable_heading(text: str) -> str:
     return _HEADING_TALLY.sub("", clean_cell(text))
 
 
-def parse_markdown_tables(text: str) -> list[Table]:
+def parse_markdown_tables(text: str, section_level: int = 0) -> list[Table]:
     lines = text.splitlines()
     tables: list[Table] = []
     heading = ""
@@ -284,7 +298,8 @@ def parse_markdown_tables(text: str) -> list[Table]:
         line = lines[index]
         match = _HEADING.match(line)
         if match:
-            heading = stable_heading(match.group(2))
+            if not section_level or len(match.group(1)) <= section_level:
+                heading = stable_heading(match.group(2))
             index += 1
             continue
         # A table is a `|` line followed by a `|---|` separator.
@@ -442,7 +457,11 @@ def extract_reported(
     would have emptied the source silently, and the only complaint would have been the
     row-count floor reporting a README restructure that had not happened.
     """
-    parser = parse_markdown_tables if config.table_format == "markdown" else parse_html_tables
+    if config.table_format == "markdown":
+        def parser(body: str) -> list[Table]:
+            return parse_markdown_tables(body, config.section_level)
+    else:
+        parser = parse_html_tables
     snapshot = Snapshot()
     seen_keys: dict[tuple[str, str], int] = {}
     tallies = {
