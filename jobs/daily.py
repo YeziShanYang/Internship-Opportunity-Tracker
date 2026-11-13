@@ -67,9 +67,17 @@ def update_source_state(
         if result.ok:
             source["last_success"] = now
             source["consecutive_failures"] = "0"
+            source["gone_since"] = ""
         else:
             previous = int(source.get("consecutive_failures") or 0)
             source["consecutive_failures"] = str(previous + 1)
+            # Set on the first morning a programme page answers as gone and kept while
+            # it stays gone; any other failure clears it, so a 403 or a shell is
+            # escalated and backed off like every other blind source.
+            if result.extra.get("gone"):
+                source["gone_since"] = source.get("gone_since") or now[:10]
+            else:
+                source["gone_since"] = ""
 
 
 def update_program_state(

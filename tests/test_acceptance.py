@@ -2691,6 +2691,92 @@ class CircuitBreakerTests(_IsolatedState, unittest.TestCase):
         self.assertIn("source failing", title)
 
 
+class GoneProgrammePageTests(_IsolatedState, unittest.TestCase):
+    """A programme page taken down between cycles is watched for its return, not
+    escalated as blind. Added 2026-11-13 for the JPMC Fellowship page (404 from
+    2026-11-10) and Optiver's Ready Trader Go host (unreachable from 2026-10-30)."""
+
+    NOW = datetime.datetime(2026, 11, 13, 12, 0, tzinfo=datetime.timezone.utc)
+    PAGE = "<html><body>" + "<p>The fellowship runs five weeks in summer.</p>" * 30 + "</body></html>"
+
+    def _src(self, **overrides):
+        src = {"source_id": "fellowship", "method": "page_text",
+               "url": "https://example.com/fellowship", "program_names": "Fellowship",
+               "selector": "", "render_js": "false", "job_list": "false"}
+        src.update(overrides)
+        return src
+
+    def test_only_absence_on_a_programme_page_counts_as_gone(self):
+        def attempt(**kw):
+            return models.FetchAttempt(source_id="x", ok=False, **kw)
+        self.assertEqual(parse_page.gone_reason(self._src(), attempt(status=404)), "HTTP 404")
+        self.assertEqual(parse_page.gone_reason(self._src(), attempt(status=410)), "HTTP 410")
+        self.assertEqual(parse_page.gone_reason(self._src(), attempt(
+            error="ConnectError: [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name")),
+            "host unreachable")
+        self.assertEqual(parse_page.gone_reason(self._src(), attempt(status=403)), "",
+                         "a refusal is blindness, not absence")
+        self.assertEqual(parse_page.gone_reason(self._src(), attempt(
+            error="browser: TimeoutError: Page.goto: Timeout 30000ms exceeded.")), "")
+        self.assertEqual(parse_page.gone_reason(self._src(job_list="true"), attempt(status=404)),
+                         "", "a job list that vanishes is a broken route")
+
+    def test_state_records_when_it_went_and_clears_on_anything_else(self):
+        sources = [{"source_id": "fellowship", "consecutive_failures": "0"}]
+        gone = models.SourceResult(source_id="fellowship", ok=False, extra={"gone": "HTTP 404"})
+        daily.update_source_state(sources, [gone])
+        first = sources[0]["gone_since"]
+        self.assertTrue(first)
+        sources[0]["gone_since"] = "2026-11-10"
+        daily.update_source_state(sources, [gone])
+        self.assertEqual(sources[0]["gone_since"], "2026-11-10", "kept, not re-dated")
+        daily.update_source_state(sources, [models.SourceResult(
+            source_id="fellowship", ok=False, error="403")])
+        self.assertEqual(sources[0]["gone_since"], "")
+        sources[0]["gone_since"] = "2026-11-10"
+        daily.update_source_state(sources, [models.SourceResult(source_id="fellowship", ok=True)])
+        self.assertEqual(sources[0]["gone_since"], "")
+
+    def test_a_gone_page_is_never_quarantined(self):
+        src = {"consecutive_failures": "8", "gone_since": "2026-10-30",
+               "last_attempt": (self.NOW - datetime.timedelta(hours=1)).isoformat()}
+        self.assertFalse(breaker.quarantine_state(src, self.NOW)[0])
+
+    def test_health_reports_it_once_and_does_not_escalate(self):
+        result = models.SourceResult(source_id="fellowship", ok=False,
+                                     error="HTTPStatusError: 404", extra={"gone": "HTTP 404"})
+        source = {"source_id": "fellowship", "consecutive_failures": "4",
+                  "gone_since": "2026-11-10", "last_success": "2026-11-09T17:42:29+00:00"}
+        title, body = digest.render([], _metrics(result), {"fellowship": source})
+        self.assertNotIn("SOURCE BLIND", body)
+        self.assertNotIn("source failing", title)
+        self.assertNotIn("FAILING", body)
+        self.assertIn("page taken down (HTTP 404) since 2026-11-10, last seen 2026-11-09", body)
+
+        # Below the threshold it is an ordinary failure line, so a one-morning 404
+        # reads the same as any other blip.
+        young = dict(source, consecutive_failures="1")
+        _, body = digest.render([], _metrics(result), {"fellowship": young})
+        self.assertIn("1 FAILING", body)
+
+    def test_its_return_is_always_a_row_even_shorter_or_unchanged(self):
+        base = _check_page(self._src(), FakeHTMLClient(self.PAGE))
+        store.write_snapshot("fellowship", base.snapshot_text, ext="txt")
+        back = self._src(gone_since="2026-11-10")
+
+        same = _check_page(back, FakeHTMLClient(self.PAGE))
+        self.assertTrue(same.ok)
+        self.assertEqual(len(same.changes), 1)
+        self.assertIn("page is back (gone since 2026-11-10)", same.changes[0].key)
+
+        # A new edition shorter than the old page is not a partial render.
+        short = ("<html><body>" + "<p>2027 Fellowship applications are open.</p>" * 14
+                 + "</body></html>")
+        new = _check_page(back, FakeHTMLClient(short))
+        self.assertTrue(new.ok, new.error)
+        self.assertIn("applications are open", new.changes[0].detail)
+
+
 class RuledOutBlockTests(_IsolatedState, unittest.TestCase):
     """RULED OUT prints each row with its reason in a few words, not a sentence.
 

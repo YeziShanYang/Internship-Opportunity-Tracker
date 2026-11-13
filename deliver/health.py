@@ -120,13 +120,36 @@ def source_lines(
     prose block is how it gets skimmed past.
     """
     healthy = [r for r in results if r.ok]
-    failing = [r for r in results if not r.ok]
-    lines = [
-        f"{len(results)} sources checked · {len(healthy)} healthy · "
-        f"{len(failing)} FAILING"
-        if failing
-        else f"{len(results)} sources checked · {len(healthy)} healthy"
-    ]
+
+    def watched_gone(result: models.SourceMetrics) -> bool:
+        # A programme page that has answered "not here" for long enough to be a fact
+        # rather than a blip. Still printed every morning, with the date it went, but
+        # it is not blind -- the server answered -- so it is neither counted as failing
+        # nor escalated. Before the threshold it reads like any other failure.
+        source = sources.get(result.source_id, {})
+        return (
+            bool(result.extra.get("gone"))
+            and bool((source.get("gone_since") or "").strip())
+            and int(source.get("consecutive_failures") or 0)
+            >= paths.FAILURE_ESCALATION_THRESHOLD
+        )
+
+    gone = [r for r in results if not r.ok and watched_gone(r)]
+    failing = [r for r in results if not r.ok and not watched_gone(r)]
+    summary = f"{len(results)} sources checked · {len(healthy)} healthy"
+    if failing:
+        summary += f" · {len(failing)} FAILING"
+    if gone:
+        summary += f" · {len(gone)} programme page(s) taken down"
+    lines = [summary]
+    for result in gone:
+        source = sources.get(result.source_id, {})
+        last_success = (source.get("last_success") or "never")[:10]
+        lines.append(
+            f"· {result.source_id}: page taken down ({result.extra['gone']}) since "
+            f"{source.get('gone_since')}, last seen {last_success}. Still checked every "
+            "morning; its return will be a row in the digest."
+        )
     escalated: list[tuple[str, str, str]] = []
     quarantined = [r for r in failing if r.quarantined]
     if quarantined:

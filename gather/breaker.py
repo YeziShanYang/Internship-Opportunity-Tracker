@@ -41,6 +41,10 @@ def quarantine_state(
     one whose window has expired -- an expired window is exactly how a recovered board
     gets retried without anyone intervening.
     """
+    if (source.get("gone_since") or "").strip():
+        # A programme page that answered "not here" is watched for its return, and one
+        # 404 a morning costs nothing; backing off would only delay seeing it come back.
+        return False, ""
     failures = int(source.get("consecutive_failures") or 0)
     hours = quarantine_hours(failures)
     if not hours:

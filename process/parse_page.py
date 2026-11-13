@@ -453,6 +453,68 @@ def diff_pages(
     ]
 
 
+# A host that is no longer there, as opposed to one that refused us. Matched on the error
+# text because these arrive as connection errors with no HTTP status. A 403 is never
+# here: that is a server answering and refusing, which is blindness, not absence.
+_HOST_GONE = re.compile(
+    r"Name or service not known|nodename nor servname|getaddrinfo failed"
+    r"|No address associated with hostname|TLSV1_UNRECOGNIZED_NAME"
+    r"|Connection refused|\[Errno (?:61|111)\]",
+    re.IGNORECASE,
+)
+
+
+def gone_reason(source: dict[str, str], attempt: models.FetchAttempt) -> str:
+    """Why a programme page reads as taken down, or "" when the failure is something else.
+
+    Programme pages come and go with their cycle: the JPMC Fellowship page started
+    returning 404 on 2026-11-10, a week before the previous cycle had opened, and
+    Optiver's Ready Trader Go host shut down on 2026-10-30 after three years without an
+    edition. Neither is the tracker going blind -- the server answered, and the answer
+    is "not here" -- and the useful thing to watch for is the page coming back. So a
+    gone page is still fetched every run (the breaker skips it), reported once a
+    morning in HEALTH rather than escalated, and its return is a digest row.
+
+    Only a programme page qualifies. A job list or an ATS feed that disappears means
+    the postings are now somewhere else, which is a broken route to fix.
+    """
+    if attempt.ok or is_job_list(source):
+        return ""
+    if attempt.status in (404, 410):
+        return f"HTTP {attempt.status}"
+    if _HOST_GONE.search(attempt.error or ""):
+        return "host unreachable"
+    return ""
+
+
+def _return_change(
+    source_id: str, source: dict[str, str], old: list[str], new: list[str]
+) -> models.Change:
+    """The row for a gone page that answers again. Always reported, even unchanged: the
+    return is the event the page was being watched for."""
+    since = (source.get("gone_since") or "").strip()
+    name = source.get("program_names", "") or source_id
+    added, removed = page_news(old, new)
+    if added or removed:
+        body = [f"+ {line[:MAX_DIFF_LINE_CHARS]}" for line in added[:MAX_DIFF_LINES]]
+        body += [f"- {line[:MAX_DIFF_LINE_CHARS]}" for line in removed[:MAX_DIFF_LINES]]
+    else:
+        body = ["The page answers again with the text it had before it went away."]
+    blob = " ".join(added or new)
+    return models.Change(
+        source_id=source_id,
+        kind="changed",
+        change_id=clock.change_id(source_id, "page"),
+        key=f"{name}: page is back (gone since {since})",
+        detail="\n".join(body),
+        url=source.get("url", ""),
+        program_name=source.get("program_names", ""),
+        is_discovery_candidate=bool(snapshot.DISCOVERY_PATTERN.search(blob)),
+        rolling=bool(snapshot.ROLLING_PATTERN.search(blob)),
+        posting_text=blob[: coretext.MAX_TEXT_CHARS],
+    )
+
+
 def assess(
     source: dict[str, str], fetched: page.PageFetch, previous: str | None
 ) -> models.SourceResult:
@@ -465,10 +527,12 @@ def assess(
     source_id = source["source_id"]
     attempt = fetched.attempt
     if not attempt.ok:
+        gone = gone_reason(source, attempt)
         return models.SourceResult(
             source_id=source_id, ok=False, error=attempt.error,
-            content_length=attempt.size,
+            content_length=attempt.size, extra={"gone": gone} if gone else {},
         )
+    returning = bool((source.get("gone_since") or "").strip())
 
     # Checked before the content floors: a page that landed somewhere else is wrong
     # however much prose it returned, and the floors are structurally unable to notice.
@@ -513,6 +577,9 @@ def assess(
         previous is not None
         and len(text) < SHRINK_RATIO * len(previous)
         and not feed
+        # A page back from being gone is a new edition, and the snapshot it is being
+        # measured against is the old one. The content floors above still apply.
+        and not returning
         and not _same_feed(previous, text)
         and not _states_empty_listing(previous, lines)
     ):
@@ -545,7 +612,7 @@ def assess(
         )
 
     old_lines = previous.splitlines()
-    verdict = page_verdict(old_lines, lines, is_job_list(source))
+    verdict = "" if returning else page_verdict(old_lines, lines, is_job_list(source))
     reasons = {
         PAGE_CHURN: "the page moved, but only by reordering, recounting or removing "
                     "lines, so nothing on it is new",
@@ -563,7 +630,8 @@ def assess(
     return models.SourceResult(
         source_id=source_id,
         ok=True,
-        changes=diff_pages(source_id, old_lines, lines, source),
+        changes=([_return_change(source_id, source, old_lines, lines)] if returning
+                 else diff_pages(source_id, old_lines, lines, source)),
         filters=filters,
         snapshot_text=text,
         snapshot_ext="txt",

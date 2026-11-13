@@ -157,6 +157,11 @@ SOURCE_COLUMNS = [
     # breaker needs to know when the backoff window started, and a quarantined run
     # is not an attempt.
     "last_attempt",
+    # The morning a programme page first answered as gone (404/410, or a host that no
+    # longer resolves or serves its name), empty otherwise. A gone programme page is
+    # still fetched every run and is reported in HEALTH rather than escalated; see
+    # process.parse_page.gone_reason.
+    "gone_since",
     # high | low. Low-signal sources are only classified when a row matches the
     # underclassman or rolling-firm filters; see classify.triage.
     "signal",
