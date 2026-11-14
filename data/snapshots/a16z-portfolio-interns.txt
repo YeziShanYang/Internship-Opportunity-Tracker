@@ -6,8 +6,8 @@ a16z
 Software Is Eating the World
 X LinkedIn Substack
 © 2026 Andreessen Horowitz . All Portfolio Jobs Companies Disclosures
-703 companies. 18,995 jobs. It’s time to build.
-All Portfolio Jobs Jobs by Company a16z Jobs a16z TalentPlace
+703 companies. 18,345 jobs. It’s time to build.
+All Portfolio Jobs Jobs by Company a16z Jobs
 Filter jobs by role and more
 Roles
 Search roles
@@ -22,11 +22,6 @@ Salary Any
 Posted <age>
 Country:us Seed Venture Clear filters
 43 jobs
-Octant Bio
-Software Engineer - Internship
-Emeryville, California, United States · Posted <age>
-Bio + Health, CLF · Series B · 51–200 employees
-Apply Interested
 Genesis Molecular AI
 Computational Chemistry Intern - 2027
 San Mateo, CA · Posted <age>
@@ -60,6 +55,11 @@ Apply Interested
 Astro Mechanica
 Electrical/Avionics Engineering Intern
 $40 – $55 per hour · San Francisco, California, United States · Posted <age>
+American Dynamism · Seed · 51–200 employees
+Apply Interested
+Astro Mechanica
+Test Engineering Intern
+$40 – $55 per hour · East Bay Area · Posted <age>
 American Dynamism · Seed · 51–200 employees
 Apply Interested
 Exowatt

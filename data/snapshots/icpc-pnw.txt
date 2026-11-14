@@ -44,6 +44,35 @@ Contest date: Saturday, November 14, 2026.
 Please see Legacy PacNW site ( https://acmicpc-pacnw.org/ ) for latest contest information and news.
 Registration is open for the 2026 PacNW Regional Contest. Schedule and all other details can be found at: https://acmicpc-pacnw.org/
 See the Announcement page for the latest news.
+Contest Schedule for Saturday, November 14:
+NOTE: All pre and post contest interaction will occur via a Zoom webinar which will be posted here once ready
+Zoom Link: https://us02web.zoom.us/j/85943163440
+Ok, we have an updated (and hopefully final) contest day schedule. We are going to make a formal start at 10am, where Tom will give an introduction to contest, thank sponsors, and give last minute contest details. Here is the schedule (all times PST):
+9:30-9:45am Arrive at contest sites
+10:00-10:30 Contest Briefing &#8211; Tom Capaul, PacNW ICPC Director
+10:30-10:35 JetBrains Greeting
+10:35-10:55 JetBrains Tech Talk
+11:00-11:20 ProBook Tech Talk
+11:30-12:30 Team Registration Check-in; Lunch; Career Fair (San Jose St. site)
+12:30- Gather Contestant Electronics, begin preparation to enter contest rooms
+12:45-12:55 Head to Contest Rooms
+1:00-6:00 ICPC PacNW 2026 Contest
+6:15 Review of Problem Set by Head Judge Nick Wu
+~6:45 Contest results and awards with The Resolver
+~7:30 Final Thanks and Good-bye
+Sites for the November 14 regional are :
+UW Tacoma (Washinton), Chris Marriott
+Site Info Link: https://docs.google.com/document/d/1iU9UX32OKT2gzZW6E_tmg5jzHa9JrDwpr4K-xuBqqsg/edit?usp=sharing
+George Fox (Oregon), Brent Wilson
+Site Info Link: https://cs.georgefox.edu/pacnw_icpc_oregon/
+University of British Columbia (British Columbia), Yuanhao Wei
+Site Info Link: https://docs.google.com/document/d/1MVgPYAbIjrThSrEXppCm0p6-LVbmIKUt2h0Ix4_GlwQ/edit?usp=sharing
+BYU Hawaii (Hawaii), Geoff Draper
+Site Info Link: https://geoffdraper.com/programming/contest/
+San Jose State University (California), Ben Reed
+Site Info Link: https://ben.homeofcode.com/icpc/icpc2026
+Whitworth (Spokane WA micro-site), Kent Jones: ICPC 2026: Pacific NW Regional Programming Contest Spokane Microsite
+CSU Humboldt (micro-site), Sherrene Bogle
 West Division
 Pacific Northwest
 Southern California

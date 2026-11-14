@@ -2,6 +2,7 @@
 AfterQuery
 Applied
 Etched
+MaticRobots
 NorthwoodSpace
 Serval
 Sierra
@@ -13,15 +14,15 @@ allium
 antares
 apex-technology-inc
 applied
-arch.co
 architect
 astera
 auctor
+axiommath
 barnes
 base-power
-beaconsoftware
 bedrock-robotics
 bild-ai
+bridgeneurotech
 brightstar-ai
 chartahealth
 circleback
@@ -35,13 +36,16 @@ cylake-inc
 cyvl
 dandy
 droyd
+dryft
 dyna-robotics
 espa
 etched
 exa
 fab2
+formulary
 fundwell
 gecko-robotics
+genesis-molecular-ai
 genmd
 graymatter-robotics
 gritt
@@ -54,11 +58,11 @@ interplay
 kognitos
 kos.ai
 leantechniques
-maximor
 maxinsights
 mechanize
 megazone
 mercor
+mistral.ai
 modal
 n1
 neocognition
@@ -102,8 +106,6 @@ telus-digital
 tenex
 terranova
 the-exploration-company
-tilderesearch
-twin-so
 uplane
 valon
 valstad
@@ -144,6 +146,9 @@ Etched	Lab Operations Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.co
 Etched	Mechanical / Thermal Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229
 Etched	People Operations Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.com/Etched/dc036272-19b8-464f-a22d-2505c14b5270
 Etched	Performance Tools Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8
+MaticRobots	Mechanical Design Engineer Intern @ Menlo Park, CA	Type=Intern; URL=https://jobs.ashbyhq.com/MaticRobots/4b9f178f-5346-443d-899e-4d8a76372517
+MaticRobots	Product Design Intern @ Menlo Park, CA	Type=Intern; URL=https://jobs.ashbyhq.com/MaticRobots/655f8bb2-26f0-4324-acd6-f9c0d0d24f6b
+MaticRobots	Robotics Customer Success Intern @ Menlo Park, CA	Type=Intern; URL=https://jobs.ashbyhq.com/MaticRobots/a0d77cc5-555f-46d8-89b1-e1df201a77dc
 NorthwoodSpace	Electrical Engineer (Portal) - New Grad @ Torrance, CA	Type=FullTime; URL=https://jobs.ashbyhq.com/northwoodspace/ca73b132-2264-4649-ad83-73ea3e69fe5d
 NorthwoodSpace	Lifecycle Electrical Engineer (Prism) - New Grad @ Torrance, CA	Type=FullTime; URL=https://jobs.ashbyhq.com/northwoodspace/ca559bda-f67e-4bbd-a9d8-4737b5fe02e0
 NorthwoodSpace	Supply Chain Data & Analytics Intern (2027 Summer Internship) @ Torrance, CA	Type=Intern; URL=https://jobs.ashbyhq.com/northwoodspace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490
@@ -169,7 +174,6 @@ allium	Engineering Intern - General / AI @ New York	Type=FullTime; URL=https://j
 antares	Electrical Engineering Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d
 antares	Government Affairs Intern @ DC	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/0ba5a72f-35b5-451e-b05a-8f96c9d3101e
 antares	IT Helpdesk Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/c06333ba-ce06-43c2-be34-615a3582d5df
-antares	Mechanical Engineering Design Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62
 antares	Multiphysics Software Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/922a527d-9826-446d-9aba-ffc611995830
 antares	Nuclear Engineering Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8
 antares	Nuclear Operations & Licensing Engineering Intern - Summer 2027 @ Idaho Falls	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/ec96a761-509f-44e9-90aa-e1fee5388aa1
@@ -197,15 +201,15 @@ applied	Research Intern - World-Action Foundation Model, Robotics @ Sunnyvale	Ty
 applied	Software Engineer - New Grad (2027) @ Sunnyvale	Type=FullTime; URL=https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694
 applied	Software Integration Engineer - New Grad (2027) @ Sunnyvale	Type=FullTime; URL=https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19
 applied	UX Test Engineer - New Grad (2027) @ Sunnyvale	Type=FullTime; URL=https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4
-arch.co	Associate Product Manager (Summer 2027) @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/arch.co/68202fe2-5a4b-4d10-8e6e-04016c7d5076
 architect	Member of Technical Staff - Research Intern @ Palo Alto	Type=FullTime; URL=https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1
 astera	Robotics Systems Intern @ Emeryville HQ	Type=Intern; URL=https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8
 auctor	Software Engineering Intern @ New York	Type=FullTime; URL=https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607
+axiommath	Intern, Special Projects (MBA) @ Palo Alto	Type=Intern; URL=https://jobs.ashbyhq.com/axiommath/aa792a94-04dc-4bad-a0bf-c2dea06b6927
+axiommath	Member of Technical Staff Intern @ Palo Alto	Type=Intern; URL=https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e
 barnes	2027 BT RISE Internship - Business Development & Client Growth Intern @ Indianapolis	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/ab15ad85-b790-41f2-9e07-6f9325dd9fe5
-barnes	2027 BT RISE Internship - Human Resources @ Indianapolis	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/fe259ef2-8e4b-4d43-9c2f-b2fc147fbf3e
 barnes	2027 BT RISE Internship - Information Security @ Indianapolis	Type=Intern; URL=https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177
 barnes	2027 BT RISE Internship - Information Technology Data Intern @ Indianapolis	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0
-barnes	2027 BT RISE Internship - Legal Talent Management @ Indianapolis	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/41d1eb86-bd05-4c1e-ad17-d62cfd9f40ce
+barnes	2027 BT RISE Internship - Legal Operations Intern @ Indianapolis	Type=FullTime; URL=https://jobs.ashbyhq.com/barnes/9ae29c1f-7656-49d9-bb09-7c983019d5a7
 base-power	Accounting Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/1b275bc7-7ea3-49f2-a41a-209431458d36
 base-power	Deployments Engineering Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935
 base-power	Deployments Operations Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/7be0dc29-e42c-4a1f-8512-fd94c13aabf2
@@ -233,7 +237,6 @@ base-power	Software Engineering Intern @ Austin, TX	Type=Intern; URL=https://job
 base-power	Supply Chain Intern - Procurement @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/61f6d0de-3a8e-4c53-90bc-eb5a9f890de9
 base-power	Supply Chain Tooling Engineer Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/7fce3b16-c132-453b-a836-a3bcbd21abd2
 base-power	Video Content Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/78e16b51-faf1-4c80-93d5-8c3b078195ee
-beaconsoftware	Director, Association Partnerships & School Growth - Home Campus @ Remote (US)	Type=FullTime; URL=https://jobs.ashbyhq.com/beaconsoftware/bfba2dc4-f24b-4c4d-8e4f-2619ec41752f
 bedrock-robotics	2027 Internship Behavior ML Engineer, Learned Manipulation Policies @ San Francisco, CA	Type=Intern; URL=https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c
 bedrock-robotics	2027 Internship Behavior Machine Learning Engineer, World Models @ San Francisco, CA	Type=Intern; URL=https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1
 bedrock-robotics	2027 Internship Hardware Engineer @ San Francisco, CA	Type=Intern; URL=https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a
@@ -248,6 +251,9 @@ bedrock-robotics	2027 Internship Software Engineer, Fleet Platform @ New York, N
 bedrock-robotics	2027 Internship State Estimation, Learned Mapping & Semantic SLAM @ San Francisco, CA	Type=Intern; URL=https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760
 bedrock-robotics	2027 Internship Test Operations Engineer @ Lockhart, TX	Type=Intern; URL=https://jobs.ashbyhq.com/bedrock-robotics/66deac22-a655-413e-8f46-3d956860619a
 bild-ai	AI/SWE Intern @ San Francisco	Type=Intern; URL=https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364
+bridgeneurotech	Hardware Engineering Intern @ Redwood City	Type=Intern; URL=https://jobs.ashbyhq.com/bridgeneurotech/01c03769-b8eb-46c1-b668-469832b99c51
+bridgeneurotech	ML Software Engineering Intern (PhD) @ Redwood City	Type=Intern; URL=https://jobs.ashbyhq.com/bridgeneurotech/50041fa1-417b-4269-8675-8c8746ed93bf
+bridgeneurotech	Neuroscience Research Intern (PhD) @ Redwood City	Type=Intern; URL=https://jobs.ashbyhq.com/bridgeneurotech/132b90e6-ec6f-4d70-aeb1-42ce9d566f42
 brightstar-ai	Applied AI Engineer Intern - Advancing Agent Quality @ Miami	Type=FullTime; URL=https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024
 chartahealth	Software Engineer (FDE / Platform) - Intern @ San Francisco	Type=Intern; URL=https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf
 circleback	Software Engineering Intern (Summer 2027) @ San Francisco	Type=Intern; URL=https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f
@@ -267,6 +273,8 @@ dandy	Summer 2027 Internship - PhD Research Intern @ USA - New York NY	Type=Full
 droyd	Machine Learning Intern @ San Francisco, CA	Type=Intern; URL=https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9
 droyd	Mechanical Engineer Intern @ San Francisco, CA	Type=FullTime; URL=https://jobs.ashbyhq.com/droyd/d5a416f2-3d96-44d4-8b48-dc80dcea7f33
 droyd	Software Engineering Intern @ San Francisco, CA	Type=Intern; URL=https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694
+dryft	Founders Associate Intern - US (German speaking) @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/dryft/60c6f0b3-059a-435f-841b-a3944bc722fd
+dryft	Member of Technical Staff Intern - US @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/dryft/d4c7d1cd-a4e3-440e-ad53-4dab3391d883
 dyna-robotics	Research Internship @ Redwood City, CA	Type=Intern; URL=https://jobs.ashbyhq.com/dyna-robotics/5a431519-ee6b-4cb7-8a3a-422727053a09
 espa	Software Engineer INTERN @ Hybrid / Remote first	Type=FullTime; URL=https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8
 etched	Chip Simulation Software Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8
@@ -302,11 +310,14 @@ fab2	Process Engineering Intern - Summer @ Austin	Type=Intern; URL=https://jobs.
 fab2	Process Engineering Intern - Winter @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/476007f4-4f8c-4160-86c2-8be11c5efee4
 fab2	Rust Software Engineering Intern, Chip Design Tools - Summer @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/2b0ab443-c7d8-4547-9766-111747f0b361
 fab2	Rust Software Engineering Intern, Chip Design Tools - Winter @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904
+formulary	Software Engineering Intern @ New York City (4 days on-site)	Type=Intern; URL=https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04
 fundwell	AI Innovation Internship @ New York, NY	Type=FullTime; URL=https://jobs.ashbyhq.com/fundwell/2d91136d-b54d-4ed0-93de-22c7839a3982
 gecko-robotics	AI/Machine Learning Engineering Intern @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8
 gecko-robotics	Full Stack Software Engineering Intern @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082
 gecko-robotics	Software Engineering Intern @ Pittsburgh	Type=FullTime; URL=https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a
 gecko-robotics	Test & Reliability Engineering Intern @ Pittsburgh	Type=FullTime; URL=https://jobs.ashbyhq.com/gecko-robotics/07b4bc1b-500f-493c-ab28-383b543a3e85
+genesis-molecular-ai	Computational Chemistry Intern - 2027 @ San Mateo, CA	Type=Intern; URL=https://jobs.ashbyhq.com/genesis-molecular-ai/3de36849-b8da-4da9-bd22-d706343db9e1
+genesis-molecular-ai	Software Engineer Intern - 2027 @ San Mateo, CA	Type=Intern; URL=https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99
 genmd	MBA Intern @ Palo Alto	Type=Intern; URL=https://jobs.ashbyhq.com/genmd/581925c5-7d8e-42e1-97f6-ed773713045f
 genmd	Member of Technical Staff Intern, Applied AI @ Palo Alto	Type=Intern; URL=https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c
 graymatter-robotics	AI Research Intern: Foundation Models - IMMEDIATE START @ Los Angeles - HQ	Type=FullTime; URL=https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429
@@ -345,9 +356,6 @@ interplay	AI Labs Intern @ New York	Type=Contract; URL=https://jobs.ashbyhq.com/
 kognitos	Software Engineer Intern (AI-Native) — Fall 2026 @ San Jose - HQ	Type=FullTime; URL=https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5
 kos.ai	Software Engineer Intern @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3
 leantechniques	Software Engineer Intern - Hybrid @ Hybrid	Type=FullTime; URL=https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c
-maximor	Software Engineer (New Grad) @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e
-maximor	Software engineering Intern @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8
-maximor	Startup Generalist (New Grad) @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/maximor/b75360eb-63dc-4cb0-99b7-67e25986c584
 maxinsights	Data Operations Intern @ Santa Clara	Type=FullTime; URL=https://jobs.ashbyhq.com/maxinsights/ad3525be-df56-444f-9485-a20b25f392bc
 maxinsights	Machine Learning Engineer Intern - Video Foundation Models & Agentic AI @ Santa Clara	Type=FullTime; URL=https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d
 mechanize	Software Engineering Intern @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e
@@ -359,6 +367,7 @@ mercor	Research Engineer Intern - Environments, Data and Post-Training @ San Fra
 mercor	Research Engineer, Intern – Benchmarking @ San Francisco	Type=Intern; URL=https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae
 mercor	Research Intern @ San Francisco	Type=Intern; URL=https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518
 mercor	Software Engineer Intern @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d
+mistral.ai	AI Scientist Intern - (Internship, Masters or Phd) @ Palo Alto	Type=Intern; URL=https://jobs.ashbyhq.com/mistral.ai/7c401bbf-ee63-4fcd-a44a-a16b9b787697
 modal	ML Research Intern @ New York	Type=FullTime; URL=https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a
 n1	New Grad Software Engineer (Backend Rust) @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd
 n1	New Grad Software Engineer (Full Stack) @ New York City	Type=FullTime; URL=https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a
@@ -509,10 +518,6 @@ the-exploration-company	Spring 2027 Internship (Engineering) @ Houston, Texas	Ty
 the-exploration-company	Spring 2027 Internship (Software) @ California	Type=Intern; URL=https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe
 the-exploration-company	Summer 2027 Internship (Engineering) @ Houston, Texas	Type=Intern; URL=https://jobs.ashbyhq.com/the-exploration-company/2493c3ce-e861-4a66-97a1-df97ff016cd4
 the-exploration-company	Summer 2027 Internship (Software) @ California	Type=Intern; URL=https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac
-tilderesearch	Kernel Engineer (Internship and Full-time) @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8
-tilderesearch	ML Engineer (Internship and Full-time) @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef
-tilderesearch	ML Researcher (Internship and Full-time) @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/tilderesearch/e850d5b0-a5d6-4b9c-9898-f7addb441508
-twin-so	Research Engineering Internship @ Remote	Type=FullTime; URL=https://jobs.ashbyhq.com/twin-so/84c83c66-3683-4afd-abd5-afb12ec232c4
 uplane	AI Marketing Strategist Intern @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/uplane/81f8563e-1159-4600-9167-99279b570e05
 valon	Software Engineer Intern @ New York	Type=FullTime; URL=https://jobs.ashbyhq.com/Valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64
 valon	Software Engineer New Grad @ New York	Type=FullTime; URL=https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324

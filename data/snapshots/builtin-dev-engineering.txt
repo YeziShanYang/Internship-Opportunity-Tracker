@@ -31,6 +31,28 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+BAE Systems, Inc.
+Programmer Analyst Intern - Summer 2027
+<age> Saved
+Hybrid
+Fort Wayne, IN, USA
+42K-56K Annually
+Internship
+42K-56K Annually
+Internship
+Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity &#x2022; Defense
+Supports special projects at BAE Systems under supervision, applying technical knowledge in a programming or analytical discipline. The intern collaborates with cross-functional teams, develops practical experience, and participates in the LEAP Internship and Co-op Program through career development, networking, and impactful project work. The role is based in Fort Wayne, Indiana, during Summer 2027, with possible part-time work during the following academic year.
+Cloudflare
+People Team: Software Engineer Intern (Winter 2027)
+<age> Saved
+Hybrid
+Austin, TX, USA
+Internship
+Internship
+Cloud &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity
+Build and deploy full-stack features, AI agents, integrations, and internal enterprise applications for Cloudflare’s People team. Write and review production code, work in sprint-based teams, manage tickets and blockers, use AI-assisted coding tools, coordinate with another intern, and demonstrate shipped products to leadership.
+Top Skills:
+APIs Cloudflare Infrastructure Cursor Edge Computing Figma Git HTTP Javascript/Typescript Mcps Opencode React Serverless Computing Svelte Vue Windsurf
 Micron Technology
 Intern - IT Software Engineer
 <age> Saved
@@ -42,17 +64,6 @@ Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x202
 Develop full-stack software supporting Micron’s Business Data Warehouse and data factory. Responsibilities include collaborating with software development and global IT teams, applying the software development lifecycle, communicating with stakeholders, and designing utilities, tools, and frameworks that enable data and analytics solutions. The role requires knowledge of algorithms, databases, SQL, object-oriented programming, software architecture, and programming languages including C# and Python.
 Top Skills:
 C# Graph Databases JavaScript Nosql Databases Power BI Python React Relational Databases Snowflake SQL Tableau
-Shield
-2027 Summer Intern - Human Machine Teaming - 6532
-<age> Saved
-In-Office
-Washington, DC, USA
-Internship
-Internship
-Aerospace &#x2022; Artificial Intelligence &#x2022; Machine Learning &#x2022; Robotics &#x2022; Software &#x2022; Defense Technology
-Engineering intern supporting Human Machine Teaming for autonomy SDKs and human-machine interfaces. Responsibilities include eliciting developer, operator, and customer needs; translating them into engineering and HMT requirements; defining acceptance criteria; reviewing designs; evaluating delivered systems; maintaining traceability; creating guidance and training; supporting design reviews and field engagements; and implementing code and integrations when needed. Travel to company, test, demonstration, and customer sites is approximately 20%.
-Top Skills:
-Api Integration Autonomy Software C# C&#x2B;&#x2B; Ci/Cd Cloud-Native Development Commander CSS Docker Forge Git Gitlab Hivemind Sdk HTML Human-Machine Interfaces JavaScript Python Robotics Software Simulation Software
 Spectrum
 2027 Summer Intern: Software Engineer
 <age> Saved
@@ -64,17 +75,6 @@ eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; M
 Software Engineering Intern supporting high-scale AWS backend services for video streaming, cloud DVR, authentication, entitlements, and content discovery. Responsibilities include developing Java or TypeScript microservices, writing automated tests, participating in code reviews and Agile ceremonies, optimizing databases and APIs, improving observability with Datadog, documenting architecture and operations, and presenting project results. The internship provides mentorship, professional development, networking, and hands-on experience with enterprise software engineering practices.
 Top Skills:
 AWS Ci/Cd Datadog Docker Documentdb DynamoDB Ec2 Git Gitlab Java JavaScript Kafka Kubernetes RabbitMQ Rest Apis S3 SQL Typescript
-Spectrum
-2027 Summer Intern: Software Engineer
-<age> Saved
-In-Office
-Greenwood Village, CO, USA
-Internship
-Internship
-eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
-Software engineering intern supporting high-scale video platform backend services. Responsibilities include developing Java or TypeScript microservices, writing automated tests, participating in code reviews and Agile ceremonies, optimizing databases and APIs, documenting architecture, enhancing Datadog observability, and researching modernization opportunities. The intern will work in an AWS-based distributed systems environment and present project accomplishments to engineering leadership.
-Top Skills:
-Agile AWS Ci/Cd Datadog Docker Documentdb DynamoDB Ec2 Git Gitlab Java JavaScript Kafka Kubernetes Microservices RabbitMQ Rest Apis S3 SQL Typescript
 Palantir Technologies
 Software Engineer, Intern - Connectivity Platform and Product
 <age> Saved
@@ -89,8 +89,8 @@ Build connectivity products and integrations across backend services, frontend i
 Top Skills:
 Cassandra Envoy Git Go Gradle GraphQL HTTP Java Kubernetes Python React Tcp Tls Typescript Udp
 New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
 Use For Free
 T-Mobile
 Summer 2027 T-Ads Software Engineering Internship
@@ -157,19 +157,6 @@ Artificial Intelligence &#x2022; Productivity &#x2022; Software
 Software Engineering Interns will work on Notion’s Web Infrastructure team, building performant, scalable, and accessible frontend foundations. Responsibilities may include developing reusable web patterns, creating tooling for testing, debugging, and profiling frontend features, and building desktop infrastructure with OS integrations. Candidates should be pursuing a relevant degree, developing React and TypeScript proficiency, have prior internship experience, and demonstrate problem-solving, collaboration, adaptability, user empathy, and interest in AI technologies.
 Top Skills:
 Embeddings Llms Machine Learning React Typescript
-IMC Trading
-Quant Performance Engineer Intern - Summer 2027
-<age> Saved
-Hybrid
-Chicago, IL, USA
-200K-200K Annually
-Internship
-200K-200K Annually
-Internship
-Fintech &#x2022; Machine Learning &#x2022; Software &#x2022; Financial Services
-Performance Engineer Interns conduct quantitative research on exchange and network technologies, design optimization strategies for electronic trading, develop AI agents, ETL pipelines, and Python algorithms, and reverse-engineer and stress-test low-latency systems. They collaborate with traders and hardware and software engineers to improve liquidity-taking, quoting, and ultra-low-latency trading strategies.
-Top Skills:
-Etl Pipelines Machine Learning Network Programming Python Statistical Modeling Systems Programming
 1
 2
 3
@@ -177,7 +164,7 @@ Etl Pipelines Machine Learning Network Programming Python Statistical Modeling S
 5
 ...
 ...
-85
+83
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

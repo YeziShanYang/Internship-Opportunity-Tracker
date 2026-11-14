@@ -2,9 +2,9 @@ Academic Year SIEPR Undergraduate Research Fellows Program | Stanford Institute 
 Skip to main content
 Skip to secondary navigation
 Stanford University
-Industry honors
-Our Econ To Go podcast is a Gold winner at the&nbsp;2026 Signal&nbsp;Awards in the education category and has won gold and silver w3 Awards, too! Catch up on season 1 here and stay tuned for season 2 coming soon in November.
-Watch season 1 highlights
+Coming soon
+Econ To Go, our award-winning podcast, is back on Nov. 17 with Season 2!&nbsp;
+Check out our new trailer , and in case you missed it, here's last season’s highlights .
 Stanford
 Institute for Economic
 Policy Research (SIEPR)
@@ -103,7 +103,7 @@ Young Scholars Program
 Visiting Faculty Program
 SIEPR Faculty Resources
 Main content start
-Applications for 2026 Autumn quarter are now open. APPLY NOW
+Applications for 2026 Autumn quarter are now closed.&nbsp;
 The SIEPR Undergraduate Research Fellows (UGRF) program offers faculty-mentored research opportunities for Stanford undergraduates during the academic year. The program focuses on enriching the student research experience and offers additional opportunities for students to participate in the intellectual life of SIEPR.&nbsp;
 Program Structure&nbsp;
 Each quarter students and their faculty mentor will meet prior to the start of the quarter to agree on project goals and learning outcomes for a quarter-long research experience.
@@ -125,114 +125,8 @@ What are your personal research interests?
 Questions?
 If you have questions, please email&nbsp; siepr-fellowships@stanford.edu .
 Open Positions
-Applications for 2026 Autumn quarter are now open. APPLY NOW
+Applications for 2026 Autumn quarter are now closed.
 &nbsp;
-Building Historical Manufacturing Data with Multimodal AI
-Open position
-Mentor: Rebekah Dix&nbsp;
-Positions available: 1&nbsp;
-Project Description
-The Thomas Register of American Manufacturers, published annually from 1905 to 2006, records firms by product and location and includes advertisements describing firms, brands, and capabilities. We will use multiple multimodal large language models to turn these complex scanned pages into structured data for studying how American industry changed over time. The fellow will help extract directory listings and advertisements, match firm names across entries, and build a hand-checked test dataset. We will use that dataset to compare open-source or open-weight models with proprietary models on accuracy, consistency, speed, and cost. The project will also explore linking the extracted firms to historical patent and copyright records and historical Census of Manufactures data.
-RF Responsibilities
-OCR and review directory listings and advertisements while preserving the original visible text
-Extract and verify firm names, locations, product headings, advertisement content, and source-page references
-Correct OCR errors caused by columns, headings, continuation text, and pages that mix directory listings with advertisements
-Match firms across directory entries and advertisements using firm names, locations, and product context
-Build a hand-checked test dataset covering varied layouts and scan quality, including verified OCR fields, firm-match labels, source pointers, and uncertainty flags
-Run the same test material through multiple multimodal models, including open-source or open-weight and proprietary models, recording model version, prompts, settings, and output for each run
-Compare models on OCR and structured-extraction accuracy, firm-matching quality, consistency, speed, and cost; record recurring errors and identify which page types require stronger models or manual review
-Help explore links between the extracted firms and other historical sources, including patent and copyright records and Census of Manufactures data, documenting uncertain matches and differences across sources
-Maintain clear error logs, matching notes, model-comparison results, and documentation
-Qualifications
-We are looking for a careful and curious student who enjoys working with messy historical data. The most important qualifications are attention to detail, reliability, and a willingness to document decisions clearly. Applicants should be comfortable working with spreadsheets and learning new tools. Experience with Python, OCR, large language models, record linkage, or archival research is useful but not required.
-Doubly Disadvantaged Populations
-Open position
-Mentor: Adrienne Sabety&nbsp;
-Positions available: 2
-Project Description
-Projects will cover a range of topics related to Social Determinants of Health using Medicaid claims data. Some topics will include individuals with disabilities, foster youth, and youth on SSI. This position is ideal for individuals looking to be an equal thought partner on projects attempting to meaningfully improve individuals' lives.
-RF Responsibilities
-The RF will be primarily working with Medicaid data.
-Qualifications
-Coding experience, with preference given to those with prior knowledge of Stata, R, or Python. Interest in the topics being studied is important, though prior work in these areas is not required.
-The Effects of Brazilian Vocational Education on Students
-Open position
-Mentor: Eric Bettinger&nbsp;
-Positions available: 2
-Project Description
-Brazil reformed their vocational education in the last few years, and vocational education has expanded exponentially. We examine the reforms in Pernambuco and São Paulo. Using anonymous data, we quantitatively measure the impacts of these reforms, using matched comparisons and quasi-experimental methods as needed. We are also conducting qualitative interviews with stakeholders. This is a portfolio of projects ranging from examining optimal placement of specific vocational programs, to how it affects students' peer groups, to how it allows students to work during and after school.
-RF Responsibilities
-A successful candidate would contribute to either (or both) areas of inquiry. On our quantitative projects, we need someone who can manage data in Stata or R and conduct basic analysis (typically computing descriptive statistics and running basic regressions). On the qualitative projects, we need someone who can organize and build interview protocols and basic surveys. We are looking for people who can not only contribute to the tasks but also help us consider design and impact.
-Qualifications
-For quantitative analysis applicants: basic data skills and some familiarity with regression analysis
-For qualitative analysis applicants: basic understanding of interviews, ethnographies, surveys, and/or focus groups
-Above all, good organizational skills to help us process existing notes and transcripts
-Portuguese is not required but a plus
-Progress and Inequality: History, Science, and AI
-Open position
-Mentor: Lukas Althoff&nbsp;
-Positions available: 2&nbsp;
-Project Description
-Our lab studies long-run economic change, with a focus on progress and inequality: how AI and earlier information technologies like the early internet reshape scientific discovery (see, e.g., anatomyofscience.com), and how historical institutions, from Jim Crow to the GI Bill, shape economic opportunity across generations.
-Undergraduate Research Fellows join as junior collaborators on scoped pieces of this work — building and cleaning datasets, writing analysis code, reviewing literatures, and contributing to papers and public research products. Prior coursework in economics is not required; curiosity, care with data, and willingness to go deep matter more. Mentorship is close, and strong work can grow into a longer research relationship beyond the quarter.
-RF Responsibilities
-Own a well-defined workstream (for example, a dataset module, coding task, or literature review) and become the local expert on that piece
-Clean, organize, and document data from historical archives and/or modern sources; write reproducible analysis code (typically Python or Stata)
-Produce short research memos summarizing what you tried, what you found, and what is still uncertain
-Use AI coding tools thoughtfully for analysis and documentation — as a way to move faster while still checking and understanding the results
-Join regular check-ins, keep deadlines, and communicate blockers early so the project stays on track within a 10–15 hour/week schedule
-Qualifications
-Stanford undergraduate interested in economics, economic history, science and innovation, computer science, statistics, mathematics, or a related field
-Comfortable (or eager to become comfortable) with quantitative work and careful data handling; prior coding experience in Python, R, or Stata is a plus but not required
-Able to focus deeply, work independently for stretches of time, and follow through on open-ended tasks without constant supervision
-Curious about both technology (AI, scientific progress) and history (institutions, inequality) — or excited to learn the side that is newer to you
-Clear written communication and reliability; experience with AI tools (e.g., Claude, Codex, Copilot) is welcome when paired with independent judgment
-Available for up to 15 hours per week during Autumn Quarter 2026
-What (Actually) Works in US Jails? Evaluating the Expansion of IGNITE
-Open position
-Mentor: Marcella Alsan&nbsp;
-Positions available: 2
-Project Description
-This project evaluates the expansion of the IGNITE (Inmate Growth Naturally and Intentionally Through Education) program across 40 jails nationwide. The study examines how the jail-based education program is implemented across different sites and assesses its impact on outcomes such as in-jail misconduct, rehabilitation, and successful community reentry after release.
-RF Responsibilities
-The Research Fellow will support a range of research and project activities. Primary responsibilities will include collecting and organizing publicly available social media data, conducting AI-assisted coding and classification of social media content, and assisting with event-study activities. Additional responsibilities may include data organization, documentation, and other administrative tasks.
-Qualifications
-Currently enrolled Stanford undergraduate (Economics or related major); strong attention to detail; strong data management and organizational skills; familiarity with coding or content analysis; understanding of social media platforms (especially Facebook); and ability to work independently and communicate effectively with project team members.
-Digitizing Historical Drug Indications
-Open position
-Mentor: Rebekah Dix&nbsp;
-Positions available: 1
-Project Description
-This project will digitize historical Physicians' Desk Reference (PDR) and American Hospital Formulary Service (AHFS) volumes, which document approved drug indications and broader therapeutic uses, including off-label uses. The research fellow will help create a human-validated test dataset from selected pages and compare open-source and proprietary OCR models. This work will identify an accurate and cost-effective approach for processing the larger collection. The resulting data will ultimately contribute to a historical drug-year panel of on- and off-label indications used to study how these forms of research affect future pharmaceutical innovation.
-RF Responsibilities
-Prepare accurate, human-validated transcriptions of selected PDR and AHFS pages
-Run standardized comparisons of open-source and proprietary OCR models
-Review model outputs and summarize accuracy and cost tradeoffs
-Organize the test dataset and document the process clearly
-Qualifications
-Careful, organized, and attentive to detail
-Comfortable checking digitized text against scanned documents
-Basic coding or data experience preferred
-Modernizing Governance
-Open position
-Mentor: Daniel E. Ho&nbsp;
-Positions available: 2
-Project Description
-The Stanford Regulation, Evaluation, and Governance Lab (RegLab) is a social impact lab that partners with federal, state, and local government agencies to leverage AI and data science to modernize government and enable it to serve the public more effectively and equitably. Our work includes the development of AI and data science to improve tax administration and benefits adjudication, strengthen environmental regulation, and solve intractable problems faced each day by state and local governments.
-RF Responsibilities
-RFs will work with an interdisciplinary research team using AI and data science to address some of society's greatest challenges. Responsibilities will include data collection, management, and analysis; assistance with literature reviews and writing results; attendance and active participation in lab and team meetings; and support for other research tasks as needed.
-Qualifications
-Students with an interest in public sector technology, data science, public health, or environmental protection are particularly welcome to apply. We are seeking RFs who are intellectually curious, self-guided, and highly organized. Strong quantitative skills preferred.
-AI &amp; Tax Policy
-Open position
-Mentor: Rebecca Lester&nbsp;
-Positions available: 1
-Project Description
-How will AI impact U.S. fiscal policy? This project will study three ways that AI will impact tax policy: (1) changing tax collections due to the AI shock, (2) evaluating changes in tax authority enforcement and taxpayer compliance, and (3) altering the use of tax incentives for the location of AI companies and data centers. From this, the project will evaluate current proposals on whether and how to tax AI.
-RF Responsibilities
-Help assemble information, articles, and publicly available data from both government websites and public disclosures of AI hyperscalers. Working directly with the faculty member, we will prepare research articles and presentations. Creativity and persistence are two critical characteristics for the applicant.
-Qualifications
-Background in economics or related fields helpful, as is use of AI tools. Interest in AI-related policy issues is a must. No knowledge of taxation is needed.
 Back to Top
 Stanford
 Institute for Economic

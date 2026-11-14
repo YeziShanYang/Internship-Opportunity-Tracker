@@ -254,12 +254,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1986
 Title:2027 Risk Management Summer Internship Programme - London
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1985-2027-Equity-Research-Summer-Analyst-Program-Singapore/en-GB
-2027 Equity Research Summer Analyst Program - Singapore
-<timestamp>
-<timestamp>
-ID:1985
-Title:2027 Equity Research Summer Analyst Program - Singapore
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1967-2027-Information-Technology-Summer-Internship-Programme-in-London/en-GB
 2027 Information Technology Summer Internship Programme in London
 <timestamp>
@@ -386,12 +380,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:2017
 Title:2027 Investment Banking Off-Cycle Internship – Zurich (Q4)
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1910-2027-Investment-Banking-Summer-Associate-Program-New-York-Financial-Institutions-Group/en-GB
-2027 Investment Banking Summer Associate Program – New York, Financial Institutions Group
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1910-2027-Investment-Banking-Summer-Associate-Program-New-York-Financial-Institutions-Group-FIG/en-GB
+2027 Investment Banking Summer Associate Program – New York, Financial Institutions Group (FIG)
 <timestamp>
 <timestamp>
 ID:1910
-Title:2027 Investment Banking Summer Associate Program – New York, Financial Institutions Group
+Title:2027 Investment Banking Summer Associate Program – New York, Financial Institutions Group (FIG)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1903-2027-Investment-Banking-Summer-Associate-Program-Charlotte-Aerospace-Defense-Government-Group/en-GB
 2027 Investment Banking Summer Associate Program – Charlotte, Aerospace, Defense &amp; Government Group
 <timestamp>
