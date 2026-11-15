@@ -12,7 +12,7 @@ An outpost for,
 Your craziest ideas.
 HackUMass XIV
 Nov 13–15 | 36 Hours | Amherst, MA
-Apply to XIV Now! ➜
+Dashboard ➜
 Apply to be a Judge! ➜
 Sign Up to Host a Workshop/Talk! ➜
 Why HackUMass?
@@ -128,7 +128,7 @@ Breakfast
 ILC Main Atrium
 9:00 AM
 Project Final Submission Deadline
-12:30 PM
+12:00 PM
 Judging
 3:00 PM
 Project Deliberation
@@ -138,40 +138,72 @@ Prizes
 Check out the prizes up for grabs across our different hackathon categories!
 General
 Best Overall
+Monitor
 Second Place
+Beats Studio Pro
 Third Place
+Drone
 Software
 Best Software Hack
+Alexa Echo Dot
 Best UI/UX
+Lego Kit
 Best Beginner Software
+Desk Lamp
 MedTech
 Best MedTech Hack
+Fitbit Air
 AI
 Most Impactful AI Hack
+Marshall Emberton 2
 Best Beginner AI Hack
+Mouse
 Hardware
 Best Hardware Hack
+Arduino Uno
 Best Beginner Hardware
+Laptop stand
 Best Mechanical Hack
+Mechanical keyboard
 Entrepreneurship
 Best Pitch
+Movie Projector
 Cybersecurity
 Most Secure Hack
+MagSafe Power Bank
 Best AI Security Hack
+Anker MagGo Magsafe charging stand
 Public Good
 Best Accessibility Hack
+Life 360 Tiles
 Best UMass Hack
-Public Good
+UMass store gift card
+Sponsor Prizes
 Best Use of Nessie (Capital One)
+$250 gift cards
 Best Agentic Hack (Sentient OS)
+$750 OpenAI Credits
+Best Use Of Analog Hardware (Analog Devices)
 MLH
 Best Domain Name from GoDaddy Registry
+Digital Gift Card
 Best Use of Tiger Data
+Stream Deck Mini
 Build Your Hackathon A-Team with SpaceXSI
+Mechanical Keyboard
 Best Use of Gemini API
+MLH Swag Kits
 Best Use of Solana
+Unruggable Hardware Wallets
 Best Use of Vultr
+M5Stack Official Tab5
 Best Use of MongoDB Atlas
+M5Stack IoT Kit
+Analog Devices
+Analog Devices Prize Track
+Bose QuietComfort headset
+Use Analog Devices hardware in a meaningful way in your project to compete for this prize.
+Judging criteria: Show us how you built your project, including what you tried, what failed, and what you learned. A polished end result isn't the goal; how you arrived at your problem and figured out the solution matters more.
 Our Sponsors
 Gold Sponsors
 Supporting Sponsors

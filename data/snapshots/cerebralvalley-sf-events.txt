@@ -14,21 +14,11 @@ Sign In
 Discover
 Featured Previous slide
 Next slide
-Nov 17
-Builder Night San Francisco | n8n x Vercel x Arize AI
-Tue, Nov 17 · 5:00 PM PST
-San Francisco, CA
-Vercel and n8n will host an evening of practical, demo-led talks on taking AI agents from idea to production. Developers, agent builders, and platform and IT leaders will get insights from people actively shipping agents.
 Nov 18
 AI and the New Abundance and Scarcity, with Mustafa Suleyman, Sarah Guo and Aaron Bastani
 Wed, Nov 18 · 8:00 PM PST
 The Commonwealth Club
 Mustafa Suleyman, Microsoft AI CEO, investor Sarah Guo, and writer and Novara Media cofounder Aaron Bastani will discuss what becomes scarce when intelligence is abundant, in a conversation moderated by Bloomberg’s Shirin Ghaffary. The event will also launch the second issue of *The Humanist Review of AI*, a quarterly journal exploring AI’s impact on society.
-Nov 13
-EVOLVE: 8090 AI Hackathon
-Fri, Nov 13 · 5:00 PM EST LIVE
-8090 HQ
-Builders will tackle an overnight sprint to modernize legacy enterprise systems with AI, creating and demoing tools alongside mentors from 8090 and Vercel. More than $3,000 in prizes will be up for grabs.
 Nov 13
 Diwali Festiverse Agent to Agent Hackathon (SF Edition)
 Fri, Nov 13 · 4:00 PM PST LIVE
@@ -46,64 +36,24 @@ San Francisco, CA
 Stanford and Berkeley students and alumni will compete with enterprise AI experts to build, launch, and grow AI products, with a guaranteed $5,000 prize pool that could reach $10,000. Organized by YC-backed HarnessRouter Labs, the November 2026 hackathon will also offer select winners YC application coaching and potential investor introductions.
 Nov 14
 AI Research Hackathon
-Sat, Nov 14 · 9:00 AM PST
+Sat, Nov 14 · 9:00 AM PST LIVE
 San Francisco, CA
 Teams of 3–5 will spend 48 hours building AI systems that run experiments, improve themselves, and collaborate as research-agent swarms, with partner tools, benchmarks, compute credits, and lab mentorship. Final demos will be judged by researchers and investors, with cash and partner prizes up for grabs.
 Nov 14
 2026 Epic AI MegaJam | in-person event
-Sat, Nov 14 · 9:00 AM PST
+Sat, Nov 14 · 9:00 AM PST LIVE
 Digital Jungle SF
 The 2026 Epic AI MegaJam will challenge creators to build a playable game in Unreal Engine or UEFN, working solo or in teams of up to five.
 Nov 14
-DNAForge × MTC: AI × Biology Hackathon
-Sat, Nov 14 · 9:00 AM PST
-Berkeley, CA
-DNAForge One will bring about 100 biology students, early-career scientists, and technical builders together for a full-day, hands-on sprint to prototype solutions in therapeutics, biosecurity, and agricultural resilience. Participants will draw on expertise spanning wet-lab and computational biology, medicine, agriculture, machine learning, software engineering, and design.
-Nov 14
-Greptile Outpost
-Sat, Nov 14 · 9:00 AM PST
-SOHN
-Greptile will take over Sohn Cafe for a day of coffee, custom matcha, co-working, and developer conversations, with free War on Bugs T-shirts. The Greptile team will be on hand to answer questions and hear what attendees are building.
-Nov 14
-Drexathon: Nace AI&#x27;s Decision Model Hackathon (win Mac Mini!!)
-Sat, Nov 14 · 9:30 AM PST
-San Francisco, CA
-The Nace AI Hackathon will challenge teams of one or two builders to create agents that make fast, grounded decisions using Drex’s decision model and NDI’s document intelligence. Teams will compete in performance, multi-agent, and wildcard tracks, with live judging and awards recognizing standout builds.
-Nov 14
-SearchHack: Build the next layer of AI search
-Sat, Nov 14 · 10:00 AM PST
-Mountain View, CA
-Participants will build with Telem AI and Tavily, then demo their projects to early-stage investors for feedback and a chance to win an iPhone 18 Pro.
-Nov 14
-She Builds: A Women in AI × Lovable Hackathon
-Sat, Nov 14 · 10:00 AM PST
-San Francisco, CA
-Women in AI will host a full-day, all-levels hackathon with Lovable, where participants will build and publish working AI-powered apps with hands-on mentorship and 100 free build credits. The day will feature live demos, community voting, prizes, and support from Composio, an AI agent integration platform connecting LLMs to more than 1,500 apps.
-Nov 14
-Hive Mind: Building Agent Teams
-Sat, Nov 14 · 10:00 AM PST
-San Francisco, CA
-Build a coordinated AI agent team that uses real software, retains context, and knows when to hand off work or ask for human help, using tools from H Company, Superlinked, Cognee, and BAND.ai. AI engineers, ML specialists, full-stack developers, and product builders will compete on task completion, coordination, and value, with $2,000 in prizes plus credits.
-Nov 14
 Physical AI Hackathon
-Sat, Nov 14 · 10:00 AM PST
+Sat, Nov 14 · 10:00 AM PST LIVE
 San Francisco, CA
 The three-day Physical AI Hackathon, hosted with X Square Robot, will put developers, researchers, students, and hobbyists to work building real-robot applications on a shared platform, with robot kits, compute credits, and support from the robotics team. Teams will compete for $9,000 in prizes, with qualified participants receiving stipends; X Square Robot brings experience building embodied AI models and hardware deployed in homes and logistics.
 Nov 14
-1:1 with execs from OpenAI, NVIDIA, NEA, Cisco, Atlassian | Unstuck your startup | Early stage founders
-Sat, Nov 14 · 12:30 PM PST
-Brower Center
-This founder-focused event will tackle practical pre-seed and seed challenges, from scaling growth and landing major customers to hiring and building reliable AI systems, with actionable takeaways and small off-the-record speaker roundtables. Speakers include startup founders, investors, and senior leaders from Cisco, OpenAI, NVIDIA, Atlassian, and other leading companies.
-Nov 14
 Boat Hackathon Code Aboard The Historic Klamath
-Sat, Nov 14 · 1:00 PM PST
+Sat, Nov 14 · 1:00 PM PST LIVE
 Klamath (Historic Ship)
 Boat Hackathon will challenge builders to ship a project from aboard a boat, with selected teams demoing for investors and fellow builders at an invite-only showcase. Participants will have access to Boat.dev and Context.dev, and the grand prize will recognize the best private AI build.
-Nov 14
-Perverting the Everyday: Co-speculating a Strange Product Catalogue
-Sat, Nov 14 · 1:00 PM PST
-tiat
-Participants will reimagine everyday appliances as strange, misbehaving “smart” products, developing speculative product pitches and lifecycle concepts for a shared online catalogue. The 2.5-hour collaborative workshop will be led by Sang, an Assistant Professor of Human-Centered Design at Cornell University and director of the Machine Poetics Lab, whose work explores human-technology relationships.
 Nov 15
 Hallie McConlogue: How to Save Humanity From AI Extinction
 Sun, Nov 15 · 9:30 AM PST
@@ -124,3 +74,48 @@ AI Code and Coffee Sunday November 15th 2026 @Salesforce Park!
 Sun, Nov 15 · 2:00 PM PST
 Salesforce Park
 SF AI→SI Code &amp; Coffee will return for another meetup, with Luma as the main event platform after last month drew 1,000+ RSVPs.
+Nov 15
+Top AI Researchers Roundtable &amp; BBQ Party in Los Altos Hills
+Sun, Nov 15 · 3:00 PM PST
+Palo Alto, CA
+The November 15 Top AI Researchers Roundtable will bring leading researchers from OpenAI, Google DeepMind, Anthropic, xAI, and other frontier labs together for an off-the-record discussion on AI breakthroughs, compute infrastructure, and emerging technical challenges. The series will draw on the expertise of senior research leaders, including Google DeepMind VP of Research Ed Chi and Stanford professors.
+Nov 16
+INFER/CON
+Mon, Nov 16 · 8:00 AM PST
+San Francisco, CA
+Infercon will share event details and updates through infercon.ai.
+Nov 16
+QCon 2026: Senior Software Engineering Conference
+Mon, Nov 16 · 9:00 AM PST
+Hyatt Regency
+QCon 2026 will bring senior engineers from top tech companies together for five days of deep dives into AI in production, software architecture, leadership, and modern development practices, sharing real-world insights from successful large-scale implementations. This event will feature candid sessions by experienced practitioners and hands-on training designed to elevate strategic and practical skills in engineering leadership and system design.
+Nov 16
+2026 Super Demo Day
+Mon, Nov 16 · 9:30 AM PST
+San Francisco, CA
+This November, 20 standout startups will present across four demo rounds, selected from a pool of 500. The event is geared toward full-time tech operators and founders, with funded startup founders eligible even if they are students.
+Nov 16
+Building the Resilient Enterprise: Data, Cloud, and AI in the Next Era
+Mon, Nov 16 · 12:00 PM PST
+1045 La Avenida St
+CXOs and senior enterprise technology leaders will hear executives from Microsoft, Everpure, and Commvault discuss cyber resilience, hybrid cloud value, and AI-driven business innovation. The workshop will feature a VIP panel on navigating evolving technology priorities.
+Nov 16
+Christopher Ong | Research Acceleration: The View Inside OpenAI
+Mon, Nov 16 · 12:00 PM PST
+Gates Computer Science
+Christopher Ong, a Member of Technical Staff at OpenAI, will speak as part of the seminar series on November 16, 2026.
+Nov 16
+Practical AI Workflow Lab
+Mon, Nov 16 · 1:30 PM PST
+DesignMap
+Participants will turn a real business challenge into a testable AI workflow and leave with a documented prototype ready to refine.
+Nov 16
+Claude for Wealth Managers &amp; Family Offices
+Mon, Nov 16 · 5:00 PM PST
+San Francisco, CA
+Family office principals, wealth managers, LPs, VCs, and private-market investors will explore how Claude can support investment research, due diligence, portfolio monitoring, client communication, and workflow automation through practical examples and live demonstrations. Hosted by 434 VC and House of 434 founder Shilpi Nayak, the session will feature Anthropic Claude Ambassador Travis Johnson.
+Nov 16
+Clips &amp; Cocktails: AI Marketing Happy Hour with OpusClip
+Mon, Nov 16 · 5:30 PM PST
+ZOË
+Social, video, content, community, and field marketers will hear OpusClip CEO Young Zhao and a guest from a leading Bay Area fintech brand discuss what’s working, and what’s hype, in AI-powered short-form video. The evening will also feature ready-to-post clips made from attendee-submitted content and a raffle for Ray-Ban Meta glasses.

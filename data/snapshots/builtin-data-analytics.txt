@@ -95,8 +95,8 @@ As a PhD intern, you will design and develop software solutions for automated tr
 Top Skills:
 C&#x2B;&#x2B; Python R
 New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
 Use For Free
 Enova
 Analytics Internship Summer 2027 (Hybrid)
@@ -170,7 +170,7 @@ Artificial Intelligence Excel Power BI Python R SAS Snowflake SQL
 5
 ...
 ...
-44
+43
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

@@ -89,8 +89,8 @@ Build connectivity products and integrations across backend services, frontend i
 Top Skills:
 Cassandra Envoy Git Go Gradle GraphQL HTTP Java Kubernetes Python React Tcp Tls Typescript Udp
 New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
 Use For Free
 T-Mobile
 Summer 2027 T-Ads Software Engineering Internship
@@ -122,15 +122,15 @@ NBCUniversal
 Media Tech: Product &amp; Engineering Internships - Summer 2027
 <age> Saved
 Hybrid
-New York, NY, USA
+Los Angeles, CA, USA
 38-43 Hourly
 Internship
 38-43 Hourly
 Internship
 AdTech &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology &#x2022; News &#x2B; Entertainment &#x2022; App development
-Paid summer internship for actively enrolled students supporting NBCUniversal’s Media Tech organization. Interns may work in advertising technology integrations, AI-powered enterprise products, or network operations and Wi-Fi. Responsibilities include applying programming skills, working with APIs and structured data, exploring network infrastructure, prototyping AI agents, and contributing to technical projects. The role requires 40 hours per week in New York from June 7 through August 13, 2027.
+Paid Summer 2027 Media Tech internship offering technical experience across platform engineering, studio production technology, and product and AI solutions. Interns may work on enterprise platforms, APIs, cloud technologies, production systems, Salesforce, data modeling, AI agents, prompt engineering, and technology strategy. The program requires full-time availability, active enrollment, U.S. work authorization without sponsorship, and on-site work in Universal City, California.
 Top Skills:
-APIs Generative Ai JavaScript JSON Linux macOS Python Rf Time-Series Databases Typescript Wi-Fi Windows 11
+Ai Agents Api Authentication Ci/Cd Claude Code Cloud Technologies Data Modeling Excel Git Git Github Actions Github Copilot HTTP JSON Llm Integrations Openai Codex Power Apps Power Automate Power BI Prompt Engineering Python Rest Apis Salesforce SQL
 New York Life
 2027 New York Life Direct Summer Internship Program - IBM i Developer
 <age> Saved
@@ -164,7 +164,7 @@ Embeddings Llms Machine Learning React Typescript
 5
 ...
 ...
-83
+82
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters
