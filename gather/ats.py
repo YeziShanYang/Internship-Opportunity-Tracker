@@ -554,7 +554,10 @@ def fetch(
                     final_url=str(response.url)),
                 pages=[payload])
     except Exception as exc:
-        return failed(f"{type(exc).__name__}: {exc}")
+        # The status is kept so `collect` can tell "come back later" (429) from a
+        # refusal, the same as the page and README fetchers already record it.
+        status = exc.response.status_code if isinstance(exc, httpx.HTTPStatusError) else 0
+        return failed(f"{type(exc).__name__}: {exc}", status=status)
 
     # The attempt is finished off here rather than in each fetcher, so the identity and
     # the timing are recorded in exactly one place.

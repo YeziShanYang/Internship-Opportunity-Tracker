@@ -21,6 +21,7 @@ from each other, all the way to HEALTH (spec 10.1):
 """
 from __future__ import annotations
 
+import dataclasses
 import json
 import time
 from typing import Callable
@@ -147,5 +148,69 @@ def collect(
                 artifacts.write_body(source_id, body)
             attempts.append(attempt)
             time.sleep(paths.REQUEST_DELAY_SECONDS)  # spec section 11: be a good citizen
+        retry_refused(sources, attempts, by_name, wants_detail)
     artifacts.write(artifacts.RAW_INDEX, "raw-index", attempts)
     return attempts
+
+
+# A server that answers 429 is saying "come back later", so a source refused that way
+# is asked once more at the end of the run instead of being reported failed on the
+# spot. On 2026-11-14 and 2026-11-16 every Workday board failed in one run (bodies
+# that were not JSON, then HTTP 429), across four Workday clusters and from the first
+# board on, and all of them read normally on 2026-11-15. That is the runner's address
+# being throttled, not this run's own volume, so slowing the crawl would not help.
+RETRY_STATUSES = (429, 503)
+RETRY_PAUSE_SECONDS = 60
+# Two refusals in a row on the second pass means the throttle has not lifted. The rest
+# keep their first failure rather than each being asked again for nothing.
+RETRY_GIVE_UP_AFTER = 2
+
+
+def retry_reason(source: dict[str, str], attempt: models.FetchAttempt) -> str:
+    """Why a failed fetch is worth asking again later in the run, or "" if it is not.
+
+    A 403 or 404 is never retried: a refusal is an answer. A JSON API that returned
+    something other than JSON is treated as throttled, because that is what Workday's
+    boards did on 2026-11-14, the morning before the same boards returned 429.
+    """
+    if attempt.ok or attempt.quarantined:
+        return ""
+    if attempt.status in RETRY_STATUSES:
+        return f"HTTP {attempt.status}"
+    method = (source.get("method") or "").strip()
+    if method in ats.ENDPOINTS and attempt.error.startswith("JSONDecodeError"):
+        return "a response that was not JSON"
+    return ""
+
+
+def retry_refused(
+    sources: list[dict[str, str]],
+    attempts: list[models.FetchAttempt],
+    by_name: dict,
+    wants_detail: Callable[[dict], bool],
+) -> None:
+    """Ask each throttled source once more, after a pause, replacing its attempt.
+
+    The attempt that replaces it carries `meta["retried"]` with the first failure's
+    reason, whatever the second outcome, so HEALTH can say the retry happened.
+    """
+    by_id = {source["source_id"]: source for source in sources}
+    pending = [(index, reason) for index, attempt in enumerate(attempts)
+               if (reason := retry_reason(by_id.get(attempt.source_id, {}), attempt))]
+    if not pending:
+        return
+    time.sleep(RETRY_PAUSE_SECONDS)
+    refused_running = 0
+    for index, reason in pending:
+        source = by_id[attempts[index].source_id]
+        attempt, body = fetch_one(source, by_name, wants_detail)
+        if attempt.ok:
+            artifacts.write_body(source["source_id"], body)
+            refused_running = 0
+        elif retry_reason(source, attempt):
+            refused_running += 1
+        attempts[index] = dataclasses.replace(
+            attempt, meta={**attempt.meta, "retried": reason})
+        time.sleep(paths.REQUEST_DELAY_SECONDS)
+        if refused_running >= RETRY_GIVE_UP_AFTER:
+            break

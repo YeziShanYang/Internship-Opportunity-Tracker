@@ -104,7 +104,12 @@ def build(
                 source_id=attempt.source_id, ok=False,
                 error="fetched, but no longer present in sources.csv"))
             continue
-        results.append(assess_one(source, attempt, artifacts.read_body(attempt.source_id)))
+        result = assess_one(source, attempt, artifacts.read_body(attempt.source_id))
+        if attempt.meta.get("retried"):
+            # Refused on the first pass and asked again (gather.collect.retry_refused).
+            # Carried so HEALTH can say whether the second try worked.
+            result.extra["retried"] = attempt.meta["retried"]
+        results.append(result)
     return results
 
 

@@ -7,6 +7,8 @@ happened -- and the stage forbidden to emit markdown was emitting markdown.
 """
 from __future__ import annotations
 
+import re
+
 from core import models, paths
 
 # Past this many sources, a filter line reports the count instead of the names.
@@ -105,6 +107,61 @@ def filter_lines(reports: list[models.FilterReport]) -> list[str]:
     return lines
 
 
+# Failures that share one cause print as one line once this many sources have it. On
+# 2026-11-16 one HTTP 429 took out 26 Workday boards and printed 26 near-identical
+# lines. Blind sources are never grouped: each of those needs its own look.
+GROUP_FAILURES_AT = 3
+
+
+def _cause(error: str) -> str:
+    """The part of an error that does not name the source, for grouping failures."""
+    status = re.search(r"(?:Client|Server) error '(\d{3} [^']*)'", error)
+    if status:
+        return f"HTTP {status.group(1)}"
+    return re.sub(r"https?://\S+", "<url>", error.splitlines()[0] if error else "").strip()
+
+
+def _shared_causes(
+    failing: list[models.SourceMetrics], sources: dict[str, dict[str, str]]
+) -> dict[str, list[models.SourceMetrics]]:
+    """Causes shared by enough not-yet-blind failures to print as one line."""
+    by_cause: dict[str, list[models.SourceMetrics]] = {}
+    for result in failing:
+        count = int(sources.get(result.source_id, {}).get("consecutive_failures") or 0)
+        if result.quarantined or count >= paths.FAILURE_ESCALATION_THRESHOLD:
+            continue
+        cause = _cause(result.error)
+        if cause:
+            by_cause.setdefault(cause, []).append(result)
+    return {c: g for c, g in by_cause.items() if len(g) >= GROUP_FAILURES_AT}
+
+
+def _retry_note(result: models.SourceMetrics) -> str:
+    if not result.extra.get("retried"):
+        return ""
+    return " Asked again at the end of the run and refused again."
+
+
+def _group_line(
+    cause: str, group: list[models.SourceMetrics], sources: dict[str, dict[str, str]]
+) -> str:
+    counts = sorted({int(sources.get(r.source_id, {}).get("consecutive_failures") or 0)
+                     for r in group})
+    if len(counts) == 1:
+        streak = f"{counts[0]} consecutive failure{'s' if counts[0] != 1 else ''} each"
+    else:
+        streak = f"{counts[0]}-{counts[-1]} consecutive failures"
+    dates = sorted({(sources.get(r.source_id, {}).get("last_success") or "never")[:10]
+                    for r in group})
+    last = dates[0] if len(dates) == 1 else f"{dates[0]} to {dates[-1]}"
+    retried = all(r.extra.get("retried") for r in group)
+    return (
+        f"⚠ {len(group)} sources failed with the same error, {cause} ({streak}, "
+        f"last success {last}): " + ", ".join(sorted(r.source_id for r in group)) + "."
+        + (" All were asked again at the end of the run and refused again." if retried else "")
+    )
+
+
 def source_lines(
     results: list[models.SourceMetrics], sources: dict[str, dict[str, str]]
 ) -> tuple[list[str], list[tuple[str, str, str]]]:
@@ -161,13 +218,22 @@ def source_lines(
             f"breaker has them quarantined: "
             + ", ".join(sorted(r.source_id for r in quarantined))
         )
+    groups = _shared_causes(failing, sources)
+    printed_groups: set[str] = set()
     for result in failing:
         source = sources.get(result.source_id, {})
         count = int(source.get("consecutive_failures") or 0)
         last_success = source.get("last_success") or "never"
+        cause = _cause(result.error)
+        if cause in groups:
+            if cause not in printed_groups:
+                printed_groups.add(cause)
+                lines.append(_group_line(cause, groups[cause], sources))
+            continue
         lines.append(
             f"⚠ {result.source_id}: {count} consecutive failure"
             f"{'s' if count != 1 else ''}, last success {last_success}. {result.error}"
+            + _retry_note(result)
         )
         if count >= paths.FAILURE_ESCALATION_THRESHOLD:
             escalated.append((
@@ -175,6 +241,15 @@ def source_lines(
                 f"SOURCE BLIND — {count} failures running",
                 f"not quiet, blind. Last success {last_success}. {result.error}",
             ))
+    recovered: dict[str, list[str]] = {}
+    for result in results:
+        if result.ok and result.extra.get("retried"):
+            recovered.setdefault(result.extra["retried"], []).append(result.source_id)
+    for reason, ids in recovered.items():
+        lines.append(
+            f"· {len(ids)} source(s) were refused with {reason} on the first pass and read "
+            "on a second try at the end of the run: " + ", ".join(sorted(ids)) + "."
+        )
     for result in results:
         if result.baseline:
             lines.append(
