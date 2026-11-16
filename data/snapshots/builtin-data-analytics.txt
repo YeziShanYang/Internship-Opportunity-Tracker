@@ -31,6 +31,28 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+Rocket
+Customer Correspondence Analyst - Summer 2027
+<age> Saved
+In-Office
+Detroit, MI, USA
+Internship
+Internship
+Fintech &#x2022; Real Estate &#x2022; Sales &#x2022; Financial Services
+Summer 2027 internship supporting team operations through meetings, trainings, reporting, metric analysis, information summaries, presentation materials, meeting notes, and recaps. The role requires effective communication, self-direction, and proficiency with Microsoft Office, including Excel, PowerPoint, and Word.
+Top Skills:
+Excel Microsoft Powerpoint Microsoft Word
+Rocket
+Data Analyst Intern - Summer 2027
+<age> Saved
+In-Office
+Detroit, MI, USA
+Internship
+Internship
+Fintech &#x2022; Real Estate &#x2022; Sales &#x2022; Financial Services
+Supports loan-quality data analytics, metric analysis, reporting, AI-enabled process enhancements, administrative quality-control functions, and process improvement. The intern will attend meetings and training, propose solutions, create presentations and materials, document meeting recaps, and communicate insights using data visualization and Microsoft Office tools.
+Top Skills:
+Artificial Intelligence (Ai) Excel MS Office Microsoft Powerpoint Microsoft Word
 BAE Systems, Inc.
 Customer Analyst Intern - Summer 2027
 <age> Saved
@@ -68,6 +90,10 @@ Other &#x2022; Utilities
 Participate in an 11-week data and AI internship supporting T-Mobile’s B2B data products. Profile and document large datasets, create data dictionaries, build dashboards and reporting tables, validate pipelines, investigate anomalies, and support product development through exploratory analysis, requirements gathering, feasibility assessments, and rapid prototyping.
 Top Skills:
 Azure Power BI Python Snowflake SQL Streamlit Tableau
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Spectrum
 2027 Summer Intern: Revenue Assurance Analyst - Corporate
 <age> Saved
@@ -94,10 +120,6 @@ Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Bi
 As a PhD intern, you will design and develop software solutions for automated trading systems, collaborating closely with the Quantitative Research team.
 Top Skills:
 C&#x2B;&#x2B; Python R
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Enova
 Analytics Internship Summer 2027 (Hybrid)
 <age> Saved
@@ -150,19 +172,6 @@ Cloud &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Machi
 Supports Finance and cross-functional teams by building data pipelines, improving data quality and governance, automating reporting, developing Power BI dashboards, applying AI and analytics, and contributing to financial models, forecasts, reconciliations, and executive insights.
 Top Skills:
 APIs Azure Databricks Dax Etl/Elt Generative Ai Machine Learning Excel Microsoft Fabric Power BI Power Query Python SQL
-Liberty Mutual Insurance
-Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA (Summer 2027)
-<age> Saved
-Hybrid
-3 Locations
-24-27 Hourly
-Internship
-24-27 Hourly
-Internship
-Artificial Intelligence &#x2022; Fintech &#x2022; Insurance &#x2022; Marketing Tech &#x2022; Software &#x2022; Analytics
-An 11-week analyst internship involving qualitative and quantitative data analysis, performance trend research, opportunity identification, and recommendations supporting business decisions in the insurance industry. Interns collaborate individually and in teams, use analytical and technical tools, participate in training, and develop business acumen while exploring potential full-time opportunities.
-Top Skills:
-Artificial Intelligence Excel Power BI Python R SAS Snowflake SQL
 1
 2
 3

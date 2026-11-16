@@ -31,6 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+NBCUniversal
+Media Tech: Product &amp; Engineering Internships - Summer 2027
+<age> Saved
+Hybrid
+New York, NY, USA
+38-43 Hourly
+Internship
+38-43 Hourly
+Internship
+AdTech &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology &#x2022; News &#x2B; Entertainment &#x2022; App development
+Paid summer internship for actively enrolled students supporting NBCUniversal’s Media Tech organization. Interns may work in advertising technology integrations, AI-powered enterprise products, or network operations and Wi-Fi. Responsibilities include applying programming skills, working with APIs and structured data, exploring network infrastructure, prototyping AI agents, and contributing to technical projects. The role requires 40 hours per week in New York from June 7 through August 13, 2027.
+Top Skills:
+APIs Generative Ai JavaScript JSON Linux macOS Python Rf Time-Series Databases Typescript Wi-Fi Windows 11
 BAE Systems, Inc.
 Programmer Analyst Intern - Summer 2027
 <age> Saved
@@ -53,17 +66,6 @@ Cloud &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x202
 Build and deploy full-stack features, AI agents, integrations, and internal enterprise applications for Cloudflare’s People team. Write and review production code, work in sprint-based teams, manage tickets and blockers, use AI-assisted coding tools, coordinate with another intern, and demonstrate shipped products to leadership.
 Top Skills:
 APIs Cloudflare Infrastructure Cursor Edge Computing Figma Git HTTP Javascript/Typescript Mcps Opencode React Serverless Computing Svelte Vue Windsurf
-Micron Technology
-Intern - IT Software Engineer
-<age> Saved
-In-Office
-Boise, ID, USA
-Internship
-Internship
-Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x2022; Machine Learning
-Develop full-stack software supporting Micron’s Business Data Warehouse and data factory. Responsibilities include collaborating with software development and global IT teams, applying the software development lifecycle, communicating with stakeholders, and designing utilities, tools, and frameworks that enable data and analytics solutions. The role requires knowledge of algorithms, databases, SQL, object-oriented programming, software architecture, and programming languages including C# and Python.
-Top Skills:
-C# Graph Databases JavaScript Nosql Databases Power BI Python React Relational Databases Snowflake SQL Tableau
 Spectrum
 2027 Summer Intern: Software Engineer
 <age> Saved
@@ -89,8 +91,8 @@ Build connectivity products and integrations across backend services, frontend i
 Top Skills:
 Cassandra Envoy Git Go Gradle GraphQL HTTP Java Kubernetes Python React Tcp Tls Typescript Udp
 New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
 Use For Free
 T-Mobile
 Summer 2027 T-Ads Software Engineering Internship
@@ -118,19 +120,6 @@ Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Bi
 11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
 Top Skills:
 Distributed Computing Machine Learning Natural Language Processing Web Frameworks
-NBCUniversal
-Media Tech: Product &amp; Engineering Internships - Summer 2027
-<age> Saved
-Hybrid
-Los Angeles, CA, USA
-38-43 Hourly
-Internship
-38-43 Hourly
-Internship
-AdTech &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology &#x2022; News &#x2B; Entertainment &#x2022; App development
-Paid Summer 2027 Media Tech internship offering technical experience across platform engineering, studio production technology, and product and AI solutions. Interns may work on enterprise platforms, APIs, cloud technologies, production systems, Salesforce, data modeling, AI agents, prompt engineering, and technology strategy. The program requires full-time availability, active enrollment, U.S. work authorization without sponsorship, and on-site work in Universal City, California.
-Top Skills:
-Ai Agents Api Authentication Ci/Cd Claude Code Cloud Technologies Data Modeling Excel Git Git Github Actions Github Copilot HTTP JSON Llm Integrations Openai Codex Power Apps Power Automate Power BI Prompt Engineering Python Rest Apis Salesforce SQL
 New York Life
 2027 New York Life Direct Summer Internship Program - IBM i Developer
 <age> Saved
@@ -157,6 +146,19 @@ Artificial Intelligence &#x2022; Productivity &#x2022; Software
 Software Engineering Interns will work on Notion’s Web Infrastructure team, building performant, scalable, and accessible frontend foundations. Responsibilities may include developing reusable web patterns, creating tooling for testing, debugging, and profiling frontend features, and building desktop infrastructure with OS integrations. Candidates should be pursuing a relevant degree, developing React and TypeScript proficiency, have prior internship experience, and demonstrate problem-solving, collaboration, adaptability, user empathy, and interest in AI technologies.
 Top Skills:
 Embeddings Llms Machine Learning React Typescript
+IMC Trading
+Quant Performance Engineer Intern - Summer 2027
+<age> Saved
+Hybrid
+Chicago, IL, USA
+200K-200K Annually
+Internship
+200K-200K Annually
+Internship
+Fintech &#x2022; Machine Learning &#x2022; Software &#x2022; Financial Services
+Performance Engineer Interns conduct quantitative research on exchange and network technologies, design optimization strategies for electronic trading, develop AI agents, ETL pipelines, and Python algorithms, and reverse-engineer and stress-test low-latency systems. They collaborate with traders and hardware and software engineers to improve liquidity-taking, quoting, and ultra-low-latency trading strategies.
+Top Skills:
+Etl Pipelines Machine Learning Network Programming Python Statistical Modeling Systems Programming
 1
 2
 3

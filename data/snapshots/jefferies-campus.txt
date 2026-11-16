@@ -218,12 +218,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:2013
 Title:2027 Investment Banking Off Cycle Internship Programme - Saudi Arabia, MENA (January - June)
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2009-Equity-Research-Off-Cycle-Intern-Brazil/en-GB
-Equity Research Off-Cycle Intern - Brazil
-<timestamp>
-<timestamp>
-ID:2009
-Title:Equity Research Off-Cycle Intern - Brazil
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2002-2027-Fixed-Income-Off-Cycle-Internship-Programme-Dubai-MENA-January-February-2027/en-GB
 2027 Fixed Income Off-Cycle Internship Programme - Dubai, MENA (January/February 2027)
 <timestamp>
@@ -272,24 +266,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1961
 Title:2027 Human Resources Summer Analyst Program – Jersey City, Compensation and Benefits
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1792-2027-Investment-Banking-Summer-Internship-Programme-London/en-GB
-2027 Investment Banking Summer Internship Programme - London
-<timestamp>
-<timestamp>
-ID:1792
-Title:2027 Investment Banking Summer Internship Programme - London
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1927-2027-Private-Fund-Advisory-Summer-Internship-Programme-London/en-GB
-2027 Private Fund Advisory Summer Internship Programme - London
-<timestamp>
-<timestamp>
-ID:1927
-Title:2027 Private Fund Advisory Summer Internship Programme - London
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1928-2027-Private-Credit-Investment-Summer-Internship-Programme-London/en-GB
-2027 Private Credit Investment Summer Internship Programme - London
-<timestamp>
-<timestamp>
-ID:1928
-Title:2027 Private Credit Investment Summer Internship Programme - London
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1930-2027-Equity-Sales-and-Trading-Summer-Internship-Programme-London/en-GB
 2027 Equity Sales and Trading Summer Internship Programme - London
 <timestamp>
@@ -326,12 +302,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1929
 Title:2027 Equity Research Summer Internship Programme - London
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1953-2027-Quant-Masters-Summer-Programme-London/en-GB
-2027 Quant Masters Summer Programme - London
-<timestamp>
-<timestamp>
-ID:1953
-Title:2027 Quant Masters Summer Programme - London
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1954-2027-Quant-Fulltime-Programme-Masters-London/en-GB
 2027 Quant Fulltime Programme (Masters) - London
 <timestamp>

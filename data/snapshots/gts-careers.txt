@@ -53,13 +53,6 @@ GTS is seeking a Senior DeFi Trading Systems Engineer to help build and scale ou
 Job Location
 US-NY-New York
 Job Title
-Head of Treasury
-The Treasurer will lead the firm's Treasury and Financing function, with accountability for its strategy, execution,day-to-day management, and overall direction....
-Job Location
-US-NY-New York
-Additional Locations
-US-IL-Chicago
-Job Title
 Software Developer - Java &ndash; Wholesale Market Making Team
 The GTS Wholesale Market Making Team is seeking an experienced Software Engineer specializing in Java to help build, enhance, and scale the order management systems that support our U.S. equities market-making business. This is a hands-on engineering role for someone with strong Java expertise and a practical understanding of electronic trading, order lifecycles, and production trading environments.
 &nbsp;

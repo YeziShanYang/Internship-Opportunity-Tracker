@@ -24,64 +24,24 @@ Diwali Festiverse Agent to Agent Hackathon (SF Edition)
 Fri, Nov 13 · 4:00 PM PST LIVE
 San Francisco, CA
 A Diwali-themed AI agent showdown will challenge teams to build autonomous systems that communicate, delegate, and collaborate on real-world problems using sponsor platforms Agent37, Lyzr, AdaL, Finch, and Band. Tracks will include cybersecurity attack-and-defense and financial market analysis and trading.
-Nov 13
-Physical AI Hackathon
-Fri, Nov 13 · 4:00 PM PST LIVE
-San Francisco, CA
-The three-day Physical AI Hackathon will give teams dedicated robot kits and compute credits to build and deploy models on real robots, with support from X Square Robot’s team and its open-source WALL-OSS foundation model. Developers, researchers, students, and hobbyists will compete for cash prizes, with qualified participants receiving stipends; X Square Robot builds embodied AI models and hardware deployed in homes and logistics.
 Nov 14
 The Big Hack Game: vs
 Sat, Nov 14 · 12:00 AM PST LIVE
 San Francisco, CA
 Stanford and Berkeley students and alumni will compete with enterprise AI experts to build, launch, and grow AI products, with a guaranteed $5,000 prize pool that could reach $10,000. Organized by YC-backed HarnessRouter Labs, the November 2026 hackathon will also offer select winners YC application coaching and potential investor introductions.
 Nov 14
-AI Research Hackathon
-Sat, Nov 14 · 9:00 AM PST LIVE
-San Francisco, CA
-Teams of 3–5 will spend 48 hours building AI systems that run experiments, improve themselves, and collaborate as research-agent swarms, with partner tools, benchmarks, compute credits, and lab mentorship. Final demos will be judged by researchers and investors, with cash and partner prizes up for grabs.
-Nov 14
-2026 Epic AI MegaJam | in-person event
-Sat, Nov 14 · 9:00 AM PST LIVE
-Digital Jungle SF
-The 2026 Epic AI MegaJam will challenge creators to build a playable game in Unreal Engine or UEFN, working solo or in teams of up to five.
-Nov 14
-Physical AI Hackathon
-Sat, Nov 14 · 10:00 AM PST LIVE
-San Francisco, CA
-The three-day Physical AI Hackathon, hosted with X Square Robot, will put developers, researchers, students, and hobbyists to work building real-robot applications on a shared platform, with robot kits, compute credits, and support from the robotics team. Teams will compete for $9,000 in prizes, with qualified participants receiving stipends; X Square Robot brings experience building embodied AI models and hardware deployed in homes and logistics.
-Nov 14
 Boat Hackathon Code Aboard The Historic Klamath
 Sat, Nov 14 · 1:00 PM PST LIVE
 Klamath (Historic Ship)
 Boat Hackathon will challenge builders to ship a project from aboard a boat, with selected teams demoing for investors and fellow builders at an invite-only showcase. Participants will have access to Boat.dev and Context.dev, and the grand prize will recognize the best private AI build.
 Nov 15
-Hallie McConlogue: How to Save Humanity From AI Extinction
-Sun, Nov 15 · 9:30 AM PST
-First Unitarian Universalist Society of San Francisco (UUSF)
-An AI insider will explain why trillions are flowing into increasingly powerful AI and examine the risks that could threaten humanity. The talk will focus on ways to prevent the worst outcomes.
-Nov 15
 vs · The Big Hack Game · Boba tea &amp; up to $10,000 in cash prizes
-Sun, Nov 15 · 10:00 AM PST
+Sun, Nov 15 · 10:00 AM PST LIVE
 UC Berkeley (Cal Alumni House) &amp; Stanford Campus
 The Big Hack Game will pit Stanford against Berkeley in a one-week sprint to build, launch, and grow AI products for real users and enterprise challenges. Participants will get mentorship from YC-backed teams, job referrals, and free boba at the campus kickoff.
-Nov 15
-n8n Buildathon at Santa Clara University with AIC Club
-Sun, Nov 15 · 11:00 AM PST
-San Jose, CA
-An upcoming n8n.io and AIC Club build event will have participants create projects solo or in teams, with free n8n credits, swag, pizza, and prizes on offer. Attendees will bring their laptops and ideas for a no-code creative session.
-Nov 15
-AI Code and Coffee Sunday November 15th 2026 @Salesforce Park!
-Sun, Nov 15 · 2:00 PM PST
-Salesforce Park
-SF AI→SI Code &amp; Coffee will return for another meetup, with Luma as the main event platform after last month drew 1,000+ RSVPs.
-Nov 15
-Top AI Researchers Roundtable &amp; BBQ Party in Los Altos Hills
-Sun, Nov 15 · 3:00 PM PST
-Palo Alto, CA
-The November 15 Top AI Researchers Roundtable will bring leading researchers from OpenAI, Google DeepMind, Anthropic, xAI, and other frontier labs together for an off-the-record discussion on AI breakthroughs, compute infrastructure, and emerging technical challenges. The series will draw on the expertise of senior research leaders, including Google DeepMind VP of Research Ed Chi and Stanford professors.
 Nov 16
 INFER/CON
-Mon, Nov 16 · 8:00 AM PST
+Mon, Nov 16 · 8:00 AM PST LIVE
 San Francisco, CA
 Infercon will share event details and updates through infercon.ai.
 Nov 16
@@ -95,15 +55,15 @@ Mon, Nov 16 · 9:30 AM PST
 San Francisco, CA
 This November, 20 standout startups will present across four demo rounds, selected from a pool of 500. The event is geared toward full-time tech operators and founders, with funded startup founders eligible even if they are students.
 Nov 16
-Building the Resilient Enterprise: Data, Cloud, and AI in the Next Era
-Mon, Nov 16 · 12:00 PM PST
-1045 La Avenida St
-CXOs and senior enterprise technology leaders will hear executives from Microsoft, Everpure, and Commvault discuss cyber resilience, hybrid cloud value, and AI-driven business innovation. The workshop will feature a VIP panel on navigating evolving technology priorities.
-Nov 16
 Christopher Ong | Research Acceleration: The View Inside OpenAI
 Mon, Nov 16 · 12:00 PM PST
 Gates Computer Science
 Christopher Ong, a Member of Technical Staff at OpenAI, will speak as part of the seminar series on November 16, 2026.
+Nov 16
+Building the Resilient Enterprise: Data, Cloud, and AI in the Next Era
+Mon, Nov 16 · 12:00 PM PST
+1045 La Avenida St
+CXOs and senior enterprise technology leaders will hear executives from Microsoft, Everpure, and Commvault discuss cyber resilience, hybrid cloud value, and AI-driven business innovation. The workshop will feature a VIP panel on navigating evolving technology priorities.
 Nov 16
 Practical AI Workflow Lab
 Mon, Nov 16 · 1:30 PM PST
@@ -119,3 +79,43 @@ Clips &amp; Cocktails: AI Marketing Happy Hour with OpusClip
 Mon, Nov 16 · 5:30 PM PST
 ZOË
 Social, video, content, community, and field marketers will hear OpusClip CEO Young Zhao and a guest from a leading Bay Area fintech brand discuss what’s working, and what’s hype, in AI-powered short-form video. The evening will also feature ready-to-post clips made from attendee-submitted content and a raffle for Ray-Ban Meta glasses.
+Nov 16
+Agentic Web #02 — The Browser as an Agent Runtime
+Mon, Nov 16 · 5:30 PM PST
+625 2nd St
+HackerSquad and Bright Data’s second Agentic Web meetup will explore browser-based agents through practical demos and a practitioner panel covering session management, task evaluation, and recovery. Built for agent developers, automation engineers, infrastructure teams, and founders, the event will feature builders sharing the engineering decisions behind systems that act on the live web.
+Nov 16
+Exploring the Future of Generative AI in Engineering and Science
+Mon, Nov 16 · 6:00 PM PST
+MathWorks
+The event will explore how Generative AI will reshape engineering and science, spanning research, design, education, innovation, and everyday workflows.
+Nov 16
+Who&#x27;s Watching the Agents?
+Mon, Nov 16 · 6:00 PM PST
+The Lost Church
+Exe’s second developer meetup will explore where AI agents fit into software, how they behave when given tools, and ways to monitor their actions. Talks and Q&amp;A from Raindrop AI co-founder and CTO Ben Hylak and exe founding engineer Philip Zeyliger will be followed by pizza, drinks, and a magic show.
+Nov 16
+Pear VC | Founders at the Table 创客圆桌
+Mon, Nov 16 · 6:00 PM PST
+Menlo Park, CA
+Pear VC will host a founder dinner featuring candid stories and lessons from leaders at Klarity Health, Skild AI, FOUNTAIN, Pebble, OpusClip, and Palmstreet, followed by dinner and networking. The conversation will be hosted by Pear’s managing partner Mar Hershenson, Pear partners, and other startup community leaders.
+Nov 16
+Women in GTM - Transitioning into an AI-native company
+Mon, Nov 16 · 6:00 PM PST
+San Francisco, CA
+Melanie Goelz, Reducto’s Head of Sales who helped scale Ironclad to over $250M ARR, and Desanka Aleksov, Head of Solutions Engineering with 15+ years building tech go-to-market teams, will share practical advice on moving from SaaS to AI-native roles. The conversation will cover changing skill demands, interview preparation, and lessons from their own transitions, followed by Q&amp;A and networking.
+Nov 16
+Builders Night
+Mon, Nov 16 · 6:30 PM PST
+540 Laguna St
+Builders Night will offer a focused, side-by-side work sprint for people making software, businesses, creative projects, and more, with time to share progress, ask for help, and build momentum. It will bring together builders and operators for a warm, accountability-driven evening centered on the work, not networking or lectures.
+Nov 16
+Women in AI, Tech &amp; Digital Innovation Networking
+Mon, Nov 16 · 7:00 PM PST
+Local Tap
+The event will bring together inspiring women working in artificial intelligence, technology, startups, and digital innovation for networking and connection.
+Nov 16
+Women in Tech, Fintech, AI, Startups, Networking Event &amp; Elevator Pitch
+Mon, Nov 16 · 7:00 PM PST
+Local Tap
+Entry will require registration through the official ticket link; a Meetup RSVP alone will not guarantee access.

@@ -142,9 +142,6 @@ New York
 MBOSS Strategy and Execution Lead, Financial Operations : The D.&nbsp;E.&nbsp;Shaw group seeks a strategy and execution lead to join the Middle/Back Office Strategy and Support (MBOSS) team within Financial Operations. MBOSS drives&hellip;
 Financial Operations
 New York
-Senior Associate, Global Middle Office - Financial Operations : The D.&nbsp;E.&nbsp;Shaw group seeks a motivated and detail-oriented professional to join its growing global Middle Office function. This team supports the lifecycle of the firm’s global&hellip;
-Financial Operations
-New York
 Senior Associate, Management Reporting : The D.&nbsp;E.&nbsp;Shaw group seeks a senior associate with exceptional commercial and analytical skills to join its Management Reporting team within Financial Operations. The team is&hellip;
 Financial Operations / Technology
 New York
@@ -227,9 +224,6 @@ Ventures Platform Associate (Denver) : The D.&nbsp;E.&nbsp;Shaw group seeks a ve
 Quantitative Strategies / Technology
 New York
 Applied AI Engineer : The D.&nbsp;E.&nbsp;Shaw group seeks exceptional software engineers with expertise in applied AI, AI agents, and agentic systems to join the firm. This role offers the chance to work&hellip;
-Quantitative Strategies
-New York
-Machine Learning Researcher : The D.&nbsp;E.&nbsp;Shaw group seeks a machine learning researcher to conduct quantitative research using modern machine learning (ML) techniques. In this role, the researcher will develop&hellip;
 Quantitative Strategies / Technology
 New York
 Product Manager — AI Vendor Tools : The D.&nbsp;E.&nbsp;Shaw group seeks an experienced product manager to join its Application Engineering team. This group develops and maintains a range of internal software solutions,&hellip;
@@ -238,7 +232,7 @@ London
 Quant Systems: Storage Engineer : The D.&nbsp;E.&nbsp;Shaw group seeks an experienced HPC storage engineer to join its Quant Systems team. Quant Systems is a global group responsible for designing, building, and operating&hellip;
 Quantitative Strategies
 New York
-Quantitative Analyst : Quants at the D.&nbsp;E.&nbsp;Shaw group apply mathematical techniques and write software to develop, analyze, and implement statistical models for our computerized financial trading&hellip;
+Quantitative Researcher : The D.&nbsp;E.&nbsp;Shaw group seeks a quantitative researcher to apply mathematical, statistical, and advanced machine learning techniques to the firm’s computerized financial trading&hellip;
 Quantitative Strategies
 New York
 Software Developer : Technology is integral to virtually everything the D.&nbsp;E.&nbsp;Shaw group does, which is why we seek exceptional software developers with a range of quantitative and programming&hellip;
@@ -329,6 +323,11 @@ All Positions in Systems : Are you looking for new challenges and collaborative 
 Various
 Off-site
 Chief Executive Officer, AI-Native Healthcare RCM Platform : The D.&nbsp;E.&nbsp;Shaw group seeks an accomplished and hands-on chief executive officer to lead Cove’s new AI-native healthcare revenue cycle management (RCM) platform. Cove, the firm’s&hellip;
+Various
+New York To apply for this job, please email
+your resume and the job title to recruitment-nyc@world.deshaw.com .
+Engineer, Quant Systems : Join our Quant Systems team in New York
+The D.&nbsp;E.&nbsp;Shaw group seeks engineers to join its Quant Systems team. This is a hands-on technical role within an engineering team&hellip;
 Various
 New York
 Head of Engineering & AI, Healthcare RCM Platform : The D.&nbsp;E.&nbsp;Shaw group seeks an accomplished and hands-on head of engineering & AI to join Cove’s new healthcare revenue cycle management (RCM) platform. Cove, the firm’s&hellip;
@@ -433,10 +432,10 @@ New York
 MBA Investment Analyst (New York) – Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks talented individuals who are currently pursuing an MBA to join the firm's Fundamental Equities, D.&nbsp;E.&nbsp;Shaw Ventures, or Credit Opportunities&hellip;
 Quantitative Strategies
 New York
-Quantitative Analyst Intern (New York) – Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks talented individuals with impressive records of academic and/or professional achievement to join the firm as quantitative analyst interns. Interns&hellip;
+Quantitative Researcher Intern (New York) – Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks talented individuals with impressive records of academic and/or professional achievement to join the firm as quantitative researcher interns. Interns&hellip;
 Quantitative Strategies
 New York
-Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks talented Ph.D. candidates with impressive records of academic and/or professional achievement to join the firm as quantitative analyst interns. Ph.D.&hellip;
+Quantitative Researcher, Ph.D. Intern (New York) – Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks talented Ph.D. candidates with impressive records of academic and/or professional achievement to join the firm as quantitative researcher interns.&hellip;
 Software Development
 New York
 Software Developer Intern (New York) – Summer 2027 : The D.&nbsp;E.&nbsp;Shaw group seeks talented individuals with impressive records of academic and/or professional achievement to join the firm as software developer interns. Interns&hellip;
