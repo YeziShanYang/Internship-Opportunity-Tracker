@@ -335,7 +335,12 @@ class AcceptanceTests(_IsolatedState, unittest.TestCase):
         self.assertIn("**High** · source blind", body)
         self.assertIn("SOURCE BLIND", body)
         self.assertIn("4 failures running", body)
-        self.assertIn("source failing", title)
+        # The title stays plain: the table row is the alarm. But a blind morning is
+        # never titled as a quiet one, even if a caller marks it status-only.
+        self.assertNotIn("source failing", title)
+        self.assertNotIn("(no changes)", title)
+        title, _ = digest.render([], _metrics(result), {"nuft-2027": source}, status_only=True)
+        self.assertNotIn("(no changes)", title, "a blind source must never read as quiet")
 
     def test_14_3c_an_empty_readme_is_a_failure_not_a_quiet_day(self):
         """A restructure that parses to nothing must alert, not report zero changes."""
@@ -2942,7 +2947,7 @@ class CircuitBreakerTests(_IsolatedState, unittest.TestCase):
         self.assertIn("not fetched at all", body)
         self.assertIn("gts-careers", body)
         self.assertIn("SOURCE BLIND", body, "still escalated into the table")
-        self.assertIn("source failing", title)
+        self.assertNotIn("(no changes)", title)
 
 
 class GoneProgrammePageTests(_IsolatedState, unittest.TestCase):

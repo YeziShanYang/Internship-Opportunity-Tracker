@@ -385,9 +385,12 @@ def render(
                      and not urgency.in_top_block(j)], key=urgency.order)
     ruled_out = [j for j in judgments if not j.relevant]
 
-    if escalated:
-        title = f"Opportunity digest — {today} (source failing)"
-    elif status_only:
+    # A blind source no longer marks the title. It used to append "(source failing)",
+    # and some source was blind on every digest from 2026-11-03 to 2026-11-16, so the
+    # suffix carried no information. Blind sources are still High rows in the table and
+    # still counted in HEALTH. What stays is the other half of the rule: a morning with
+    # a blind source is never titled "(no changes)", because that would read as quiet.
+    if status_only and not escalated:
         # Quiet days mail now, so the title has to carry the whole message for an owner
         # triaging a notification list without opening anything.
         title = f"Opportunity digest — {today} (no changes)"

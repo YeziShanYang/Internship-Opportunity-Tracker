@@ -1,4 +1,4 @@
-Opportunity digest — 2026-09-12 (source failing)
+Opportunity digest — 2026-09-12
 
 Opportunity digest — 2026-09-12
 
