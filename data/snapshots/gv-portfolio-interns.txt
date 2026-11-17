@@ -36,7 +36,7 @@ Livermore, California, United States, Livermore Posted <age>
 Design and Engineering
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-CAD Diagnostics Plasma Physics Machining Classification Algorithms Analytics Tools Optics Clearance Automation C/C++
+Python Automation Export Controls Classification Algorithms CAD Plasma Physics Clearance Analytics Tools C/C++ Machining
 Apply
 #LI-DNI Flick AI Social Media Content Creator Intern
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -44,15 +44,7 @@ Similar jobs pay USD 35,000 - 65,000 / year
 Remote Remote (US) Posted <age>
 AI
 Seed, 10–100 employees
-Film Production Artificial Intelligence LinkedIn Social Media Instagram Content Development
-Apply
-#LI-DNI Flick Reddit Growth Intern
-Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
-Similar jobs pay USD 40,000 - 100,000 / year
-Remote Remote (US) Posted <age>
-AI
-Seed, 10–100 employees
-Film Production Dynamic Systems Artificial Intelligence User Acquisition Instagram
+Artificial Intelligence Instagram Social Media Film Production LinkedIn Content Development
 Apply
 #LI-DNI Armadin Security Summer 2027 Internship - Member of Technical Staff - Frontend
 Always confirm salary details from the job posting.
@@ -61,7 +53,15 @@ Palo Alto, California, United States, Palo Alto Posted 30+ days ago
 Internships
 AI, Computer &amp; Network Security
 Growth
-User Experience Artificial Intelligence Data Visualization Python D3.js Rendering
+Artificial Intelligence User Experience Python Data Visualization D3.js Rendering
+Apply
+#LI-DNI Flick Reddit Growth Intern
+Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
+Similar jobs pay USD 40,000 - 100,000 / year
+Remote Remote (US) Posted <age>
+AI
+Seed, 10–100 employees
+Artificial Intelligence Instagram User Acquisition Film Production Dynamic Systems
 Apply
 #LI-DNI Odyssey Research Internship
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -70,13 +70,13 @@ Palo Alto, California, United States, London, England, United Kingdom, Palo Alto
 Engineering
 AI
 Growth, 10–100 employees
-Artificial Intelligence Research Infrastructure Robotics Online Gaming Mentorship
+Artificial Intelligence Research Mentorship Online Gaming Robotics Infrastructure
 Apply
 #LI-DNI Flick AI Creative Intern
 Remote Remote (US) Posted 30+ days ago
 AI
 Seed, 10–100 employees
-Film Production Adobe Premiere Pro Artificial Intelligence Final Cut Pro DaVinci Instagram Video Editing
+Artificial Intelligence Instagram Final Cut Pro Video Editing Adobe Premiere Pro Film Production DaVinci
 Apply
 #LI-DNI Armadin Security Summer 2027 Internship - Member of Technical Staff - Agent Systems
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -85,7 +85,7 @@ Palo Alto, California, United States, Palo Alto Posted 30+ days ago
 Internships
 AI, Computer &amp; Network Security
 Growth
-Artificial Intelligence Data Visualization Python D3.js Agent Systems Rendering
+Artificial Intelligence Python Data Visualization Agent Systems D3.js Rendering
 Apply
 #LI-DNI Flick Motion &amp; Graphic Design Intern
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -93,7 +93,7 @@ Similar jobs pay USD 50,000 - 85,000 / year
 Remote Remote (US) Posted 30+ days ago
 AI
 Seed, 10–100 employees
-Visual Communication Illustrator Film Production Photoshop Artificial Intelligence Typography Figma Marketing Social Media Graphic Design
+Artificial Intelligence Instagram Social Media Visual Communication Photoshop Figma Film Production Motion Graphics Marketing After Effects
 Apply
 #LI-DNI Flick GTM Intern
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -101,7 +101,7 @@ Similar jobs pay USD 40,000 - 290,000 / year
 Remote Remote (US) Posted 30+ days ago
 AI
 Seed, 10–100 employees
-Marketing Strategy Film Production Artificial Intelligence Instagram
+Artificial Intelligence Instagram Marketing Strategy Film Production
 Apply
 #LI-DNI Gravity Business Intern
 New York, New York, United States Posted 30+ days ago

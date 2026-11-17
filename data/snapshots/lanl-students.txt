@@ -126,6 +126,8 @@ A-1/Computational Intelligence &amp; Modeling Group
 A-2/Intelligence &amp; Systems Analysis
 A-3/Technology Applications
 A-3/Technology Applications Group
+A-4 / Advanced Research in Cyber Systems
+A-4/ Advanced Research in Cyber Systems
 A-4/Advanced Research in Cyber Systems
 A-5/ Nuclear Threat Reduction &amp; Deterrence
 A-5/Complex Response Solutions
@@ -138,6 +140,7 @@ ADS-BADS/Business Applications &amp; Data Services
 ADS-DO/Application &amp; Data Services
 ALDBUS ERP Program Office (ALDBUS-ERP)
 ALDCELS
+ALDDP
 ALDDP / Associate Laboratory Director for Defense Protection
 ALDDP-OCCI/Office of Classification and Controlled Information
 ALDESHQ-RSO/Repository Science and Operations
@@ -174,6 +177,8 @@ AOT-RFE/RF Engineering
 Applied Mathematics And Plasma Physics/T-5
 ASD/Advance Sources and Detectors
 ASD-TSPE/ASD Technical Support and Project Execution
+Associate Laboratory Director for Facilities and Operations (ALDFO)
+Associate Laboratory Directorate for Environment, Safety, Health and Quality (ALDESHQ)
 Automation, Robotics &amp; Controls
 B-DO / Bioscience
 B-DO Bioscience
@@ -196,6 +201,7 @@ CAI-4/Statistics Group
 CAI-DO / Computing &amp; Artificial Intelligence
 CAI-DO Computing and Artificial Intelligence
 CAI-DO/Computing and Artificial Intelligence
+C-CDE / Chemical Diagnostics And Engineering
 C-CDE/ Chemical Diagnostics And Engineering
 C-CDE/Chemical Diagnostics And Engineering
 CEA-TEC / Technical Editing and Communications
@@ -398,6 +404,7 @@ MPA-CINT/Center For Integrated Nanotechnologies
 MPA-CINT/Center For Integrated Nanotechnologies Group
 MPA-MAG Lab NHMFL Group (MPA-MAGLAB)
 MPA-MAG LAB NHMFL GROUP/MPA-MAGLAB
+MPA-MAGLAB
 MPA-MAGLAB / MPA-MAG LAB NHMFL GROUP
 MPA-MAGLAB/ National High Magnetic Field Laboratory
 MPA-Q / MPA-Quantum
@@ -440,6 +447,8 @@ NEN-5 / Nuclear Systems
 NEN-5/Nuclear Systems
 Non-Destructive Assay &amp; Vault Operations (NDA-VO)
 Non-Destructive Assay &amp; Vault Operations/NDA-VO
+NPI-11/ Fissile Plutonium Operations
+NPI-7/ Nuclear Materials and TRU Waste Shipping
 NSEC-PSPO / Postdoc and Student Program
 NSEC-PSPO/Postdoc and Student Programs Office
 NUC &amp; PARTICLE PHYS, ASTROPHYS &amp; COSMOL/T-2
@@ -472,6 +481,7 @@ P-4 / Thermonuclear Plasma Physics
 P-4/Thermonuclear Plasma Physics
 PA/Project Analytics
 PA-2/ Assurance Verification &amp; Operations
+PAT / Production Analysis and Transformation
 PAT-2 / Technical And Personnel Pipelines
 PC / Project Controls
 PC /Project Controls
@@ -494,6 +504,7 @@ PFE-DO/ Plutonium Facilities Engineering Division Office
 PFE-DO/PLUTONIUM FACILITIES ENGINEERING DIVISION OFFICE
 PFE-EBP/Essential Balance of Plant Systems
 PFE-GB/Plutonium Facilities Engineering Glovebox Group
+PFE-PE Project Engineering
 PFE-PE/ Project Engineering
 PFE-PE/Project Engineering
 PFE-RCMR/CMR &amp; RLUOB
@@ -523,6 +534,7 @@ Plutonium Infrastructure Engineering (PIE-INST1)
 Plutonium Infrastructure Engineering Division (PIE-DO)
 Plutonium Machining/PT-2
 Plutonium NDE &amp; Inspection/PT-7
+Plutonium Tooling/PT-8
 PM/Project Management
 PM-DO /Project Management Division
 PM-DO/Project Management Division
@@ -548,6 +560,7 @@ PSD-DO/Plutonium Supply and Disposition
 PSP-5/Power Supply Production
 PSP-6/PS Assembly &amp; Product Characterization
 PSP-6/PS Assembly and Product Characterization
+PSP-DO/Power Supply Production
 PSS-1/Manufacturing Systems &amp; Infrastructure Support
 PSS-2/Operational Safety &amp; Compliance Programs
 PSS-4/Factory Operations &amp; Industrial Engineering
@@ -604,6 +617,7 @@ SIGMA-DO/SIGMA-DIvision Office
 SIGMA-OPS/SIGMA Operations
 SIGMA-OPS/Sigma Operations Group
 SO-PS/Personal Security
+SO-PS/Personnel Security Group
 SO-SS/Security Systems
 SP-DS/Deployed Security
 SPM-PM/Program Managment
@@ -652,6 +666,7 @@ TA55-OPS2/TA-55 Facility Operations
 T-DO/THEORETICAL
 T-DO/Theoretical Division
 Technical Area 55/TA55-DO
+Technical Training Center - Training Systems &amp; Standards (TTC-TSS)
 Technical Training Center (TTC-DO)
 The Dynamic Structure Design, Engineering, and Vessel Operations Group/ J-2
 The Technical Training Center (TTC) Training Systems and Standards Group
@@ -660,6 +675,7 @@ UI-EST/UI - Electric, Steam and Turbine Operations
 UI-PATS/UI - Parking and Transportation Services
 UI-RM/UI - Reinvestment &amp; Modernization
 UI-RM/Utilities &amp; Infrastructure - Reinvestment and Modernization
+UI-TOS/UI - Traffic &amp; Open Space Operations
 UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
 UI-WGW/UI - Water, Gas and Waste Water Operations
 V-14/Test Engineering
@@ -706,7 +722,9 @@ XCP-AI4ND/Artificial Intelligence for Nuclear Deterrence Group
 XTD-DO /Theoretical Design
 XTD-DO/X Theoretical Design
 XTD-IDA/XTD Integrated Dessign &amp; Assessment
+XTD-IDA/XTD-Integrated Design &amp; Assessment
 XTD-PRI / XTD PRIMARY PHYSICS
+XTD-RTA / X-Theoretical Design Radiation Transport Applications
 XTD-RTA/Radiation Transport Applications
 XTD-RTA/X-Theoretical Design Radiation Transport Applications
 Organization
@@ -727,6 +745,8 @@ A-1/Computational Intelligence &amp; Modeling Group
 A-2/Intelligence &amp; Systems Analysis
 A-3/Technology Applications
 A-3/Technology Applications Group
+A-4 / Advanced Research in Cyber Systems
+A-4/ Advanced Research in Cyber Systems
 A-4/Advanced Research in Cyber Systems
 A-5/ Nuclear Threat Reduction &amp; Deterrence
 A-5/Complex Response Solutions
@@ -739,6 +759,7 @@ ADS-BADS/Business Applications &amp; Data Services
 ADS-DO/Application &amp; Data Services
 ALDBUS ERP Program Office (ALDBUS-ERP)
 ALDCELS
+ALDDP
 ALDDP / Associate Laboratory Director for Defense Protection
 ALDDP-OCCI/Office of Classification and Controlled Information
 ALDESHQ-RSO/Repository Science and Operations
@@ -775,6 +796,8 @@ AOT-RFE/RF Engineering
 Applied Mathematics And Plasma Physics/T-5
 ASD/Advance Sources and Detectors
 ASD-TSPE/ASD Technical Support and Project Execution
+Associate Laboratory Director for Facilities and Operations (ALDFO)
+Associate Laboratory Directorate for Environment, Safety, Health and Quality (ALDESHQ)
 Automation, Robotics &amp; Controls
 B-DO / Bioscience
 B-DO Bioscience
@@ -797,6 +820,7 @@ CAI-4/Statistics Group
 CAI-DO / Computing &amp; Artificial Intelligence
 CAI-DO Computing and Artificial Intelligence
 CAI-DO/Computing and Artificial Intelligence
+C-CDE / Chemical Diagnostics And Engineering
 C-CDE/ Chemical Diagnostics And Engineering
 C-CDE/Chemical Diagnostics And Engineering
 CEA-TEC / Technical Editing and Communications
@@ -999,6 +1023,7 @@ MPA-CINT/Center For Integrated Nanotechnologies
 MPA-CINT/Center For Integrated Nanotechnologies Group
 MPA-MAG Lab NHMFL Group (MPA-MAGLAB)
 MPA-MAG LAB NHMFL GROUP/MPA-MAGLAB
+MPA-MAGLAB
 MPA-MAGLAB / MPA-MAG LAB NHMFL GROUP
 MPA-MAGLAB/ National High Magnetic Field Laboratory
 MPA-Q / MPA-Quantum
@@ -1041,6 +1066,8 @@ NEN-5 / Nuclear Systems
 NEN-5/Nuclear Systems
 Non-Destructive Assay &amp; Vault Operations (NDA-VO)
 Non-Destructive Assay &amp; Vault Operations/NDA-VO
+NPI-11/ Fissile Plutonium Operations
+NPI-7/ Nuclear Materials and TRU Waste Shipping
 NSEC-PSPO / Postdoc and Student Program
 NSEC-PSPO/Postdoc and Student Programs Office
 NUC &amp; PARTICLE PHYS, ASTROPHYS &amp; COSMOL/T-2
@@ -1073,6 +1100,7 @@ P-4 / Thermonuclear Plasma Physics
 P-4/Thermonuclear Plasma Physics
 PA/Project Analytics
 PA-2/ Assurance Verification &amp; Operations
+PAT / Production Analysis and Transformation
 PAT-2 / Technical And Personnel Pipelines
 PC / Project Controls
 PC /Project Controls
@@ -1095,6 +1123,7 @@ PFE-DO/ Plutonium Facilities Engineering Division Office
 PFE-DO/PLUTONIUM FACILITIES ENGINEERING DIVISION OFFICE
 PFE-EBP/Essential Balance of Plant Systems
 PFE-GB/Plutonium Facilities Engineering Glovebox Group
+PFE-PE Project Engineering
 PFE-PE/ Project Engineering
 PFE-PE/Project Engineering
 PFE-RCMR/CMR &amp; RLUOB
@@ -1124,6 +1153,7 @@ Plutonium Infrastructure Engineering (PIE-INST1)
 Plutonium Infrastructure Engineering Division (PIE-DO)
 Plutonium Machining/PT-2
 Plutonium NDE &amp; Inspection/PT-7
+Plutonium Tooling/PT-8
 PM/Project Management
 PM-DO /Project Management Division
 PM-DO/Project Management Division
@@ -1149,6 +1179,7 @@ PSD-DO/Plutonium Supply and Disposition
 PSP-5/Power Supply Production
 PSP-6/PS Assembly &amp; Product Characterization
 PSP-6/PS Assembly and Product Characterization
+PSP-DO/Power Supply Production
 PSS-1/Manufacturing Systems &amp; Infrastructure Support
 PSS-2/Operational Safety &amp; Compliance Programs
 PSS-4/Factory Operations &amp; Industrial Engineering
@@ -1205,6 +1236,7 @@ SIGMA-DO/SIGMA-DIvision Office
 SIGMA-OPS/SIGMA Operations
 SIGMA-OPS/Sigma Operations Group
 SO-PS/Personal Security
+SO-PS/Personnel Security Group
 SO-SS/Security Systems
 SP-DS/Deployed Security
 SPM-PM/Program Managment
@@ -1253,6 +1285,7 @@ TA55-OPS2/TA-55 Facility Operations
 T-DO/THEORETICAL
 T-DO/Theoretical Division
 Technical Area 55/TA55-DO
+Technical Training Center - Training Systems &amp; Standards (TTC-TSS)
 Technical Training Center (TTC-DO)
 The Dynamic Structure Design, Engineering, and Vessel Operations Group/ J-2
 The Technical Training Center (TTC) Training Systems and Standards Group
@@ -1261,6 +1294,7 @@ UI-EST/UI - Electric, Steam and Turbine Operations
 UI-PATS/UI - Parking and Transportation Services
 UI-RM/UI - Reinvestment &amp; Modernization
 UI-RM/Utilities &amp; Infrastructure - Reinvestment and Modernization
+UI-TOS/UI - Traffic &amp; Open Space Operations
 UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
 UI-WGW/UI - Water, Gas and Waste Water Operations
 V-14/Test Engineering
@@ -1307,7 +1341,9 @@ XCP-AI4ND/Artificial Intelligence for Nuclear Deterrence Group
 XTD-DO /Theoretical Design
 XTD-DO/X Theoretical Design
 XTD-IDA/XTD Integrated Dessign &amp; Assessment
+XTD-IDA/XTD-Integrated Design &amp; Assessment
 XTD-PRI / XTD PRIMARY PHYSICS
+XTD-RTA / X-Theoretical Design Radiation Transport Applications
 XTD-RTA/Radiation Transport Applications
 XTD-RTA/X-Theoretical Design Radiation Transport Applications
 City, State
@@ -1350,14 +1386,16 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 27
+Showing 12 out of 28
 Job Title
 Job Number
 Organization
 City, State
+A-4 Undergraduate Student IRC147019 A-4 / Advanced Research in Cyber Systems Los Alamos, NM
+LANL LAESF Scholars Technical Internship Program IRC147038 PAT / Production Analysis and Transformation Los Alamos, NM
+LANL LAESF Scholars Administrative Internship Program IRC147039 PAT / Production Analysis and Transformation Los Alamos, NM
 Professional (non-STEM) - Undergraduate Student Intern IRC146778 MSS-OOI / MSS- Office of Improvement Los Alamos, NM
 Undergrad Student ST 1 IRC146706 PSD-4 / Material Recovery and Recycle Los Alamos, NM
-Plasma Physics Undergraduate Students IRC146637 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 Applied Mathematics Undergraduate Students IRC146635 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 RFID Software Developer - Undergraduate Student IRC146481 NEN-1 / Safeguards Science and Techno Los Alamos, NM
 ALDDP Undergraduate Student IRC146477 ALDDP / Associate Laboratory Director for Defense Protection Los Alamos, NM
@@ -1365,10 +1403,8 @@ NEN-2 Undergraduate Student IRC146390 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY Los Al
 Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
 Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
 WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
-Undergraduate and Graduating High Schools Senior Internship - Engineering IRC146161 Various Organizations Los Alamos, NM
-Undergraduate and Graduating High School Senior Internship - Professional/Non-Technical IRC146162 Various Organizations Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 27
+Showing 12 out of 28
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

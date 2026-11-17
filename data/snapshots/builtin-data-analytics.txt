@@ -31,28 +31,15 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
-Rocket
-Customer Correspondence Analyst - Summer 2027
+TransUnion
+Data Analysis Internship - Summer 2027
 <age> Saved
-In-Office
-Detroit, MI, USA
+Hybrid
+Chicago, IL, USA
 Internship
 Internship
-Fintech &#x2022; Real Estate &#x2022; Sales &#x2022; Financial Services
-Summer 2027 internship supporting team operations through meetings, trainings, reporting, metric analysis, information summaries, presentation materials, meeting notes, and recaps. The role requires effective communication, self-direction, and proficiency with Microsoft Office, including Excel, PowerPoint, and Word.
-Top Skills:
-Excel Microsoft Powerpoint Microsoft Word
-Rocket
-Data Analyst Intern - Summer 2027
-<age> Saved
-In-Office
-Detroit, MI, USA
-Internship
-Internship
-Fintech &#x2022; Real Estate &#x2022; Sales &#x2022; Financial Services
-Supports loan-quality data analytics, metric analysis, reporting, AI-enabled process enhancements, administrative quality-control functions, and process improvement. The intern will attend meetings and training, propose solutions, create presentations and materials, document meeting recaps, and communicate insights using data visualization and Microsoft Office tools.
-Top Skills:
-Artificial Intelligence (Ai) Excel MS Office Microsoft Powerpoint Microsoft Word
+Big Data &#x2022; Fintech &#x2022; Information Technology &#x2022; Business Intelligence &#x2022; Financial Services &#x2022; Cybersecurity &#x2022; Big Data Analytics
+Paid 12-week internship reviewing and normalizing driving violation data, researching state and local statutes, classifying DMV values, and updating coverage information in the system of record. The intern will support data accuracy for insurance products through research, basic data querying, and collaboration with data, technology, sales, and acquisition teams. This is a hybrid role requiring at least two days per week in a TransUnion office.
 BAE Systems, Inc.
 Customer Analyst Intern - Summer 2027
 <age> Saved
@@ -90,10 +77,6 @@ Other &#x2022; Utilities
 Participate in an 11-week data and AI internship supporting T-Mobile’s B2B data products. Profile and document large datasets, create data dictionaries, build dashboards and reporting tables, validate pipelines, investigate anomalies, and support product development through exploratory analysis, requirements gathering, feasibility assessments, and rapid prototyping.
 Top Skills:
 Azure Power BI Python Snowflake SQL Streamlit Tableau
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 Spectrum
 2027 Summer Intern: Revenue Assurance Analyst - Corporate
 <age> Saved
@@ -107,6 +90,10 @@ eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; M
 Supports revenue assurance by identifying and quantifying revenue recognition and risk mitigation opportunities. Maintains reports, updates SQL queries, creates datasets, validates billing-system data, collaborates with technical and functional teams, and assists with recurring reporting and month-end processing. The paid, full-time internship also includes professional development, mentorship, networking, and cross-functional activities.
 Top Skills:
 Claude Kiro MS Office SQL
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 Citadel
 Quantitative Research Engineer - PhD Intern (US)
 <age> Saved
@@ -179,7 +166,7 @@ APIs Azure Databricks Dax Etl/Elt Generative Ai Machine Learning Excel Microsoft
 5
 ...
 ...
-43
+44
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

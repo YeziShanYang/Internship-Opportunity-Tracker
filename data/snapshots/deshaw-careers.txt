@@ -107,6 +107,9 @@ COO Group Associate : The D.&nbsp;E.&nbsp;Shaw group seeks a creative, critical 
 Corporate Development
 New York
 Corporate Development Associate : The D.&nbsp;E.&nbsp;Shaw group seeks a talented associate to join its Corporate Development team. This team is responsible for proposing, developing, and executing high-priority&hellip;
+Corporate Development
+New York
+Corporate Development Senior Associate : The D.&nbsp;E.&nbsp;Shaw group seeks a talented senior associate to join its Corporate Development team. This team is responsible for proposing, developing, and executing high-priority&hellip;
 Design and Experience
 New York
 Product Designer : The D.&nbsp;E.&nbsp;Shaw group seeks a product designer to join the Human Capital team focused on delivering high-quality, organized design execution across multiple platforms. The team&hellip;
@@ -158,6 +161,9 @@ Strategic Intelligence: Software & AI Research Analyst (Denver) : The D.&nbsp;E.
 Human Capital
 New York
 AI and DevOps Engineer – Human Capital : The D.&nbsp;E.&nbsp;Shaw group seeks an AI and DevOps engineer to join its Human Capital Generative AI (HC GAI) team, which designs, builds, and operates generative AI solutions that&hellip;
+Human Capital
+New York
+Campus Programs Specialist : The D.&nbsp;E.&nbsp;Shaw group seeks an experienced campus specialist to join its Human Capital team and help drive the firm's end-to-end campus engagement strategy. This specialist will&hellip;
 Human Capital
 New York
 External Writing Coach (Contractor – Intermittent Services) : The D.&nbsp;E.&nbsp;Shaw group seeks a skilled writing coach contractor to provide intermittent individualized coaching services to staff to strengthen their writing skills. These&hellip;
@@ -316,6 +322,9 @@ New York
 Technical Program Manager - Generative AI Tech Services : The D.&nbsp;E.&nbsp;Shaw group seeks a program manager to join its Generative AI Tech Services team. This team develops and operates a wide-ranging suite of generative-AI products and&hellip;
 Technology
 New York
+Trading Systems Ops Engineer : The D.&nbsp;E.&nbsp;Shaw group seeks an accomplished engineer to join its innovative trading systems ops group. The engineer will be part of a global team that provides real-time support&hellip;
+Technology
+New York
 Video and Voice Engineer : The D.&nbsp;E.&nbsp;Shaw group seeks a voice and video engineer to join its Systems team. This team oversees the firm’s global voice and video infrastructure, including calling platforms,&hellip;
 Technology
 New York
@@ -401,7 +410,7 @@ Contact
 4.4 Internships
 We’re looking for exceptional students from all academic disciplines to join our internship program.
 As an intern, you’ll focus on some of the most challenging and interesting problems in finance and technology, while learning from experienced managers, participating in tailored educational programming, and sharing in community-building social events with fellow interns and employees.
-3 video s Our Internships and Interview Process:
+4 video s Our Internships and Interview Process:
 4.4.1 Find Your Internship
 I am a student interested in
 All available internships

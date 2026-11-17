@@ -15,20 +15,6 @@ Program (Event):Firmwide
 Event description:バンク・オブ・アメリカでは、弊社の業務内容や企業文化、そして実際に働く社員について、学生のみなさんにより深く知っていただくために、当社内にてイベントの開催を予定しております。 詳細が決まり次第メールでお知らせいたしますので、こちらにご登録をお願いいたします。
 Event address / venue details:.
 Event Timezone:Asia/Tokyo
-https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/15268-Bank-of-America-Hedge-Fund-Future-Leaders-Forum/en-GB
-Bank of America Hedge Fund Future Leaders Forum
-<timestamp>
-<timestamp>
-~~DATADICT_OPTGROUP_POSTING_LIST_OPP_ID~~:15268
-Title:Bank of America Hedge Fund Future Leaders Forum
-Event Date:23 Nov 2026 06:00 PM HKT
-Region:Asia Pacific
-Country:Hong Kong
-Line of Business:GLOBAL MARKETS
-Program (Event):Global Equities Program
-Event description:Founded in London in 1997, Marshall Wace is one of the world’s leading alternative investment managers, combining deep fundamental research, systematic investing, data science and technology to invest across global markets. Join us in Hong Kong for an exc
-Event address / venue details:Shortlisted candidates will receive a confirmation email from us.
-Event Timezone:Asia/Hong_Kong
 https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/2/opp/15242-Bank-of-America-Early-Insights-Event/en-GB
 Bank of America | Early Insights Event
 <timestamp>
