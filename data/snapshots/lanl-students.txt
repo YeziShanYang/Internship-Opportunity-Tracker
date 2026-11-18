@@ -143,6 +143,7 @@ ALDCELS
 ALDDP
 ALDDP / Associate Laboratory Director for Defense Protection
 ALDDP-OCCI/Office of Classification and Controlled Information
+ALDESHQ / Associate Laboratory Directorate Environment, Safety, Health, and Quality
 ALDESHQ-RSO/Repository Science and Operations
 ALDGS/Associate Laboratory Director for Global Security
 ALDPI/LIP Decontamination &amp; Decommissioning
@@ -195,6 +196,7 @@ CAI-2 / Computational Physics and Methods Group
 CAI-2/Computational Physics and Methods
 CAI-2/Computational Physics and Methods Group
 CAI-3 / Information Sciences
+CAI-3/ Computing and Artificial Intelligence
 CAI-3/Information Sciences
 CAI-3/Information Sciences Group
 CAI-4/Statistics Group
@@ -461,6 +463,7 @@ OCCI-UNCL
 Occupational Safety &amp; Health (OSH) Industrial Safety and Hygiene (ISH)
 OCI-CTA/Counterintelligence Activities &amp; Threat Awareness
 OCI-FVA/Foreign Immigration, Visits, &amp; Analysis
+OES/Office of Experimental Sciences
 OES/Offices of Experimental Sciences
 OH-MS/Medical Services
 OH-MS/Occupational Health Medical Services
@@ -563,6 +566,7 @@ PSP-6/PS Assembly and Product Characterization
 PSP-DO/Power Supply Production
 PSS-1/Manufacturing Systems &amp; Infrastructure Support
 PSS-2/Operational Safety &amp; Compliance Programs
+PSS-4 / Factory Operations &amp; Industrial Engineering
 PSS-4/Factory Operations &amp; Industrial Engineering
 PSS-5/Smart Factory &amp; Digital Transformation
 PSS-DO/Production Support Services
@@ -605,6 +609,7 @@ SCL-DO/Supply Chain Logistics
 Security System Group (SO-SS)
 Security Systems Group/SO-SS
 Sigma 2/Finishing Manufacturing Science Group
+SIGMA-1/ Fabrication Manufacturing Science
 SIGMA-1/Fabrication Manufacturing Science Group
 Sigma-1/Fabrication Manufacturing Sciences
 SIGMA-1/Fabrication Manufacturing Sciences Group
@@ -684,6 +689,7 @@ V-6 / Nondestructive Testing &amp; Evaluation
 V-6/Nondestructive Testing &amp; Evaluation
 Various Organizations
 V-DO/Weapons Engineering Verification &amp; Validation Division Office
+W-1/B61 System Engineering
 W-2/W76 Systems Engineering Group
 W-3/W78 Systems Engineering Group
 W-4/W88 Systems Engineering
@@ -698,6 +704,8 @@ Waste Management-WM/WGS
 W-DES/Weapons Design and Engineering Standards
 W-DO/Weapon Systems Engineering Division
 Weapons Facilities Operations Divisions
+Weapons Facilities Operations Divisions (WFO-DO)
+Weapons Infrastructure Program Office - Analytics &amp; Decision Support (WIPO)
 Weapons Infrastructure Program Office - WIPO
 WE-FAST/Workplace Experience: Furniture, Amenities &amp; Space Team
 WFO/Weapons Facilities Operations Divisions
@@ -709,6 +717,7 @@ WMS-1/New Employee Training &amp; Workforce Development
 WMS-2/Facility Training &amp; Compliance
 W-MSO/Military &amp; Stockpile Operations Office
 WRS-NSRC MS/NSRC Mission Support
+WRS-NSRCMS / NSRC Mission Support
 WRS-NSRCMS/NSRC Mission Support
 WRS-WMT/Weapons Mission Technology
 X Theoretical Design Division
@@ -762,6 +771,7 @@ ALDCELS
 ALDDP
 ALDDP / Associate Laboratory Director for Defense Protection
 ALDDP-OCCI/Office of Classification and Controlled Information
+ALDESHQ / Associate Laboratory Directorate Environment, Safety, Health, and Quality
 ALDESHQ-RSO/Repository Science and Operations
 ALDGS/Associate Laboratory Director for Global Security
 ALDPI/LIP Decontamination &amp; Decommissioning
@@ -814,6 +824,7 @@ CAI-2 / Computational Physics and Methods Group
 CAI-2/Computational Physics and Methods
 CAI-2/Computational Physics and Methods Group
 CAI-3 / Information Sciences
+CAI-3/ Computing and Artificial Intelligence
 CAI-3/Information Sciences
 CAI-3/Information Sciences Group
 CAI-4/Statistics Group
@@ -1080,6 +1091,7 @@ OCCI-UNCL
 Occupational Safety &amp; Health (OSH) Industrial Safety and Hygiene (ISH)
 OCI-CTA/Counterintelligence Activities &amp; Threat Awareness
 OCI-FVA/Foreign Immigration, Visits, &amp; Analysis
+OES/Office of Experimental Sciences
 OES/Offices of Experimental Sciences
 OH-MS/Medical Services
 OH-MS/Occupational Health Medical Services
@@ -1182,6 +1194,7 @@ PSP-6/PS Assembly and Product Characterization
 PSP-DO/Power Supply Production
 PSS-1/Manufacturing Systems &amp; Infrastructure Support
 PSS-2/Operational Safety &amp; Compliance Programs
+PSS-4 / Factory Operations &amp; Industrial Engineering
 PSS-4/Factory Operations &amp; Industrial Engineering
 PSS-5/Smart Factory &amp; Digital Transformation
 PSS-DO/Production Support Services
@@ -1224,6 +1237,7 @@ SCL-DO/Supply Chain Logistics
 Security System Group (SO-SS)
 Security Systems Group/SO-SS
 Sigma 2/Finishing Manufacturing Science Group
+SIGMA-1/ Fabrication Manufacturing Science
 SIGMA-1/Fabrication Manufacturing Science Group
 Sigma-1/Fabrication Manufacturing Sciences
 SIGMA-1/Fabrication Manufacturing Sciences Group
@@ -1303,6 +1317,7 @@ V-6 / Nondestructive Testing &amp; Evaluation
 V-6/Nondestructive Testing &amp; Evaluation
 Various Organizations
 V-DO/Weapons Engineering Verification &amp; Validation Division Office
+W-1/B61 System Engineering
 W-2/W76 Systems Engineering Group
 W-3/W78 Systems Engineering Group
 W-4/W88 Systems Engineering
@@ -1317,6 +1332,8 @@ Waste Management-WM/WGS
 W-DES/Weapons Design and Engineering Standards
 W-DO/Weapon Systems Engineering Division
 Weapons Facilities Operations Divisions
+Weapons Facilities Operations Divisions (WFO-DO)
+Weapons Infrastructure Program Office - Analytics &amp; Decision Support (WIPO)
 Weapons Infrastructure Program Office - WIPO
 WE-FAST/Workplace Experience: Furniture, Amenities &amp; Space Team
 WFO/Weapons Facilities Operations Divisions
@@ -1328,6 +1345,7 @@ WMS-1/New Employee Training &amp; Workforce Development
 WMS-2/Facility Training &amp; Compliance
 W-MSO/Military &amp; Stockpile Operations Office
 WRS-NSRC MS/NSRC Mission Support
+WRS-NSRCMS / NSRC Mission Support
 WRS-NSRCMS/NSRC Mission Support
 WRS-WMT/Weapons Mission Technology
 X Theoretical Design Division
@@ -1386,25 +1404,25 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 28
+Showing 12 out of 30
 Job Title
 Job Number
 Organization
 City, State
-A-4 Undergraduate Student IRC147019 A-4 / Advanced Research in Cyber Systems Los Alamos, NM
+PSS-4 Data, Insight, and Visualization Undergraduate Student IRC147075 PSS-4 / Factory Operations &amp; Industrial Engineering Los Alamos, NM
+ESH&amp;Q Undergraduate Student IRC147045 ALDESHQ / Associate Laboratory Directorate Environment, Safety, Health, and Quality Los Alamos, NM
 LANL LAESF Scholars Technical Internship Program IRC147038 PAT / Production Analysis and Transformation Los Alamos, NM
+A-4 Undergraduate Student IRC147019 A-4 / Advanced Research in Cyber Systems Los Alamos, NM
 LANL LAESF Scholars Administrative Internship Program IRC147039 PAT / Production Analysis and Transformation Los Alamos, NM
 Professional (non-STEM) - Undergraduate Student Intern IRC146778 MSS-OOI / MSS- Office of Improvement Los Alamos, NM
 Undergrad Student ST 1 IRC146706 PSD-4 / Material Recovery and Recycle Los Alamos, NM
+Plasma Physics Undergraduate Students IRC146637 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 Applied Mathematics Undergraduate Students IRC146635 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 RFID Software Developer - Undergraduate Student IRC146481 NEN-1 / Safeguards Science and Techno Los Alamos, NM
 ALDDP Undergraduate Student IRC146477 ALDDP / Associate Laboratory Director for Defense Protection Los Alamos, NM
-NEN-2 Undergraduate Student IRC146390 NEN-2 / ADVANCED NUCLEAR TECHNOLOGY Los Alamos, NM
 Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
-Undergraduate Internship - Earth and Environmental Science IRC146280 EES-DO/Earth &amp; Environmental Sciences Los Alamos, NM
-WP-TNT Technical Scholars Internship Program IRC146210 PAT-2 / Technical And Personnel Pipelines Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 28
+Showing 12 out of 30
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

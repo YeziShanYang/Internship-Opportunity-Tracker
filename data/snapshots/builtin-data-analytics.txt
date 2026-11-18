@@ -31,6 +31,43 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+Ahold Delhaize USA
+Demand Systems Analyst Intern
+<age> Saved
+In-Office
+Scarborough, ME, USA
+34K-38K Hourly
+Internship
+34K-38K Hourly
+Internship
+AdTech &#x2022; eCommerce &#x2022; Food &#x2022; Marketing Tech &#x2022; Retail
+Analyze machine-learning settings in the RELEX demand planning module, with emphasis on weather data for retail forecasting. Evaluate forecast performance, assess data integrity and workflows, and develop configuration recommendations for the superuser team. The intern will support demand planning systems, business process improvement, and data-driven decision-making while participating in mentoring, development, networking, and project presentation activities.
+Top Skills:
+Data Analytics Machine Learning Excel MS Office Microsoft Powerpoint Programming Relex
+Spectrum
+2027 Summer Intern: Associate Billing Solutions Analyst (Customer Operations)
+<age> Saved
+In-Office
+St Louis, MO, USA
+Internship
+Internship
+eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
+Paid, full-time summer intern supporting billing solutions projects in the telecommunications industry. Responsibilities may include developing agentic AI offer generation, designing and analyzing operational information, communicating findings, and troubleshooting system and data issues in production. The role also includes professional development, networking, mentorship, and cross-functional internship activities.
+Top Skills:
+Agentic Ai Microsoft Access Excel Microsoft Powerpoint Microsoft Word
+T-Mobile
+Summer 2027 Business Intelligence Analyst Internship
+<age> Saved
+In-Office
+New York, NY, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+Analyze programmatic advertising campaign performance, build KPI dashboards and reports, identify actionable insights, and support client presentations, business reviews, renewals, and upsells. Partner with Customer Success, Sales, and Ad Operations while maintaining reporting data integrity and responding to ad hoc analysis requests. Present findings to technical and non-technical stakeholders. This is an 11-week paid internship with mentorship and hands-on projects.
+Top Skills:
+Excel Google Analytics Looker Power BI PowerPoint Python SQL Tableau The Trade Desk Word
 TransUnion
 Data Analysis Internship - Summer 2027
 <age> Saved
@@ -51,6 +88,10 @@ Internship
 Internship
 Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity &#x2022; Defense
 Supports customer-focused special projects at BAE Systems under direct supervision, applying basic field knowledge and collaborating with cross-functional teams. The intern participates in the LEAP program, gaining exposure to aerospace and defense operations, career development, networking, and professional projects. The role is intended for an undergraduate student who has completed sophomore year and may continue part-time during the 2027–2028 academic year.
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Tapestry - Coach and Kate Spade
 Summer IT, Digital &amp; Data Analytics Internship
 <age> Saved
@@ -64,36 +105,6 @@ eCommerce &#x2022; Fashion &#x2022; Retail &#x2022; Sales &#x2022; Wearables &#x
 A 10-week hybrid internship offering tracks in cybersecurity, data analytics, product management, and digital experience. Interns may support threat detection, SIEM monitoring, data preparation, ETL, dashboards, product roadmaps, digital platforms, DevOps, CI/CD, and performance reporting while gaining hands-on experience with enterprise technologies.
 Top Skills:
 AWS Azure Ci/Cd Cis CSS Dns Encryption ETL Git Git HTML JavaScript Linux macOS Mitre Att&amp;Ck Nist Csf Plum Slice Power BI Python R Salesforce Commerce Cloud Salesforce Marketing Cloud Salesforce Service Cloud SIEM SQL Tableau Tcp/Ip Vpn Windows
-T-Mobile
-Summer 2027 Data Product Internship
-<age> Saved
-In-Office
-Bellevue, WA, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Participate in an 11-week data and AI internship supporting T-Mobile’s B2B data products. Profile and document large datasets, create data dictionaries, build dashboards and reporting tables, validate pipelines, investigate anomalies, and support product development through exploratory analysis, requirements gathering, feasibility assessments, and rapid prototyping.
-Top Skills:
-Azure Power BI Python Snowflake SQL Streamlit Tableau
-Spectrum
-2027 Summer Intern: Revenue Assurance Analyst - Corporate
-<age> Saved
-In-Office
-New Connecticut, NY, USA
-31K-33K Annually
-Internship
-31K-33K Annually
-Internship
-eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
-Supports revenue assurance by identifying and quantifying revenue recognition and risk mitigation opportunities. Maintains reports, updates SQL queries, creates datasets, validates billing-system data, collaborates with technical and functional teams, and assists with recurring reporting and month-end processing. The paid, full-time internship also includes professional development, mentorship, networking, and cross-functional activities.
-Top Skills:
-Claude Kiro MS Office SQL
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Citadel
 Quantitative Research Engineer - PhD Intern (US)
 <age> Saved
@@ -148,17 +159,6 @@ Cloud &#x2022; Computer Vision &#x2022; Information Technology &#x2022; Sales &#
 Supports Sales Excellence through data analysis, reporting, CRM data quality, dashboard maintenance, and business intelligence. Partners with sales leaders to define key metrics, standardize datasets, identify discrepancies, and develop Tableau dashboards. Handles ad hoc analytics requests and transforms sales data into actionable insights. The internship requires strong analytical, communication, organizational, and collaboration skills, along with proficiency in office productivity tools and a willingness to use AI technologies.
 Top Skills:
 Artificial Intelligence Business Intelligence Clari CRM Domo Google Apps Google Sheets Excel Microsoft Office Suite Power BI Salesforce SQL Tableau
-Ericsson
-Data Analyst Intern
-<age> Saved
-Hybrid
-Plano, TX, USA
-Internship
-Internship
-Cloud &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Machine Learning &#x2022; Software &#x2022; Cybersecurity &#x2022; Infrastructure as a Service (IaaS)
-Supports Finance and cross-functional teams by building data pipelines, improving data quality and governance, automating reporting, developing Power BI dashboards, applying AI and analytics, and contributing to financial models, forecasts, reconciliations, and executive insights.
-Top Skills:
-APIs Azure Databricks Dax Etl/Elt Generative Ai Machine Learning Excel Microsoft Fabric Power BI Power Query Python SQL
 1
 2
 3

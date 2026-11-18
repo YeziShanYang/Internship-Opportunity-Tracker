@@ -4,33 +4,30 @@ Resources
 Community
 Careers
 CAREERS / SOLAYER LABS
-Build the financial stack for real-time money.
-Build the financial stack for real-time money.
-Build the financial stack for real-time money.
-Solayer is building the infrastructure, payments, and markets that move money at the speed it should. Join a small team working on the next financial primitive.
-Solayer is building the infrastructure, payments, and markets that move money at the speed it should. Join a small team working on the next financial primitive.
-OPEN ROLES
-Marketing Lead
-SAN MATEO, CA · FULL-TIME
-Marketing Lead
-SAN MATEO, CA · FULL-TIME
-What you’ll do
-Develop and execute the company’s overall marketing and brand strategy across digital, mobile, and web platforms.
-Lead product marketing initiatives, including product launches, promotional campaigns, and customer engagement strategies.
-Manage communications and public relations across social media, press, community channels, and live events.
-Plan and coordinate conferences, sponsorships, and corporate events, including logistics, vendors, and promotion.
-Analyze market trends, customer insights, and campaign performance to improve brand visibility and growth.
-Represent Solayer at conferences, media events, and other public-facing engagements.
-Coordinate cross-functional collaboration with design, product, and business development teams.
-Position criteria
+Senior Blockchain Engineer
+Senior Blockchain Engineer
+Senior Blockchain Engineer
+Solayer Labs Inc. is hiring a full-time Senior Blockchain Engineer.
+Solayer Labs Inc. is hiring a full-time Senior Blockchain Engineer.
+POSITION DETAILS
+Job Duties:
+Design, develop, and maintain blockchain systems and distributed applications to support secure and reliable transaction processing.
+Develop algorithms using mathematical and statistical methods, and implement them in software to improve blockchain system performance.
+Design and implement blockchain components, including consensus mechanisms and smart contracts, to improve system security and performance.
+Analyze system performance, identify issues, and improve algorithms and distributed systems for greater efficiency and reliability.
+Lead the design and development of blockchain systems by providing technical guidance, reviewing code and system designs, troubleshooting technical issues, and evaluating new blockchain technologies.
+Telecommuting is an option.
+Job Requirements:
 POSITION TYPE / FULL-TIME PERMANENT
 EDUCATION REQUIRED / MASTER’S DEGREE
-Master’s degree in Marketing, Communications, Journalism, or a closely related field.
-Apply by mail
-MAIL YOUR RÉSUMÉ WITH CODE SLML TO
-MAIL YOUR RÉSUMÉ WITH CODE SLML TO
-Jeff Liu · Solayer Labs Inc. 1825 S Grant St, #200 · San Mateo, CA 94402
-Jeff Liu · Solayer Labs Inc. 1825 S Grant St, #200 · San Mateo, CA 94402
+Master’s degree in Computer Science, Applied Mathematics, Statistics, or a closely related field. Must have knowledge of probability and numerical analysis.
+Rate of pay: $121,014 - $200,000 per year
+Contact Information:
+APPLICATION CODE / SLBE
+APPLICATION CODE / SLBE
+Any applicant who is interested may submit resume w/code SLBE to: Jeff Liu, Solayer Labs Inc., 1825 S Grant St, San Mateo, CA 94402.
+Any applicant who is interested may submit resume w/code SLBE to: Jeff Liu, Solayer Labs Inc., 1825 S Grant St, San Mateo, CA 94402.
+Contact Name: Jeff Liu · Company: Solayer Labs Inc. · City: San Mateo · State: CA · Zip: 94402
 solayer
 Solayer is the hardware-accelerated blockchain, infinitely scaling the SVM to enable high-throughput, near-zero latency use cases.
 Products

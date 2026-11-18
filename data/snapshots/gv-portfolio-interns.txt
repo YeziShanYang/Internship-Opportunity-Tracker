@@ -28,72 +28,42 @@ United States
 10-100 employees, 1-10 employees
 Internships only
 Clear filters
-10 jobs
+6 jobs
 #LI-DNI Inertia Summer 2027 Internship
 Always confirm salary details from the job posting.
 Salary range USD 40 - 45 / hour
-Livermore, California, United States, Livermore Posted <age>
+Livermore, California, United States Posted <age>
 Design and Engineering
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Python Automation Export Controls Classification Algorithms CAD Plasma Physics Clearance Analytics Tools C/C++ Machining
-Apply
-#LI-DNI Flick AI Social Media Content Creator Intern
-Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
-Similar jobs pay USD 35,000 - 65,000 / year
-Remote Remote (US) Posted <age>
-AI
-Seed, 10–100 employees
-Artificial Intelligence Instagram Social Media Film Production LinkedIn Content Development
+Diagnostics Optics Data Acquisition Machining Plasma Physics Access Control Automation Export Controls CAD Analytics Tools
 Apply
 #LI-DNI Armadin Security Summer 2027 Internship - Member of Technical Staff - Frontend
 Always confirm salary details from the job posting.
 Salary USD 75 / hour
-Palo Alto, California, United States, Palo Alto Posted 30+ days ago
+Palo Alto, California, United States Posted 30+ days ago
 Internships
 AI, Computer &amp; Network Security
 Growth
-Artificial Intelligence User Experience Python Data Visualization D3.js Rendering
-Apply
-#LI-DNI Flick Reddit Growth Intern
-Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
-Similar jobs pay USD 40,000 - 100,000 / year
-Remote Remote (US) Posted <age>
-AI
-Seed, 10–100 employees
-Artificial Intelligence Instagram User Acquisition Film Production Dynamic Systems
+Artificial Intelligence Data Visualization Python Rendering D3.js User Experience
 Apply
 #LI-DNI Odyssey Research Internship
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
 Similar jobs pay USD 40,000 - 125,000 / year
-Palo Alto, California, United States, London, England, United Kingdom, Palo Alto, London Posted 30+ days ago
+Palo Alto, California, United States, London, England, United Kingdom Posted 30+ days ago
 Engineering
 AI
 Growth, 10–100 employees
-Artificial Intelligence Research Mentorship Online Gaming Robotics Infrastructure
-Apply
-#LI-DNI Flick AI Creative Intern
-Remote Remote (US) Posted 30+ days ago
-AI
-Seed, 10–100 employees
-Artificial Intelligence Instagram Final Cut Pro Video Editing Adobe Premiere Pro Film Production DaVinci
+Robotics Online Gaming Infrastructure Mentorship Research Artificial Intelligence
 Apply
 #LI-DNI Armadin Security Summer 2027 Internship - Member of Technical Staff - Agent Systems
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
 Similar jobs pay USD 45,000 - 115,000 / year
-Palo Alto, California, United States, Palo Alto Posted 30+ days ago
+Palo Alto, California, United States Posted 30+ days ago
 Internships
 AI, Computer &amp; Network Security
 Growth
-Artificial Intelligence Python Data Visualization Agent Systems D3.js Rendering
-Apply
-#LI-DNI Flick Motion &amp; Graphic Design Intern
-Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
-Similar jobs pay USD 50,000 - 85,000 / year
-Remote Remote (US) Posted 30+ days ago
-AI
-Seed, 10–100 employees
-Artificial Intelligence Instagram Social Media Visual Communication Photoshop Figma Film Production Motion Graphics Marketing After Effects
+Data Visualization Python Agent Systems Rendering D3.js Artificial Intelligence
 Apply
 #LI-DNI Flick GTM Intern
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -101,7 +71,7 @@ Similar jobs pay USD 40,000 - 290,000 / year
 Remote Remote (US) Posted 30+ days ago
 AI
 Seed, 10–100 employees
-Artificial Intelligence Instagram Marketing Strategy Film Production
+Marketing Strategy Discord Instagram
 Apply
 #LI-DNI Gravity Business Intern
 New York, New York, United States Posted 30+ days ago

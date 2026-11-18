@@ -31,6 +31,17 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+Whatnot
+Software Engineer Intern (Summer 2027)
+<age> Saved
+In-Office
+2 Locations
+Internship
+Internship
+Consumer Web &#x2022; eCommerce &#x2022; Mobile &#x2022; Retail &#x2022; Social Media &#x2022; Software
+Software Engineering Interns will join cross-functional teams for a 12–16 week hybrid internship, contributing code and ideas to live-streaming features, buyer and seller growth flows, and scalable systems supporting a trusted marketplace. Interns will collaborate on project ideation, management, and delivery while building products used by more than 1 million users. Candidates should be pursuing a related degree, have industry software engineering experience, and be able to learn new technologies quickly.
+Top Skills:
+Live-Streaming Platforms Marketplace Systems Software Engineering
 T-Mobile
 Summer 2027 Software Engineer Internship
 <age> Saved
@@ -44,19 +55,6 @@ Other &#x2022; Utilities
 Supports modernization of T-Mobile’s sales compensation platform by migrating from Varicent to an AWS-based solution. Responsibilities include software development, data integration, ETL, testing, validation, reconciliation, troubleshooting, Agile collaboration, automation, and improving platform scalability and reliability. The internship provides hands-on engineering experience through an 11-week paid learning program.
 Top Skills:
 AWS ETL Java Python Relational Databases SQL Varicent
-T-Mobile
-Summer 2027 Software Engineering Intern
-<age> Saved
-In-Office
-Overland Park, KS, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Build and test web applications using modern software technologies and frameworks. Collaborate with senior developers, enhance existing systems, develop new features, apply user-centered design, participate in Agile processes, create user stories, estimate work, and learn emerging engineering practices while supporting T-Mobile’s legal response capabilities.
-Top Skills:
-Angularjs Docker Java Kubernetes Oracle Postgres Spring Boot
 Shield
 June 2027 Co-Op - Software Engineer Intern
 <age> Saved
@@ -70,17 +68,6 @@ Aerospace &#x2022; Artificial Intelligence &#x2022; Machine Learning &#x2022; Ro
 Interns design, build, test, and debug production-quality software for autonomous systems. Projects may involve applications, embedded flight software, machine learning, systems platforms, APIs, data pipelines, simulation, or cloud infrastructure. Interns analyze requirements, collaborate with engineers using Agile practices, and deliver a meaningful feature or capability during a 10–12 week program.
 Top Skills:
 Agile/Scrum C C&#x2B;&#x2B; Cloud Platforms Databases Distributed Systems Embedded Systems Git Java JavaScript Microcontrollers Networking Python PyTorch Real-Time Operating Systems TensorFlow
-Shield
-Summer 2027 - Software Engineer Intern
-<age> Saved
-In-Office
-San Diego, CA, USA
-Internship
-Internship
-Aerospace &#x2022; Artificial Intelligence &#x2022; Machine Learning &#x2022; Robotics &#x2022; Software &#x2022; Defense Technology
-Paid 10–12 week software engineering internship developing, testing, debugging, and shipping production-quality code for autonomous systems. Projects may involve applications, embedded flight software, machine learning, APIs, data pipelines, simulation, or cloud infrastructure. Interns work with full-time engineers using Agile practices and receive mentorship while contributing to real company capabilities.
-Top Skills:
-Agile/Scrum C C&#x2B;&#x2B; Cloud Platforms Databases Distributed Systems Embedded Systems Git Java JavaScript Machine Learning Microcontrollers Networking Python PyTorch Real-Time Operating Systems TensorFlow
 EchoStar
 Software Engineering Intern
 <age> Saved
@@ -94,21 +81,6 @@ Aerospace &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology 
 Software Engineering Interns design, build, test, document, and deploy software across backend microservices, full-stack web applications, cloud platforms, and mobile apps. Responsibilities include API development, automated testing, CI/CD support, debugging, code reviews, Agile collaboration, generative AI usage, and presenting project results. Interns own a real-world enterprise project with mentorship during a 10-week, on-site summer program in the Greater Denver Area.
 Top Skills:
 Agile AWS Azure C# C&#x2B;&#x2B; Ci/Cd Docker Generative Ai Git Git Gitlab Go Intellij Java JavaScript Kubernetes Node.js NoSQL Postgres Python React Restful Apis Spring Boot SQL Typescript Vs Code
-Micron Technology
-Intern - IT Software Engineer
-<age> Saved
-In-Office
-Boise, ID, USA
-Internship
-Internship
-Artificial Intelligence &#x2022; Hardware &#x2022; Information Technology &#x2022; Machine Learning
-Develop full-stack software supporting Micron’s Business Data Warehouse and data factory. Responsibilities include collaborating with software development and global IT teams, applying the software development lifecycle, communicating with stakeholders, and designing utilities, tools, and frameworks that enable data and analytics solutions. The role requires knowledge of algorithms, databases, SQL, object-oriented programming, software architecture, and programming languages including C# and Python.
-Top Skills:
-C# Graph Databases JavaScript Nosql Databases Power BI Python React Relational Databases Snowflake SQL Tableau
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 NBCUniversal
 Media Tech: Product &amp; Engineering Internships - Summer 2027
 <age> Saved
@@ -122,6 +94,10 @@ AdTech &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology &#x
 Paid summer internship for actively enrolled students supporting NBCUniversal’s Media Tech organization. Interns may work in advertising technology integrations, AI-powered enterprise products, or network operations and Wi-Fi. Responsibilities include applying programming skills, working with APIs and structured data, exploring network infrastructure, prototyping AI agents, and contributing to technical projects. The role requires 40 hours per week in New York from June 7 through August 13, 2027.
 Top Skills:
 APIs Generative Ai JavaScript JSON Linux macOS Python Rf Time-Series Databases Typescript Wi-Fi Windows 11
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 BAE Systems, Inc.
 Programmer Analyst Intern - Summer 2027
 <age> Saved
@@ -188,7 +164,7 @@ Distributed Computing Machine Learning Natural Language Processing Web Framework
 5
 ...
 ...
-82
+81
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

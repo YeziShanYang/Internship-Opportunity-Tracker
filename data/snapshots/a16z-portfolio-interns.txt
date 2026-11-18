@@ -6,7 +6,7 @@ a16z
 Software Is Eating the World
 X LinkedIn Substack
 © 2026 Andreessen Horowitz . All Portfolio Jobs Companies Disclosures
-703 companies. 18,313 jobs. It’s time to build.
+705 companies. 18,313 jobs. It’s time to build.
 All Portfolio Jobs Jobs by Company a16z Jobs
 Filter jobs by role and more
 Roles
@@ -21,7 +21,12 @@ Internships only Remote options All jobs
 Salary Any
 Posted <age>
 Country:us Seed Venture Clear filters
-42 jobs
+43 jobs
+Exowatt
+Robotics &amp; Physical AI Spring Intern (Miami)
+Miami, FL · Posted <age>
+American Dynamism · Series A · 51–200 employees
+Apply Interested
 Genesis Molecular AI
 Computational Chemistry Intern - 2027
 San Mateo, CA · Posted <age>
@@ -141,10 +146,5 @@ Ventrilo
 Software Engineer Intern
 Salary range USD 30 - 40 / hour · Menlo Park, CA · Posted <age>
 Enterprise, Infra · Seed · 2–10 employees
-Apply Interested
-ConductorAI
-Software Engineer Intern
-New York City, New York, United States · Posted <age>
-American Dynamism · Series A · 11–50 employees
 Apply Interested
 Show more jobs

@@ -107,7 +107,7 @@ Student programs
 Joining the team
 Campus Events
 Opportunities
-close Popup: Advertising Practices
+Close dialog
 &times;
 Advertising Practices
 We strive to provide you with information about products and services

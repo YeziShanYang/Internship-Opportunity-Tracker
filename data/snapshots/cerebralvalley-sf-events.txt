@@ -12,13 +12,6 @@ Events
 Submit Event
 Sign In
 Discover
-Featured Previous slide
-Next slide
-Nov 18
-AI and the New Abundance and Scarcity, with Mustafa Suleyman, Sarah Guo and Aaron Bastani
-Wed, Nov 18 · 8:00 PM PST
-The Commonwealth Club
-Mustafa Suleyman, Microsoft AI CEO, investor Sarah Guo, and writer and Novara Media cofounder Aaron Bastani will discuss what becomes scarce when intelligence is abundant, in a conversation moderated by Bloomberg’s Shirin Ghaffary. The event will also launch the second issue of *The Humanist Review of AI*, a quarterly journal exploring AI’s impact on society.
 Nov 13
 Diwali Festiverse Agent to Agent Hackathon (SF Edition)
 Fri, Nov 13 · 4:00 PM PST LIVE
@@ -46,76 +39,76 @@ Hyatt Regency
 QCon 2026 will bring senior engineers from top tech companies together for five days of deep dives into AI in production, software architecture, leadership, and modern development practices, sharing real-world insights from successful large-scale implementations. This event will feature candid sessions by experienced practitioners and hands-on training designed to elevate strategic and practical skills in engineering leadership and system design.
 Nov 17
 Microsoft Ignite
-Tue, Nov 17 · 9:00 AM PST
+Tue, Nov 17 · 9:00 AM PST LIVE
 San Francisco, CA
 Microsoft Ignite will bring business and security leaders, IT professionals, developers, and partners together for major announcements, deep technical learning, hands-on labs, certifications, and access to experts. Attendees will also have opportunities to network and build practical skills.
 Nov 17
-Small Business AI Builder Tour
-Tue, Nov 17 · 9:00 AM PST
-The Avalon
-Small businesses and AI builders will turn ideas into actionable plans through live demos, hands-on workshops, expert feedback, and networking.
-Nov 17
-Search 2026
-Tue, Nov 17 · 9:00 AM PST
-Manny’s
-Bay Area Search will return for a full day of practical conversations on SEO, search, and AI discovery, featuring leaders from OpenAI, LinkedIn, Apple, Uber, and other companies. Keynotes, practitioner panels, and a closing fireside chat will bring together experienced search, growth, and marketing professionals, founders, and agency leaders.
-Nov 17
-Backprop Summit
-Tue, Nov 17 · 9:00 AM PST
-San Francisco, CA
-Backprop by Tokens&amp; will bring AI and security engineers together for expert talks and technical deep dives on agent sandboxing, identity, permissions, tool security, and adversarial testing. Speakers will include Mastra CEO and founder Sam Bhagwat, Adaption co-founder Sara Hooker, WorkOS founder Michael Grinich, and VGS Senior VP of Finance Simon Tiu.
-Nov 17
 PortCon 2026 | The AI Software Factory Summit
-Tue, Nov 17 · 9:00 AM PST
+Tue, Nov 17 · 9:00 AM PST LIVE
 SHACK15
 In the 2-days event, you&#x27;ll dig into technical sessions and workshops from people who’ve done it. Leaders from SpaceX, NVIDIA, Anthropic, Shopify, Uber, GitHub, and more will share how they&#x27;re building their own AI Software Factories. Use promo code &quot;COMMUNITY50&quot; for 50% off.
 Nov 17
-Women in AI: Health, AI, Longevity &amp; the Juggle Series @Snowflake
-Tue, Nov 17 · 10:00 AM PST
-Menlo Park, CA
-Founders Bay’s “What Stress Is Actually Doing to Your Body” will explore how chronic hustle affects hormones, sleep, energy, cognition, and long-term health, with science-backed strategies for sustaining ambition and using AI tools to support wellbeing. The conversation will feature a longevity or women’s health expert and bring together founders, executives, investors, and operators from a 200,000-plus-member community.
-Nov 17
-Buy and Sell Compute in SF at the HSC Market
-Tue, Nov 17 · 10:00 AM PST
-San Francisco, CA
-Pre-vetted compute buyers and sellers will negotiate deals in a focused one-day marketplace, with lawyers on hand to help finalize agreements before the day ends.
-Nov 17
 PortCon 2026: AI Software Factory Summit
-Tue, Nov 17 · 12:00 PM PST
+Tue, Nov 17 · 12:00 PM PST LIVE
 SHACK15
 PortCon 2026 will bring together 200 CTOs, engineering and platform leaders, and AI practitioners for keynotes, workshops, and technical sessions on scaling AI Software Factories and agentic workflows in production. Attendees will explore orchestration, governance, security, and ways to measure AI-driven software delivery.
-Nov 17
-JSV Book Club: The Infinity Machine with Sebastian Mallaby
-Tue, Nov 17 · 5:00 PM PST
+Nov 18
+A Short Run for Long-Running Agents (Fort Mason)
+Wed, Nov 18 · 7:30 AM PST LIVE
+Equator Coffees
+MIT and Harvard engineers from Subconscious.dev, alongside friends from RSIHouse and Sundai, will take a conversational four-mile run and chat about building long-running agents. The casual meetup will welcome builders and honeypots alike.
+Nov 18
+SPC Energy Forum: Fireside with Garth Sheldon-Coulson, Co-Founder and CEO of Panthalassa
+Wed, Nov 18 · 10:30 AM PST
 San Francisco, CA
-Bestselling author and journalist Sebastian Mallaby will discuss *The Infinity Machine*, his account of DeepMind co-founder and Nobel Prize-winning scientist Demis Hassabis and the race to build artificial general intelligence. Jackson Square Ventures co-founder and Managing Director Greg Gretsch will moderate a conversation on AI’s breakthroughs, rivalries, and stakes for humanity, followed by audience Q&amp;A and a book signing.
-Nov 17
-Fireside with Thariq Shihipar
-Tue, Nov 17 · 5:00 PM PST
+The South Park Commons Energy Forum will host a fireside with Garth Sheldon-Coulson, Panthalassa co-founder and CEO, on capturing offshore wave energy to power satellite-delivered AI compute and renewable fuels. He’ll share insights from building a 200-person company backed by leading venture capital firms.
+Nov 18
+Future of Physical AI and Industrial Robotics
+Wed, Nov 18 · 11:00 AM PST
+Palo Alto, CA
+Industry leaders, technical experts, VCs, and ecosystem partners from the U.S. and Japan will explore how Physical AI and robotics are reshaping industrial operations and material movement through a panel, Q&amp;A, and networking. Organized by Peer Robotics and Mugen Vistara Consulting, the event will be sponsored by Polsinelli Law Firm and supported by JIC.
+Nov 18
+HAI Seminar The AI100
+Wed, Nov 18 · 12:00 PM PST
+Gates Computer Science Building Room 119
+Visiting scholars will share cutting-edge research with the HAI community, bringing fresh perspectives from their institutions and expertise.
+Nov 18
+Food Biz + AI Coworking Day
+Wed, Nov 18 · 1:30 PM PST
+Informal Spaces
+A collaborative co-working day focused on food service tech will bring developers, designers, creators, and tech enthusiasts, from AI veterans to newcomers, together to build, share ideas, and make progress on their projects. Attendees will leave with fresh content and potential collaborators.
+Nov 18
+DevRev Leadership Circle 2026
+Wed, Nov 18 · 4:00 PM PST
 San Francisco, CA
-On Nov. 17, Thariq, former Claude Code team member at Anthropic, Chime co-founder, and YC W20 founder, will discuss what’s next for AI agents in a technical fireside chat followed by live Q&amp;A. His experience spans building Claude Code, PubPub at the MIT Media Lab, and a startup backed by Twitch, Crunchyroll, and Oculus co-founders.
-Nov 17
-ElevenCreative After Hours
-Tue, Nov 17 · 5:00 PM PST
-Financial District
-ElevenCreative will host an evening of drinks, bites, music, and creative conversation for content creators, product designers, social media managers, podcasters, and AI-focused creative technologists. Pros and hobbyists alike will have a chance to meet the team, swap ideas, and share what they’re building.
-Nov 17
-Teqfocus &amp; Genentech Presents- Applied AI Forum: Pharma &amp; Beyond
-Tue, Nov 17 · 5:00 PM PST
-Genentech Building 35
-The CXO community’s first southward meetup will explore applied AI in pharma and beyond, co-hosted by Genentech.
-Nov 17
-Builder Night | n8n x Vercel x Arize AI
-Tue, Nov 17 · 5:00 PM PST
+Business and technology leaders will explore how AI-powered self-service and autonomous digital workforces can reduce delays, reclaim capacity, and improve customer and employee experiences. The program will feature enterprise perspectives on governance and impact, a candid discussion of AI priorities, and a demonstration of an autonomous digital worker, followed by games and conversation.
+Nov 18
+Fireside Chat with Abhinav Gupta, Skild.ai
+Wed, Nov 18 · 4:30 PM PST
 San Francisco, CA
-Vercel, n8n, and Arize AI will host practical, demo-led talks on taking AI agents from idea to production, including workflow automation and lessons from building and evaluating an agent in production. Speakers Liam Hampton of n8n and Arnav Jain of Arize AI will share insights for developers, agent builders, and platform and IT leaders.
-Nov 17
-GTM Breakthrough Summit
-Tue, Nov 17 · 5:00 PM PST
-201 California St
-The Nov. 17 GTM Breakthrough Summit will equip pre-seed to Series A B2B and AI founders with practical strategies for founder-led sales, content, GTM engineering, and converting pilots into repeatable revenue. GTM leaders from Workday, Clay, Blitzscaling Ventures, Virio, Resemble AI, and Teleport will share their expertise, with five founders eligible for $25K in development support and live investor Q&amp;A at demo pitches.
-Nov 17
-AI Infrastructure Night
-Tue, Nov 17 · 5:00 PM PST
+South Park Commons will host a fireside chat with Abhinav Gupta, Skild AI co-founder and president, Carnegie Mellon Robotics Institute professor, and former FAIR Robotics research lead. He’ll discuss building a general-purpose brain for robots, drawing on pioneering work in robot learning and a career recognized with awards including the Sloan Research Fellowship and IAPR JK Aggarwal Prize.
+Nov 18
+Reading Group (+🍕): Reimagining Research Papers As Interactive and Reliable AI Agents
+Wed, Nov 18 · 4:30 PM PST
 San Francisco, CA
-AI Infrastructure Nights will bring together founders, engineers, and forward-deployed engineers for technical talks on production AI systems, agentic AI, shipping logistics, and enterprise data security. Speakers will include Telnyx Developer Advocate Sonam Gupta, PhD, BytePort CEO Jayram Palamadai, Alien Ambassador Aditya Mahamuni, and ClickHouse Full Stack Software Engineer Dustin Healy.
+Stanford HAI Postdoctoral Fellow Jiacheng Miao will present Paper2Agent, an open-source framework that turns research papers and their code into validated, interactive AI agents that can collaborate across studies. Published in *Nature*, the work includes a computational biology evaluation where 74 of 100 papers were successfully converted and agent collaborations outperformed a general-purpose coding agent.
+Nov 18
+Demi Guo @ Entrepreneurial Thought Leaders Speaker Series (ETL)
+Wed, Nov 18 · 4:30 PM PST
+Nvidia Auditorium
+Pika co-founder and CEO Demi Guo, who holds bachelor’s and master’s degrees in computer science from Harvard and pursued an AI PhD at Stanford, will discuss building a generative AI video platform as part of the Entrepreneurial Thought Leaders series.
+Nov 18
+Is Today’s Infra Ready for Personal Agents?
+Wed, Nov 18 · 5:00 PM PST
+San Francisco, CA
+UpScaleX and TinyFish will explore the infrastructure behind personal agents, from reliable task execution and portable memory to trust, permissions, and business incentives, with a panel and demos from teams building in the space. Panelist Homer Wang, Product Lead at TinyFish, will bring a product perspective to the discussion.
+Nov 18
+From AI and Azure Spend to Business Value
+Wed, Nov 18 · 5:00 PM PST
+San Francisco, CA
+FinOps, cloud, engineering, finance, and technology professionals will explore Azure and AI cost optimization, accountability, and business value at a reception featuring a fireside chat with RealPage CTO John “Baz” Basmadjian. Baz brings senior CTO and CPO experience, including building ESO’s AI-driven emergency response ecosystem serving 20,000 customers.
+Nov 18
+Take a Break from Ignite with Pinecone!
+Wed, Nov 18 · 5:00 PM PST
+San Francisco, CA
+Pinecone’s team will showcase a live demo and share what they’re building, with conversations among AI builders, engineers, founders, and innovators. Expect ideas on AI agents, RAG systems, and what’s next in AI.

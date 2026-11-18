@@ -89,26 +89,26 @@ Who we&rsquo;re looking for : First-year students or sophomores pursuing a quant
 For more info:&nbsp; Analyst Early Experiences - AnalystEE@capitalone.com &nbsp;
 Check out the Students &amp; Grads event page to find info sessions on the programs and connect with the recruiting teams.
 ALL JOBS
-R1005754
-Manager, HR Client Consulting (HR Business Partner)
 R1004323
 Director - Software Engineering
-R999019
-Sr. Business Analyst, Incentive Compensation Risk Management
-R249262
-Data Analysis Manager - Office of the Chief Data Officer, Central Analytics
-R248338
-Sr. Business Analyst - US Card
-R1005914
-Staff Full-Stack Engineer (Director-Level)
-R1005713
-Product Design Director, Strategic Futures, Customer Experience Platforms (CXP)
-R1005923
-Manager, Product Manager, Small Business Bank
-R1005853
-Senior Marketing Associate, Paid Media - Business Cards &amp; Payments
-R1005918
-Sr. Associate Analyst, Capital Markets &amp; Risk (Stress Test Forecasting)
+R999362
+Lead Software Engineer
+R999221
+Senior Manager, Risk Data Product Manager
+R248266
+Principal Associate, Supplier Management
+R248104
+Senior Manager, Product Management - Developer Experience, AI Coding Tools &amp; Developer Research
+R247019
+Director, FP&amp;A- Capital One Auto
+R245027
+Senior Data Analyst - US Card
+R1003133
+Senior Manager, Data Analysis - Credit Operations
+R1003185
+Manager, Data Analysis - Credit Operations
+R1005656
+Senior Manager, Product Design
 View all of our available opportunities
 Related Content
 Explore Capital One Internships

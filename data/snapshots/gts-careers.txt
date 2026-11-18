@@ -18,6 +18,11 @@ Job Location (Descending)
 Overview (Ascending)
 Overview (Descending)
 Job Title
+Quantitative Developer- Electronic Market Making
+We are seeking a talented, commercially minded Quantitative Developer with hands-on trading experience to build and manage a new electronic market-making platform from the ground up.&nbsp;
+Job Location
+UK-London
+Job Title
 Quantitative Researcher, Algorithmic Trading
 The algorithmic trading team at GTS is seeking applications for the role of Quant Researcher. The successful candidate will be part of the team evaluating, optimizing and producing analytics to improve the performance of our algorithmic execution strategies. They will work closely with traders and developers to refine these processes in support of revenue-generating trading algorithms. The algorithmic trading team at GTS produces execution algorithms that execute in the market and internalize flows within GTS. The quantitative researchers represent a critical piece of this operation.
 &nbsp;
