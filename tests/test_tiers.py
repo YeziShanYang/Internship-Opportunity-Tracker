@@ -32,17 +32,17 @@ LARGE = {"band": ">10000", "well_known": True}
 
 class GridTests(unittest.TestCase):
     def test_target_firm(self):
-        self.assertEqual(tiers.place(judgment("target", "ml_ai", **SMALL)),
+        self.assertEqual(tiers.place(judgment("quant_or_ai", "ml_ai", **SMALL)),
                          (tiers.SS, tiers.TARGET_SMALL))
-        self.assertEqual(tiers.place(judgment("target", "quant", **LARGE)),
+        self.assertEqual(tiers.place(judgment("quant_or_ai", "quant", **LARGE)),
                          (tiers.S, tiers.TARGET_LARGE), "Citadel QT")
-        self.assertEqual(tiers.place(judgment("target", "swe", **SMALL)),
+        self.assertEqual(tiers.place(judgment("quant_or_ai", "swe", **SMALL)),
                          (tiers.S, tiers.TARGET_FIRM_SWE))
-        self.assertEqual(tiers.place(judgment("target", "swe", **LARGE)),
+        self.assertEqual(tiers.place(judgment("quant_or_ai", "swe", **LARGE)),
                          (tiers.S, tiers.TARGET_FIRM_SWE), "Optiver SWE")
 
     def test_adjacent_roles_count_only_at_a_target_firm(self):
-        self.assertEqual(tiers.place(judgment("target", "adjacent", **SMALL)),
+        self.assertEqual(tiers.place(judgment("quant_or_ai", "adjacent", **SMALL)),
                          (tiers.SS, tiers.TARGET_SMALL), "Scale AI operations intern")
         self.assertEqual(tiers.place(judgment("tech_or_finance", "adjacent", **SMALL)),
                          (None, tiers.OUT_FIELD))
@@ -50,7 +50,7 @@ class GridTests(unittest.TestCase):
     def test_near_target_firm_is_s(self):
         for role in ("ml_ai", "swe", "data_science"):
             with self.subTest(role):
-                self.assertEqual(tiers.place(judgment("near_target", role, **LARGE)),
+                self.assertEqual(tiers.place(judgment("big_tech", role, **LARGE)),
                                  (tiers.S, tiers.NEAR_TARGET))
 
     def test_other_tech_or_finance(self):
@@ -64,11 +64,11 @@ class GridTests(unittest.TestCase):
     def test_non_tech_keeps_only_ai_and_data_roles_at_b(self):
         for role in ("ml_ai", "data_science", "quant"):
             with self.subTest(role):
-                self.assertEqual(tiers.place(judgment("non_tech", role, **LARGE)),
+                self.assertEqual(tiers.place(judgment("other_industry", role, **LARGE)),
                                  (tiers.B, tiers.NON_TECH_ROLE))
         for role in ("swe", "cybersecurity"):
             with self.subTest(role):
-                self.assertEqual(tiers.place(judgment("non_tech", role, **LARGE)),
+                self.assertEqual(tiers.place(judgment("other_industry", role, **LARGE)),
                                  (None, tiers.OUT_NON_TECH), "Little Caesars")
 
     def test_out_of_field_is_ruled_out_anywhere(self):
@@ -87,10 +87,44 @@ class GridTests(unittest.TestCase):
         self.assertEqual(tiers.place(judgment()), (tiers.A, tiers.SMALL_FIRM))
 
 
+class GuardTests(unittest.TestCase):
+    def test_big_tech_is_decided_by_name(self):
+        self.assertEqual(tiers.guard_firm("tech_or_finance", "Tesla"), "big_tech")
+        self.assertEqual(tiers.guard_firm("tech_or_finance", "Samsung Research America"),
+                         "big_tech", "a subsidiary name")
+        self.assertEqual(tiers.guard_firm("tech_or_finance", "Amazon Web Services"), "big_tech")
+        self.assertEqual(tiers.guard_firm("big_tech", "Uber"), "tech_or_finance")
+        self.assertEqual(tiers.guard_firm("tech_or_finance", "Apple Bank"), "tech_or_finance",
+                         "Apple Bank is not Apple")
+        self.assertEqual(tiers.guard_firm("tech_or_finance", "Meta Financial Group"),
+                         "tech_or_finance")
+        self.assertEqual(tiers.guard_firm("quant_or_ai", "Jane Street"), "quant_or_ai")
+        self.assertEqual(tiers.guard_firm("other_industry", "Apple Bank"), "tech_or_finance",
+                         "a bank by name is finance")
+        self.assertEqual(tiers.guard_firm("other_industry", "Fidelity Investments"),
+                         "tech_or_finance")
+        self.assertEqual(tiers.guard_firm("other_industry", "Little Caesars Enterprises"),
+                         "other_industry")
+
+    def test_an_analyst_title_is_not_data_science(self):
+        self.assertEqual(tiers.guard_role("data_science", "Data Analyst, Intern"),
+                         "out_of_field")
+        for title in ("Data Scientist Intern - Product Analytics", "Data Science & Analytics",
+                      "Quantitative Analyst Intern", "Security Analyst Intern",
+                      "Analytics Engineer Intern"):
+            with self.subTest(title):
+                self.assertEqual(tiers.guard_role("data_science", title), "data_science")
+        self.assertEqual(tiers.guard_role("swe", "Software Analyst"), "swe",
+                         "only a data-science label is corrected")
+
+
 class SizeTests(unittest.TestCase):
     def test_an_unfamiliar_firm_is_small(self):
         self.assertTrue(tiers.is_small(judgment(band="1000-10000", well_known=False)))
         self.assertTrue(tiers.is_small(judgment()))
+
+    def test_an_unknown_headcount_is_small_even_for_a_known_firm(self):
+        self.assertTrue(tiers.is_small(judgment(band="", well_known=True)))
 
     def test_only_a_well_known_firm_of_1000_plus_is_large(self):
         self.assertFalse(tiers.is_small(judgment(band=">10000", well_known=True)))
@@ -106,14 +140,14 @@ class SizeTests(unittest.TestCase):
 
 class UrgencyTests(unittest.TestCase):
     def test_unclassified_rows_are_b_unverified_whatever_their_labels(self):
-        row = judgment("target", "ml_ai", **SMALL)
+        row = judgment("quant_or_ai", "ml_ai", **SMALL)
         row.outcome = models.UNCLASSIFIED
         self.assertEqual(urgency.rank(row), (tiers.B, tiers.UNVERIFIED))
 
     def test_order_is_tier_then_reason(self):
         rows = [judgment("tech_or_finance", "swe", **LARGE, key="b"),
-                judgment("target", "ml_ai", **SMALL, key="ss"),
-                judgment("near_target", "swe", **LARGE, key="s"),
+                judgment("quant_or_ai", "ml_ai", **SMALL, key="ss"),
+                judgment("big_tech", "swe", **LARGE, key="s"),
                 judgment("tech_or_finance", "swe", **SMALL, key="a")]
         self.assertEqual([j.change.key for j in sorted(rows, key=urgency.order)],
                          ["ss", "s", "a", "b"])
@@ -124,14 +158,14 @@ class SettleTests(unittest.TestCase):
                "prog": {"source_id": "prog", "method": "page_text", "job_list": "false"}}
 
     def test_the_grid_rules_out_with_a_short_reason(self):
-        row = judgment("non_tech", "swe", **LARGE, key="Little Caesars / Innovation Intern @ Detroit")
+        row = judgment("other_industry", "swe", **LARGE, key="Little Caesars / Innovation Intern @ Detroit")
         classify.settle([row], self.SOURCES, None, "2026-11-20")
         self.assertEqual((row.relevant, row.ruled_out_by, row.why),
                          (False, "value", tiers.OUT_NON_TECH))
 
     def test_a_freshman_programme_passes_the_field_check_first(self):
         """An underclassman posting in an out-of-field role must not reach the block."""
-        row = judgment("non_tech", "out_of_field", **LARGE,
+        row = judgment("other_industry", "out_of_field", **LARGE,
                        key="AISC / Fast Start Scholarship for freshmen @ Chicago")
         row.class_year = "freshman/sophomore"
         self.assertTrue(urgency.targets_underclassmen(row))
@@ -139,7 +173,7 @@ class SettleTests(unittest.TestCase):
         self.assertFalse(urgency.in_top_block(row))
 
     def test_page_changes_skip_the_grid_and_the_table(self):
-        page = judgment("non_tech", "out_of_field", key="Some Programme (2 added, 0 removed)",
+        page = judgment("other_industry", "out_of_field", key="Some Programme (2 added, 0 removed)",
                         source_id="prog", program_name="Some Programme")
         section = judgment(key="new section: truveta", structural=False)
         classify.settle([page, section], self.SOURCES, None, "2026-11-20")
@@ -149,7 +183,7 @@ class SettleTests(unittest.TestCase):
         self.assertNotIn("## ■ OPPORTUNITIES", body)
 
     def test_two_postings_at_one_employer_agree_and_a_hand_override_wins(self):
-        first = judgment("target", "ml_ai", band="<100", employer_name="Avary.ai",
+        first = judgment("quant_or_ai", "ml_ai", band="<100", employer_name="Avary.ai",
                          key="Avary.ai / ML Intern @ San Jose")
         employers: dict[str, dict[str, str]] = {}
         classify.settle([first], self.SOURCES, employers, "2026-11-20")
@@ -157,18 +191,18 @@ class SettleTests(unittest.TestCase):
         second = judgment("tech_or_finance", "swe", band=">10000", well_known=True,
                           employer_name="Avary.ai", key="Avary.ai / SWE Intern @ San Jose")
         classify.settle([second], self.SOURCES, employers, "2026-11-21")
-        self.assertEqual((second.firm_field, second.employer_size), ("target", "small"),
+        self.assertEqual((second.firm_field, second.employer_size), ("quant_or_ai", "small"),
                          "the stored verdict replaces a later disagreeing one")
         employers["avaryai"]["override_size"] = "large"
         employers["avaryai"]["override_firm_field"] = "tech_or_finance"
-        third = judgment("target", "swe", band="<100", employer_name="Avary.ai",
+        third = judgment("quant_or_ai", "swe", band="<100", employer_name="Avary.ai",
                          key="Avary.ai / QA Intern @ San Jose")
         classify.settle([third], self.SOURCES, employers, "2026-11-22")
         self.assertEqual((third.firm_field, third.employer_size), ("tech_or_finance", "large"))
         self.assertEqual(employers["avaryai"]["last_seen"], "2026-11-22")
 
     def test_a_workday_account_name_is_shown_as_the_real_employer(self):
-        row = judgment("non_tech", "ml_ai", **LARGE, key="Globalhr / AI Intern @ Cambridge",
+        row = judgment("other_industry", "ml_ai", **LARGE, key="Globalhr / AI Intern @ Cambridge",
                        employer_name="RTX")
         row.change.url = "https://globalhr.wd5.myworkdayjobs.com/x/job/1"
         company, _ = digest.company_and_position(row)

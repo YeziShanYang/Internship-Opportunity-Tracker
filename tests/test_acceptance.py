@@ -1105,12 +1105,12 @@ class PostingFilterTests(_IsolatedState, unittest.TestCase):
                                  (tiers.A, tiers.SMALL_FIRM))
         self.assertEqual(urgency.rank(models.Judgment(
             change=models.Change(source_id="s", kind="added", key="k", detail="d"),
-            relevant=True, firm_field="target", role_field="ml_ai")),
+            relevant=True, firm_field="quant_or_ai", role_field="ml_ai")),
             (tiers.B, tiers.UNVERIFIED), "an unclassified row's labels are not trusted")
         self.assertFalse(
             urgency.is_urgent(models.Judgment(
                 change=models.Change(source_id="s", kind="added", key="k", detail="d"),
-                relevant=False, outcome=models.MODEL, firm_field="target",
+                relevant=False, outcome=models.MODEL, firm_field="quant_or_ai",
                 role_field="quant")),
             "a ruled-out row is never in a top tier")
 
@@ -2180,7 +2180,7 @@ class Phase2SuppressionTests(_IsolatedState, unittest.TestCase):
                 url="https://example.com/a",
             ),
             program_name="Some Startup", relevant=True, outcome=models.MODEL,
-            confidence="high", why="First-year eligible.", firm_field="target",
+            confidence="high", why="First-year eligible.", firm_field="quant_or_ai",
             role_field="ml_ai", size_band="<100",
         )
         ordinary = models.Judgment(
@@ -3153,7 +3153,7 @@ class BodyLimitTests(_IsolatedState, unittest.TestCase):
     def test_the_trim_keeps_the_urgent_rows_and_the_footers(self):
         """Trimming from the end is what makes it safe: the table is already sorted."""
         judgments = self._judgments(400, "B" * 300)
-        judgments[-1].firm_field = "target"  # a small ML firm is SS, so it sorts first
+        judgments[-1].firm_field = "quant_or_ai"  # a small ML firm is SS, so it sorts first
         judgments[-1].role_field = "ml_ai"
         _, body = digest.render(judgments, [], {})
         self.assertIn("**SS**", body, "the top-tier row must survive the trim")

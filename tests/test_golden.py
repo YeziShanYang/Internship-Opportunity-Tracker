@@ -129,7 +129,7 @@ def scenario_full() -> dict:
         _judgment(rolling, why="Jane Street reviews on a rolling basis and this is a "
                                "trading seat open to all undergraduate years.",
                   # A quant firm, well known and large: S.
-                  firm_field="target", role_field="quant", size_band="1000-10000",
+                  firm_field="quant_or_ai", role_field="quant", size_band="1000-10000",
                   well_known=True,
                   class_year="all undergraduate years", location="New York, NY",
                   deadline="rolling"),
@@ -146,10 +146,10 @@ def scenario_full() -> dict:
                   class_year="Bachelor's, no year stated", location="Austin, TX",
                   # SS: a quant role at a firm labelled small.
                   deadline="2027-03-31", employer_size="small",
-                  firm_field="target", role_field="quant"),
+                  firm_field="quant_or_ai", role_field="quant"),
         _judgment(gone, why="Row disappeared from the board.", confidence="low",
                   # Big tech's AI role: near-target, S.
-                  firm_field="near_target", role_field="ml_ai", size_band=">10000",
+                  firm_field="big_tech", role_field="ml_ai", size_band=">10000",
                   well_known=True),
         _judgment(screened, relevant=False, why='Posting requires junior standing or '
                                                 'above; this owner is a rising sophomore '

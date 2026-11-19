@@ -26,16 +26,22 @@ are SS, after the same field check.
 """
 from __future__ import annotations
 
+import re
+
 from core import models
 
 SS, S, A, B = "SS", "S", "A", "B"
 TIER_ORDER = (SS, S, A, B)
 
 # Firm field labels, as the classifier returns them.
-FIRM_TARGET = "target"            # quant trading/research, or ML/AI as the main business
-FIRM_NEAR_TARGET = "near_target"  # big tech and AI-heavy large companies
+# Named for what they mean rather than "target"/"near_target": a company called Target
+# was labelled with the wrong field when the label shared its name (2026-11-20).
+FIRM_TARGET = "quant_or_ai"       # quant trading/research, or ML/AI as the main business
+FIRM_NEAR_TARGET = "big_tech"     # big tech and AI-heavy large companies (a closed list)
 FIRM_TECH_FINANCE = "tech_or_finance"
-FIRM_NON_TECH = "non_tech"
+# "other_industry", not "non_tech": the model read "non_tech" as "not a technology
+# company" and filed banks and asset managers there (2026-11-20).
+FIRM_NON_TECH = "other_industry"
 FIRM_FIELDS = (FIRM_TARGET, FIRM_NEAR_TARGET, FIRM_TECH_FINANCE, FIRM_NON_TECH)
 
 # Role field labels.
@@ -87,12 +93,17 @@ def is_small(judgment: models.Judgment) -> bool:
         return True
     if judgment.employer_size in ("small", "large"):
         return judgment.employer_size == "small"
-    return not judgment.well_known or judgment.size_band in SMALL_BANDS
+    return size_label(judgment.size_band, judgment.well_known) == "small"
+
+
+LARGE_BANDS = frozenset({"1000-10000", ">10000"})
 
 
 def size_label(band: str, well_known: bool) -> str:
-    """`small` or `large` from a size band and whether the firm is well known."""
-    return "small" if (not well_known or band in SMALL_BANDS) else "large"
+    """`small` or `large`. Large needs both: an established company and a stated
+    headcount of 1,000 or more. An unknown headcount counts as small, like an unfamiliar
+    name -- a small trading firm the model has heard of is still small."""
+    return "large" if (well_known and band in LARGE_BANDS) else "small"
 
 
 def place(judgment: models.Judgment) -> tuple[str, str] | tuple[None, str]:
@@ -119,6 +130,83 @@ def place(judgment: models.Judgment) -> tuple[str, str] | tuple[None, str]:
     if firm == FIRM_NON_TECH:
         return (B, NON_TECH_ROLE) if role in NON_TECH_KEPT else (None, OUT_NON_TECH)
     return (A, SMALL_FIRM) if small else (B, LARGE_FIRM)
+
+
+# A title that names analyst or analytics work is reporting, not data science, unless
+# it also names science, quant or security work. Measured 2026-11-20: the model read a
+# "Data Analyst, Intern" posting as data science twice running, while "Data Scientist -
+# Product Analytics" and "Data Science & Analytics" are data science.
+_ANALYST_TITLE = re.compile(r"\banalyst\b|\banalytics\b", re.IGNORECASE)
+_NOT_REPORTING = re.compile(
+    r"scien|quant|secur|cyber|machine learning|\bml\b|\bai\b|engineer", re.IGNORECASE)
+
+
+# The big-tech firms. Kept here rather than trusted to the prompt: on held-out checks on
+# 2026-11-20 the model labelled Uber big tech and Tesla and Samsung not, with the list in
+# the prompt each time. An employer is big tech when its whole name is one of these, or
+# when it starts with one and every other word is a subsidiary word ("Samsung Research
+# America", "Amazon Web Services") -- so "Apple Bank" is not Apple.
+BIG_TECH = frozenset({
+    "microsoft", "linkedin", "github",
+    "google", "alphabet", "googledeepmind", "deepmind", "waymo", "youtube",
+    "meta", "metaplatforms",
+    "amazon", "amazonwebservices", "aws", "zoox",
+    "apple",
+    "nvidia",
+    "samsung",
+    "tesla",
+    "toyotaresearchinstitute", "tri",
+    "anduril",
+    "palantir",
+})
+_BIG_TECH_FIRST = frozenset({
+    "microsoft", "linkedin", "github", "google", "alphabet", "deepmind", "waymo",
+    "youtube", "meta", "amazon", "zoox", "apple", "nvidia", "samsung", "tesla",
+    "anduril", "palantir",
+})
+_SUBSIDIARY_WORDS = frozenset({
+    "research", "america", "americas", "electronics", "semiconductor", "semiconductors",
+    "labs", "lab", "ai", "cloud", "web", "services", "platforms", "reality", "devices",
+    "robotics", "deepmind", "technologies", "industries", "us", "usa", "energy", "motors",
+    "inc", "llc", "corp", "corporation", "co", "company", "the",
+})
+
+
+def is_big_tech(employer: str) -> bool:
+    words = re.findall(r"[a-z0-9]+", employer.lower())
+    if "".join(w for w in words if w not in ("inc", "llc", "corp", "corporation", "the")) \
+            in BIG_TECH:
+        return True
+    return bool(words) and words[0] in _BIG_TECH_FIRST \
+        and all(w in _SUBSIDIARY_WORDS for w in words[1:])
+
+
+# A name that says it is a bank or an investment firm is finance. The model filed two
+# banks under other_industry on 2026-11-20 even after the label was renamed.
+_FINANCE_NAME = re.compile(
+    r"\b(?:bank|banks|bancorp|bancshares|securities|investments|asset management"
+    r"|credit union|capital markets)\b", re.IGNORECASE)
+
+
+def guard_firm(firm: str, employer: str) -> str:
+    """Big tech is decided by name: a listed employer is big tech whatever the model
+    said, and an unlisted one the model called big tech is other tech. A bank or
+    investment firm by name is never other_industry."""
+    if is_big_tech(employer):
+        return FIRM_NEAR_TARGET
+    if firm == FIRM_NEAR_TARGET:
+        return FIRM_TECH_FINANCE
+    if firm == FIRM_NON_TECH and _FINANCE_NAME.search(employer):
+        return FIRM_TECH_FINANCE
+    return firm
+
+
+def guard_role(role: str, title: str) -> str:
+    """`out_of_field` for an analyst title the model labelled data science."""
+    if role == ROLE_DATA_SCIENCE and _ANALYST_TITLE.search(title) \
+            and not _NOT_REPORTING.search(title):
+        return ROLE_OUT_OF_FIELD
+    return role
 
 
 def order(reason: str) -> int:

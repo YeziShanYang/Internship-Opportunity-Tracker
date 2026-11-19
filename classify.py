@@ -157,11 +157,14 @@ Rules, in priority order:
      models, or data pipelines. Reporting is not data science (see `out_of_field`).
    * `cybersecurity` -- security engineering, vulnerability research, security
      operations.
-   * `adjacent` -- work a CS student can do that is not engineering: QA and testing,
-     operations, product, solutions or support engineering, technical program work.
-   * `out_of_field` -- everything else: business intelligence, analytics and reporting
-     roles (dashboards, Tableau/Power BI, "BI Analyst", "Business Intelligence Analytics
-     Intern", "Data Analyst" doing reports), even when the title says "data"; IT support
+   * `adjacent` -- technical work next to engineering: QA and test automation,
+     technical operations, product management, solutions or support engineering,
+     technical program management.
+   * `out_of_field` -- everything else. In particular: any role titled analyst or
+     analytics (data analyst, business analyst, BI, reporting, dashboards) unless the
+     work is quantitative trading/research or security, even when the title says "data";
+     design of any kind (product, UX, UI, visual, graphic); store, retail, branch or
+     general business management and operations; consulting and strategy; IT support
      and helpdesk, HR, recruiting, marketing, sales, public
      relations, finance or accounting operations, and engineering that is not software
      (mechanical, electrical, civil, aerospace, chemical, manufacturing, firmware,
@@ -174,32 +177,42 @@ Rules, in priority order:
      company the posting text or your knowledge identifies, or the row's name if
      neither does.
    * `firm_field` -- what the company mainly does:
-     - `target`: quantitative trading or investment firms (Jane Street, Citadel,
+     - `quant_or_ai`: quantitative trading or investment firms (Jane Street, Citadel,
        D. E. Shaw, Optiver, Hudson River Trading, PEAK6) and companies whose main
-       business is ML/AI (OpenAI, Anthropic, Scale AI, Abridge, an AI-first startup).
-     - `near_target`: a short list, not "any famous tech company". The largest tech
-       platforms (Microsoft, Google, Meta, Amazon, Apple, Nvidia, Samsung) and large
-       companies built around AI or autonomy (Tesla, Zoox, Waymo, Toyota Research
-       Institute, Anduril). Anduril is near_target even though it sells to defence.
+       business is ML/AI (OpenAI, Anthropic, Scale AI, Abridge, an AI-first startup),
+       including AI training-data, evaluation and AI infrastructure companies.
+     - `big_tech`: ONLY these companies and their subsidiaries -- Microsoft, Google
+       (Alphabet, DeepMind, Waymo), Meta, Amazon (AWS, Zoox), Apple, Nvidia, Samsung,
+       Tesla, Toyota Research Institute, Anduril, Palantir. Any company not on this
+       list is not big_tech, however large or famous.
      - `tech_or_finance`: every other technology company, whatever its fame -- software,
        internet, games, devices, semiconductors, telecoms (Epic Games, Adobe, Salesforce,
        Garmin, HERE, T-Mobile, Lumentum) -- and tech startups of any kind, including
        space, robotics, biotech-software and hardware startups (Scout Space,
-       MatrixSpace). Also fintech, banking, asset management, payments and consulting
-       (Visa, Ramp, State Street, Fiserv).
-     - `non_tech`: established businesses whose product is not technology: food and
+       MatrixSpace). Companies founded as technology companies in space, electric
+       vehicles or energy (new-space launch and satellite firms, EV makers) are
+       tech_or_finance even when large; traditional aerospace firms and established
+       automakers are not. Also fintech, banking, asset management, payments, IT services and
+       technology consulting (Visa, Ramp, State Street, Fiserv).
+     - `other_industry`: established businesses that are neither technology nor
+       finance: food and
        retail (Little Caesars, Sheetz, Camping World), manufacturing and industrials,
        traditional defence and aerospace contractors (Lockheed Martin, RTX, Northrop
        Grumman, General Dynamics, Leidos), insurers, healthcare providers and pharma,
-       utilities, real estate, government-services contractors. A startup is never
-       non_tech.
+       utilities, real estate, government-services contractors. A bank, asset manager,
+       financial-data or fintech company is never other_industry, and neither is a
+       startup.
    * `size_band` -- headcount: `<100`, `100-1000`, `1000-10000` or `>10000`, from the
-     posting text or what you know; empty if you have no idea.
-   * `well_known` -- true only for an established company: a household name, a large
-     public company, or a long-established firm in its industry (Jane Street, Citadel,
-     Visa, Garmin). A startup or growth-stage company is false even when it is famous
-     and has over 1,000 staff (Ramp, Scale AI, Abridge). An unfamiliar company is false:
-     it is probably a startup or small firm. A "Backed by" line means named
+     posting text or what you know. Always choose one. For a company you do not
+     recognise, give your best guess; it counts as small anyway, because `well_known`
+     is false.
+   * `well_known` -- true only for an established company: publicly traded, or
+     operating for decades, or a long-established firm in its industry (Jane Street,
+     Citadel, Visa, Garmin). A privately held company still funded by venture capital is
+     a growth-stage company and false, however famous or large. Famous private companies
+     are the usual mistake: OpenAI, Anthropic, Databricks, Canva, Discord, Ramp and Scale
+     AI are all false. An unfamiliar company is false: it is probably a startup or small
+     firm. A "Backed by" line means named
      investors list it in their portfolio, so it is a startup: false, `<100` or
      `100-1000` unless the posting says otherwise.
 9. Rule out an "internship" that is not a real job at a real company. This person wants
@@ -274,7 +287,7 @@ RESULT_SCHEMA = {
         "employer_name": {"type": "string"},
         "firm_field": {"type": "string", "enum": ["", *tiers.FIRM_FIELDS]},
         "role_field": {"type": "string", "enum": ["", *tiers.ROLE_FIELDS]},
-        "size_band": {"type": "string", "enum": ["", *tiers.SIZE_BANDS]},
+        "size_band": {"type": "string", "enum": list(tiers.SIZE_BANDS)},
         "well_known": {"type": "boolean"},
     },
     "required": [
@@ -721,6 +734,10 @@ def settle(
         source = sources.get(judgment.change.source_id, {})
         if tiers.is_page_change(judgment.change, source):
             continue
+        row_employer, title = reuse.employer_and_title(judgment.change, source)
+        judgment.role_field = tiers.guard_role(judgment.role_field, title)
+        judgment.firm_field = tiers.guard_firm(
+            judgment.firm_field, judgment.employer_name or row_employer)
         if employers is not None:
             _apply_employer(judgment, source, employers, today)
         if not judgment.employer_size:
