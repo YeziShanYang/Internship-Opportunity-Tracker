@@ -155,10 +155,10 @@ def collect(
 
 # A server that answers 429 is saying "come back later", so a source refused that way
 # is asked once more at the end of the run instead of being reported failed on the
-# spot. On 2026-11-14 and 2026-11-16 every Workday board failed in one run (bodies
-# that were not JSON, then HTTP 429), across four Workday clusters and from the first
-# board on, and all of them read normally on 2026-11-15. That is the runner's address
-# being throttled, not this run's own volume, so slowing the crawl would not help.
+# spot. It was built for the Workday failures of 2026-11-14 and 11-16, which turned out
+# not to be throttling: Cloudflare was challenging the httpx client itself, and the
+# retry was refused every time. Those hosts now go through `gather.urllib_transport`.
+# The retry stays for real 429s and 503s from any host.
 RETRY_STATUSES = (429, 503)
 RETRY_PAUSE_SECONDS = 60
 # Two refusals in a row on the second pass means the throttle has not lifted. The rest

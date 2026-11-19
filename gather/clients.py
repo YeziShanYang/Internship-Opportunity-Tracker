@@ -19,6 +19,7 @@ import sys
 import httpx
 
 from core import paths
+from gather import urllib_transport
 
 
 def github_token() -> str | None:
@@ -44,9 +45,14 @@ def build_github_client(token: str | None) -> httpx.Client:
 
 def build_web_client() -> httpx.Client:
     """No credentials, ever. Spec section 11: identify ourselves, with a contact
-    address, and do not pretend to be a browser -- see the Citadel finding."""
+    address, and do not pretend to be a browser -- see the Citadel finding.
+
+    Workday hosts go through `urllib_transport`: since about 2026-11-14 Cloudflare
+    challenges httpx on them and answers urllib, under the same User-Agent. The
+    measurement and the line not to cross are in that module."""
     return httpx.Client(
         headers={"User-Agent": paths.USER_AGENT},
         timeout=paths.HTTP_TIMEOUT_SECONDS,
         follow_redirects=True,
+        mounts={urllib_transport.WORKDAY_HOSTS: urllib_transport.UrllibTransport()},
     )
