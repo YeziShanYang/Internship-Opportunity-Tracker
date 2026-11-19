@@ -366,8 +366,13 @@ def render(
     usage: models.Usage | None = None,
     pinned: list[models.PinnedRow] | None = None,
     coverage_line: str | None = None,
+    limit: int | None = paths.MAX_ISSUE_BODY_CHARS,
 ) -> tuple[str, str]:
-    """Return (issue title, issue body).
+    """Return (title, body).
+
+    `limit` is the issue's body ceiling, and the default is what gets posted. The email
+    passes None and gets every row: it has no 65,536-character ceiling, so the rows the
+    issue withholds on a busy morning are exactly the ones it exists to carry.
 
     `status_only` says there was no news -- it only picks the title. The body is the
     same shape every day: on a quiet day that is the calendar block and the health
@@ -550,11 +555,14 @@ def render(
             "classifier (see RULED OUT above)."
         )
 
-    return title, _fit(body, table, table_index, len(judgments))
+    if limit is None:
+        return title, "\n".join(body)
+    return title, _fit(body, table, table_index, len(judgments), limit)
 
 
 def _fit(
-    body: list[str], table: list[str], table_index: int | None, total: int
+    body: list[str], table: list[str], table_index: int | None, total: int,
+    limit: int = paths.MAX_ISSUE_BODY_CHARS,
 ) -> str:
     """Join the body, trimming the table if GitHub would refuse the whole thing.
 
@@ -571,7 +579,7 @@ def _fit(
     property is untouched on every normal day.
     """
     rendered = "\n".join(body)
-    if len(rendered) <= paths.MAX_ISSUE_BODY_CHARS or table_index is None:
+    if len(rendered) <= limit or table_index is None:
         return rendered
 
     head, tail = body[:table_index], body[table_index + len(table):]
@@ -580,12 +588,12 @@ def _fit(
     for keep in range(len(table) - 1, -1, -1):
         note = (
             f"- _{len(table) - keep} of {len(table)} rows did not fit GitHub's "
-            f"{paths.MAX_ISSUE_BODY_CHARS:,}-character issue body limit and were "
-            "withheld, least urgent first. All of them are in this morning's state "
-            "commit._"
+            f"{limit:,}-character issue body limit and were withheld here, least "
+            "urgent first. The emailed digest carries every row, and so does this "
+            "morning's state commit._"
         )
         candidate = "\n".join(head + table[:keep] + [""] + [note] + tail)
-        if len(candidate) <= paths.MAX_ISSUE_BODY_CHARS:
+        if len(candidate) <= limit:
             return candidate
     # Every row removed and it still does not fit, so the overflow is not the table.
     # Return the un-trimmed body rather than a silently mangled one: the delivery will

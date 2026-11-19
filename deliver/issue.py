@@ -1,9 +1,11 @@
 """Deciding whether to send, and opening the issue.
 
-Issues rather than email: GitHub emails the owner when an issue is opened in their own
-repo, so there is no SMTP, no API key that expires silently, and no deliverability
-problem. The issue *is* the email, which is also what makes the open issues the delivery
-log every run shares.
+The issue is the delivery log every run shares: `already_sent` reads it for the
+one-a-day cap, whatever commit a run checked out. It used to be the only delivery as
+well, relying on GitHub's new-issue notification email. That notification never carried
+the list itself, and the body is capped at 65,536 characters, so since 2026-11-18 the
+untrimmed digest is also emailed by `deliver.mail`. The issue still opens first and
+stays the fallback: a failed email is reported as a comment on it.
 
 Separate from the renderer because `digest.render` used to query the GitHub API from
 inside rendering. That is the concrete version of "deliver must be allowed to import
@@ -105,22 +107,26 @@ def already_sent(date: str) -> bool | None:
     )
 
 
-def deliver(title: str, body: str) -> str:
-    """Open an issue. Returns a human-readable description of what happened."""
+def _headers(token: str) -> dict[str, str]:
+    return {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "User-Agent": paths.USER_AGENT,
+    }
+
+
+def deliver(title: str, body: str) -> tuple[str, int | None]:
+    """Open an issue. Returns (what happened, the new issue's number or None)."""
     repo = os.environ.get("GITHUB_REPOSITORY")
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_PAT")
     if not repo or not token:
         return (
             "not delivered: GITHUB_REPOSITORY and GITHUB_TOKEN must both be set "
             "(they are, automatically, inside GitHub Actions)"
-        )
+        ), None
     response = httpx.post(
         f"{GITHUB_API}/repos/{repo}/issues",
-        headers={
-            "Authorization": f"Bearer {token}",
-            "Accept": "application/vnd.github+json",
-            "User-Agent": paths.USER_AGENT,
-        },
+        headers=_headers(token),
         json={"title": title, "body": body},
         timeout=paths.HTTP_TIMEOUT_SECONDS,
     )
@@ -128,4 +134,30 @@ def deliver(title: str, body: str) -> str:
         raise RuntimeError(
             f"could not open issue: HTTP {response.status_code} {response.text[:300]}"
         )
-    return f"opened issue {response.json().get('html_url')}"
+    opened = response.json()
+    return f"opened issue {opened.get('html_url')}", opened.get("number")
+
+
+def comment(number: int, text: str) -> str:
+    """Comment on an issue. Used to report a failed email through the channel that
+    worked, so a broken email setting reaches the owner the same morning.
+
+    Never raises: it runs after the issue opened and before the state commit, and a
+    failure here must not cost the morning its state.
+    """
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_PAT")
+    if not repo or not token:
+        return "no comment posted: GITHUB_REPOSITORY and GITHUB_TOKEN unset"
+    try:
+        response = httpx.post(
+            f"{GITHUB_API}/repos/{repo}/issues/{number}/comments",
+            headers=_headers(token),
+            json={"body": text},
+            timeout=paths.HTTP_TIMEOUT_SECONDS,
+        )
+    except httpx.HTTPError as exc:
+        return f"no comment posted: {type(exc).__name__}: {exc}"
+    if response.status_code >= 300:
+        return f"no comment posted: HTTP {response.status_code}"
+    return f"commented on issue #{number}"

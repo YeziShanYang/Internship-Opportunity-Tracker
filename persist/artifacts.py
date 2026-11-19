@@ -36,6 +36,10 @@ DIGEST = "digest.md"
 # The title is part of the delivered artifact and has to survive the stage boundary
 # too, so it gets a file rather than being smuggled into the first line of the body.
 DIGEST_TITLE = "digest.title"
+# The emailed digest: every row, with no issue-body ceiling to trim to. The markdown is
+# the email's plain-text part and the HTML is what a mail client shows.
+DIGEST_FULL = "digest_full.md"
+DIGEST_HTML = "digest.html"
 
 
 def path(name: str) -> pathlib.Path:

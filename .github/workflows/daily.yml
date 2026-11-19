@@ -84,6 +84,12 @@ jobs:
           # quota to student subscriptions because it is Marketplace-billed.
           AZURE_OPENAI_API_KEY: ${{ secrets.AZURE_OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # The full digest by email (deliver/mail.py). All three optional: unset, the
+          # issue alone delivers, as it did before. Secrets rather than variables or
+          # code because the repo is public and the addresses are personal.
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_EMAIL_FROM: ${{ secrets.DIGEST_EMAIL_FROM }}
+          DIGEST_EMAIL_TO: ${{ secrets.DIGEST_EMAIL_TO }}
         run: python run.py all
 
       # The xlsx is rebuilt only when the CSVs actually changed. openpyxl output is not

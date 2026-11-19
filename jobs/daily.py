@@ -21,7 +21,7 @@ import argparse
 import sys
 
 import classify
-from deliver import digest, health, issue, urgency
+from deliver import digest, health, issue, mail, urgency
 from jobs import coverage as cover
 from jobs import discovery as discover
 from core import clock, models, paths
@@ -404,21 +404,23 @@ def run(args: argparse.Namespace) -> int:
             discovery_notes.append(
                 f"the weekly coverage measurement failed: {type(exc).__name__}: {exc}")
 
-    title, body = digest.render(
-        judgments, metrics, by_id, suppressed_applied=suppressed_applied,
+    render_args = dict(
+        suppressed_applied=suppressed_applied,
         suppressed_muted=suppressed_muted,
         discovery_lines=discovery_lines, status_only=status_only,
         enriched=bodies, filters=filters, usage=judged.usage,
         pinned=judged.pinned, coverage_line=coverage_line,
     )
+    title, body = digest.render(judgments, metrics, by_id, **render_args)
+    _, full_body = digest.render(judgments, metrics, by_id, limit=None, **render_args)
     for note in discovery_notes:
         body += f"\n- ⚠ {note}"
+        full_body += f"\n- ⚠ {note}"
 
     # The exact bytes that would be posted. This is the artifact worth having most: it
     # is what a later `run.py render` has to reproduce byte-for-byte, and it is the
     # evidence for "the refactor did not change the digest".
-    artifacts.write_text(artifacts.DIGEST, body)
-    artifacts.write_text(artifacts.DIGEST_TITLE, title + "\n")
+    _write_digest(title, body, full_body)
 
     print(f"{len(results)} sources checked, {len(changes)} changes, {len(judgments)} judged")
     for result in results:
@@ -433,7 +435,8 @@ def run(args: argparse.Namespace) -> int:
         )
         print(f"TITLE: {title}\n")
         print(body)
-        print("\n(dry run: no issue opened, no state written)")
+        print(f"\nemail preview: {artifacts.path(artifacts.DIGEST_HTML)}")
+        print("(dry run: no issue opened, no email sent, no state written)")
         return 0
 
     for result in results:
@@ -454,14 +457,50 @@ def run(args: argparse.Namespace) -> int:
         today, clock.recruiting_cycle(today)))
 
     if send:
-        print(issue.deliver(title, body))
+        outcome, number = issue.deliver(title, body)
+        print(outcome)
         store.write_last_delivered()
+        _email(title, number)
     else:
         print(
             f"a digest was already delivered on {today}: this run is a schedule retry, "
             "and the cadence is exactly one digest a day (spec section 9)"
         )
     return 0
+
+
+def _write_digest(title: str, body: str, full_body: str) -> None:
+    """The issue body, its title, and the emailed digest in both its parts."""
+    artifacts.write_text(artifacts.DIGEST, body)
+    artifacts.write_text(artifacts.DIGEST_TITLE, title + "\n")
+    artifacts.write_text(artifacts.DIGEST_FULL, full_body)
+    artifacts.write_text(artifacts.DIGEST_HTML, mail.to_html(title, full_body))
+
+
+def _email(title: str, number: int | None) -> None:
+    """Email the full digest from `.run/`, reporting a failure on the issue.
+
+    Called only after the issue opened, so the one-a-day cap covers the email too. It
+    never raises: the workflow's state-commit step runs only if this process exits 0,
+    and a failed email must not cost the morning its state as well. The failure goes to
+    the issue instead, whose notification is the channel that demonstrably works.
+    """
+    try:
+        print(mail.send(
+            title,
+            artifacts.read_text(artifacts.DIGEST_HTML),
+            artifacts.read_text(artifacts.DIGEST_FULL),
+        ))
+    except Exception as exc:  # the state commit must survive a broken email
+        failure = f"{type(exc).__name__}: {exc}"
+        print(f"email failed: {failure}", file=sys.stderr)
+        if number is not None:
+            print(issue.comment(
+                number,
+                f"⚠ The full digest email failed, so this issue is the only copy this "
+                f"morning (rows past GitHub's limit are in the state commit).\n\n"
+                f"`{failure}`",
+            ))
 
 
 def gather_only(args: argparse.Namespace) -> int:
@@ -560,8 +599,8 @@ def render_only(args: argparse.Namespace) -> int:
         judged.judgments, change_set.metrics, already_delivered_today=False)
     if args.force_health:
         status_only = True
-    title, body = digest.render(
-        judged.judgments, change_set.metrics, sources,
+    render_args = (judged.judgments, change_set.metrics, sources)
+    render_kwargs = dict(
         suppressed_applied=suppress.removed_by(change_set.filters, suppress.APPLIED),
         suppressed_muted=suppress.removed_by(change_set.filters, suppress.MUTED),
         status_only=status_only, enriched=bodies,
@@ -571,8 +610,9 @@ def render_only(args: argparse.Namespace) -> int:
         # commit has landed since. This is what keeps the byte-identical property.
         pinned=judged.pinned,
     )
-    artifacts.write_text(artifacts.DIGEST, body)
-    artifacts.write_text(artifacts.DIGEST_TITLE, title + "\n")
+    title, body = digest.render(*render_args, **render_kwargs)
+    _, full_body = digest.render(*render_args, limit=None, **render_kwargs)
+    _write_digest(title, body, full_body)
     print(title)
     print(f"wrote {artifacts.path(artifacts.DIGEST)}")
     return 0
@@ -625,11 +665,22 @@ def deliver_only(args: argparse.Namespace) -> int:
     the fallback, for the same reason `all` does: late ticks do not dispatch in cron
     order, so a checked-out marker can be stale.
     """
-    if not artifacts.exists(artifacts.DIGEST):
+    if not artifacts.exists(artifacts.DIGEST) or not artifacts.exists(artifacts.DIGEST_HTML):
         print("no rendered digest; run `run.py render` first", file=sys.stderr)
         return 2
     body = artifacts.read_text(artifacts.DIGEST)
     title = artifacts.read_text(artifacts.DIGEST_TITLE).strip()
+
+    if args.email_only:
+        # No issue and no cap: for testing the email settings, and for re-sending a
+        # morning whose email failed after its issue had already opened.
+        if args.dry_run:
+            print(f"--- would email ---\nSUBJECT: {title}\n"
+                  f"{artifacts.path(artifacts.DIGEST_HTML)}")
+            return 0
+        print(mail.send(title, artifacts.read_text(artifacts.DIGEST_HTML),
+                        artifacts.read_text(artifacts.DIGEST_FULL)))
+        return 0
 
     today = clock.today_iso()
     if _already_delivered(today):
@@ -642,6 +693,8 @@ def deliver_only(args: argparse.Namespace) -> int:
     if args.dry_run:
         print(f"--- would send ---\nTITLE: {title}\n\n{body}")
         return 0
-    print(issue.deliver(title, body))
+    outcome, number = issue.deliver(title, body)
+    print(outcome)
     store.write_last_delivered()
+    _email(title, number)
     return 0

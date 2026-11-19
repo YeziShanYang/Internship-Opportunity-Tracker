@@ -54,6 +54,12 @@ def main(argv: list[str] | None = None) -> int:
         "--force-health", action="store_true",
         help="render the quiet-day digest and ignore the once-a-day delivery lock",
     )
+    parser.add_argument(
+        "--email-only", action="store_true",
+        help="with `deliver`: email the rendered digest without opening an issue or "
+             "checking the daily cap -- to test the email settings, or to re-send a "
+             "morning whose email failed",
+    )
     args = parser.parse_args(argv)
 
     # Imported here rather than at module scope so `run.py --help` does not pay for

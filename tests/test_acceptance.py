@@ -30,12 +30,12 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 
 import classify
 import screen
-from deliver import digest, health, issue
+from deliver import digest, health, issue, mail
 from deliver import urgency
 from jobs import discovery as discover
 from core import clock, models, paths, profile, text as coretext
 from gather import breaker
-from persist import cache, store
+from persist import artifacts, cache, store
 from jobs import daily
 from process import parse_readme, redirect, suppress
 import build_xlsx
@@ -3135,6 +3135,88 @@ class BodyLimitTests(_IsolatedState, unittest.TestCase):
         _, body = digest.render(judgments, [], {})
         self.assertNotIn("did not fit", body)
         self.assertIn("■ OPPORTUNITIES (8)", body)
+
+    def test_the_emailed_digest_is_never_trimmed(self):
+        """The email exists to carry the rows the issue withholds, so it gets them all."""
+        judgments = self._judgments(400, "C" * 300)
+        _, issue_body = digest.render(judgments, [], {})
+        _, full = digest.render(judgments, [], {}, limit=None)
+        self.assertIn("did not fit GitHub's", issue_body)
+        self.assertNotIn("did not fit", full)
+        self.assertGreater(len(full), paths.MAX_ISSUE_BODY_CHARS)
+        self.assertIn("■ OPPORTUNITIES (400)", full)
+        self.assertEqual(full.count("| Firm "), 400, "every row, none withheld")
+
+
+class EmailTests(_IsolatedState, unittest.TestCase):
+    """The full digest by email, alongside the issue rather than instead of it."""
+
+    BODY = (
+        "Opportunity digest — 2026-11-18\n\n"
+        "## ■ OPPORTUNITIES (1)\n\n"
+        "| Priority | Company | Position | Notes |\n|---|---|---|---|\n"
+        "| **High** · small firm | [Acme](https://acme.test) | Quant <Intern> \\| SWE "
+        "| • **Deadline:** rolling<br>• **Year:** freshman |\n\n"
+        "<details><summary>■ RULED OUT (1)</summary>\n\n- **X** / Y: master's program\n"
+        "\n</details>\n\n## ■ CALENDAR (November)\n- one\n"
+    )
+    ENV = {"RESEND_API_KEY": "re_test", "DIGEST_EMAIL_FROM": "Digest <d@example.test>",
+           "DIGEST_EMAIL_TO": "a@example.test, b@example.test"}
+
+    def test_the_html_keeps_the_table_and_the_cell_bullets(self):
+        html = mail.to_html("T", self.BODY)
+        self.assertIn("<table", html)
+        self.assertIn("rolling<br>", html, "the Notes bullets are <br>-joined in a cell")
+        self.assertIn('href="https://acme.test"', html)
+        self.assertIn("Quant &lt;Intern&gt; | SWE", html,
+                      "posting text is escaped, and an escaped pipe stays in its cell")
+
+    def test_ruled_out_is_a_heading_because_mail_cannot_open_details(self):
+        html = mail.to_html("T", self.BODY)
+        self.assertNotIn("<details", html)
+        self.assertRegex(html, r"<h2[^>]*>■ RULED OUT \(1\)</h2>")
+        self.assertIn("<li><strong>X</strong> / Y: master's program</li>", html)
+
+    def test_unconfigured_sends_nothing_and_does_not_raise(self):
+        with unittest.mock.patch.dict(os.environ, {}, clear=True), \
+                unittest.mock.patch("httpx.post") as post:
+            outcome = mail.send("T", "<p>x</p>", "x")
+        post.assert_not_called()
+        self.assertIn("not configured", outcome)
+
+    def test_configured_posts_once_and_never_logs_an_address(self):
+        response = unittest.mock.Mock(status_code=200)
+        with unittest.mock.patch.dict(os.environ, self.ENV, clear=True), \
+                unittest.mock.patch("httpx.post", return_value=response) as post:
+            outcome = mail.send("Subject", "<p>x</p>", "x")
+        payload = post.call_args.kwargs["json"]
+        self.assertEqual(payload["to"], ["a@example.test", "b@example.test"])
+        self.assertEqual(payload["subject"], "Subject")
+        self.assertEqual(payload["text"], "x")
+        self.assertNotIn("example.test", outcome, "the outcome lands in a public log")
+
+    def test_a_refusal_raises(self):
+        response = unittest.mock.Mock(status_code=403, text="domain not verified")
+        with unittest.mock.patch.dict(os.environ, self.ENV, clear=True), \
+                unittest.mock.patch("httpx.post", return_value=response):
+            with self.assertRaisesRegex(RuntimeError, "403"):
+                mail.send("T", "<p>x</p>", "x")
+
+    def test_a_failed_email_is_reported_on_the_issue_and_the_run_carries_on(self):
+        """Raising would skip the workflow's state-commit step."""
+        daily._write_digest("T", "issue body", self.BODY)
+        with unittest.mock.patch.object(mail, "send", side_effect=RuntimeError("HTTP 403")), \
+                unittest.mock.patch.object(issue, "comment", return_value="ok") as comment:
+            daily._email("T", 75)
+        number, text = comment.call_args.args
+        self.assertEqual(number, 75)
+        self.assertIn("HTTP 403", text)
+
+    def test_the_render_writes_both_digests(self):
+        daily._write_digest("T", "issue body", self.BODY)
+        self.assertEqual(artifacts.read_text(artifacts.DIGEST), "issue body")
+        self.assertEqual(artifacts.read_text(artifacts.DIGEST_FULL), self.BODY)
+        self.assertIn("<table", artifacts.read_text(artifacts.DIGEST_HTML))
 
 
 class AggregatorRowRenderingTests(_IsolatedState, unittest.TestCase):
