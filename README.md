@@ -418,9 +418,12 @@ avoided 36% of model calls.
    through on 8 of 27 boards and `urllib` on 27 of 27. Workday requests now go through
    `urllib`. If Workday starts refusing that too, those boards go to `manual` like
    Citadel. The tracker will not impersonate a browser to get past it.
-3. Some pages render entirely in JavaScript and yield almost no text. Those are read in
-   headless Chromium (16 watched pages, plus any posting that comes back as an empty
-   shell) under the same User-Agent.
+3. Some pages render entirely in JavaScript and yield almost no text. Workday postings,
+   the most common case, are read through the JSON endpoint behind the page instead.
+   Other pages are read in headless Chromium (16 watched pages, plus any posting that
+   comes back as an empty shell) under the same User-Agent. About one changed posting
+   in ten still can't be read, mostly Workday employers whose endpoint refuses the
+   tracker. Those are judged on the row alone and are never ruled out on class year.
 4. GitHub drops scheduled runs without telling anyone: no run, no log. The runs it does
    start are late, by 3.5 to 5 hours in September and 7 to 10 hours in November. The job
    is scheduled at midnight Pacific as headroom, and the code doesn't assume runs arrive

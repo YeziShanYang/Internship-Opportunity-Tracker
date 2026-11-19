@@ -25,6 +25,14 @@ Three findings that shape this module:
   identical responses (140,325 bytes on the page tested), so there is no reason to
   pretend to be a browser. `robots.txt` allows `/p/` (`Allow: /`, and `/p` is absent
   from the disallow list) and sets no crawl-delay.
+* **A Workday posting is read through Workday's JSON endpoint, not rendered.** Its
+  page is a shell, and rendering it costs 2-10 seconds in the browser, one page at a
+  time. On 2026-11-19 those renders used up the fetch budget: 10 of 17 unreadable
+  postings were skipped for time, 15 of the 17 on Workday. The same posting at
+  `/wday/cxs/<tenant>/<site>/job/...` -- the endpoint the board readers in
+  `gather.ats` already use -- returned the full description for 10 of 15 of them in
+  about half a second each. A refusal from it (403, 404, 429) stays an error, as a
+  refusal of the page would; an answer that is not JSON falls back to the page.
 * **A short page is a failure, not an empty posting.** The JS-shell case returns HTTP
   200 with no content. Treating that as "posting has no requirements" would silently
   turn a fetch failure into a relevance judgment, which is the one thing this must not
@@ -64,6 +72,16 @@ PER_REQUEST_DELAY_SECONDS = 0.2
 # expires is reported as a fetch failure, which degrades to unclassified rather than
 # to a relevance decision.
 TOTAL_BUDGET_SECONDS = 240.0
+# The browser's own budget, started when rendering starts. It used to share the one
+# above, so a slow morning of plain fetches left the renders no time at all, and the
+# renders themselves -- one page at a time -- ran the shared budget out (2026-11-19).
+RENDER_BUDGET_SECONDS = 240.0
+
+# A Workday posting page, which maps onto Workday's JSON endpoint for the same posting.
+# The locale segment ("en-US") is optional; the site name comes before "/job/".
+_WORKDAY_POSTING = re.compile(
+    r"^https://(?P<tenant>[^./]+)\.(?P<pod>wd\d+)\.myworkdayjobs\.com/"
+    r"(?:[a-z]{2}-[A-Z]{2}/)?(?P<site>[^/?#]+)/(?P<job>job/[^?#]+)")
 
 # A link to one posting rather than to an employer. `core.text.posting_identities` is the
 # strict test and is kept strict because deduplication rests on it; this adds the path
@@ -127,6 +145,15 @@ def fetch_text(client: httpx.Client, url: str) -> tuple[str, str]:
     if cached is not None:
         return cached, ""
 
+    api = workday_api_url(url)
+    if api:
+        outcome = _fetch_workday_json(client, api)
+        if outcome is not None:
+            text, error = outcome
+            if text:
+                cache.write_posting(url, text)
+            return text, error
+
     try:
         response = client.get(url)
         response.raise_for_status()
@@ -142,6 +169,40 @@ def fetch_text(client: httpx.Client, url: str) -> tuple[str, str]:
 
     cache.write_posting(url, text)
     return text, ""
+
+
+def workday_api_url(url: str) -> str:
+    """The JSON endpoint behind a Workday posting page, or "" for any other URL."""
+    match = _WORKDAY_POSTING.match(url or "")
+    if not match or match["site"] in ("wday", "job"):
+        return ""
+    return (f"https://{match['tenant']}.{match['pod']}.myworkdayjobs.com/wday/cxs/"
+            f"{match['tenant']}/{match['site']}/{match['job']}")
+
+
+def _fetch_workday_json(client: httpx.Client, api: str) -> tuple[str, str] | None:
+    """(text, error) from Workday's posting JSON, or None to fall back to the page.
+
+    None only when the answer is not the JSON expected, or its description is too short
+    to be the real one: the page path (and the browser) may still read it. An HTTP error
+    is returned as an error, because the page would refuse the same way.
+    """
+    try:
+        response = client.get(api, headers={"Accept": "application/json"})
+        response.raise_for_status()
+    except Exception as exc:
+        return "", f"{type(exc).__name__}: {exc}"
+    try:
+        info = response.json().get("jobPostingInfo")
+    except (ValueError, AttributeError):
+        return None
+    if not isinstance(info, dict):
+        return None
+    facts = [info.get("title") or "", info.get("location") or "",
+             " ".join(info.get("additionalLocations") or []), info.get("timeType") or ""]
+    text = extract_text(" ".join(bit for bit in facts if bit) + " "
+                        + (info.get("jobDescription") or ""))
+    return (text, "") if len(text) >= MIN_USEFUL_CHARS else None
 
 
 # The one error a browser can fix. A 403 or a 404 is not retried there: a site that
@@ -199,5 +260,5 @@ def fetch_many(
         if owned:
             client.close()
     if render:
-        _render_shells(results, deadline)
+        _render_shells(results, time.monotonic() + RENDER_BUDGET_SECONDS)
     return results

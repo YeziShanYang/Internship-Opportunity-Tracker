@@ -3391,6 +3391,60 @@ class BrowserFallbackTests(_IsolatedState, unittest.TestCase):
         self.assertEqual(results[self.WORKDAY][0], "")
         self.assertIn("playwright is not installed", results[self.WORKDAY][1])
 
+    def _routed_client(self, json_status=200, payload=None):
+        """Workday's JSON endpoint answers `payload`; the page itself is a shell."""
+        import httpx
+        requested = []
+
+        def handler(request):
+            requested.append(request.url.path)
+            if "/wday/cxs/" in request.url.path:
+                if json_status != 200:
+                    return httpx.Response(json_status, text="Security Check")
+                return httpx.Response(200, json=payload)
+            return httpx.Response(200, text="<html><body></body></html>")
+        return httpx.Client(transport=httpx.MockTransport(handler)), requested
+
+    def test_a_workday_posting_is_read_from_its_json_without_the_browser(self):
+        description = "<p>" + "Open to sophomores and juniors. " * 30 + "</p>"
+        client, requested = self._routed_client(payload={"jobPostingInfo": {
+            "title": "Data Intern", "location": "Kansas City",
+            "timeType": "Full time", "jobDescription": description}})
+        results, calls = self._fetch(client)
+        text, error = results[self.WORKDAY]
+        self.assertEqual(error, "")
+        self.assertIn("Data Intern", text)
+        self.assertIn("Open to sophomores and juniors.", text)
+        self.assertEqual(calls, [], "no browser render")
+        self.assertEqual(requested, ["/wday/cxs/acme/Acme/job/Kansas-City/Data-Intern_JR111596"])
+
+    def test_a_refusal_from_the_workday_json_stays_an_error(self):
+        client, requested = self._routed_client(json_status=429)
+        results, calls = self._fetch(client)
+        self.assertIn("429", results[self.WORKDAY][1])
+        self.assertEqual(calls, [])
+        self.assertEqual(len(requested), 1, "the page is not asked as well")
+
+    def test_an_answer_that_is_not_json_falls_back_to_the_page_and_the_browser(self):
+        results, calls = self._fetch(self._client())  # every request returns a shell
+        self.assertEqual(calls, [self.WORKDAY])
+        self.assertEqual(results[self.WORKDAY], (self.RENDERED, ""))
+
+    def test_the_browser_has_its_own_time_budget(self):
+        """It used to share the plain fetches' budget, and ran out on busy mornings."""
+        import time
+        from enrich import postings
+        from gather import browser
+        seen = []
+
+        def fake(urls, deadline):
+            seen.append(deadline - time.monotonic())
+            return {u: (self.RENDERED, "") for u in urls}
+
+        with unittest.mock.patch.object(browser, "render_many", fake):
+            postings.fetch_many([self.WORKDAY], self._client())
+        self.assertGreater(seen[0], postings.RENDER_BUDGET_SECONDS - 5)
+
     def test_the_browser_announces_the_tracker_and_nobody_in_particular(self):
         """Honest about what is asking, silent about who (2026-09-26)."""
         self.assertNotIn("@", paths.USER_AGENT)
