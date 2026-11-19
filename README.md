@@ -53,7 +53,7 @@ behind a new Cloudflare check, which is covered under [Limitations](#limitations
 - [Reflection](#reflection)
 - [Resources](#resources)
 - [Appendix](#appendix)
-- [Running it](#running-it)
+- [Running locally](#running-locally)
 
 ## Overview
 
@@ -106,7 +106,7 @@ The files worth reading, roughly in order:
 7. [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) is the long version, with every failure
    mode, what it cost, and why the fix looks the way it does.
 
-### What is being watched
+### Sources
 
 A source is one of three kinds:
 
@@ -158,7 +158,7 @@ byte-identical digest with no network or model call. That is why the HEALTH bloc
 from a stored metrics object. An earlier version read module globals, so a re-render in a
 fresh process printed a summary of a run that never happened.
 
-### Three filters, one of them a model
+### Filters
 
 Most of what is read gets thrown away, in this order:
 
@@ -177,7 +177,7 @@ out is still listed, with a short reason, in a collapsed RULED OUT section. A fi
 removes things silently is how a source goes blind unnoticed, and that has happened twice
 here.
 
-### Values worth tuning
+### Tunable constants
 
 | Name | Value | What it does |
 |:-----|:------|:-------------|
@@ -191,7 +191,7 @@ here.
 | `SHRINK_RATIO` | 0.4 | A page below 40% of its last good size was redesigned or blocked. Measured per source, so there is no constant to maintain |
 | `MAX_ISSUE_BODY_CHARS` | 65,536 | GitHub's limit. Over it, the API returns 422 and opens nothing, so the issue drops its least urgent rows. The email is never trimmed |
 | `MAX_CLASSIFICATIONS_PER_RUN` | 250 | Spend ceiling, counted after the screen. Hit on 17 of 35 days from 2026-10-10 to 11-13, and rows past it are printed unjudged. Since judgments started being reused per posting, runs from 2026-11-15 have used 86 to 146 calls |
-| `CLASSIFY_REASONING_EFFORT` | `low` | Was `minimal`. See [the model needed room to think](#the-model-needed-room-to-think) |
+| `CLASSIFY_REASONING_EFFORT` | `low` | Was `minimal`. See [classifier reasoning effort](#classifier-reasoning-effort) |
 | `REQUEST_DELAY_SECONDS` | 1.0 | Requests go one at a time under an honest User-Agent |
 
 ## Results
@@ -208,7 +208,7 @@ here.
 | Code | About 12,000 lines across 53 modules, plus 6,500 lines of tests |
 | Runtime | Median 21 minutes on the Actions runner (13 to 31 over the last 30 runs), almost all of it `gather` |
 
-### Coverage against the largest public list
+### Coverage compared with Simplify
 
 The question this project has to answer is whether watching 279 sources beats
 bookmarking [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), the most
@@ -249,7 +249,7 @@ over the last 30 of those days, so more coverage has meant a longer digest. On t
 boards about 92% of postings are dropped as non-student roles before anything is diffed
 (30,295 of 33,082 on 2026-11-13).
 
-### Speed is not the advantage
+### Delivery speed
 
 Measured on Greenhouse postings on 2026-10-01, Simplify lists a new posting a median of
 4.1 hours after the employer publishes it. This tracker records it a median of 17.1 hours
@@ -261,7 +261,7 @@ Some smaller numbers:
 - About 1,300 posting links appear on more than one source (of 7,059 across the snapshots
   on 2026-11-13). The overlap is deliberate, so a new role at a well-covered firm arrives
   as three or four changes on one morning. Merging them is harder than it sounds (see
-  [one row per opportunity](#one-row-per-opportunity)).
+  [deduplication](#deduplication)).
 - 81% of the most expensive run was reasoning tokens, not prompt size. Finding that took
   rebuilding the run from git history. The digest now prints it.
 - Of the 1,181 rows the tracker reads from the biggest aggregator, none mention a class
@@ -276,7 +276,7 @@ The tracker has not missed a morning, and it finds postings that a manual search
 not. Most of its better design decisions exist because something broke first, so this
 section is mostly about those breaks.
 
-### The day it delivered nothing
+### The 2026-09-14 outage
 
 On 2026-09-14 the job reported 469 changes across about 480 rows whose text had not
 changed. The digest came out longer than GitHub's 65,536-character limit, the issue API
@@ -312,7 +312,7 @@ flames) were listed by hand, and that list only ever held what had already been 
 markers configured and a fourth still churned 39 postings. The collapse guard doesn't
 need to know what changed.
 
-### Urgency took four versions
+### Urgency ranking
 
 The top tier is only useful if it is short. Getting there took four versions.
 
@@ -337,7 +337,7 @@ then large employers that recruit through junior-year pipelines, then rows the c
 never saw. Each row prints the reason for its tier, the deadline is still in the Notes
 cell, and postings built for first- and second-years get their own block above the table.
 
-### One row per opportunity
+### Deduplication
 
 Because the watchlist overlaps, the same posting can arrive three or four times in one
 morning. Grouping them showed that the text can't be trusted. One PIMCO role read "Software
@@ -351,7 +351,7 @@ page, because the company link sits next to the posting link and would have merg
 PIMCO row into one. And a row with no posting link is never merged, so plain page-text
 rows always survive.
 
-### The model needed room to think
+### Classifier reasoning effort
 
 The classifier started at `effort=minimal` to keep it cheap. On the first morning of the
 rule that filters out generic software internships at large non-tech firms, it wrongly
@@ -397,7 +397,7 @@ verdict is reused for that employer's generic titles. Replayed over 30 days, tha
 6. It is built for one person. The profile, the eligibility rules and the watchlist are
    all specific to one user, and generalising them would be a rewrite.
 
-### In hindsight
+### Lessons
 
 The collapse guard should have come before the parsers rather than after the incident.
 Any diff over a list someone else controls needs a limit on how much of it can change at
@@ -433,7 +433,7 @@ body said "Security Check" the whole time, and the retry was refused on every bo
 
 ## Appendix
 
-### Why git is the database
+### Git as the database
 
 There's no database server. State lives in the repo as CSVs, and the job commits them back
 every run, so `git log` shows which page changed on which morning, with no infrastructure.
@@ -455,9 +455,10 @@ a whole-file diff. For the same reason the Excel exports are rebuilt only when a
 changes, because `openpyxl` output differs on every save and would put a binary diff in
 every commit.
 
-### A failure must never look like a quiet day
+### Failure reporting
 
-The design rests on this rule. Every source check returns a result object, and "the fetch
+The design rests on one rule, that a failure must never look like a quiet day. Every
+source check returns a result object, and "the fetch
 failed" and "the fetch worked and nothing changed" are reported differently. Zero rows
 parsed is an alert. An HTTP 200 with the wrong shape is a failure too:
 `{"error": "rate limited", "jobs": []}` must not read as an empty board.
@@ -473,7 +474,7 @@ fetching a source that keeps failing, but the source still appears in HEALTH, ma
 SOURCE BLIND. A source the job has stopped checking is the one a user would be least
 likely to notice otherwise.
 
-### What an ATS is, and why it matters here
+### Applicant tracking systems
 
 An applicant tracking system (Greenhouse, Workday, Ashby, Lever and others) is the
 software a company's careers page runs on. The page is usually a thin layer over a JSON
@@ -491,7 +492,7 @@ vendor domains and proposes what it finds. Matching on domains rather than keywo
 necessary: a first keyword-based version produced ten false positives out of
 twenty-four hits, nine of them on the word "leverage".
 
-### Discovery proposes, and never adds
+### Source discovery
 
 Once a week a separate job looks for sources the tracker doesn't watch yet. It writes candidates
 to a CSV and into the digest, and it never edits the live watchlist. Each candidate gets
@@ -511,7 +512,7 @@ to 5. It has one exception, quantitative finance, where the tracker reads every 
 firm has rather than whichever ones an aggregator carried. Without the exception it would have
 discarded Chicago Trading Company's Summer 2027 quant internships.
 
-### The layering rule
+### Layering
 
 There are eight levels, and a module may import only the levels at or below its own.
 
@@ -534,7 +535,7 @@ test caught one that way during the refactor.
 
 ---
 
-## Running it
+## Running locally
 
 ```bash
 python -m venv .venv && .venv/bin/pip install -r requirements.txt
