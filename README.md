@@ -24,17 +24,21 @@ Opportunity digest — 2026-11-18
 
 ## ■ OPPORTUNITIES (104)
 
-| Priority                         | Company        | Position                                 | Notes                        |
-|----------------------------------|----------------|------------------------------------------|------------------------------|
-| **High** · startup / small firm  | a16z portfolio | Robotics & Physical AI Spring Intern     | • Location: Miami, FL        |
-| **High** · startup / small firm  | GV portfolio   | Inertia Summer 2027 Internship           | • Backed by: GV              |
-| Medium · size unknown            | AeroVironment  | Autonomy & Robotics Engineering Intern   | • Location: Simi Valley, CA  |
-| …                                |                |                                          |                              |
+| Priority                            | Company     | Position                                 | Notes                        |
+|-------------------------------------|-------------|------------------------------------------|------------------------------|
+| **SS** · quant/ML role, small firm  | Avary.ai    | Quality Assurance (QA) Intern            | • Location: San Jose, CA     |
+| **S** · near-target firm            | Anduril     | 2027 Machine Learning Engineer Intern    | • Location: Santa Ana, CA    |
+| A · small firm                      | Scout Space | Computer Vision Engineer Intern, AI/ML   | • Location: Reston, VA       |
+| B · large firm                      | Epic Games  | Tools Programmer Intern (Graphics)       | • Location: Cary, NC         |
+| …                                   |             |                                          |                              |
 
-<details><summary>■ RULED OUT (170)</summary>
+## ■ PAGE CHANGES (1)
+- **NIST SURF** — page updated (3 added, 0 removed)
 
-- CACI / Cybersecurity Intern — large defence contractor
-- Draper / Software Engineering & DevOps Intern — large defence contractor
+<details><summary>■ RULED OUT (161)</summary>
+
+- Little Caesars / Innovation Intern — non-tech employer
+- Sheetz / Business Intelligence Analytics Intern — role outside target fields
 
 </details>
 
@@ -43,8 +47,9 @@ Opportunity digest — 2026-11-18
 - classifier: 146 calls · 570,697 in · 54,147 out · ~$0.157 est. (gpt-5-mini, effort=low)
 ```
 
-That morning was a bad one for sources: most of the 30 failures were Workday boards
-behind a new Cloudflare check, which is covered under [Limitations](#limitations).
+The rows are real postings from 2026-11-18 and 11-19, shown in the tier format used since
+2026-11-20. That week was a bad one for sources: most of the 30 failures were Workday
+boards behind a new Cloudflare check, which is covered under [Limitations](#limitations).
 
 ## Table of Contents
 - [Overview](#overview)
@@ -166,7 +171,7 @@ Most of what is read gets thrown away, in this order:
 |:---|:---|:---|
 | Student and US screens | deterministic | Drop postings that aren't student roles or aren't in the US: about 30,000 and 600 rows on a typical day |
 | `screen/rules.py` | deterministic | Rule a posting out on a phrase it can quote, like "rising junior" or "PhD candidates". It never rules a posting in. It removed 36% of model calls with no wrong rule-outs |
-| `classify.py` | model | Judge what the screen had no opinion on. Returns JSON: relevant, class year, location, deadline, employer size, confidence |
+| `classify.py` | model | Judge what the screen had no opinion on. Returns JSON: whether the user is eligible, class year, location, deadline, and labels for the firm's field and size and the role's field. A fixed table turns the labels into a tier or a rule-out |
 
 The screen comes first because it is free, and in the measurement above it made no wrong
 rule-outs. When it has no opinion the change goes to the model unchanged, and a posting whose
@@ -204,7 +209,7 @@ here.
 | Programmes in the database | 369 |
 | Digests delivered | Every day from 2026-09-06 to 2026-11-18, 74 days |
 | Cost | Median $0.19 a day over 64 digests (2026-09-16 to 11-18), range $0.007 to $0.30, $11.18 in total |
-| Tests | 404, of which 6 skip without an API key |
+| Tests | 426, of which 6 skip without an API key |
 | Code | About 12,000 lines across 53 modules, plus 6,500 lines of tests |
 | Runtime | Median 21 minutes on the Actions runner (13 to 31 over the last 30 runs), almost all of it `gather` |
 
@@ -314,7 +319,7 @@ need to know what changed.
 
 ### Urgency ranking
 
-The top tier is only useful if it is short. Getting there took four versions.
+The top tier is only useful if it is short. Getting there took five versions.
 
 The first put every relevant, confidently classified row in the top tier. That was 22
 generic rows, and the tier below it was empty.
@@ -331,11 +336,32 @@ basis, or a close date within 21 days. That overshot too. By 2026-10-08, "rollin
 The fourth drops deadlines from ranking. The digest is read the morning a posting appears
 and applications go out that day, so a close date doesn't change the order of work. Across
 three digests before the change, 80 to 90% of rows read "Medium · no deadline stated".
-The tier now reflects a first-year's odds. High is a discovery programme, a posting whose
-class-year line names first-years, or a startup or small firm. Medium is size unknown,
-then large employers that recruit through junior-year pipelines, then rows the classifier
-never saw. Each row prints the reason for its tier, the deadline is still in the Notes
-cell, and postings built for first- and second-years get their own block above the table.
+The tier became a first-year's odds instead: High for a discovery programme, a posting
+naming first-years, or a small firm, and Medium for everything else. The deadline is still
+printed in the Notes cell.
+
+The fifth, on 2026-11-20, took the value judgment away from the model. Asked of each
+posting whether the employer was worth a first-year's time, the model ruled out D. E.
+Shaw as a "large finance employer" and kept Little Caesars. Now it only labels the
+posting: what field the firm is in, what field the role is in, and how big the firm is.
+A fixed table in [`process/tiers.py`](process/tiers.py) assigns the tier:
+
+| Firm | Quant or ML/AI role | SWE, data science or cybersecurity role | Other role |
+|:---|:---|:---|:---|
+| Quant or ML/AI firm | SS if small, S if large | S | QA or ops counts as in-field; else ruled out |
+| Big tech or AI-heavy (near-target) | S | S | ruled out |
+| Other tech or finance | A if small, B if large | A if small, B if large | ruled out |
+| Non-tech | B (ML/AI or data roles only) | ruled out | ruled out |
+
+Startups and growth-stage companies count as small, and so does any firm the model doesn't
+recognise. Postings built for first- and second-years are SS, in their own block above the
+table, once they pass the same field check. A firm's first labels are stored in
+`data/employers.csv` and reused, so two postings at one employer can't land in different
+tiers, and two columns there override the model by hand. Rows with nothing to apply to,
+such as a programme page that changed, are listed under the table instead of tiered.
+Cybersecurity is tiered with software engineering for now, because first-years rarely
+qualify for those roles. It moves to the quant/ML column when the rules are rewritten for
+a second-year applicant (see `profile.RULES_CYCLE`).
 
 ### Deduplication
 
@@ -353,21 +379,23 @@ rows always survive.
 
 ### Classifier reasoning effort
 
-The classifier started at `effort=minimal` to keep it cheap. On the first morning of the
-rule that filters out generic software internships at large non-tech firms, it wrongly
+The classifier started at `effort=minimal` to keep it cheap. On the first morning of a
+rule that filtered out generic software internships at large non-tech firms, it wrongly
 ruled out Figma twice, Robinhood three times and Datadog once. Each time it had answered
 an easier question ("is this firm quant?") instead of the one asked. Raising effort to
 `low` and naming real companies in the prompt as examples fixed it.
 
-That rule is the one place the project leans toward ruling things out, and it is safe only
-because a ruled-out row is still printed with its reason, as a short line in RULED OUT
-instead of a full table row. Every eligibility question still leans toward keeping,
-because a false negative costs a real opportunity and a false positive costs a glance.
+That rule was the one place the project leaned toward ruling things out. Since 2026-11-20
+the model no longer makes the call. It labels the employer and the role, and the tier
+table rules out generic roles at non-tech employers and roles outside the target fields.
+A ruled-out row is still printed with its reason, as a short line in RULED OUT. Every
+eligibility question still leans toward keeping, because a false negative costs a real
+opportunity and a false positive costs a glance.
 
-Later it stopped asking the same question twice. A judgment is now stored per posting
-(employer plus title) and reused for later sightings, and a "large non-tech employer"
-verdict is reused for that employer's generic titles. Replayed over 30 days, that avoided
-36% of model calls.
+Later it stopped asking the same question twice. A judgment is stored per posting
+(employer plus title) and reused for later sightings under the same prompt version, and a
+non-tech employer's verdict is reused for its generic titles. Replayed over 30 days, that
+avoided 36% of model calls.
 
 ### Limitations
 

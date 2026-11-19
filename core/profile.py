@@ -15,7 +15,7 @@ renders the staleness nag, and neither may import the other.
 """
 from __future__ import annotations
 
-PROFILE_LAST_REVIEWED = "2026-11-13"
+PROFILE_LAST_REVIEWED = "2026-11-20"
 PROFILE_REVIEW_AFTER_DAYS = 183  # ~6 months
 
 # The hiring season (`clock.recruiting_cycle`) the class-standing rules were written for.
@@ -24,6 +24,9 @@ PROFILE_REVIEW_AFTER_DAYS = 183  # ~6 months
 # applying for Summer 2027, and the aggregator sources are named for that season. Next
 # season the owner is a sophomore and those rules rule out exactly the right postings,
 # silently. The digest warns from `ROLLOVER_WARN_DAYS` before the cycle passes this.
+# At the same rollover, move cybersecurity from `process.tiers.SWE_GROUP` to
+# `TARGET_ROLES`: it is a target field held back only because a first-year cannot yet
+# apply to those roles.
 RULES_CYCLE = 2027
 ROLLOVER_WARN_DAYS = 45
 
@@ -49,13 +52,13 @@ OWNER_PROFILE = (
     "relocate for a summer, so location is not a filter and no city or region is "
     "preferred; only whether the role is in the United States matters, because the student "
     "cannot take one that recruits solely abroad. "
-    "Interests, in order: machine learning and AI first (ML engineering, applied ML, "
-    "ML research, AI products), quantitative finance and mathematics second, software "
-    "engineering third. General finance roles are adjacent and acceptable. "
-    "Would rather work at a startup than a big company, and ML/AI startups most of all, "
+    "Interests: quantitative finance and machine learning/AI first, equally (trading, "
+    "quant research, ML engineering, applied ML, ML research, AI products); software "
+    "engineering second, with data science and, for now, cybersecurity alongside it. "
+    "Would rather work at a startup or growth-stage company than a big established one, "
     "provided the startup is real: funded or otherwise vetted, with a product and a "
-    "paid internship. Because large employers overwhelmingly hire juniors and seniors, "
-    "the best odds and highest priority are (a) programmes aimed at first- and "
-    "second-year students, and (b) internships at startups and small or mid-size firms, "
-    "including small trading shops, where a first-year has a real chance."
+    "paid internship. Programmes aimed at first- and second-year students are the "
+    "highest priority. Large established employers overwhelmingly hire juniors and "
+    "seniors, so a first-year's best odds are at startups, small and mid-size firms and "
+    "small trading shops."
 )

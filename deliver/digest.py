@@ -32,7 +32,7 @@ import calendar_reminders
 from core import clock, models, paths, profile
 from deliver import health, urgency
 from enrich import bodies as enrich_bodies
-from process import parse_readme
+from process import parse_readme, reuse, tiers
 
 def _rollover_line(sources: dict[str, dict]) -> str | None:
     """Warn that the class-standing rules and season-named sources are for last season.
@@ -106,15 +106,14 @@ ROLLING_NOTE = "rolling — closes when full"
 # Past this many sources, a filter line reports the count instead of the names.
 MAX_FILTER_SOURCES = 6
 
-# The first column is the tier and the reason for it, since 2026-10-08: "High · startup /
-# small firm", "Medium · large firm". The tiers were ACT NOW and WORTH A
-# LOOK before that, and nothing on the row said which test had put it there.
-PRIORITY_HIGH = f"**{urgency.HIGH}**"
-PRIORITY_MEDIUM = urgency.MEDIUM
+# The first column is the tier and the reason for it: "SS · quant/ML role, small firm",
+# "B · large firm". SS/S/A/B since 2026-11-20 (High/Medium before that, ACT NOW and
+# WORTH A LOOK before 2026-10-08). The two top tiers are bold.
+BOLD_TIERS = (tiers.SS, tiers.S)
 
 
 def _priority(tier: str, reason: str) -> str:
-    label = PRIORITY_HIGH if tier == urgency.HIGH else PRIORITY_MEDIUM
+    label = f"**{tier}**" if tier in BOLD_TIERS else tier
     return f"{label} · {reason}" if reason else label
 
 
@@ -173,6 +172,24 @@ def _unlink(text: str) -> str:
 
 
 def _company_and_position(judgment: models.Judgment) -> tuple[str, str]:
+    """The table's company and position, with a Workday account name replaced by the
+    real employer the classifier named ("Globalhr" is RTX)."""
+    company, position = _split_company_and_position(judgment)
+    if judgment.employer_name and _is_workday_account(company, judgment.change):
+        company = judgment.employer_name
+    return company, position
+
+
+def _is_workday_account(company: str, change: models.Change) -> bool:
+    for link in (change.posting_url, change.url):
+        host = (link or "").split("//", 1)[-1].split("/", 1)[0].lower()
+        if host.endswith(".myworkdayjobs.com"):
+            account = host.split(".", 1)[0]
+            return reuse.normalise_employer(company) == reuse.normalise_employer(account)
+    return False
+
+
+def _split_company_and_position(judgment: models.Judgment) -> tuple[str, str]:
     """Split one change into the table's company and position columns.
 
     Job-board rows are already keyed "Title @ Location", which is exactly the position
@@ -381,13 +398,17 @@ def render(
     today = clock.today_iso()
     health_lines, escalated = health.source_lines(results, sources)
 
-    # Each tier is sorted by its reason, best first (`urgency.order`). A stable sort, so
-    # the order within a reason is unchanged and trimming from the end still drops the
-    # least interesting row.
+    # Sorted by tier, then by reason, best first (`urgency.order`). A stable sort, so the
+    # order within a reason is unchanged and trimming from the end still drops the least
+    # interesting row.
     underclass = [j for j in judgments if urgency.in_top_block(j)]
-    high = sorted([j for j in judgments if urgency.is_urgent(j)], key=urgency.order)
-    medium = sorted([j for j in judgments if j.relevant and not urgency.is_urgent(j)
-                     and not urgency.in_top_block(j)], key=urgency.order)
+    rest = [j for j in judgments if j.relevant and not urgency.in_top_block(j)]
+    # A change with nothing to apply to -- a programme page that moved, a new section
+    # heading -- is listed under the table rather than tiered by its firm (2026-11-20).
+    page_changes = [j for j in rest if tiers.is_page_change(
+        j.change, sources.get(j.change.source_id, {}))]
+    paged = {id(j) for j in page_changes}
+    postings = sorted((j for j in rest if id(j) not in paged), key=urgency.order)
     ruled_out = [j for j in judgments if not j.relevant]
 
     # A blind source no longer marks the title. It used to append "(source failing)",
@@ -427,25 +448,23 @@ def render(
     if first_years:
         body.append(f"## ■ FOR FRESHMEN & UNDERCLASSMEN ({len(first_years)})")
         body.append("")
-        body.append("_Built for first- or second-years, plus Stanford's own programmes. A "
-                    f"posting stays here for {urgency.PIN_DAYS} days or until it comes down; "
-                    "a Stanford page shows on the morning it changes._")
+        body.append("_Built for first- or second-years (these count as SS), plus Stanford's "
+                    f"own programmes. A posting stays here for {urgency.PIN_DAYS} days or "
+                    "until it comes down; a Stanford page shows on the morning it changes._")
         body.append("")
         body.append("| Company | Position | Notes |")
         body.append("|---|---|---|")
         body += first_years
         body.append("")
 
-    # Everything else is one table sorted so every High row sits above every Medium
-    # row, and the first column says which test put it there. Blind sources are not in
-    # it any more (2026-11-19): they are SOURCE BLIND lines in HEALTH, and the table is
-    # only things to apply to.
+    # Every other posting is one table sorted SS, S, A, B, and the first column says which
+    # cell of the grid put it there. Blind sources are not in it (2026-11-19): they are
+    # SOURCE BLIND lines in HEALTH, and the table is only things to apply to.
     #
     # Collected as a list rather than appended straight onto the body, because the table
     # is the one block that can be trimmed if the whole digest will not fit. Built in
     # priority order, so trimming from the end always drops the least urgent row.
-    table: list[str] = [_judgment_row(j) for j in high]
-    table += [_judgment_row(j) for j in medium]
+    table: list[str] = [_judgment_row(j) for j in postings]
     table_index = None
     if table:
         body.append(f"## ■ OPPORTUNITIES ({len(table)})")
@@ -454,6 +473,19 @@ def render(
         body.append("|---|---|---|---|")
         table_index = len(body)
         body += table
+        body.append("")
+
+    if page_changes:
+        body.append(f"## ■ PAGE CHANGES ({len(page_changes)})")
+        body.append("")
+        body.append("_Pages that changed with no posting to apply to. Open the page to "
+                    "see what moved._")
+        body.append("")
+        for judgment in page_changes:
+            company, position = _company_and_position(judgment)
+            label = _cell(position).replace("[", "(").replace("]", ")")
+            link = f"[{label}]({judgment.change.url})" if judgment.change.url else label
+            body.append(f"- **{_cell(company)}** — {link}")
         body.append("")
 
     if ruled_out:

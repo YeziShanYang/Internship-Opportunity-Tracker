@@ -308,10 +308,13 @@ def run(args: argparse.Namespace) -> int:
     # a rebuild from `.run/` renders exactly what this run rendered.
     filters = [report for m in metrics for report in m.filters] + filters
     _write_change_set(metrics, changes, filters)
+    # Employer field and size verdicts, reused so two postings at one firm agree. Updated
+    # in place by classify and written back with the other state below.
+    employers = {row["employer"]: row for row in store.read_employers() if row.get("employer")}
     judged = (
         models.JudgedSet() if args.no_classify
         else classify.classify(changes, by_id, bodies, verdicts,
-                               prior=store.read_judgments())
+                               prior=store.read_judgments(), employers=employers)
     )
     judgments = judged.judgments
 
@@ -454,7 +457,8 @@ def run(args: argparse.Namespace) -> int:
     store.write_judgments(reuse.merge(
         store.read_judgments(), judgments, by_id,
         {c.change_id: bool(enrich_bodies.for_change(bodies, c)[0]) for c in changes},
-        today, clock.recruiting_cycle(today)))
+        today, clock.recruiting_cycle(today), classify.PROMPT_VERSION))
+    store.write_employers(list(employers.values()))
 
     if send:
         outcome, number = issue.deliver(title, body)
@@ -632,8 +636,11 @@ def classify_only(args: argparse.Namespace) -> int:
     verdicts = artifacts.read(
         artifacts.SCREENED, "screened", dict[str, screen.Verdict])
     by_id = {s["source_id"]: s for s in store.read_sources()}
+    # The employer table is read but not written here: like judgments.csv, it is state,
+    # and only `run.py all` without --dry-run writes state.
+    employers = {row["employer"]: row for row in store.read_employers() if row.get("employer")}
     judged = classify.classify(change_set.changes, by_id, bodies, verdicts,
-                               prior=store.read_judgments())
+                               prior=store.read_judgments(), employers=employers)
     # The pins belong to judged.json, so the stage that writes it resolves them --
     # otherwise `run.py classify` then `run.py render` would drop every carried row.
     # Every source in the change set was checked to produce it, so all of them may

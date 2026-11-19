@@ -6,21 +6,26 @@ Opportunity digest — 2026-09-12
 
 ## ■ FOR FRESHMEN & UNDERCLASSMEN (1)
 
-_Built for first- or second-years, plus Stanford's own programmes. A posting stays here for 7 days or until it comes down; a Stanford page shows on the morning it changes._
+_Built for first- or second-years (these count as SS), plus Stanford's own programmes. A posting stays here for 7 days or until it comes down; a Stanford page shows on the morning it changes._
 
 | Company | Position | Notes |
 |---|---|---|
 | InfiniteQuant | [Quantitative Trader @ NYC](https://simplify.jobs/p/abc) | • **Deadline:** 2026-09-20<br>• **Year:** first- and second-year undergraduates<br>• **Location:** New York, NY |
 
-## ■ OPPORTUNITIES (5)
+## ■ OPPORTUNITIES (4)
 
 | Priority | Company | Position | Notes |
 |---|---|---|---|
-| **High** · startup / small firm | Millennium Campus | [2027 Quantitative Researcher Intern \| Austin](https://campusjobs.mlp.com/1) | • **Deadline:** 2027-03-31<br>• **Year:** Bachelor's, no year stated<br>• **Location:** Austin, TX |
-| Medium · size unknown | Jane Street FTTP | [Quantitative Trader @ New York](https://janestreet.test/1) | • **Deadline:** rolling — closes when full<br>• **Year:** all undergraduate years<br>• **Location:** New York, NY |
-| Medium · size unknown | Optiver FutureFocus | [page updated (3 added, 1 removed)](https://optiver.com/working-at-optiver/career-opportunities/?level=student) | • **Location:** Chicago, IL or Amsterdam, NL |
-| Medium · size unknown | Millennium Campus | 2027 Applied AI Engineer Intern, New York | • low confidence, kept deliberately |
-| Medium · unverified | Millennium Campus | 2027 Data Engineer Intern, Miami | • ⚠ unverified — open the page |
+| **SS** · quant/ML role, small firm | Millennium Campus | [2027 Quantitative Researcher Intern \| Austin](https://campusjobs.mlp.com/1) | • **Deadline:** 2027-03-31<br>• **Year:** Bachelor's, no year stated<br>• **Location:** Austin, TX |
+| **S** · quant/ML firm | Jane Street FTTP | [Quantitative Trader @ New York](https://janestreet.test/1) | • **Deadline:** rolling — closes when full<br>• **Year:** all undergraduate years<br>• **Location:** New York, NY |
+| **S** · near-target firm | Millennium Campus | 2027 Applied AI Engineer Intern, New York | • low confidence, kept deliberately |
+| B · unverified | Millennium Campus | 2027 Data Engineer Intern, Miami | • ⚠ unverified — open the page |
+
+## ■ PAGE CHANGES (1)
+
+_Pages that changed with no posting to apply to. Open the page to see what moved._
+
+- **Optiver FutureFocus** — [page updated (3 added, 1 removed)](https://optiver.com/working-at-optiver/career-opportunities/?level=student)
 
 <details><summary>■ RULED OUT (1)</summary>
 

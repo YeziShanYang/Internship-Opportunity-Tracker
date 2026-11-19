@@ -35,6 +35,7 @@ import re
 
 from core import models
 from core import text as coretext
+from process import tiers
 
 # How long a stored judgment stays usable. A posting's requirements do not change while
 # it is up, but an employer's title can be reused for next year's posting, which the
@@ -129,21 +130,26 @@ def _usable(row: dict[str, str], today: str, cycle: int) -> bool:
     return str(cycle) == (row.get("cycle") or "") and 0 <= age <= REUSE_DAYS
 
 
-def index(rows: list[dict[str, str]], today: str, cycle: int) -> dict[str, dict[str, str]]:
-    """The stored judgments that may be reused today, by posting key."""
-    return {row["key"]: row for row in rows if row.get("key") and _usable(row, today, cycle)}
+def index(rows: list[dict[str, str]], today: str, cycle: int,
+          prompt_version: str = "") -> dict[str, dict[str, str]]:
+    """The stored judgments that may be reused today, by posting key. A judgment made
+    under a different prompt version is not reused: it was asked different questions,
+    and since 2026-11-20 it lacks the labels the tier grid needs."""
+    return {row["key"]: row for row in rows
+            if row.get("key") and _usable(row, today, cycle)
+            and (row.get("prompt_version") or "") == prompt_version}
 
 
 def employer_verdicts(usable: dict[str, dict[str, str]]) -> dict[str, dict[str, str]]:
-    """Employer -> a rule-8 rule-out to reuse, for employers the model has ruled out as
-    large non-technology firms and never kept a posting at."""
+    """Employer -> a rule-out to reuse, for employers ruled out as non-tech firms and
+    never kept a posting at."""
     kept: set[str] = set()
     ruled: dict[str, dict[str, str]] = {}
     for row in usable.values():
         employer = row["key"].split("|", 1)[0]
         if row.get("relevant") == "true":
             kept.add(employer)
-        elif row.get("ruled_out_by") == "value" and row.get("employer_size") == "large":
+        elif row.get("ruled_out_by") == "value" and row.get("why") == tiers.OUT_NON_TECH:
             ruled.setdefault(employer, row)
     return {employer: row for employer, row in ruled.items() if employer not in kept}
 
@@ -178,12 +184,15 @@ def reused(change: models.Change, row: dict[str, str]) -> models.Judgment:
         ruled_out_by=row.get("ruled_out_by", ""), class_year=row.get("class_year", ""),
         location=_place(change) or row.get("location", ""),
         deadline=row.get("deadline", ""), employer_size=row.get("employer_size", ""),
+        firm_field=row.get("firm_field", ""), role_field=row.get("role_field", ""),
+        size_band=row.get("size_band", ""), well_known=row.get("well_known") == "true",
+        employer_name=row.get("employer_name", ""),
         reused_on=row.get("judged_on", ""),
     )
 
 
 def as_row(judgment: models.Judgment, key: str, employer: str, title: str,
-           had_text: bool, today: str, cycle: int) -> dict[str, str]:
+           had_text: bool, today: str, cycle: int, prompt_version: str = "") -> dict[str, str]:
     return {
         "key": key, "employer": employer, "title": title,
         "relevant": "true" if judgment.relevant else "false",
@@ -192,6 +201,10 @@ def as_row(judgment: models.Judgment, key: str, employer: str, title: str,
         "deadline": judgment.deadline, "employer_size": judgment.employer_size,
         "confidence": judgment.confidence, "had_text": "true" if had_text else "false",
         "cycle": str(cycle), "judged_on": today, "last_used": today,
+        "firm_field": judgment.firm_field, "role_field": judgment.role_field,
+        "size_band": judgment.size_band,
+        "well_known": "true" if judgment.well_known else "false",
+        "employer_name": judgment.employer_name, "prompt_version": prompt_version,
     }
 
 
@@ -202,6 +215,7 @@ def merge(
     has_text: dict[str, bool],
     today: str,
     cycle: int,
+    prompt_version: str = "",
 ) -> list[dict[str, str]]:
     """data/judgments.csv after this run: new model judgments in, reuse dates refreshed,
     rows past KEEP_DAYS or from another cycle out. `has_text` is by change_id."""
@@ -214,7 +228,8 @@ def merge(
         if judgment.outcome == models.MODEL:
             employer, title = employer_and_title(judgment.change, source)
             by_key[key] = as_row(judgment, key, employer, title,
-                                 has_text.get(judgment.change.change_id, False), today, cycle)
+                                 has_text.get(judgment.change.change_id, False), today, cycle,
+                                 prompt_version)
         elif judgment.outcome == models.REUSED and key in by_key:
             by_key[key]["last_used"] = today
 

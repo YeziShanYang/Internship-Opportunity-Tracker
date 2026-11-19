@@ -122,6 +122,15 @@ def write_judgments(rows: list[dict[str, str]]) -> None:
     write_csv(paths.JUDGMENTS_CSV, paths.JUDGMENT_COLUMNS, rows)
 
 
+def read_employers() -> list[dict[str, str]]:
+    return read_csv(paths.EMPLOYERS_CSV, paths.EMPLOYER_COLUMNS)
+
+
+def write_employers(rows: list[dict[str, str]]) -> None:
+    write_csv(paths.EMPLOYERS_CSV, paths.EMPLOYER_COLUMNS,
+              sorted(rows, key=lambda row: row.get("employer", "")))
+
+
 def read_backers() -> list[dict[str, str]]:
     return read_csv(paths.BACKERS_CSV, paths.BACKER_COLUMNS)
 

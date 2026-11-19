@@ -56,7 +56,17 @@ JUDGMENTS_CSV = DATA / "judgments.csv"
 JUDGMENT_COLUMNS = [
     "key", "employer", "title", "relevant", "ruled_out_by", "why", "class_year",
     "location", "deadline", "employer_size", "confidence", "had_text", "cycle",
-    "judged_on", "last_used",
+    "judged_on", "last_used", "firm_field", "role_field", "size_band", "well_known",
+    "employer_name", "prompt_version",
+]
+
+# One row per employer: the classifier's first verdict on its field and size, reused for
+# every later posting so two postings at one firm cannot land in different tiers, plus
+# two columns for correcting it by hand. A hand value always wins.
+EMPLOYERS_CSV = DATA / "employers.csv"
+EMPLOYER_COLUMNS = [
+    "employer", "name", "firm_field", "size_band", "well_known", "first_seen",
+    "last_seen", "override_firm_field", "override_size",
 ]
 
 STANDING_CSV = DATA / "standing.csv"

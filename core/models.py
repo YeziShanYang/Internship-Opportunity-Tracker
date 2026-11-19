@@ -339,10 +339,19 @@ class Judgment:
     class_year: str = ""
     location: str = ""
     deadline: str = ""
-    # "small", "large" or "". Added 2026-09-30, when startups and small firms were
-    # weighted up because large employers hire juniors and seniors.
-    # The digest sorts "small" first within each urgency tier; it never filters.
+    # "small", "large" or "". Since 2026-11-20 derived from `size_band` and
+    # `well_known` (or a hand override in data/employers.csv) rather than asked for
+    # directly; see process.tiers.
     employer_size: str = ""
+    # The labels process.tiers places a posting by (2026-11-20). The model reports them
+    # and the tier grid decides, so a value judgment is a lookup rather than something
+    # re-argued on every posting. All empty for a row no model saw.
+    firm_field: str = ""
+    role_field: str = ""
+    size_band: str = ""
+    well_known: bool = False
+    # The real employer when the row only names a Workday account ("globalhr" is RTX).
+    employer_name: str = ""
     # Set when the deterministic screen settled this instead of the model. Carried so
     # RULED OUT can say which rule fired, and so a digest can be read back later to
     # tell which rule set produced it.

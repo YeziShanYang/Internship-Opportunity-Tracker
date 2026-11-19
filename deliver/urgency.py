@@ -1,8 +1,9 @@
-"""Which rows are High rather than Medium, and why; and which are for underclassmen.
+"""Each row's tier and the reason for it; and which rows are for underclassmen.
 
-The tiers were ACT NOW and WORTH A LOOK until 2026-10-08. They are now High and Medium,
-each row carries the reason it got its tier, and postings aimed at first-years have
-their own block at the top of the digest instead of competing for the High tier.
+The tiers were ACT NOW and WORTH A LOOK until 2026-10-08, then High and Medium. Since
+2026-11-20 they are SS, S, A and B from the grid in `process.tiers`, read off labels the
+classifier reports. Postings aimed at first-years have their own block at the top of the
+digest, and count as SS.
 
 A pure function rather than a property on `Judgment`, because three of its four inputs
 live on the `Change` and were never properties of the model's answer -- and because
@@ -15,23 +16,13 @@ import re
 from urllib.parse import urlsplit
 
 from core import clock, models
+from process import tiers
 from screen import rules as screen_rules
 
 # The word the model returns for "reviews on a rolling basis / closes when full". One
 # constant because two modules compare against it and a typo in either would silently
 # stop the digest saying so.
 ROLLING = "rolling"
-
-HIGH = "High"
-MEDIUM = "Medium"
-
-# A class-year phrase that names first-years at all, even inside a floor or a list that
-# runs on to seniors ("freshman, sophomore, junior, or senior"). Not enough to pin --
-# see `NOT_TARGETED` -- but it is the employer saying in writing that it takes them,
-# which is the best evidence of the owner's odds short of a programme built for them.
-# "Sophomore" is not here: the owner is a first-year.
-FIRST_YEARS_NAMED = re.compile(
-    r"first.?year|1st.?year|freshm[ae]n|underclass", re.IGNORECASE)
 
 # Who the posting is *for*. Deliberately narrower than `snapshot.DISCOVERY_PATTERN`,
 # which also matches insight/discovery/ignite/launch and exists to spot a candidate new
@@ -149,59 +140,39 @@ def is_rolling(judgment: models.Judgment) -> bool:
     return judgment.deadline.strip().lower() == ROLLING
 
 
-# The reasons, best first. A row's position in this list is its sort key within its
-# tier, so the order is the ranking: trimming the table from the end drops the row a
-# first-year is least likely to land.
-DISCOVERY = "discovery programme"
-OPEN_TO_FIRST_YEARS = "open to first-years"
-SMALL = "startup / small firm"
-SIZE_UNKNOWN = "size unknown"
-LARGE = "large firm"
-UNVERIFIED = "unverified"
-_ORDER = (DISCOVERY, OPEN_TO_FIRST_YEARS, SMALL, SIZE_UNKNOWN, LARGE, UNVERIFIED)
-
-
 def rank(judgment: models.Judgment) -> tuple[str, str]:
-    """(tier, reason) for a relevant judgment. The reason is printed beside the tier.
+    """(tier, reason) for a relevant posting. The reason is printed beside the tier.
 
-    The tier is the owner's odds of landing the role, not its deadline. The digest is
-    read the morning a posting appears and applied to that day, so a close date sorts
-    nothing: until 2026-10-11 High meant "closes within 21 days or a named rolling
-    firm", and 80-90% of every table read "Medium · no deadline stated". The deadline is
-    still printed in the Notes cell as a fact.
-
-    High, best first: a confidently classified discovery programme; a posting whose
-    class-year line names first-years even in a wider list; a startup or small firm.
-    Medium: size unknown, then large employers, which recruit through junior-year
-    pipelines, then anything the classifier never saw. Postings built *for*
-    underclassmen are not ranked here -- they have their own block; see
-    `targets_underclassmen`.
+    The tier is the grid in `process.tiers`, from the classifier's labels. Deadlines
+    never set it: the digest is read the morning a posting appears and applied to that
+    day, so a close date sorts nothing (until 2026-10-11 it did, and 80-90% of every
+    table read "Medium · no deadline stated"). A row the classifier never saw is B,
+    "unverified", and sorts last. A posting that names first-years inside a list running
+    on to seniors is not a freshman programme and gets no boost; one built for
+    underclassmen goes in its own block, see `targets_underclassmen`.
     """
     change = judgment.change
     if not judgment.classified:
-        return MEDIUM, UNVERIFIED
+        return tiers.B, tiers.UNVERIFIED
     if change.is_discovery_candidate and judgment.confidence in ("medium", "high"):
-        return HIGH, DISCOVERY
-    if FIRST_YEARS_NAMED.search(judgment.class_year) \
-            and not screen_rules.sophomore_only(judgment.class_year):
-        return HIGH, OPEN_TO_FIRST_YEARS
-    if judgment.employer_size == "small":
-        return HIGH, SMALL
-    if judgment.employer_size == "large":
-        return MEDIUM, LARGE
-    return MEDIUM, SIZE_UNKNOWN
+        return tiers.SS, tiers.DISCOVERY
+    tier, reason = tiers.place(judgment)
+    # A relevant row the grid would rule out was already ruled out in classify; one that
+    # reaches here anyway (an old artifact, a reused row) is shown rather than hidden.
+    return (tier, reason) if tier else (tiers.B, tiers.LARGE_FIRM)
 
 
-def order(judgment: models.Judgment) -> int:
-    """Sort key within a tier: the reason's place in `_ORDER`."""
-    return _ORDER.index(rank(judgment)[1])
+def order(judgment: models.Judgment) -> tuple[int, int]:
+    """Sort key: tier first, then the reason's place in `tiers.REASON_ORDER`."""
+    tier, reason = rank(judgment)
+    return tiers.TIER_ORDER.index(tier), tiers.order(reason)
 
 
 def is_urgent(judgment: models.Judgment) -> bool:
-    """High tier: relevant, not in the top block, and a High reason."""
+    """SS or S: relevant, not in the top block, and in one of the two top tiers."""
     if not judgment.relevant or in_top_block(judgment):
         return False
-    return rank(judgment)[0] == HIGH
+    return rank(judgment)[0] in (tiers.SS, tiers.S)
 
 
 def live_change_ids(

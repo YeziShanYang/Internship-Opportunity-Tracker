@@ -37,7 +37,7 @@ from core import clock, models, paths, profile, text as coretext
 from gather import breaker
 from persist import artifacts, cache, store
 from jobs import daily
-from process import parse_readme, redirect, suppress
+from process import parse_readme, redirect, suppress, tiers
 import build_xlsx
 from gather import ats, github_readme, page
 from process import parse_ats, parse_page, parse_readme, snapshot
@@ -426,7 +426,7 @@ class AcceptanceTests(_IsolatedState, unittest.TestCase):
         self.assertFalse(judgments[0].classified)
         self.assertTrue(judgments[0].relevant, "unclassified changes must still surface")
         _, body = digest.render(judgments, [], {})
-        self.assertIn("Medium · unverified", body)
+        self.assertIn("B · unverified", body)
         self.assertIn("unverified", body)
 
     def test_14_5c_an_azure_key_without_an_endpoint_degrades_and_says_why(self):
@@ -1054,30 +1054,29 @@ class PostingFilterTests(_IsolatedState, unittest.TestCase):
         self.assertIn("filtered out by the classifier", body)
 
     def test_14_7g2_eligible_is_not_the_same_as_urgent(self):
-        """High is the rows a first-year is likeliest to land, not every eligible row.
+        """The top tiers are what a first-year is likeliest to land, not every eligible
+        row. Merely eligible at a large firm is B; the grid is in process.tiers, and each
+        of its cells has its own test in test_tiers.
 
         Classifying every source made every eligible job-board row "confidently
-        relevant", which once promoted 22 generic internships into the top tier. Merely
-        eligible is still Medium; see deliver.urgency.rank.
+        relevant", which once promoted 22 generic internships into the top tier.
         """
-        def judge(size="", class_year="", **kw):
+        def judge(class_year="", well_known=True, band=">10000", **kw):
             change = models.Change(source_id="simplify-2027", kind="added",
                                   key="ACME / Software Engineer Intern", detail="x", **kw)
             return models.Judgment(change=change, relevant=True, outcome=models.MODEL,
-                                     confidence="high", employer_size=size,
-                                     class_year=class_year)
+                                     confidence="high", class_year=class_year,
+                                     firm_field="tech_or_finance", role_field="swe",
+                                     size_band=band, well_known=well_known)
 
-        self.assertEqual(urgency.rank(judge()), (urgency.MEDIUM, urgency.SIZE_UNKNOWN))
-        self.assertEqual(urgency.rank(judge("large")), (urgency.MEDIUM, urgency.LARGE))
-        self.assertEqual(urgency.rank(judge("small")), (urgency.HIGH, urgency.SMALL))
+        self.assertEqual(urgency.rank(judge()), (tiers.B, tiers.LARGE_FIRM))
+        self.assertEqual(urgency.rank(judge(well_known=False)), (tiers.A, tiers.SMALL_FIRM))
         self.assertEqual(urgency.rank(judge(is_discovery_candidate=True)),
-                         (urgency.HIGH, urgency.DISCOVERY))
+                         (tiers.SS, tiers.DISCOVERY))
         self.assertEqual(
-            urgency.rank(judge("large", "freshman, sophomore, junior, or senior")),
-            (urgency.HIGH, urgency.OPEN_TO_FIRST_YEARS),
-            "naming first-years in a wider list is not a pin, but it is the best odds")
-        self.assertEqual(urgency.rank(judge("large", "at least sophomore standing")),
-                         (urgency.MEDIUM, urgency.LARGE), "sophomore is not first-year")
+            urgency.rank(judge("freshman, sophomore, junior, or senior")),
+            (tiers.B, tiers.LARGE_FIRM),
+            "open to all years is not a freshman programme and gets no boost")
         self.assertFalse(urgency.is_urgent(judge(rolling=True)),
                          "a named rolling firm is a deadline fact, not the owner's odds")
 
@@ -1090,28 +1089,30 @@ class PostingFilterTests(_IsolatedState, unittest.TestCase):
         today = clock.today_iso()
         soon = (datetime.date.fromisoformat(today) + datetime.timedelta(days=2)).isoformat()
 
-        def judge(deadline, size=""):
+        def judge(deadline, well_known):
             return models.Judgment(
                 change=models.Change(source_id="simplify-2027", kind="added",
                                      key="ACME / Software Engineer Intern", detail="x"),
                 relevant=True, outcome=models.MODEL, confidence="high",
-                deadline=deadline, employer_size=size)
+                deadline=deadline, firm_field="tech_or_finance", role_field="swe",
+                size_band=">10000", well_known=well_known)
 
         for deadline in (soon, "rolling", "apply early!", ""):
             with self.subTest(deadline):
-                self.assertEqual(urgency.rank(judge(deadline, "large")),
-                                 (urgency.MEDIUM, urgency.LARGE))
-                self.assertEqual(urgency.rank(judge(deadline, "small")),
-                                 (urgency.HIGH, urgency.SMALL))
+                self.assertEqual(urgency.rank(judge(deadline, True)),
+                                 (tiers.B, tiers.LARGE_FIRM))
+                self.assertEqual(urgency.rank(judge(deadline, False)),
+                                 (tiers.A, tiers.SMALL_FIRM))
         self.assertEqual(urgency.rank(models.Judgment(
             change=models.Change(source_id="s", kind="added", key="k", detail="d"),
-            relevant=True, employer_size="small")), (urgency.MEDIUM, urgency.UNVERIFIED),
-            "an unclassified row has no size to trust")
+            relevant=True, firm_field="target", role_field="ml_ai")),
+            (tiers.B, tiers.UNVERIFIED), "an unclassified row's labels are not trusted")
         self.assertFalse(
             urgency.is_urgent(models.Judgment(
                 change=models.Change(source_id="s", kind="added", key="k", detail="d"),
-                relevant=False, outcome=models.MODEL, employer_size="small")),
-            "a ruled-out row is never High")
+                relevant=False, outcome=models.MODEL, firm_field="target",
+                role_field="quant")),
+            "a ruled-out row is never in a top tier")
 
     def test_14_7g4_an_unparseable_deadline_is_still_shown_to_the_owner(self):
         """It cannot promote a row, so it must not vanish either -- otherwise the
@@ -1187,10 +1188,15 @@ class PostingJudgementTests(_IsolatedState, unittest.TestCase):
         url = self.URL % n
         path = cache.posting_path(url)
         path.write_text(posting_text)
+        # The text rides on the change as well as in the cache. classify stopped
+        # fetching postings itself when `enrich` became its own stage, so a cache seed
+        # alone left these tests judging on the title -- unnoticed, because the class
+        # only runs with a live key.
         change = models.Change(
             source_id="simplify-2027", kind="added",
             key=f"ACME / {role}",
             detail=f"Company=ACME; Role={role}; Application=[ ]({url})",
+            posting_text=posting_text,
         )
         judgments = classify.classify([change], {"simplify-2027": self.SOURCE}).judgments
         self.assertEqual(len(judgments), 1)
@@ -1216,7 +1222,7 @@ class PostingJudgementTests(_IsolatedState, unittest.TestCase):
         self.assertTrue(j.relevant, f"a first-year qualifies here: {j.why}")
 
     def test_14_8_c_a_plainly_unrelated_role_is_ruled_out(self):
-        """Rule 7 -- but only for things that are plainly not the owner's field."""
+        """Rule 7 labels the role out of field, and the tier grid rules it out."""
         j = self._judge(3, "IT Document Automation Developer Intern", (
             "Requirements: Currently enrolled in a Bachelor's program. You will "
             "maintain document templates, scanning workflows and records retention "
@@ -1829,7 +1835,8 @@ class JudgmentReuseTests(_IsolatedState, unittest.TestCase):
                "ruled_out_by": "eligibility", "why": "rising juniors only",
                "class_year": "rising juniors", "location": "Tucson, AZ", "deadline": "",
                "employer_size": "large", "confidence": "high", "had_text": "true",
-               "cycle": "2027", "judged_on": "2026-11-01", "last_used": "2026-11-01"}
+               "cycle": "2027", "judged_on": "2026-11-01", "last_used": "2026-11-01",
+               "prompt_version": classify.PROMPT_VERSION}
         row.update(kw)
         return row
 
@@ -1881,7 +1888,7 @@ class JudgmentReuseTests(_IsolatedState, unittest.TestCase):
 
     def test_an_employer_rule_8_verdict_covers_only_generic_titles(self):
         prior = [self._row("rtx|cyber security", ruled_out_by="value",
-                           why="large defence contractor")]
+                           why=tiers.OUT_NON_TECH)]
         generic = self._change("RTX / Software Engineer Co-op @ Aurora, CO")
         ml = self._change("RTX / Machine Learning Research Intern @ Aurora, CO")
         open_door = self._change("RTX / IT Intern @ Aurora, CO")
@@ -1890,7 +1897,7 @@ class JudgmentReuseTests(_IsolatedState, unittest.TestCase):
         judged = classify.classify([generic, ml, open_door], self.SOURCES, bodies, {}, prior=prior)
         by_key = {j.change.key: j for j in judged.judgments}
         self.assertEqual(by_key[generic.key].outcome, models.REUSED)
-        self.assertEqual(by_key[generic.key].why, "large defence contractor")
+        self.assertEqual(by_key[generic.key].why, tiers.OUT_NON_TECH)
         self.assertEqual(sorted(self.calls), sorted([ml.key, open_door.key]))
         # An employer the model has ever kept a posting at is never ruled out wholesale.
         self.calls.clear()
@@ -2173,11 +2180,14 @@ class Phase2SuppressionTests(_IsolatedState, unittest.TestCase):
                 url="https://example.com/a",
             ),
             program_name="Some Startup", relevant=True, outcome=models.MODEL,
-            confidence="high", why="First-year eligible.", employer_size="small",
+            confidence="high", why="First-year eligible.", firm_field="target",
+            role_field="ml_ai", size_band="<100",
         )
         ordinary = models.Judgment(
-            change=models.Change(source_id="b", kind="added", key="Quant Intern", detail="x"),
+            change=models.Change(source_id="b", kind="added", key="SWE Intern", detail="x"),
             program_name="Some Firm", relevant=True, outcome=models.MODEL, confidence="low",
+            firm_field="tech_or_finance", role_field="swe", size_band=">10000",
+            well_known=True,
         )
         _, body = digest.render([ordinary, small], [], {})
 
@@ -2188,8 +2198,8 @@ class Phase2SuppressionTests(_IsolatedState, unittest.TestCase):
         rows = [line for line in body.splitlines() if line.startswith("| ")]
         urgencies = [row.split("|")[1].strip() for row in rows[1:]]
         self.assertEqual(
-            urgencies, ["**High** · startup / small firm", "Medium · size unknown"],
-            "the small firm is High and must be rendered above the ordinary one",
+            urgencies, ["**SS** · quant/ML role, small firm", "B · large firm"],
+            "the small ML firm is SS and must be rendered above the large one",
         )
         self.assertIn("[SWE Intern @ NYC](https://example.com/a)", body)
 
@@ -3143,9 +3153,10 @@ class BodyLimitTests(_IsolatedState, unittest.TestCase):
     def test_the_trim_keeps_the_urgent_rows_and_the_footers(self):
         """Trimming from the end is what makes it safe: the table is already sorted."""
         judgments = self._judgments(400, "B" * 300)
-        judgments[-1].employer_size = "small"  # a small firm is High, so it sorts first
+        judgments[-1].firm_field = "target"  # a small ML firm is SS, so it sorts first
+        judgments[-1].role_field = "ml_ai"
         _, body = digest.render(judgments, [], {})
-        self.assertIn("**High**", body, "the urgent row must survive the trim")
+        self.assertIn("**SS**", body, "the top-tier row must survive the trim")
         self.assertIn("■ CALENDAR", body)
         self.assertIn("■ HEALTH", body, "the health block is the blind-source alarm")
 
@@ -3255,7 +3266,8 @@ class AggregatorRowRenderingTests(_IsolatedState, unittest.TestCase):
             program_name=program, relevant=True, outcome=models.MODEL, confidence="high",
         )
         _, body = digest.render([j], [], {})
-        return next(l for l in body.splitlines() if l.startswith("| Medium"))
+        # An unlabelled row reads as a small tech firm's SWE posting: tier A.
+        return next(l for l in body.splitlines() if l.startswith("| A · "))
 
     def test_the_linked_employer_becomes_the_company_column(self):
         row = self._row("[InfiniteQuant](https://simplify.jobs/c/InfiniteQuant) / "

@@ -43,7 +43,7 @@ from core import clock, models, paths, profile, text as coretext
 from core.models import Judgment, Usage  # re-exported: the shapes moved to core
 from enrich import bodies as enrich_bodies
 from persist import store
-from process import reuse
+from process import reuse, tiers
 
 MODEL = "claude-opus-5"
 
@@ -86,6 +86,14 @@ ANTHROPIC_EFFORT = {"minimal": "low", "low": "low", "medium": "medium", "high": 
 # fetched: a classification costs roughly $0.0015 including ~6K tokens of posting text,
 # so even the worst day observed (162 changes) is about $0.25.
 MAX_CLASSIFICATIONS_PER_RUN = 250
+# Stored judgments are reused only under the prompt version that made them. Bump this
+# whenever the prompt or the schema asks something different. 2: the tier labels
+# (firm_field, role_field, size_band, well_known, employer_name), 2026-11-20.
+PROMPT_VERSION = "2"
+# The first run under a new prompt version has nothing to reuse and re-judges every
+# posting, so it gets a higher cap once. It is chosen automatically -- no stored judgment
+# carries the current version yet -- and the next run is back to the normal cap.
+FIRST_RUN_CAP = 400
 
 # The work is network-bound, so a modest pool collapses the wall clock without
 # troubling the deployment's 500K tokens/minute quota.
@@ -117,11 +125,10 @@ Rules, in priority order:
    *can* apply -- the class year, an identity gate, a requirement you cannot see because
    the posting text is missing -- surfacing a borderline item is nearly free and missing
    a real opening is expensive, so set relevant: true, say so in `why`, and use
-   confidence "low". This does not extend to rule 8, which is about whether a role this person
-   can plainly apply to is worth their morning.
-4. Rolling deadlines are urgent. Jane Street, NVIDIA, D. E. Shaw and Point72 review on
-   a rolling basis and close when full; Jane Street slots have reportedly filled by late
-   October. Any change on one of those is high priority regardless of stated deadline.
+   confidence "low".
+4. Never set relevant: false because of the employer's industry or size, or because a
+   role is outside this person's fields. Report those as labels (rules 7 and 8) and the
+   digest's tier table decides. relevant: false is for rules 1, 2, 6 and 9 only.
 5. Never assert a new value for the owner's hand-maintained `eligible` column. If the
    change implies one, put it in `eligible_proposal` as a suggestion with reasoning.
 
@@ -136,53 +143,65 @@ Rules, in priority order:
    name the gate in `why` in a few words: "rising juniors only", "master's program". Measured: about a third of these postings carry
    such a gate, so this is the filter that does the most work.
    Absence of a gate is NOT a reason to rule out. "Currently enrolled in a Bachelor's
-   degree program" includes a first-year: that is relevant: true.
-7. Rule out roles that are clearly outside this person's field. In scope: machine
-   learning and AI (ML engineering, applied ML, ML research, AI product engineering),
-   software engineering, quantitative research, trading, mathematics, data, and
-   finance-adjacent work. Out of scope, as examples: public relations, human
-   resources, marketing, recruiting, change management, IT document automation, and
-   general business operations. Also out of scope: engineering that is not software --
-   mechanical, electrical, civil, aerospace, chemical, manufacturing, firmware and
-   hardware -- because this person studies maths and CS.
-8. Weigh the employer by this person's odds, not its fame. Large, established employers
-   overwhelmingly fill internships with juniors and seniors, so for this first-year the
-   most worthwhile rows are startups, small and mid-size companies, and small trading
-   firms -- places where a freshman is a realistic hire -- plus any programme aimed at
-   first- and second-year students. Revised 2026-09-30; this
-   rule used to do the opposite, keeping famous firms and ruling out small ones.
-
-   Keep:
-   * machine learning or AI work at a startup or a small or mid-size company -- ML
-     engineering, applied ML, research, AI products. This is this person's first field
-     and first choice of employer, and the bar is low.
-   * anything quantitative -- trading, quant research, quant development, systematic
-     strategy, mathematics, statistics. This is this person's second field and the bar is low.
-   * software or data work at a startup or a small or mid-size company, whether or not
-     you have heard of it. An unfamiliar name is a reason to keep, not to rule out.
-   * any role or programme that says it is for first- or second-year students, or open
-     to all undergraduate years, at an employer of any size.
-   * software, data or ML at a technology company of genuine standing -- Google, Meta,
-     Nvidia, OpenAI, Anthropic, Figma, Stripe, Databricks, Datadog, Robinhood, Palantir
-     and comparable firms. Do not reason that such a firm is "not quant"; that is not
-     the test.
-   * a role whose substance is notable even if the employer is not -- compilers,
-     operating systems, distributed systems, cryptography, ML infrastructure, research.
-   * anything at a firm the owner already tracks as a priority.
-
-   Rule out: a generic "Software Engineer Intern", "IT Intern", "Technology Intern",
-   "Co-op" or "Web Developer Intern" at a LARGE non-technology enterprise -- a defence
-   contractor, an aerospace or industrial conglomerate, a utility, an insurer, a
-   government-services contractor, a retail or manufacturing corporation -- when the
-   posting does not say it is open to first- or second-years. Those programmes run
-   through junior-year recruiting pipelines. Say what kind of employer it is in `why`,
-   in a few words -- "large defence contractor", "large insurer" -- so the call can be
-   audited and argued with.
-
-   This is a judgement of value and not of eligibility, so it is the one rule where you
-   should NOT err toward keeping. It is safe to be decisive because a ruled-out row is
-   still printed, with this reason, in the digest's RULED OUT block. If you genuinely
-   cannot tell how large the employer is, keep it.
+   degree program" includes a first-year: that is relevant: true. A required or
+   preferred major ("pursuing an engineering degree", "CS or related") is not a gate
+   either: report the role in `role_field` and keep it.
+7. Label the role in `role_field`, by what the intern will actually do:
+   * `quant` -- trading, quant research or development, systematic strategy,
+     mathematics, statistics as the substance of the job.
+   * `ml_ai` -- machine learning or AI: ML engineering, applied ML, ML research, AI
+     product engineering, computer vision, NLP, robot learning.
+   * `swe` -- software engineering, including DevOps, infrastructure, tools, firmware-free
+     embedded software, mobile and web development.
+   * `data_science` -- data science or data engineering: building statistical or ML
+     models, or data pipelines. Reporting is not data science (see `out_of_field`).
+   * `cybersecurity` -- security engineering, vulnerability research, security
+     operations.
+   * `adjacent` -- work a CS student can do that is not engineering: QA and testing,
+     operations, product, solutions or support engineering, technical program work.
+   * `out_of_field` -- everything else: business intelligence, analytics and reporting
+     roles (dashboards, Tableau/Power BI, "BI Analyst", "Business Intelligence Analytics
+     Intern", "Data Analyst" doing reports), even when the title says "data"; IT support
+     and helpdesk, HR, recruiting, marketing, sales, public
+     relations, finance or accounting operations, and engineering that is not software
+     (mechanical, electrical, civil, aerospace, chemical, manufacturing, firmware,
+     hardware), because this person studies maths and CS.
+   Judge the work, not one word of the title: "AI and People Transformation Intern" is
+   HR, and "Radar Software Co-op" is software.
+8. Label the employer, and do not judge it:
+   * `employer_name` -- the real company name. Some rows name only a Workday account
+     ("globalhr" is RTX's BBN unit, "tri" is Toyota Research Institute); give the
+     company the posting text or your knowledge identifies, or the row's name if
+     neither does.
+   * `firm_field` -- what the company mainly does:
+     - `target`: quantitative trading or investment firms (Jane Street, Citadel,
+       D. E. Shaw, Optiver, Hudson River Trading, PEAK6) and companies whose main
+       business is ML/AI (OpenAI, Anthropic, Scale AI, Abridge, an AI-first startup).
+     - `near_target`: a short list, not "any famous tech company". The largest tech
+       platforms (Microsoft, Google, Meta, Amazon, Apple, Nvidia, Samsung) and large
+       companies built around AI or autonomy (Tesla, Zoox, Waymo, Toyota Research
+       Institute, Anduril). Anduril is near_target even though it sells to defence.
+     - `tech_or_finance`: every other technology company, whatever its fame -- software,
+       internet, games, devices, semiconductors, telecoms (Epic Games, Adobe, Salesforce,
+       Garmin, HERE, T-Mobile, Lumentum) -- and tech startups of any kind, including
+       space, robotics, biotech-software and hardware startups (Scout Space,
+       MatrixSpace). Also fintech, banking, asset management, payments and consulting
+       (Visa, Ramp, State Street, Fiserv).
+     - `non_tech`: established businesses whose product is not technology: food and
+       retail (Little Caesars, Sheetz, Camping World), manufacturing and industrials,
+       traditional defence and aerospace contractors (Lockheed Martin, RTX, Northrop
+       Grumman, General Dynamics, Leidos), insurers, healthcare providers and pharma,
+       utilities, real estate, government-services contractors. A startup is never
+       non_tech.
+   * `size_band` -- headcount: `<100`, `100-1000`, `1000-10000` or `>10000`, from the
+     posting text or what you know; empty if you have no idea.
+   * `well_known` -- true only for an established company: a household name, a large
+     public company, or a long-established firm in its industry (Jane Street, Citadel,
+     Visa, Garmin). A startup or growth-stage company is false even when it is famous
+     and has over 1,000 staff (Ramp, Scale AI, Abridge). An unfamiliar company is false:
+     it is probably a startup or small firm. A "Backed by" line means named
+     investors list it in their portfolio, so it is a startup: false, `<100` or
+     `100-1000` unless the posting says otherwise.
 9. Rule out an "internship" that is not a real job at a real company. This person wants
    startups, but only real ones. Rule out when the POSTING TEXT states any of these:
    unpaid, equity-only or commission-only pay, or "no salary"; a campus ambassador,
@@ -192,10 +211,9 @@ Rules, in priority order:
    identify the company at all. Name it in `why`: "unpaid role", "equity-only pay",
    "commission-only", "ambassador scheme", "pays to apply", "no identifiable company".
    Rule only on what the posting states. A posting that omits pay, or a company you have
-   not heard of, is NOT grounds -- most real startup postings do both, and rule 8 keeps
-   unfamiliar startups on purpose. A "Backed by" line means named investors list the
-   company in their portfolio: treat it as evidence the company is real and, unless the
-   posting says otherwise, a startup or small company for `employer_size`.
+   not heard of, is NOT grounds -- most real startup postings do both, and unfamiliar
+   startups are kept on purpose. A "Backed by" line means named investors list the
+   company in their portfolio: treat it as evidence the company is real.
 
 If the POSTING TEXT is missing or a fetch error is noted, you are judging on a job
 title alone. Say so in `why`, use confidence "low", and do NOT rule the item out on
@@ -204,8 +222,8 @@ class-year grounds -- you have not seen the requirements.
 `why` must name the specific reason -- the class year, the identity gate, the
 deadline -- not a generic statement of interest. When relevant is false it is printed
 verbatim in the digest's RULED OUT list, so it must be a phrase of two to five words and
-never a sentence: "master's program", "rising juniors only", "graduating 2028", "civil
-engineering role", "Canada only", "large insurer", "hardware role (title only)". The
+never a sentence: "master's program", "rising juniors only", "graduating 2028", "Canada
+only", "unpaid role", "women only". The
 phrase only reports the reason; it does not change which items are ruled out. When
 relevant is true, `why` is one sentence.
 
@@ -221,12 +239,6 @@ an empty bullet is simply not shown, whereas a wrong one is read as fact:
   is "any undergraduate". This is the field the owner scans first.
 * `location` -- where the role sits, as written: "New York, NY", "London, UK",
   "remote", "Chicago or NYC". Several locations is fine; list them.
-* `employer_size` -- `small` for a startup or a company of roughly under 1,000
-  employees, including a small trading firm: the employers that take first- and
-  second-year interns. `large` for a big established employer, and for any firm whose
-  internships run through a structured junior-year campus pipeline whatever its
-  headcount (Jane Street, Citadel, Hudson River Trading, Google). The empty string when
-  you cannot tell. `small` puts a row in the digest's High tier, so do not guess.
 * `deadline` -- when applications close. Exactly one of: the word `rolling` when the
   posting says it reviews on a rolling basis or closes when full; an ISO `YYYY-MM-DD`
   date when it states or clearly implies one; or the empty string when it states none.
@@ -241,13 +253,9 @@ nine real opportunities were withheld for want of room.
 
 `ruled_out_by` says which kind of rule fired. It matters only when relevant is false:
 
-* `eligibility` -- rules 1, 2, 6 and 7. This person cannot apply, or the role is not
-  in their field. These are checkable against the posting text and have proven reliable, so the
-  digest prints them compactly.
-* `value` -- rules 8 and 9. This person could apply and it is in their field, but the
-  employer is a large enterprise whose internship a first-year is unlikely to land, or
-  the "internship" is not a real paid job at an identifiable company. This is a judgement rather than a fact, it is the one that has been
-  wrong, and the digest prints these in full so they can be argued with.
+* `eligibility` -- rules 1, 2 and 6. This person cannot apply. These are checkable
+  against the posting text and have proven reliable.
+* `value` -- rule 9. The "internship" is not a real paid job at an identifiable company.
 * the empty string when relevant is true."""
 
 RESULT_SCHEMA = {
@@ -263,7 +271,11 @@ RESULT_SCHEMA = {
         "class_year": {"type": "string"},
         "location": {"type": "string"},
         "deadline": {"type": "string"},
-        "employer_size": {"type": "string", "enum": ["", "small", "large"]},
+        "employer_name": {"type": "string"},
+        "firm_field": {"type": "string", "enum": ["", *tiers.FIRM_FIELDS]},
+        "role_field": {"type": "string", "enum": ["", *tiers.ROLE_FIELDS]},
+        "size_band": {"type": "string", "enum": ["", *tiers.SIZE_BANDS]},
+        "well_known": {"type": "boolean"},
     },
     "required": [
         "relevant",
@@ -275,7 +287,11 @@ RESULT_SCHEMA = {
         "class_year",
         "location",
         "deadline",
-        "employer_size",
+        "employer_name",
+        "firm_field",
+        "role_field",
+        "size_band",
+        "well_known",
     ],
     "additionalProperties": False,
 }
@@ -291,7 +307,8 @@ STRICT_RESULT_SCHEMA = {
 }
 
 
-def triage(changes: list[models.Change], sources: dict[str, dict[str, str]]) -> tuple[list[models.Change], list[models.Change]]:
+def triage(changes: list[models.Change], sources: dict[str, dict[str, str]],
+           cap: int = MAX_CLASSIFICATIONS_PER_RUN) -> tuple[list[models.Change], list[models.Change]]:
     """Split changes into (classify, summarise-only).
 
     Everything is classified now. This used to bypass low-signal sources -- Simplify's
@@ -313,11 +330,11 @@ def triage(changes: list[models.Change], sources: dict[str, dict[str, str]]) -> 
     to_classify: list[models.Change] = list(changes)
     summarise_only: list[models.Change] = []
 
-    if len(to_classify) > MAX_CLASSIFICATIONS_PER_RUN:
+    if len(to_classify) > cap:
         # Keep the most interesting ones; the rest still get reported, unclassified.
         to_classify.sort(key=lambda c: (not c.rolling, not c.is_discovery_candidate))
-        summarise_only.extend(to_classify[MAX_CLASSIFICATIONS_PER_RUN:])
-        to_classify = to_classify[:MAX_CLASSIFICATIONS_PER_RUN]
+        summarise_only.extend(to_classify[cap:])
+        to_classify = to_classify[:cap]
     return to_classify, summarise_only
 
 
@@ -457,10 +474,10 @@ def _clean(value) -> str:
     return "" if text.lower().strip(" .") in _UNSTATED else text
 
 
-def _size(value) -> str:
-    """`small`, `large` or empty. Anything else is treated as unknown rather than guessed."""
+def _label(value, allowed) -> str:
+    """One of `allowed`, or empty. Anything else is treated as unknown rather than guessed."""
     value = _clean(value).lower()
-    return value if value in ("small", "large") else ""
+    return value if value in allowed else ""
 
 
 def _judgment_from_text(change: models.Change, text: str) -> Judgment:
@@ -482,7 +499,11 @@ def _judgment_from_text(change: models.Change, text: str) -> Judgment:
         class_year=_clean(payload.get("class_year")),
         location=_clean(payload.get("location")),
         deadline=_clean(payload.get("deadline")),
-        employer_size=_size(payload.get("employer_size")),
+        employer_name=_clean(payload.get("employer_name")),
+        firm_field=_label(payload.get("firm_field"), tiers.FIRM_FIELDS),
+        role_field=_label(payload.get("role_field"), tiers.ROLE_FIELDS),
+        size_band=_label(payload.get("size_band"), tiers.SIZE_BANDS),
+        well_known=payload.get("well_known") is True,
     )
 
 
@@ -678,12 +699,82 @@ def classify_one(
     return _classify_azure(client, deployment, change, posting, effort)
 
 
+def settle(
+    judgments: list[Judgment],
+    sources: dict[str, dict[str, str]],
+    employers: dict[str, dict[str, str]] | None,
+    today: str,
+) -> None:
+    """Apply the employer table and the tier grid to the labelled judgments, in place.
+
+    Runs on model and reused judgments that are still relevant and are postings rather
+    than page changes. The employer table makes two postings at one firm agree: the
+    first verdict is stored, and a hand override in data/employers.csv beats both. Then
+    process.tiers decides, and a posting the grid rules out is marked as a value
+    rule-out with the grid's reason, so it is printed in RULED OUT like any other.
+    Screened, failed and unclassified rows are left alone: they carry no labels, and an
+    unjudged row must never be ruled out on a guess.
+    """
+    for judgment in judgments:
+        if judgment.outcome not in (models.MODEL, models.REUSED):
+            continue
+        source = sources.get(judgment.change.source_id, {})
+        if tiers.is_page_change(judgment.change, source):
+            continue
+        if employers is not None:
+            _apply_employer(judgment, source, employers, today)
+        if not judgment.employer_size:
+            judgment.employer_size = tiers.size_label(
+                judgment.size_band, judgment.well_known)
+        if not judgment.relevant:
+            continue
+        tier, reason = tiers.place(judgment)
+        if tier is None:
+            judgment.relevant = False
+            judgment.ruled_out_by = "value"
+            judgment.why = reason
+
+
+def _apply_employer(
+    judgment: Judgment, source: dict[str, str],
+    employers: dict[str, dict[str, str]], today: str,
+) -> None:
+    row_employer, _title = reuse.employer_and_title(judgment.change, source)
+    key = reuse.normalise_employer(judgment.employer_name or row_employer)
+    if not key:
+        return
+    row = employers.get(key)
+    if row is None:
+        if not judgment.firm_field:
+            return
+        employers[key] = {
+            "employer": key, "name": judgment.employer_name or row_employer,
+            "firm_field": judgment.firm_field, "size_band": judgment.size_band,
+            "well_known": "true" if judgment.well_known else "false",
+            "first_seen": today, "last_seen": today,
+            "override_firm_field": "", "override_size": "",
+        }
+        return
+    row["last_seen"] = today
+    firm = (row.get("override_firm_field") or row.get("firm_field") or "").strip()
+    if firm in tiers.FIRM_FIELDS:
+        judgment.firm_field = firm
+    if row.get("size_band") in tiers.SIZE_BANDS or row.get("well_known"):
+        judgment.size_band = row.get("size_band") or ""
+        judgment.well_known = row.get("well_known") == "true"
+    judgment.employer_size = tiers.size_label(judgment.size_band, judgment.well_known)
+    override = (row.get("override_size") or "").strip().lower()
+    if override in ("small", "large"):
+        judgment.employer_size = override
+
+
 def classify(
     changes: list[models.Change],
     sources: dict[str, dict[str, str]],
     bodies: dict[str, enrich_bodies.PostingBody] | None = None,
     verdicts: dict[str, screen.Verdict] | None = None,
     prior: list[dict[str, str]] | None = None,
+    employers: dict[str, dict[str, str]] | None = None,
 ) -> models.JudgedSet:
     """Classify what is worth classifying. Never raises, never drops a change.
 
@@ -707,8 +798,19 @@ def classify(
     `verdicts` is what the deterministic screen settled, keyed on change_id. It is an
     argument for the same reason: the loop and its tally used to be a module global
     here, which is concretely why `run.py render` could not run on its own.
+
+    `employers` is data/employers.csv keyed on normalised employer, and is updated in
+    place: an employer seen for the first time is added with this run's labels, and a
+    known one's stored labels (or hand overrides) replace the model's. The caller writes
+    it back. None skips the table.
     """
     reset_usage()
+    today = clock.today_iso()
+    cycle = clock.recruiting_cycle(today)
+    cap = MAX_CLASSIFICATIONS_PER_RUN
+    if prior is not None and not any(
+            row.get("prompt_version") == PROMPT_VERSION for row in prior):
+        cap = FIRST_RUN_CAP
 
     # The posting text is read by the deterministic screen as well as by the model, and
     # the screen runs whether or not a provider is configured. That makes degraded mode
@@ -746,9 +848,7 @@ def classify(
     has_text: dict[str, bool] = {}
     to_model: list[models.Change] = unsettled
     if prior is not None:
-        today = clock.today_iso()
-        cycle = clock.recruiting_cycle(today)
-        usable = reuse.index(prior, today, cycle)
+        usable = reuse.index(prior, today, cycle, PROMPT_VERSION)
         by_employer = reuse.employer_verdicts(usable)
         to_model = []
         for change in unsettled:
@@ -782,21 +882,20 @@ def classify(
                             leaders[key], sources.get(leaders[key].source_id, {}))
                         judgments.append(reuse.reused(change, reuse.as_row(
                             lead, key, employer, title,
-                            has_text.get(leaders[key].change_id, False), today, cycle)))
+                            has_text.get(leaders[key].change_id, False), today, cycle,
+                            PROMPT_VERSION)))
                     elif lead is not None and lead.outcome == models.ERROR:
                         judgments.append(Judgment.failed(change, lead.error))
                     elif lead is not None and lead.outcome == models.OVER_BUDGET:
-                        judgments.append(Judgment.over_budget(change, MAX_CLASSIFICATIONS_PER_RUN))
+                        judgments.append(Judgment.over_budget(change, cap))
                     else:
                         judgments.append(Judgment.unjudged(
                             change, lead.why if lead is not None else "Not classified."))
+        settle(judgments, sources, employers, today)
         return models.JudgedSet(judgments=judgments, usage=USAGE)
 
-    to_judge, summarise_only = triage(to_model, sources)
-    judgments += [
-        Judgment.over_budget(change, MAX_CLASSIFICATIONS_PER_RUN)
-        for change in summarise_only
-    ]
+    to_judge, summarise_only = triage(to_model, sources, cap)
+    judgments += [Judgment.over_budget(change, cap) for change in summarise_only]
 
     provider = select_provider()
     if provider is None:

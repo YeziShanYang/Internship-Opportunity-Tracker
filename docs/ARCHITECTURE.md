@@ -471,10 +471,6 @@ properties of the live repo, and the digest history and `git log` are the eviden
   declines to propose them. On GTS the `in_iframe=1` query parameter is load-bearing:
   without it the response is the WordPress wrapper at 2,877 characters and ratio 0.017,
   under the content floor; with it, 10,156 characters at 0.241.
-- **Asking the employer question once per employer.** Rule 8 — is this a generic software
-  internship at an unremarkable firm — is asked once per *posting*, and Figma appeared
-  four times in one digest when the answer cannot differ between them. This is the right
-  fix if classification cost ever becomes the constraint.
 - **Folding the four non-stage scripts into the stage model.** `build_xlsx.py`,
   `add_opportunity.py`, `seed_programs.py` and `calendar_reminders.py` sit outside it on
   purpose and are named in the layering test's exception list with a reason each.
