@@ -141,7 +141,9 @@ def scenario_full() -> dict:
                              "long enough that it would have been clipped mid-clause "
                              "under the old 96-character budget.",
                   class_year="Bachelor's, no year stated", location="Austin, TX",
-                  deadline="2027-03-31"),
+                  # High, so the table still has a High row now that blind sources
+                  # are reported in HEALTH instead (2026-11-19).
+                  deadline="2027-03-31", employer_size="small"),
         _judgment(gone, why="Row disappeared from the board.", confidence="low"),
         _judgment(screened, relevant=False, why='Posting requires junior standing or '
                                                 'above; this owner is a rising sophomore '
@@ -204,8 +206,8 @@ def scenario_full() -> dict:
         models.SourceResult(
             source_id="millennium-eightfold", ok=True, baseline=True,
             changes=[], snapshot_text="x", content_length=1, extra={"rows": 17}),
-        # Two failing sources past the escalation threshold, so the OPPORTUNITIES table
-        # has to carry SOURCE BLIND rows above every judgment.
+        # Two failing sources past the escalation threshold, so HEALTH has to carry
+        # SOURCE BLIND lines and the blind count.
         models.SourceResult(
             source_id="aqr-internship-program", ok=False,
             error="redirected to what looks like an error page: "

@@ -313,7 +313,9 @@ routes an opportunity to Manual Watch rather than being worked around.
    you conclude nothing has opened for four months. Mitigated: every source returns a
    result object; "returned zero rows" and "fetch failed" are first-class alerts;
    `consecutive_failures` and `last_success` are tracked per source; **three consecutive
-   failures escalates the source into the High tier**, not the health footnote. Each source also
+   failures marks the source SOURCE BLIND** in HEALTH, with a blind count on the summary
+   line. It was a High row at the top of the opportunities table until 2026-11-19, when
+   the table was narrowed to things to apply to. Each source also
    has a plausibility floor — and for NUFT that floor is on *section* count, not row
    count, because its row count legitimately drains to near zero out of season.
 2. **GitHub disables scheduled workflows on inactive repos.** This is the classic way

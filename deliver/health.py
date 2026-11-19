@@ -165,16 +165,17 @@ def _group_line(
 def source_lines(
     results: list[models.SourceMetrics], sources: dict[str, dict[str, str]]
 ) -> tuple[list[str], list[tuple[str, str, str]]]:
-    """Return (health lines, escalated failures as High table rows).
+    """Return (health lines, blind sources as (source_id, status, detail)).
 
     Takes the `SourceMetrics` projection rather than live `SourceResult`s, which is
     what lets `run.py render` reproduce a digest from `.run/changes.json` alone. Every
     fact HEALTH is obliged to print is on the projection for exactly that reason.
 
-    The escalated half is returned as (company, position, notes) rather than a rendered
-    sentence because it shares the opportunities table: a source that has gone blind is
-    the most actionable thing the digest can carry, and burying it under the table in a
-    prose block is how it gets skimmed past.
+    A blind source (3+ failures running) used to be a High row at the top of the
+    opportunities table. Since 2026-11-19 it is reported here only, as a SOURCE BLIND
+    line plus a count in the summary, because the table is for things to apply to.
+    The blind list is still returned: the caller uses it to keep a blind morning from
+    being titled "(no changes)".
     """
     healthy = [r for r in results if r.ok]
 
@@ -193,9 +194,16 @@ def source_lines(
 
     gone = [r for r in results if not r.ok and watched_gone(r)]
     failing = [r for r in results if not r.ok and not watched_gone(r)]
+
+    def failures(result: models.SourceMetrics) -> int:
+        return int(sources.get(result.source_id, {}).get("consecutive_failures") or 0)
+
+    blind = sum(1 for r in failing if failures(r) >= paths.FAILURE_ESCALATION_THRESHOLD)
     summary = f"{len(results)} sources checked · {len(healthy)} healthy"
     if failing:
         summary += f" · {len(failing)} FAILING"
+        if blind:
+            summary += f" ({blind} blind for {paths.FAILURE_ESCALATION_THRESHOLD}+ runs)"
     if gone:
         summary += f" · {len(gone)} programme page(s) taken down"
     lines = [summary]
@@ -230,12 +238,13 @@ def source_lines(
                 printed_groups.add(cause)
                 lines.append(_group_line(cause, groups[cause], sources))
             continue
+        is_blind = count >= paths.FAILURE_ESCALATION_THRESHOLD
         lines.append(
-            f"⚠ {result.source_id}: {count} consecutive failure"
-            f"{'s' if count != 1 else ''}, last success {last_success}. {result.error}"
-            + _retry_note(result)
+            f"⚠ {'SOURCE BLIND — ' if is_blind else ''}{result.source_id}: {count} "
+            f"consecutive failure{'s' if count != 1 else ''}, last success "
+            f"{last_success}. {result.error}" + _retry_note(result)
         )
-        if count >= paths.FAILURE_ESCALATION_THRESHOLD:
+        if is_blind:
             escalated.append((
                 result.source_id,
                 f"SOURCE BLIND — {count} failures running",

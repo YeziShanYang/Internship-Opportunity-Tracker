@@ -392,8 +392,8 @@ def render(
 
     # A blind source no longer marks the title. It used to append "(source failing)",
     # and some source was blind on every digest from 2026-11-03 to 2026-11-16, so the
-    # suffix carried no information. Blind sources are still High rows in the table and
-    # still counted in HEALTH. What stays is the other half of the rule: a morning with
+    # suffix carried no information. Blind sources are still listed and counted in
+    # HEALTH. What stays is the other half of the rule: a morning with
     # a blind source is never titled "(no changes)", because that would read as quiet.
     if status_only and not escalated:
         # Quiet days mail now, so the title has to carry the whole message for an owner
@@ -437,17 +437,14 @@ def render(
         body.append("")
 
     # Everything else is one table sorted so every High row sits above every Medium
-    # row, and the first column says which test put it there.
+    # row, and the first column says which test put it there. Blind sources are not in
+    # it any more (2026-11-19): they are SOURCE BLIND lines in HEALTH, and the table is
+    # only things to apply to.
     #
     # Collected as a list rather than appended straight onto the body, because the table
     # is the one block that can be trimmed if the whole digest will not fit. Built in
     # priority order, so trimming from the end always drops the least urgent row.
-    table: list[str] = [
-        _table_row(_priority(urgency.HIGH, "source blind"), source_id, position,
-                   _cell(notes))
-        for source_id, position, notes in escalated
-    ]
-    table += [_judgment_row(j) for j in high]
+    table: list[str] = [_judgment_row(j) for j in high]
     table += [_judgment_row(j) for j in medium]
     table_index = None
     if table:

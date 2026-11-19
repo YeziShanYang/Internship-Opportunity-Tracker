@@ -327,16 +327,21 @@ class AcceptanceTests(_IsolatedState, unittest.TestCase):
         self.assertIn("HEALTH", body)
         self.assertIn("1 FAILING", body)
 
-    def test_14_3b_three_failures_escalate_to_high(self):
-        """Spec 10.1: at >=3 consecutive failures the source is blind, not quiet."""
+    def test_14_3b_three_failures_mark_the_source_blind_in_health(self):
+        """Spec 10.1: at >=3 consecutive failures the source is blind, not quiet.
+
+        Since 2026-11-19 a blind source is reported in HEALTH, not as a row on top of
+        the opportunities table, which carries only things to apply to."""
         result = models.SourceResult(source_id="nuft-2027", ok=False, error="HTTP 404")
         source = dict(self.source, consecutive_failures="4", last_success="2026-09-01")
         title, body = digest.render([], _metrics(result), {"nuft-2027": source})
-        self.assertIn("**High** · source blind", body)
-        self.assertIn("SOURCE BLIND", body)
-        self.assertIn("4 failures running", body)
-        # The title stays plain: the table row is the alarm. But a blind morning is
-        # never titled as a quiet one, even if a caller marks it status-only.
+        self.assertNotIn("source blind", body, "not a table row any more")
+        self.assertNotIn("## ■ OPPORTUNITIES", body, "a blind source alone is no opportunity")
+        health = body[body.index("## ■ HEALTH"):]
+        self.assertIn("1 FAILING (1 blind for 3+ runs)", health)
+        self.assertIn("⚠ SOURCE BLIND — nuft-2027: 4 consecutive failures", health)
+        # The title stays plain. But a blind morning is never titled as a quiet one,
+        # even if a caller marks it status-only.
         self.assertNotIn("source failing", title)
         self.assertNotIn("(no changes)", title)
         title, _ = digest.render([], _metrics(result), {"nuft-2027": source}, status_only=True)
@@ -2946,7 +2951,7 @@ class CircuitBreakerTests(_IsolatedState, unittest.TestCase):
         title, body = digest.render([], _metrics(result), {"gts-careers": source})
         self.assertIn("not fetched at all", body)
         self.assertIn("gts-careers", body)
-        self.assertIn("SOURCE BLIND", body, "still escalated into the table")
+        self.assertIn("SOURCE BLIND — gts-careers", body, "still reported as blind")
         self.assertNotIn("(no changes)", title)
 
 

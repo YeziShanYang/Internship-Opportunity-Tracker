@@ -12,15 +12,13 @@ _Built for first- or second-years, plus Stanford's own programmes. A posting sta
 |---|---|---|
 | InfiniteQuant | [Quantitative Trader @ NYC](https://simplify.jobs/p/abc) | • **Deadline:** 2026-09-20<br>• **Year:** first- and second-year undergraduates<br>• **Location:** New York, NY |
 
-## ■ OPPORTUNITIES (7)
+## ■ OPPORTUNITIES (5)
 
 | Priority | Company | Position | Notes |
 |---|---|---|---|
-| **High** · source blind | aqr-internship-program | SOURCE BLIND — 4 failures running | not quiet, blind. Last success never. redirected to what looks like an error page: https://www.aqr.com/About-Us/Our-Internship-Program -> https://www.aqr.com/404. |
-| **High** · source blind | crabel-careers | SOURCE BLIND — 5 failures running | not quiet, blind. Last success never. quarantined for 24h after 5 consecutive failures, retry after 2026-09-13T07:00+00:00 — it has never succeeded, so check the URL rather than waiting |
+| **High** · startup / small firm | Millennium Campus | [2027 Quantitative Researcher Intern \| Austin](https://campusjobs.mlp.com/1) | • **Deadline:** 2027-03-31<br>• **Year:** Bachelor's, no year stated<br>• **Location:** Austin, TX |
 | Medium · size unknown | Jane Street FTTP | [Quantitative Trader @ New York](https://janestreet.test/1) | • **Deadline:** rolling — closes when full<br>• **Year:** all undergraduate years<br>• **Location:** New York, NY |
 | Medium · size unknown | Optiver FutureFocus | [page updated (3 added, 1 removed)](https://optiver.com/working-at-optiver/career-opportunities/?level=student) | • **Location:** Chicago, IL or Amsterdam, NL |
-| Medium · size unknown | Millennium Campus | [2027 Quantitative Researcher Intern \| Austin](https://campusjobs.mlp.com/1) | • **Deadline:** 2027-03-31<br>• **Year:** Bachelor's, no year stated<br>• **Location:** Austin, TX |
 | Medium · size unknown | Millennium Campus | 2027 Applied AI Engineer Intern, New York | • low confidence, kept deliberately |
 | Medium · unverified | Millennium Campus | 2027 Data Engineer Intern, Miami | • ⚠ unverified — open the page |
 
@@ -43,10 +41,10 @@ _Proposals only — nothing has been added._
 - Your interest profile was last reviewed 2025-01-01 (20 months ago) - are quant and maths still the priority? Every relevance call in this digest assumes so. Edit OWNER_PROFILE in core/profile.py and bump PROFILE_LAST_REVIEWED.
 
 ## ■ HEALTH
-- 6 sources checked · 4 healthy · 2 FAILING
+- 6 sources checked · 4 healthy · 2 FAILING (2 blind for 3+ runs)
 - ⚠ 1 source(s) were not fetched at all — the circuit breaker has them quarantined: crabel-careers
-- ⚠ aqr-internship-program: 4 consecutive failures, last success never. redirected to what looks like an error page: https://www.aqr.com/About-Us/Our-Internship-Program -> https://www.aqr.com/404.
-- ⚠ crabel-careers: 5 consecutive failures, last success never. quarantined for 24h after 5 consecutive failures, retry after 2026-09-13T07:00+00:00 — it has never succeeded, so check the URL rather than waiting
+- ⚠ SOURCE BLIND — aqr-internship-program: 4 consecutive failures, last success never. redirected to what looks like an error page: https://www.aqr.com/About-Us/Our-Internship-Program -> https://www.aqr.com/404.
+- ⚠ SOURCE BLIND — crabel-careers: 5 consecutive failures, last success never. quarantined for 24h after 5 consecutive failures, retry after 2026-09-13T07:00+00:00 — it has never succeeded, so check the URL rather than waiting
 - · millennium-eightfold: first run, recorded 17 rows as the baseline.
 - · job boards: 3900 postings were not student roles and 397 were outside the US.
 - ⚠ optiver-students: redirected to a different path: https://optiver.com/a -> https://www.optiver.com/b. The fetch succeeded, but this row is no longer watching the page it was configured for.

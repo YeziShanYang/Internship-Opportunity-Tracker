@@ -202,7 +202,7 @@ without anyone noticing, and that has already happened twice here.
 | `MIN_CHANGES_TO_COLLAPSE` | $25$ | Both conditions must trip, so a small repo legitimately turning over doesn't get collapsed. |
 | `MAX_CHANGES_PER_BOARD` | $25$ | The same guard for ATS boards, flat rather than proportional — boards don't post 100 real roles overnight. |
 | `QUARANTINE_AFTER_FAILURES` | $3$ | Three consecutive failures and the source backs off: $6 \to 12 \to 24 \to 48$ h, capped at $72$. |
-| `FAILURE_ESCALATION_THRESHOLD` | $3$ | Three failures also escalates the source **into the High tier**, not into a footnote. |
+| `FAILURE_ESCALATION_THRESHOLD` | $3$ | Three failures marks the source **SOURCE BLIND** in HEALTH and counts it on the summary line. |
 | `MIN_TEXT_HTML_RATIO` | $0.0015$ | Text-to-HTML floor. Catches a JavaScript shell serving 221 characters out of 402KB. |
 | `MIN_ABSOLUTE_CHARS` | $500$ | The other content floor. A page under this didn't really load. |
 | `SHRINK_RATIO` | $0.4$ | A page that drops below 40% of its last good size is a redesign or a block, not a quiet day. Self-calibrating, so there's no per-source constant to rot. |
@@ -499,7 +499,7 @@ with no email was either "nothing happened" or "the job is broken" and I couldn'
 which. Now **silence always means broken.**
 
 And it drives the circuit breaker's one strange property: a quarantined source still
-appears in HEALTH and still escalates into the High tier. "We have stopped looking" is the
+appears in HEALTH and is still marked SOURCE BLIND. "We have stopped looking" is the
 strongest possible form of blind-not-quiet, and it's the one a reader would most readily
 assume hadn't happened.
 
