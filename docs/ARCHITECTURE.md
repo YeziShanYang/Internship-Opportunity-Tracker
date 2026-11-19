@@ -38,7 +38,8 @@ posting, since those URLs expire inside the year.
    - `ANTHROPIC_API_KEY` — for the relevance classifier, running Claude. **Optional.**
    - `AZURE_OPENAI_API_KEY` — the alternative classifier backend: a `gpt-5-mini`
      deployment on a Microsoft Foundry resource, funded by Azure for Students credit.
-     **Optional.** Used only when `ANTHROPIC_API_KEY` is absent.
+     **Optional.** Used only when `ANTHROPIC_API_KEY` is absent. It needs the repository
+     *variable* `AZURE_OPENAI_ENDPOINT` (the resource URL, not a secret) as well.
    - Either key is enough, and neither is required. Without both, the job still runs and
      still reports everything; changes simply arrive unclassified rather than being
      dropped. Set `CLASSIFIER_PROVIDER` to `anthropic` or `azure` to force one.

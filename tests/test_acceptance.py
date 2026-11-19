@@ -429,6 +429,21 @@ class AcceptanceTests(_IsolatedState, unittest.TestCase):
         self.assertIn("Medium · unverified", body)
         self.assertIn("unverified", body)
 
+    def test_14_5c_an_azure_key_without_an_endpoint_degrades_and_says_why(self):
+        """The endpoint is no longer hardcoded, so a missing one must be named, and
+        every change still surfaces unclassified rather than being dropped."""
+        change = models.Change(
+            source_id="nuft-2027", kind="added", key="Some Firm / Insight", detail="x")
+        env = {"AZURE_OPENAI_API_KEY": "test-key", "CLASSIFIER_PROVIDER": "azure"}
+        with unittest.mock.patch.dict(os.environ, env), \
+                unittest.mock.patch.dict(os.environ, {"AZURE_OPENAI_ENDPOINT": ""}):
+            with self.assertRaisesRegex(RuntimeError, "AZURE_OPENAI_ENDPOINT"):
+                classify.build_client(classify.AZURE)
+            judgments = classify.classify([change], {"nuft-2027": self.source}).judgments
+        self.assertFalse(judgments[0].classified)
+        self.assertTrue(judgments[0].relevant)
+        self.assertIn("AZURE_OPENAI_ENDPOINT", judgments[0].error)
+
     @unittest.skipUnless(
         os.environ.get("AZURE_OPENAI_API_KEY"),
         "needs AZURE_OPENAI_API_KEY (live model call)",

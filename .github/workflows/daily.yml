@@ -83,6 +83,9 @@ jobs:
           # credit. Claude is unavailable there: Azure grants zero Claude deployment
           # quota to student subscriptions because it is Marketplace-billed.
           AZURE_OPENAI_API_KEY: ${{ secrets.AZURE_OPENAI_API_KEY }}
+          # The resource URL that key belongs to. A variable, not a secret: it is not
+          # a credential, it just should not be hardcoded in a public repo.
+          AZURE_OPENAI_ENDPOINT: ${{ vars.AZURE_OPENAI_ENDPOINT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # The full digest by email (deliver/mail.py). All three optional: unset, the
           # issue alone delivers, as it did before. Secrets rather than variables or

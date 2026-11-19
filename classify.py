@@ -47,11 +47,10 @@ from process import reuse
 
 MODEL = "claude-opus-5"
 
-# The Azure side is pinned to the Foundry deployment created for this project. Both are
-# overridable by env so the repo is not welded to one resource, but defaulting them here
-# means the workflow needs exactly one new secret (the key) rather than three.
+# The Azure endpoint names a specific resource, so it comes from the environment
+# (`AZURE_OPENAI_ENDPOINT`, a repository variable in Actions) rather than the code. The
+# deployment and API version have defaults and can be overridden the same way.
 AZURE_DEFAULT_DEPLOYMENT = "gpt-5-mini"
-AZURE_DEFAULT_ENDPOINT = "https://opptracker-ai-jshi.openai.azure.com/"
 AZURE_DEFAULT_API_VERSION = "2024-12-01-preview"
 
 # Reasoning effort, split by task because the two tasks are not the same difficulty.
@@ -429,9 +428,12 @@ def build_client(provider: str):
     key = os.environ.get("AZURE_OPENAI_API_KEY")
     if not key:
         raise RuntimeError("CLASSIFIER_PROVIDER=azure but AZURE_OPENAI_API_KEY is unset")
+    endpoint = os.environ.get("AZURE_OPENAI_ENDPOINT")
+    if not endpoint:
+        raise RuntimeError("AZURE_OPENAI_API_KEY is set but AZURE_OPENAI_ENDPOINT is not")
     client = AzureOpenAI(
         api_key=key,
-        azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT", AZURE_DEFAULT_ENDPOINT),
+        azure_endpoint=endpoint,
         api_version=os.environ.get("AZURE_OPENAI_API_VERSION", AZURE_DEFAULT_API_VERSION),
     )
     return client, os.environ.get("AZURE_OPENAI_DEPLOYMENT", AZURE_DEFAULT_DEPLOYMENT)
