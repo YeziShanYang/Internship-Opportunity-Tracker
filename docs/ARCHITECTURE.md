@@ -5,8 +5,8 @@
 > project *is* and how to run it, start at the [README](../README.md).
 
 A daily job that watches a fixed list of sources for quant / math / CS opportunities
-relevant to one specific person — a Stanford first-year, class of 2030 — and emails a
-digest by opening a GitHub Issue.
+relevant to one specific person — a Stanford first-year, class of 2030 — and delivers a
+digest each morning twice: as a GitHub Issue, and as an HTML email carrying every row.
 
 Runs on GitHub Actions, so it does not care whether your laptop is awake. State lives in
 this repo as CSVs, which makes **git the database**: `git log` answers "which page
@@ -42,7 +42,12 @@ posting, since those URLs expire inside the year.
    - Either key is enough, and neither is required. Without both, the job still runs and
      still reports everything; changes simply arrive unclassified rather than being
      dropped. Set `CLASSIFIER_PROVIDER` to `anthropic` or `azure` to force one.
-   - `GITHUB_TOKEN` is provided automatically. No SMTP, no mail credentials.
+   - `GITHUB_TOKEN` is provided automatically.
+   - `RESEND_API_KEY`, `DIGEST_EMAIL_FROM`, `DIGEST_EMAIL_TO` — the full digest by
+     email (`deliver/mail.py`). **Optional**: with any one unset, the email is skipped
+     and the issue delivers alone. The sending domain is verified in Resend by DNS
+     records; the key needs only sending access to that domain. Test the settings with
+     `run.py render` then `run.py deliver --email-only`.
 3. Enable Actions and confirm `daily` appears in the Actions tab.
 4. Run it once manually: Actions → `daily` → **Run workflow**. It should open an Issue.
 5. **Set a recurring monthly calendar reminder: "check opportunity-tracker Actions tab."**
@@ -265,8 +270,9 @@ everything the retry saw.
 The cap cannot rest on `data/last_delivered.txt` alone, because a run reads that marker
 from the commit it checked out and late ticks do not always dispatch in cron order — so a
 tick can see a stale marker and mail a duplicate. The authoritative check is the issue
-list itself: the issue *is* the email, so the issues **are** the delivery log, and every
-run sees the same one whatever it checked out. The marker is the fallback for when GitHub
+list itself: the issues **are** the delivery log, and every run sees the same one whatever
+it checked out. The email is sent only by the run that opened the issue, so the cap
+covers it too, and a failed email is reported as a comment on that issue. The marker is the fallback for when GitHub
 cannot be reached.
 
 ### What the classifier will not do

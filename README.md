@@ -11,10 +11,11 @@ internships, reads the postings that changed overnight, throws out the ones I ca
 apply to, and mails me what's left as a single table. It has delivered every morning since
 2026-09-06 and costs a median of about **19 cents a day**.
 
-There is no server and no mailing list. The job runs on GitHub Actions and delivers by
-opening a GitHub Issue, which means GitHub's own notification email is the delivery
-mechanism — no SMTP, no mail credential to expire, and the issue history doubles as a
-permanent archive of every digest.
+There is no server and no mailing list. The job runs on GitHub Actions and delivers twice
+from one render. It opens a GitHub Issue, which is the permanent archive and the log the
+one-a-day cap checks, and it emails the same digest as HTML through
+[Resend](https://resend.com). The issue is cut to fit GitHub's 65,536-character body
+limit on busy mornings. The email has no such limit and carries every row.
 
 ```
 Opportunity digest — 2026-09-20
@@ -156,7 +157,7 @@ enrich    →  fetch the posting body behind each      O(changes), not O(posting
 screen    →  rule out what a quoted phrase settles   deterministic, no model
 classify  →  one model call per surviving change     ~$0.25 on a normal day
 render    →  build the digest bytes
-deliver   →  open the Issue, subject to one-a-day
+deliver   →  open the Issue, subject to one-a-day, then email the untrimmed digest
 ```
 
 Two things about that shape were deliberate and took a rewrite to get right.
@@ -205,7 +206,7 @@ without anyone noticing, and that has already happened twice here.
 | `MIN_TEXT_HTML_RATIO` | $0.0015$ | Text-to-HTML floor. Catches a JavaScript shell serving 221 characters out of 402KB. |
 | `MIN_ABSOLUTE_CHARS` | $500$ | The other content floor. A page under this didn't really load. |
 | `SHRINK_RATIO` | $0.4$ | A page that drops below 40% of its last good size is a redesign or a block, not a quiet day. Self-calibrating, so there's no per-source constant to rot. |
-| `MAX_ISSUE_BODY_CHARS` | $65{,}536$ | GitHub's hard limit. Exceed it and the POST 422s and opens *nothing*. |
+| `MAX_ISSUE_BODY_CHARS` | $65{,}536$ | GitHub's hard limit. Exceed it and the POST 422s and opens *nothing*, so the issue copy drops its least urgent rows to fit. The email copy is never trimmed. |
 | `MAX_CLASSIFICATIONS_PER_RUN` | $250$ | Spend ceiling, counted after the deterministic screen. Reached on 17 of the 35 days from 2026-10-10 to 2026-11-13; rows past it are printed unjudged, never dropped. |
 | `CLASSIFY_REASONING_EFFORT` | `low` | Was `minimal`; see [Reflection](#the-model-needed-room-to-think). |
 | `REQUEST_DELAY_SECONDS` | $1.0$ | Requests are serialised and identify themselves. Nothing is hammered. |
@@ -577,10 +578,11 @@ python -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m unittest discover -s tests
 ```
 
-`--dry-run` still makes real requests to every source (~4 min), but opens no Issue and
-writes no state. Six tests skip without `ANTHROPIC_API_KEY` or `AZURE_OPENAI_API_KEY`;
+`--dry-run` still makes real requests to every source (~4 min), but opens no Issue, sends
+no email and writes no state. The email it would have sent is in `.run/digest.html`. Six tests skip without `ANTHROPIC_API_KEY` or `AZURE_OPENAI_API_KEY`;
 that's expected. Neither key is required to run the job — without them every change is
 surfaced *unclassified* rather than dropped, because degraded mode should surface more,
 not less.
 
-Requires Python 3.14. Dependencies: `httpx`, `openpyxl`, `anthropic`, `openai`.
+Requires Python 3.14. Dependencies: `httpx`, `openpyxl`, `anthropic`, `openai`,
+`playwright`, `markdown`.
