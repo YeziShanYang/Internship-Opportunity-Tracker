@@ -89,26 +89,26 @@ Who we&rsquo;re looking for : First-year students or sophomores pursuing a quant
 For more info:&nbsp; Analyst Early Experiences - AnalystEE@capitalone.com &nbsp;
 Check out the Students &amp; Grads event page to find info sessions on the programs and connect with the recruiting teams.
 ALL JOBS
+R247703
+Accounting, Audit and Tax Manager
+R1005852
+Integrations Engineer 2
+R1005832
+Full-stack Engineer 4 (Python/Java/AWS)
+R1006114
+Director, Product Management, Money Management Data &amp; Experiences
+R1005752
+Sr. Risk Manager, Control Testing
+R1006124
+Audit Manager, Consumer Lending, Credit Cards Audit (Hybrid)
 R1004323
 Director - Software Engineering
-R999362
-Lead Software Engineer
-R999221
-Senior Manager, Risk Data Product Manager
-R248266
-Principal Associate, Supplier Management
-R248104
-Senior Manager, Product Management - Developer Experience, AI Coding Tools &amp; Developer Research
-R247019
-Director, FP&amp;A- Capital One Auto
-R245027
-Senior Data Analyst - US Card
-R1003133
-Senior Manager, Data Analysis - Credit Operations
-R1003185
-Manager, Data Analysis - Credit Operations
-R1005656
-Senior Manager, Product Design
+R1003312
+Full-stack Engineer 4 (Python/AWS)
+R999137
+Senior Associate, Supplier Management
+R999019
+Sr. Business Analyst, Incentive Compensation Risk Management
 View all of our available opportunities
 Related Content
 Explore Capital One Internships

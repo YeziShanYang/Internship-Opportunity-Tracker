@@ -18,6 +18,13 @@ Job Location (Descending)
 Overview (Ascending)
 Overview (Descending)
 Job Title
+Senior Institutional Options Platform Sales
+GTS Execution Services seeks a senior salesperson to grow institutional adoption of its electronic U.S. listed options execution platform. You&rsquo;ll own the client relationship from initial engagement through onboarding, live trading both electronic and high touch, and ongoing coverage. The role requires hands-on experience with all listed and FLEX options strategies, as well as the ability to explain electronic order lifecycle from OMS/EMS origination to GTS high or low-touch execution and downstream reporting.
+&nbsp;
+GTS is a collection of financial services...
+Job Location
+US-NY-New York
+Job Title
 Quantitative Developer- Electronic Market Making
 We are seeking a talented, commercially minded Quantitative Developer with hands-on trading experience to build and manage a new electronic market-making platform from the ground up.&nbsp;
 Job Location
@@ -40,11 +47,6 @@ Job Title
 Data Center Engineer
 Our Information Technology team builds, maintains, and continuously improves the infrastructure supporting our trading and business operations. We value technical excellence, collaboration, continuous learning, and efficient service delivery.
 GTS is a collection of financial services companies spanning a wide array of asset classes and investment approaches, all powered by the combination of market expertise with innovative, proprietary technology. &nbsp;With roots as a quantitative trading firm continually building for the future, the GTS family of companies are able to leverage the...
-Job Location
-US-NY-New York
-Job Title
-Quantitative Trader &ndash; Equity Derivatives
-GTS is seeking a Quantitative Trader &ndash; Equity Derivatives to join our Wholesale Market Making team. In this role, you will be responsible for managing and optimizing systematic trading strategies across traditional and decentralized markets, with a focus on risk management, execution quality, and trading performance. Working closely with quantitative researchers, traders, and engineers, you will leverage your understanding of derivatives pricing, market microstructure, and quantitative analysis to make real-time trading decisions, enhance existing strategies, and identify new market opportunities. This is a highly...
 Job Location
 US-NY-New York
 Job Title

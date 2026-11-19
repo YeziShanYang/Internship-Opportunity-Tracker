@@ -144,10 +144,10 @@ Etched	Lab Operations Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.co
 Etched	Mechanical / Thermal Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229
 Etched	People Operations Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.com/Etched/dc036272-19b8-464f-a22d-2505c14b5270
 Etched	Performance Tools Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8
+Etched	Production Intern @ San Jose	Type=FullTime; URL=https://jobs.ashbyhq.com/Etched/bd570162-4143-42ac-be87-a473075749b9
 MaticRobots	Electrical Design Engineer Intern @ Menlo Park, CA	Type=Intern; URL=https://jobs.ashbyhq.com/MaticRobots/2f93fe19-0d71-4972-98da-8baf9d4ab05e
 MaticRobots	Mechanical Design Engineer Intern @ Menlo Park, CA	Type=Intern; URL=https://jobs.ashbyhq.com/MaticRobots/4b9f178f-5346-443d-899e-4d8a76372517
 MaticRobots	Product Design Intern @ Menlo Park, CA	Type=Intern; URL=https://jobs.ashbyhq.com/MaticRobots/655f8bb2-26f0-4324-acd6-f9c0d0d24f6b
-NorthwoodSpace	Electrical Engineering Intern (2027 Summer Internship) @ Torrance, CA	Type=Intern; URL=https://jobs.ashbyhq.com/northwoodspace/1bc230b1-5ad2-44b8-ad61-e80a730e5026
 NorthwoodSpace	Lifecycle Electrical Engineer (Prism) - New Grad @ Torrance, CA	Type=FullTime; URL=https://jobs.ashbyhq.com/northwoodspace/ca559bda-f67e-4bbd-a9d8-4737b5fe02e0
 NorthwoodSpace	Supply Chain Data & Analytics Intern (2027 Summer Internship) @ Torrance, CA	Type=Intern; URL=https://jobs.ashbyhq.com/northwoodspace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490
 NorthwoodSpace	Supply Chain Operations Intern (2027 Summer Internship) @ Torrance, CA	Type=Intern; URL=https://jobs.ashbyhq.com/northwoodspace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549
@@ -174,7 +174,6 @@ antares	Multiphysics Software Intern - Summer 2027 @ Los Angeles	Type=Intern; UR
 antares	Nuclear Engineering Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8
 antares	Nuclear Operations & Licensing Engineering Intern - Summer 2027 @ Idaho Falls	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/ec96a761-509f-44e9-90aa-e1fee5388aa1
 antares	Quality Engineering Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/9335fe9a-a994-4209-bd97-9a6070f4e94f
-antares	Reactor Software Engineering Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3
 antares	Space Mechanical Design Engineering Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81
 apex-technology-inc	Avionics Test Engineering Internship (Spring 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673
 apex-technology-inc	Ground Software Engineering Internship (Spring or Summer 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c
@@ -285,6 +284,7 @@ etched	Lab Operations Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.co
 etched	Mechanical / Thermal Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229
 etched	People Operations Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.com/Etched/dc036272-19b8-464f-a22d-2505c14b5270
 etched	Performance Tools Intern @ San Jose	Type=Intern; URL=https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8
+etched	Production Intern @ San Jose	Type=FullTime; URL=https://jobs.ashbyhq.com/Etched/bd570162-4143-42ac-be87-a473075749b9
 exa	Software Engineer, Intern @ San Francisco, California	Type=FullTime; URL=https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16
 fab2	Automation Software Engineering Intern - Summer @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475
 fab2	Automation Software Engineering Intern - Winter @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765
@@ -295,7 +295,6 @@ fab2	Embedded Software Engineering Intern - Winter @ Austin	Type=Intern; URL=htt
 fab2	Fab Software Engineering Intern - Summer @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0
 fab2	Fab Software Engineering Intern - Winter @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95
 fab2	Infrastructure Software Engineering Intern - Summer @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7
-fab2	Infrastructure Software Engineering Intern - Winter @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f
 fab2	Mechanical Engineering Intern - Summer @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/ada329fa-d8f5-4210-9722-82b1a33487df
 fab2	Mechanical Engineering Intern - Winter @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/49926e1f-ef43-41fc-bce5-1d9a0a7b295b
 fab2	Packaging Engineering Intern - Summer @ Austin	Type=Intern; URL=https://jobs.ashbyhq.com/Fab2/832baa82-d5e1-44b9-bd6f-ef9dbf200a54
@@ -352,7 +351,6 @@ kos.ai	Software Engineer Intern @ San Francisco	Type=FullTime; URL=https://jobs.
 leantechniques	Software Intern - Hybrid @ Hybrid	Type=FullTime; URL=https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862
 maxinsights	Machine Learning Engineer Intern - Video Foundation Models & Agentic AI @ Santa Clara	Type=FullTime; URL=https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d
 mechanize	Software Engineering Intern @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e
-megazone	Cloud Operations Co-op 2027 @ Rochester, NY	Type=Intern; URL=https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f
 megazone	Data Engineer Co-op 2027 @ Rochester, NY	Type=FullTime; URL=https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa
 megazone	Visual Design Co-op 2027 @ Rochester, NY	Type=Intern; URL=https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca
 mercor	Data Science Intern @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a
@@ -372,7 +370,6 @@ netic	Forward Deployed Engineer (FDE) - New Grad - 2026-2027 @ San Francisco	Typ
 netic	Full-Stack Software Engineer (Product) - Intern - 2026-2027 @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef
 netic	Full-Stack Software Engineer (Product) - New Grad - 2026-2027 @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3
 netic	Software Engineer (Agent Platform) - Intern - 2026-2027 @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7
-northwoodspace	Electrical Engineering Intern (2027 Summer Internship) @ Torrance, CA	Type=Intern; URL=https://jobs.ashbyhq.com/northwoodspace/1bc230b1-5ad2-44b8-ad61-e80a730e5026
 northwoodspace	Lifecycle Electrical Engineer (Prism) - New Grad @ Torrance, CA	Type=FullTime; URL=https://jobs.ashbyhq.com/northwoodspace/ca559bda-f67e-4bbd-a9d8-4737b5fe02e0
 northwoodspace	Supply Chain Data & Analytics Intern (2027 Summer Internship) @ Torrance, CA	Type=Intern; URL=https://jobs.ashbyhq.com/northwoodspace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490
 northwoodspace	Supply Chain Operations Intern (2027 Summer Internship) @ Torrance, CA	Type=Intern; URL=https://jobs.ashbyhq.com/northwoodspace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549
@@ -416,7 +413,6 @@ reflect-orbital	Ground Software Engineering Intern @ Hawthorne, CA	Type=Intern; 
 reflect-orbital	IT Support Specialist Intern @ Hawthorne, CA	Type=Intern; URL=https://jobs.ashbyhq.com/reflect-orbital/8f4f8e74-b386-41b4-8154-7e5e50a34205
 reflect-orbital	Mission Operations Engineering Intern @ Hawthorne, CA	Type=Intern; URL=https://jobs.ashbyhq.com/reflect-orbital/7ec00657-344f-4a53-b1b2-b6623a8b95bc
 replit	Cohort 0 @ Foster City, CA	Type=Intern; URL=https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c
-revel	Internship: Embedded Software Engineer @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889
 revel	Internship: Forward Deployed Engineer, Software @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc
 revel	Internship: Forward Deployed Engineer, Test @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/revel/6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1
 revel	Internship: Software Engineer, Test @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/revel/f080b27d-92c7-4e1f-a85f-b4a7c166d738

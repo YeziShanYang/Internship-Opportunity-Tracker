@@ -31,17 +31,32 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
-Whatnot
-Software Engineer Intern (Summer 2027)
+Sierra Space
+2027 Summer Internship - Software Engineering
 <age> Saved
 In-Office
-2 Locations
+5 Locations
+31-31 Hourly
 Internship
+31-31 Hourly
 Internship
-Consumer Web &#x2022; eCommerce &#x2022; Mobile &#x2022; Retail &#x2022; Social Media &#x2022; Software
-Software Engineering Interns will join cross-functional teams for a 12–16 week hybrid internship, contributing code and ideas to live-streaming features, buyer and seller growth flows, and scalable systems supporting a trusted marketplace. Interns will collaborate on project ideation, management, and delivery while building products used by more than 1 million users. Candidates should be pursuing a related degree, have industry software engineering experience, and be able to learn new technologies quickly.
+Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Robotics &#x2022; Defense &#x2022; Utilities
+Summer software engineering internship designing, building, debugging, and testing software for spacecraft systems and mission tools. Interns collaborate with development teams, participate in code reviews, support artificial intelligence projects, and gain experience across the software development lifecycle. The program includes mentorship, technical training, cross-functional workshops, and leadership sessions. This is an in-office, five-day-per-week role available in Colorado, Wisconsin, or North Carolina.
 Top Skills:
-Live-Streaming Platforms Marketplace Systems Software Engineering
+Artificial Intelligence
+HERE Technologies
+Software Engineer Intern
+<age> Saved
+Hybrid
+Chicago, IL, USA
+25-35 Hourly
+Internship
+25-35 Hourly
+Internship
+Artificial Intelligence &#x2022; Automotive &#x2022; Computer Vision &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Logistics &#x2022; Software
+Develop data pipelines, scalable software components, analytics applications, dashboards, and automated workflows for product quality measurement. Apply statistical and data science techniques to generate quality insights, collaborate with engineering and product stakeholders, participate in Agile processes, and support testing, code reviews, and AI capability integration.
+Top Skills:
+Agile AI Analytics Applications Cloud Technologies Data Pipelines Data Visualization Statistical Methods
 T-Mobile
 Summer 2027 Software Engineer Internship
 <age> Saved
@@ -81,6 +96,10 @@ Aerospace &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology 
 Software Engineering Interns design, build, test, document, and deploy software across backend microservices, full-stack web applications, cloud platforms, and mobile apps. Responsibilities include API development, automated testing, CI/CD support, debugging, code reviews, Agile collaboration, generative AI usage, and presenting project results. Interns own a real-world enterprise project with mentorship during a 10-week, on-site summer program in the Greater Denver Area.
 Top Skills:
 Agile AWS Azure C# C&#x2B;&#x2B; Ci/Cd Docker Generative Ai Git Git Gitlab Go Intellij Java JavaScript Kubernetes Node.js NoSQL Postgres Python React Restful Apis Spring Boot SQL Typescript Vs Code
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 NBCUniversal
 Media Tech: Product &amp; Engineering Internships - Summer 2027
 <age> Saved
@@ -94,10 +113,6 @@ AdTech &#x2022; Cloud &#x2022; Digital Media &#x2022; Information Technology &#x
 Paid summer internship for actively enrolled students supporting NBCUniversal’s Media Tech organization. Interns may work in advertising technology integrations, AI-powered enterprise products, or network operations and Wi-Fi. Responsibilities include applying programming skills, working with APIs and structured data, exploring network infrastructure, prototyping AI agents, and contributing to technical projects. The role requires 40 hours per week in New York from June 7 through August 13, 2027.
 Top Skills:
 APIs Generative Ai JavaScript JSON Linux macOS Python Rf Time-Series Databases Typescript Wi-Fi Windows 11
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 BAE Systems, Inc.
 Programmer Analyst Intern - Summer 2027
 <age> Saved
@@ -132,7 +147,7 @@ Software Engineering Intern supporting high-scale AWS backend services for video
 Top Skills:
 AWS Ci/Cd Datadog Docker Documentdb DynamoDB Ec2 Git Gitlab Java JavaScript Kafka Kubernetes RabbitMQ Rest Apis S3 SQL Typescript
 Palantir Technologies
-Software Engineer, Intern - Connectivity Platform and Product
+Software Engineer, Internship - Connectivity Platform and Product
 <age> Saved
 In-Office
 New York, NY, USA
@@ -144,19 +159,6 @@ Artificial Intelligence &#x2022; Software
 Build connectivity products and integrations across backend services, frontend interfaces, and compute platforms. Develop SDKs, APIs, authentication flows, security frameworks, and high-scale data workflows connecting enterprise systems to Foundry. Diagnose performance and correctness issues, collaborate with infrastructure and product teams, and learn across multiple languages, services, networks, and execution environments. The role is approximately 75% backend and 25% frontend.
 Top Skills:
 Cassandra Envoy Git Go Gradle GraphQL HTTP Java Kubernetes Python React Tcp Tls Typescript Udp
-Citadel
-Software Engineer - Intern (US)
-<age> Saved
-In-Office
-4 Locations
-5K-6K Annually
-Internship
-5K-6K Annually
-Internship
-Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
-11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
-Top Skills:
-Distributed Computing Machine Learning Natural Language Processing Web Frameworks
 1
 2
 3
@@ -164,7 +166,7 @@ Distributed Computing Machine Learning Natural Language Processing Web Framework
 5
 ...
 ...
-81
+80
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

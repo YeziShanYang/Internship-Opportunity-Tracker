@@ -110,6 +110,7 @@ Training
 Organization
 Organization
 36A30C
+3S000A
 54K00C
 5Q050A
 71D00C/PLUTONIUM INFRASTRUCTURE ENGINEERING DIVISION OFFICE
@@ -275,6 +276,7 @@ EES-DO / Earth &amp; Environmental Sciences
 EES-DO/ Earth &amp; Environmental Sciences
 EES-DO/Earth &amp; Environmental Sciences
 EM-OPS/Emergency Operations
+EM-PREP/Emergency Management Preparedness
 EM-RESP/Emergency Response
 Engineering (PFE-RCMR)
 Engineering Services - Fire Protection Engineering/ES-FPE
@@ -427,6 +429,7 @@ MSS-WASTE/MSS Waste Characterization &amp; Shipping Faciities (TWF/RANT/WCRRF)
 MSS-WC/Maintenance &amp; Site Services Work Control
 MSS-WC/Maintenance &amp; Site Services-Work Control
 MSS-WFO/Weapons Facilities Operations
+MST-15/ Plutonium Microstructure &amp; Mechanics
 MST-15/Plutonium Microstructure &amp; Mechanics
 MST-15/Plutonium Microstructure and Mechanics
 MST-7 / Engineered Materials
@@ -465,6 +468,7 @@ OCI-CTA/Counterintelligence Activities &amp; Threat Awareness
 OCI-FVA/Foreign Immigration, Visits, &amp; Analysis
 OES/Office of Experimental Sciences
 OES/Offices of Experimental Sciences
+OH-DO/Occupational Health Division Office
 OH-MS/Medical Services
 OH-MS/Occupational Health Medical Services
 Operations Integration Center (TA55-OPS4)
@@ -501,6 +505,7 @@ PFE-AUX
 PFE-AUX/AUXILIARY SYSTEMS
 PFE-CV/
 PFE-CV/Confinement Ventilation Systems
+PFE-DD/Designers and Drafters
 PFE-DE/Design Engineering
 PFE-DO / Plutonium Facilities Engineering Division Office
 PFE-DO/ Plutonium Facilities Engineering Division Office
@@ -531,6 +536,7 @@ Plutonium Facilities Engineering (PFE)
 Plutonium Facilities Engineering (PFE) Division
 Plutonium Facilities Engineering Division (PFE-DO)
 Plutonium Facilities Engineering Division (PFE-DO) and Waste Facilities (PFE-WF)
+Plutonium Facilities Engineers (PFE-DO)
 Plutonium Facilities Enineering - Waste Facilities (PFE-WF)
 Plutonium Foundry/PT-4
 Plutonium Infrastructure Engineering (PIE-INST1)
@@ -594,6 +600,7 @@ Radiation Protection Division (RP)
 Radiation Protection Field Support (RP-FS)
 Radiation Protection Institutional Programs - Services (RPP-SVS)
 Radiation Protection Mission &amp; Deployed Support - Field Support (RPS-FS)
+Radiation Protection Mission and Deployed Support Division (RPS-DO)
 Radiation Protection Programs (RP-PROG) Health Physics Operations
 Radiation Protection Services Group
 Radiation Protection TA55 Support (RP-TA55)
@@ -613,11 +620,13 @@ SIGMA-1/ Fabrication Manufacturing Science
 SIGMA-1/Fabrication Manufacturing Science Group
 Sigma-1/Fabrication Manufacturing Sciences
 SIGMA-1/Fabrication Manufacturing Sciences Group
+SIGMA-2/ Finishing Manufacturing Science
 SIGMA-2/Finishing Manufacturing Science
 Sigma-2/Finishing Manufacturing Science Group
 Sigma-2/Finishing Manufacturing Sciences
 SIGMA-DO / SIGMA DIVISION
 SIGMA-DO/SIGMA Division Office
+SIGMA-DO/Sigma Manufacturing Science Division
 SIGMA-DO/SIGMA-DIvision Office
 SIGMA-OPS/SIGMA Operations
 SIGMA-OPS/Sigma Operations Group
@@ -738,6 +747,7 @@ XTD-RTA/Radiation Transport Applications
 XTD-RTA/X-Theoretical Design Radiation Transport Applications
 Organization
 36A30C
+3S000A
 54K00C
 5Q050A
 71D00C/PLUTONIUM INFRASTRUCTURE ENGINEERING DIVISION OFFICE
@@ -903,6 +913,7 @@ EES-DO / Earth &amp; Environmental Sciences
 EES-DO/ Earth &amp; Environmental Sciences
 EES-DO/Earth &amp; Environmental Sciences
 EM-OPS/Emergency Operations
+EM-PREP/Emergency Management Preparedness
 EM-RESP/Emergency Response
 Engineering (PFE-RCMR)
 Engineering Services - Fire Protection Engineering/ES-FPE
@@ -1055,6 +1066,7 @@ MSS-WASTE/MSS Waste Characterization &amp; Shipping Faciities (TWF/RANT/WCRRF)
 MSS-WC/Maintenance &amp; Site Services Work Control
 MSS-WC/Maintenance &amp; Site Services-Work Control
 MSS-WFO/Weapons Facilities Operations
+MST-15/ Plutonium Microstructure &amp; Mechanics
 MST-15/Plutonium Microstructure &amp; Mechanics
 MST-15/Plutonium Microstructure and Mechanics
 MST-7 / Engineered Materials
@@ -1093,6 +1105,7 @@ OCI-CTA/Counterintelligence Activities &amp; Threat Awareness
 OCI-FVA/Foreign Immigration, Visits, &amp; Analysis
 OES/Office of Experimental Sciences
 OES/Offices of Experimental Sciences
+OH-DO/Occupational Health Division Office
 OH-MS/Medical Services
 OH-MS/Occupational Health Medical Services
 Operations Integration Center (TA55-OPS4)
@@ -1129,6 +1142,7 @@ PFE-AUX
 PFE-AUX/AUXILIARY SYSTEMS
 PFE-CV/
 PFE-CV/Confinement Ventilation Systems
+PFE-DD/Designers and Drafters
 PFE-DE/Design Engineering
 PFE-DO / Plutonium Facilities Engineering Division Office
 PFE-DO/ Plutonium Facilities Engineering Division Office
@@ -1159,6 +1173,7 @@ Plutonium Facilities Engineering (PFE)
 Plutonium Facilities Engineering (PFE) Division
 Plutonium Facilities Engineering Division (PFE-DO)
 Plutonium Facilities Engineering Division (PFE-DO) and Waste Facilities (PFE-WF)
+Plutonium Facilities Engineers (PFE-DO)
 Plutonium Facilities Enineering - Waste Facilities (PFE-WF)
 Plutonium Foundry/PT-4
 Plutonium Infrastructure Engineering (PIE-INST1)
@@ -1222,6 +1237,7 @@ Radiation Protection Division (RP)
 Radiation Protection Field Support (RP-FS)
 Radiation Protection Institutional Programs - Services (RPP-SVS)
 Radiation Protection Mission &amp; Deployed Support - Field Support (RPS-FS)
+Radiation Protection Mission and Deployed Support Division (RPS-DO)
 Radiation Protection Programs (RP-PROG) Health Physics Operations
 Radiation Protection Services Group
 Radiation Protection TA55 Support (RP-TA55)
@@ -1241,11 +1257,13 @@ SIGMA-1/ Fabrication Manufacturing Science
 SIGMA-1/Fabrication Manufacturing Science Group
 Sigma-1/Fabrication Manufacturing Sciences
 SIGMA-1/Fabrication Manufacturing Sciences Group
+SIGMA-2/ Finishing Manufacturing Science
 SIGMA-2/Finishing Manufacturing Science
 Sigma-2/Finishing Manufacturing Science Group
 Sigma-2/Finishing Manufacturing Sciences
 SIGMA-DO / SIGMA DIVISION
 SIGMA-DO/SIGMA Division Office
+SIGMA-DO/Sigma Manufacturing Science Division
 SIGMA-DO/SIGMA-DIvision Office
 SIGMA-OPS/SIGMA Operations
 SIGMA-OPS/Sigma Operations Group
@@ -1404,15 +1422,16 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 30
+Showing 12 out of 31
 Job Title
 Job Number
 Organization
 City, State
+PSS-4 Undergraduate Student-Computer Science IRC147090 PSS-4 / Factory Operations &amp; Industrial Engineering Los Alamos, NM
 PSS-4 Data, Insight, and Visualization Undergraduate Student IRC147075 PSS-4 / Factory Operations &amp; Industrial Engineering Los Alamos, NM
 ESH&amp;Q Undergraduate Student IRC147045 ALDESHQ / Associate Laboratory Directorate Environment, Safety, Health, and Quality Los Alamos, NM
-LANL LAESF Scholars Technical Internship Program IRC147038 PAT / Production Analysis and Transformation Los Alamos, NM
 A-4 Undergraduate Student IRC147019 A-4 / Advanced Research in Cyber Systems Los Alamos, NM
+LANL LAESF Scholars Technical Internship Program IRC147038 PAT / Production Analysis and Transformation Los Alamos, NM
 LANL LAESF Scholars Administrative Internship Program IRC147039 PAT / Production Analysis and Transformation Los Alamos, NM
 Professional (non-STEM) - Undergraduate Student Intern IRC146778 MSS-OOI / MSS- Office of Improvement Los Alamos, NM
 Undergrad Student ST 1 IRC146706 PSD-4 / Material Recovery and Recycle Los Alamos, NM
@@ -1420,9 +1439,8 @@ Plasma Physics Undergraduate Students IRC146637 T-5/ Applied Mathematics And Pla
 Applied Mathematics Undergraduate Students IRC146635 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 RFID Software Developer - Undergraduate Student IRC146481 NEN-1 / Safeguards Science and Techno Los Alamos, NM
 ALDDP Undergraduate Student IRC146477 ALDDP / Associate Laboratory Director for Defense Protection Los Alamos, NM
-Robotics &amp; Automation Intern - Undergraduate IRC146354 E-3 / Automation, Robotics &amp; Controls Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 30
+Showing 12 out of 31
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

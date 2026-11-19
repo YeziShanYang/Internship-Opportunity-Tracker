@@ -43,20 +43,25 @@ DEC 04 - 06
 Manhattan, Kansas, US
 In-Person
 2027
+Toronto , Ontario
+Hack Canada 2027
+JAN 08 - 10
+Toronto, Ontario, CA
+In-Person Hardware
 Hamilton , Ontario
 DeltaHacks
 JAN 09 - 10
 Hamilton, Ontario, CA
 In-Person
-Toronto , Ontario
-UofTHacks
-JAN 15 - 17
-Toronto, Ontario, CA
-In-Person
 Ottawa , Ontario
 uOttaHack 9
 JAN 15 - 17
 Ottawa, Ontario , CA
+In-Person
+Toronto , Ontario
+UofTHacks
+JAN 15 - 17
+Toronto, Ontario, CA
 In-Person
 Los Angeles , CA
 QWER Hacks
@@ -82,7 +87,7 @@ Missisauga , Ontario
 Hackville 2027
 JAN 23 - 24
 Missisauga, Ontario, CA
-In-Person Diversity
+In-Person Diversity Hardware
 Toronto , Ontario
 ElleHacks
 JAN 29 - 31
@@ -122,11 +127,6 @@ Toronto , Ontario
 MakeUofT
 FEB 13 - 14
 Toronto, Ontario, CA
-In-Person
-San Francisco , CA
-SF Hacks
-FEB 19 - 21
-San Francisco, CA, US
 In-Person
 24 upcoming and 24 past events shown
 Location data © OpenStreetMap contributors

@@ -20,12 +20,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:2056
 Title:2028 Investment Banking Summer Analyst Program - New York, LP Advisory Group
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2048-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Consumer-Retail-Group/en-GB
-2028 Investment Banking Summer Analyst Program – Charlotte, Consumer &amp; Retail Group
-<timestamp>
-<timestamp>
-ID:2048
-Title:2028 Investment Banking Summer Analyst Program – Charlotte, Consumer &amp; Retail Group
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2040-2028-Investment-Banking-Summer-Analyst-Program-Boston-Industrials-Group/en-GB
 2028 Investment Banking Summer Analyst Program – Boston, Industrials Group
 <timestamp>
@@ -44,6 +38,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:2047
 Title:2028 Investment Banking Summer Analyst Program – Charlotte, Aerospace, Defense &amp; Government Group
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2048-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Consumer-Retail-Group/en-GB
+2028 Investment Banking Summer Analyst Program – Charlotte, Consumer &amp; Retail Group
+<timestamp>
+<timestamp>
+ID:2048
+Title:2028 Investment Banking Summer Analyst Program – Charlotte, Consumer &amp; Retail Group
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2050-2028-Investment-Banking-Summer-Analyst-Program-New-York-Private-Fund-Advisory-Group/en-GB
 2028 Investment Banking Summer Analyst Program – New York, Private Fund Advisory Group
 <timestamp>
@@ -56,30 +56,30 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:2044
 Title:2028 Investment Banking Summer Analyst Program – Chicago, Mergers &amp; Acquisitions Group
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2049-2028-Investment-Banking-Summer-Analyst-Program-Dallas-Secondary-Advisory-Group/en-GB
-2028 Investment Banking Summer Analyst Program – Dallas, Secondary Advisory Group
-<timestamp>
-<timestamp>
-ID:2049
-Title:2028 Investment Banking Summer Analyst Program – Dallas, Secondary Advisory Group
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2041-2028-Investment-Banking-Summer-Analyst-Program-Calgary-Energy-Group/en-GB
-2028 Investment Banking Summer Analyst Program – Calgary, Energy Group
-<timestamp>
-<timestamp>
-ID:2041
-Title:2028 Investment Banking Summer Analyst Program – Calgary, Energy Group
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2030-2028-Investment-Banking-Summer-Analyst-Program-New-York-Israel-Coverage-Group/en-GB
-2028 Investment Banking Summer Analyst Program – New York, Israel Coverage Group
-<timestamp>
-<timestamp>
-ID:2030
-Title:2028 Investment Banking Summer Analyst Program – New York, Israel Coverage Group
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2028-2028-Investment-Banking-Summer-Analyst-Program-New-York-Municipals-Group/en-GB
 2028 Investment Banking Summer Analyst Program – New York, Municipals Group
 <timestamp>
 <timestamp>
 ID:2028
 Title:2028 Investment Banking Summer Analyst Program – New York, Municipals Group
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2030-2028-Investment-Banking-Summer-Analyst-Program-New-York-Israel-Coverage-Group/en-GB
+2028 Investment Banking Summer Analyst Program – New York, Israel Coverage Group
+<timestamp>
+<timestamp>
+ID:2030
+Title:2028 Investment Banking Summer Analyst Program – New York, Israel Coverage Group
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2041-2028-Investment-Banking-Summer-Analyst-Program-Calgary-Energy-Group/en-GB
+2028 Investment Banking Summer Analyst Program – Calgary, Energy Group
+<timestamp>
+<timestamp>
+ID:2041
+Title:2028 Investment Banking Summer Analyst Program – Calgary, Energy Group
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2049-2028-Investment-Banking-Summer-Analyst-Program-Dallas-Secondary-Advisory-Group/en-GB
+2028 Investment Banking Summer Analyst Program – Dallas, Secondary Advisory Group
+<timestamp>
+<timestamp>
+ID:2049
+Title:2028 Investment Banking Summer Analyst Program – Dallas, Secondary Advisory Group
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2042-2028-Investment-Banking-Summer-Analyst-Program-Toronto/en-GB
 2028 Investment Banking Summer Analyst Program – Toronto
 <timestamp>
@@ -134,18 +134,18 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:2018
 Title:2027 Equities Sales &amp; Trading Summer Analyst – High Touch Trading – Hong Kong
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2020-2027-Investment-Banking-Off-Cycle-Internship-Programme-Paris-Generalist-Team-July-start/en-GB
-2027 Investment Banking Off-Cycle Internship Programme Paris - Generalist Team (July start)
-<timestamp>
-<timestamp>
-ID:2020
-Title:2027 Investment Banking Off-Cycle Internship Programme Paris - Generalist Team (July start)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2019-2027-Investment-Banking-Off-Cycle-Internship-Programme-Paris-Consumer-Team-July-start/en-GB
 2027 Investment Banking Off Cycle Internship Programme Paris – Consumer Team (July start)
 <timestamp>
 <timestamp>
 ID:2019
 Title:2027 Investment Banking Off Cycle Internship Programme Paris – Consumer Team (July start)
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2020-2027-Investment-Banking-Off-Cycle-Internship-Programme-Paris-Generalist-Team-July-start/en-GB
+2027 Investment Banking Off-Cycle Internship Programme Paris - Generalist Team (July start)
+<timestamp>
+<timestamp>
+ID:2020
+Title:2027 Investment Banking Off-Cycle Internship Programme Paris - Generalist Team (July start)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2013-2027-Investment-Banking-Off-Cycle-Internship-Programme-Saudi-Arabia-MENA-January-June/en-GB
 2027 Investment Banking Off Cycle Internship Programme - Saudi Arabia, MENA (January - June)
 <timestamp>
@@ -170,12 +170,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:2011
 Title:2027 Asset Management Summer Internship Programme - London
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1997-2027-Equities-Sales-Trading-Summer-Analyst-Program-Cash-Trading-Hong-Kong/en-GB
-2027 Equities Sales &amp; Trading Summer Analyst Program - Cash Trading - Hong Kong
-<timestamp>
-<timestamp>
-ID:1997
-Title:2027 Equities Sales &amp; Trading Summer Analyst Program - Cash Trading - Hong Kong
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1986-2027-Risk-Management-Summer-Internship-Programme-London/en-GB
 2027 Risk Management Summer Internship Programme - London
 <timestamp>
@@ -200,12 +194,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1961
 Title:2027 Human Resources Summer Analyst Program – Jersey City, Compensation and Benefits
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1949-2027-Private-Credit-Investment-Analyst-Programme-London/en-GB
-2027 Private Credit Investment Analyst Programme - London
-<timestamp>
-<timestamp>
-ID:1949
-Title:2027 Private Credit Investment Analyst Programme - London
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1930-2027-Equity-Sales-and-Trading-Summer-Internship-Programme-London/en-GB
 2027 Equity Sales and Trading Summer Internship Programme - London
 <timestamp>
@@ -218,18 +206,24 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1933
 Title:2027 Equity Research Spring Week Programme - London
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1954-2027-Quant-Fulltime-Programme-Masters-London/en-GB
-2027 Quant Fulltime Programme (Masters) - London
-<timestamp>
-<timestamp>
-ID:1954
-Title:2027 Quant Fulltime Programme (Masters) - London
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1934-2027-Investment-Banking-Spring-Week-Programme-London/en-GB
 2027 Investment Banking Spring Week Programme - London
 <timestamp>
 <timestamp>
 ID:1934
 Title:2027 Investment Banking Spring Week Programme - London
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1949-2027-Private-Credit-Investment-Analyst-Programme-London/en-GB
+2027 Private Credit Investment Analyst Programme - London
+<timestamp>
+<timestamp>
+ID:1949
+Title:2027 Private Credit Investment Analyst Programme - London
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1954-2027-Quant-Fulltime-Programme-Masters-London/en-GB
+2027 Quant Fulltime Programme (Masters) - London
+<timestamp>
+<timestamp>
+ID:1954
+Title:2027 Quant Fulltime Programme (Masters) - London
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1823-2027-Investment-Banking-Off-Cycle-Internship-Madrid-Country-Coverage-Team-February-August-start/en-GB
 2027 Investment Banking Off-Cycle Internship - Madrid, Country Coverage Team (February/August start)
 <timestamp>
@@ -278,12 +272,6 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1910
 Title:2027 Investment Banking Summer Associate Program – New York, Financial Institutions Group (FIG)
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1907-2027-Investment-Banking-Summer-Associate-Program-Houston-Energy-Group/en-GB
-2027 Investment Banking Summer Associate Program – Houston, Energy Group
-<timestamp>
-<timestamp>
-ID:1907
-Title:2027 Investment Banking Summer Associate Program – Houston, Energy Group
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1903-2027-Investment-Banking-Summer-Associate-Program-Charlotte-Aerospace-Defense-Government-Group/en-GB
 2027 Investment Banking Summer Associate Program – Charlotte, Aerospace, Defense &amp; Government Group
 <timestamp>
@@ -308,6 +296,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1906
 Title:2027 Investment Banking Summer Associate Program – Charlotte, Technology, Media &amp; Telecom Group
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1907-2027-Investment-Banking-Summer-Associate-Program-Houston-Energy-Group/en-GB
+2027 Investment Banking Summer Associate Program – Houston, Energy Group
+<timestamp>
+<timestamp>
+ID:1907
+Title:2027 Investment Banking Summer Associate Program – Houston, Energy Group
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1908-2027-Investment-Banking-Summer-Associate-Program-Houston-Energy-Transition-Group/en-GB
 2027 Investment Banking Summer Associate Program – Houston, Energy Transition Group
 <timestamp>
@@ -344,30 +338,30 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl
 <timestamp>
 ID:1838
 Title:2027 Investment Banking Off Cycle Internship Programme - Dubai, MENA (January - June 2027)
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1833-2027-Investment-Banking-Internship-Frankfurt-Equity-Capital-Markets-July-October-Start-Dates/en-GB
-2027 Investment Banking Internship – Frankfurt, Equity Capital Markets (July / October Start Dates)
-<timestamp>
-<timestamp>
-ID:1833
-Title:2027 Investment Banking Internship – Frankfurt, Equity Capital Markets (July / October Start Dates)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1832-2027-Investment-Banking-Internship-Frankfurt-M-A-Q2-Q4/en-GB
 2027 Investment Banking Internship – Frankfurt, M&amp;A (Q2 - Q4)
 <timestamp>
 <timestamp>
 ID:1832
 Title:2027 Investment Banking Internship – Frankfurt, M&amp;A (Q2 - Q4)
-https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1822-2027-Investment-Banking-Off-Cycle-Internship-Programme-Paris-Consumer-Team-January-start/en-GB
-2027 Investment Banking Off Cycle Internship Programme Paris – Consumer Team (January start)
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1833-2027-Investment-Banking-Internship-Frankfurt-Equity-Capital-Markets-July-October-Start-Dates/en-GB
+2027 Investment Banking Internship – Frankfurt, Equity Capital Markets (July / October Start Dates)
 <timestamp>
 <timestamp>
-ID:1822
-Title:2027 Investment Banking Off Cycle Internship Programme Paris – Consumer Team (January start)
+ID:1833
+Title:2027 Investment Banking Internship – Frankfurt, Equity Capital Markets (July / October Start Dates)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1821-2027-Investment-Banking-Off-Cycle-Internship-Programme-Paris-Generalist-Team-January-start/en-GB
 2027 Investment Banking Off-Cycle Internship Programme Paris - Generalist Team (January start)
 <timestamp>
 <timestamp>
 ID:1821
 Title:2027 Investment Banking Off-Cycle Internship Programme Paris - Generalist Team (January start)
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1822-2027-Investment-Banking-Off-Cycle-Internship-Programme-Paris-Consumer-Team-January-start/en-GB
+2027 Investment Banking Off Cycle Internship Programme Paris – Consumer Team (January start)
+<timestamp>
+<timestamp>
+ID:1822
+Title:2027 Investment Banking Off Cycle Internship Programme Paris – Consumer Team (January start)
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1799-2027-Investment-Banking-Off-Cycle-Internship-Programme-VARIOUS-Groups-London-Feb-Start-Date/en-GB
 2027 Investment Banking Off Cycle Internship Programme - VARIOUS Groups London (Feb Start Date)
 <timestamp>

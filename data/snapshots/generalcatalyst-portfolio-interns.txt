@@ -40,7 +40,7 @@ Series A
 Series B
 Clear all
 Powered by Getro
-Showing 53 jobs
+Showing 52 jobs
 Summer 2027 Modeling and Simulation Intern
 Pacific Fusion
 Location: San Leandro, CA, USA
@@ -255,9 +255,10 @@ Social Content
 Technology
 + 99 more
 View job
-Electrical Engineering Internship - Summer 2027
+Software Engineering Internship - Summer 2027
 Vital Lyfe
 Location: Los Angeles, CA, USA
+Compensation: USD 30-33 / hour
 Posted <age>
 Seed
 Internship
@@ -281,9 +282,10 @@ Water
 Water Purification
 + 99 more
 View job
-Software Engineering Internship - Summer 2027
+Electrical Engineering Internship - Summer 2027
 Vital Lyfe
 Location: Los Angeles, CA, USA
+Compensation: USD 30-33 / hour
 Posted <age>
 Seed
 Internship
