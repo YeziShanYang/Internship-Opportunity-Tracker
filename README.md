@@ -392,6 +392,13 @@ A ruled-out row is still printed with its reason, as a short line in RULED OUT. 
 eligibility question still leans toward keeping, because a false negative costs a real
 opportunity and a false positive costs a glance.
 
+The labels are checked against 109 hand-labelled real postings in
+[`tests/eval/`](tests/eval/), with their posting text frozen so a rerun gives the model the
+same input. On a set the prompt was never tuned on, 23 of 27 postings got all three labels
+right and 25 of 27 landed in the expected tier; nearly every miss was the field of a
+company the model didn't know. The script makes live model calls, so it sits outside the
+unit suite and is run by hand before a prompt change.
+
 Later it stopped asking the same question twice. A judgment is stored per posting
 (employer plus title) and reused for later sightings under the same prompt version, and a
 non-tech employer's verdict is reused for its generic titles. Replayed over 30 days, that
@@ -578,6 +585,12 @@ opens no issue, sends no email and writes no state, and the email it would have 
 saved to `.run/digest.html`. Six tests skip without `ANTHROPIC_API_KEY` or
 `AZURE_OPENAI_API_KEY`, which is expected. Neither key is needed to run the job. Without
 one, every change reaches the digest unclassified rather than being dropped.
+
+To score the classifier against the labelled postings (about 110 model calls):
+
+```bash
+AZURE_OPENAI_ENDPOINT=... .venv/bin/python tests/eval/classifier_eval.py
+```
 
 The email needs three repository secrets: `RESEND_API_KEY`, `DIGEST_EMAIL_FROM` and
 `DIGEST_EMAIL_TO`. Without them the issue is the only delivery.

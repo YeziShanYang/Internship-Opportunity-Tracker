@@ -445,8 +445,8 @@ class AcceptanceTests(_IsolatedState, unittest.TestCase):
         self.assertIn("AZURE_OPENAI_ENDPOINT", judgments[0].error)
 
     @unittest.skipUnless(
-        os.environ.get("AZURE_OPENAI_API_KEY"),
-        "needs AZURE_OPENAI_API_KEY (live model call)",
+        os.environ.get("AZURE_OPENAI_API_KEY") and os.environ.get("AZURE_OPENAI_ENDPOINT"),
+        "needs AZURE_OPENAI_API_KEY and AZURE_OPENAI_ENDPOINT (live model call)",
     )
     def test_14_5c_azure_backend_applies_the_same_identity_gate(self):
         """The gpt-5-mini path must enforce rule 2 exactly as the Claude path does.
@@ -1153,8 +1153,8 @@ class PostingFilterTests(_IsolatedState, unittest.TestCase):
 
 # --- 14.8 -----------------------------------------------------------------------
 @unittest.skipUnless(
-    os.environ.get("AZURE_OPENAI_API_KEY"),
-    "needs AZURE_OPENAI_API_KEY (live model calls)",
+    os.environ.get("AZURE_OPENAI_API_KEY") and os.environ.get("AZURE_OPENAI_ENDPOINT"),
+    "needs AZURE_OPENAI_API_KEY and AZURE_OPENAI_ENDPOINT (live model calls)",
 )
 class PostingJudgementTests(_IsolatedState, unittest.TestCase):
     """Does the small model actually make the right call on real posting text?
