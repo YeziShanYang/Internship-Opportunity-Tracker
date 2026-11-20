@@ -179,6 +179,7 @@ AOT-RFE/RF Engineering
 Applied Mathematics And Plasma Physics/T-5
 ASD/Advance Sources and Detectors
 ASD-TSPE/ASD Technical Support and Project Execution
+ASD-VVT/ASD V&amp;V Testing
 Associate Laboratory Director for Facilities and Operations (ALDFO)
 Associate Laboratory Directorate for Environment, Safety, Health and Quality (ALDESHQ)
 Automation, Robotics &amp; Controls
@@ -395,6 +396,8 @@ Materials Chemistry/MPA-11
 Materials Science In Radiation &amp; Dynamics Extremes/MST-8
 M-DO/M-Dynamic Experiments
 Metrology Program and Calibration Laboratory (IQPA-MPCL)
+Metrology Program and Calibration Laboratory/IQPA
+Metrology Program and Calibration Laboratory/IQPA-MPCL
 MPA-11 / Materials Synthesis and Integrated Devices
 MPA-11/ Materials Synthesis and Integrated Devices
 MPA-11/ Materials Synthesis and Integrated Devices/Materials Chemistry
@@ -453,6 +456,7 @@ NEN-5/Nuclear Systems
 Non-Destructive Assay &amp; Vault Operations (NDA-VO)
 Non-Destructive Assay &amp; Vault Operations/NDA-VO
 NPI-11/ Fissile Plutonium Operations
+NPI-6/ Plutonium Capability Transuranic Waste Management
 NPI-7/ Nuclear Materials and TRU Waste Shipping
 NSEC-PSPO / Postdoc and Student Program
 NSEC-PSPO/Postdoc and Student Programs Office
@@ -816,6 +820,7 @@ AOT-RFE/RF Engineering
 Applied Mathematics And Plasma Physics/T-5
 ASD/Advance Sources and Detectors
 ASD-TSPE/ASD Technical Support and Project Execution
+ASD-VVT/ASD V&amp;V Testing
 Associate Laboratory Director for Facilities and Operations (ALDFO)
 Associate Laboratory Directorate for Environment, Safety, Health and Quality (ALDESHQ)
 Automation, Robotics &amp; Controls
@@ -1032,6 +1037,8 @@ Materials Chemistry/MPA-11
 Materials Science In Radiation &amp; Dynamics Extremes/MST-8
 M-DO/M-Dynamic Experiments
 Metrology Program and Calibration Laboratory (IQPA-MPCL)
+Metrology Program and Calibration Laboratory/IQPA
+Metrology Program and Calibration Laboratory/IQPA-MPCL
 MPA-11 / Materials Synthesis and Integrated Devices
 MPA-11/ Materials Synthesis and Integrated Devices
 MPA-11/ Materials Synthesis and Integrated Devices/Materials Chemistry
@@ -1090,6 +1097,7 @@ NEN-5/Nuclear Systems
 Non-Destructive Assay &amp; Vault Operations (NDA-VO)
 Non-Destructive Assay &amp; Vault Operations/NDA-VO
 NPI-11/ Fissile Plutonium Operations
+NPI-6/ Plutonium Capability Transuranic Waste Management
 NPI-7/ Nuclear Materials and TRU Waste Shipping
 NSEC-PSPO / Postdoc and Student Program
 NSEC-PSPO/Postdoc and Student Programs Office
@@ -1430,8 +1438,8 @@ City, State
 PSS-4 Undergraduate Student-Computer Science IRC147090 PSS-4 / Factory Operations &amp; Industrial Engineering Los Alamos, NM
 PSS-4 Data, Insight, and Visualization Undergraduate Student IRC147075 PSS-4 / Factory Operations &amp; Industrial Engineering Los Alamos, NM
 ESH&amp;Q Undergraduate Student IRC147045 ALDESHQ / Associate Laboratory Directorate Environment, Safety, Health, and Quality Los Alamos, NM
-A-4 Undergraduate Student IRC147019 A-4 / Advanced Research in Cyber Systems Los Alamos, NM
 LANL LAESF Scholars Technical Internship Program IRC147038 PAT / Production Analysis and Transformation Los Alamos, NM
+A-4 Undergraduate Student IRC147019 A-4 / Advanced Research in Cyber Systems Los Alamos, NM
 LANL LAESF Scholars Administrative Internship Program IRC147039 PAT / Production Analysis and Transformation Los Alamos, NM
 Professional (non-STEM) - Undergraduate Student Intern IRC146778 MSS-OOI / MSS- Office of Improvement Los Alamos, NM
 Undergrad Student ST 1 IRC146706 PSD-4 / Material Recovery and Recycle Los Alamos, NM

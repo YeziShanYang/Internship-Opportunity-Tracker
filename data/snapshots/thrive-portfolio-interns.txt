@@ -17,7 +17,7 @@ Series A
 Series B
 Clear all
 Powered by Getro
-Showing 50 jobs
+Showing 49 jobs
 Forward Deployed Engineer, Intern
 Pace
 Location: New York, NY, USA
@@ -547,32 +547,6 @@ Jewelry
 Retail
 + 99 more
 View job
-Internship: Forward Deployed Engineer, Test
-Revel
-Location: San Francisco, CA, USA ; Los Angeles, CA, USA
-Posted <age>
-Series B
-Internship
-Business/Productivity Software
-Hardware
-Industrial Automation
-Manufacturing
-Media and Information Services (B2B)
-Science and Engineering
-Software
-Web Development
-Series B
-Internship
-Business/Productivity Software
-Hardware
-Industrial Automation
-Manufacturing
-Media and Information Services (B2B)
-Science and Engineering
-Software
-Web Development
-+ 99 more
-View job
 Internship: Software Engineer, Test
 Revel
 Location: San Francisco, CA, USA ; Los Angeles, CA, USA
@@ -623,6 +597,37 @@ Media and Information Services (B2B)
 Science and Engineering
 Software
 Web Development
++ 99 more
+View job
+Summer 2027 Internship - Civil Engineering
+General Matter
+Location: Los Angeles, CA, USA
+Compensation: USD 30-40 / hour
+Posted <age>
+Pre Seed
+Internship
+Alternative Energy Equipment
+Chemicals
+Energy
+Energy Production
+Fuel
+Manufacturing
+Manufacturing &amp; Industrial
+Nuclear
+Power Grid
+Science and Engineering
+Pre Seed
+Internship
+Alternative Energy Equipment
+Chemicals
+Energy
+Energy Production
+Fuel
+Manufacturing
+Manufacturing &amp; Industrial
+Nuclear
+Power Grid
+Science and Engineering
 + 99 more
 View job
 Load more

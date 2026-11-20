@@ -97,8 +97,8 @@ Software Engineering Interns design, build, test, document, and deploy software 
 Top Skills:
 Agile AWS Azure C# C&#x2B;&#x2B; Ci/Cd Docker Generative Ai Git Git Gitlab Go Intellij Java JavaScript Kubernetes Node.js NoSQL Postgres Python React Restful Apis Spring Boot SQL Typescript Vs Code
 New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
 Use For Free
 NBCUniversal
 Media Tech: Product &amp; Engineering Internships - Summer 2027
@@ -124,28 +124,6 @@ Internship
 Internship
 Aerospace &#x2022; Hardware &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity &#x2022; Defense
 Supports special projects at BAE Systems under supervision, applying technical knowledge in a programming or analytical discipline. The intern collaborates with cross-functional teams, develops practical experience, and participates in the LEAP Internship and Co-op Program through career development, networking, and impactful project work. The role is based in Fort Wayne, Indiana, during Summer 2027, with possible part-time work during the following academic year.
-Cloudflare
-People Team: Software Engineer Intern (Winter 2027)
-<age> Saved
-Hybrid
-Austin, TX, USA
-Internship
-Internship
-Cloud &#x2022; Information Technology &#x2022; Security &#x2022; Software &#x2022; Cybersecurity
-Build and deploy full-stack features, AI agents, integrations, and internal enterprise applications for Cloudflare’s People team. Write and review production code, work in sprint-based teams, manage tickets and blockers, use AI-assisted coding tools, coordinate with another intern, and demonstrate shipped products to leadership.
-Top Skills:
-APIs Cloudflare Infrastructure Cursor Edge Computing Figma Git HTTP Javascript/Typescript Mcps Opencode React Serverless Computing Svelte Vue Windsurf
-Spectrum
-2027 Summer Intern: Software Engineer
-<age> Saved
-In-Office
-Greenwood Village, CO, USA
-Internship
-Internship
-eCommerce &#x2022; Information Technology &#x2022; Internet of Things &#x2022; Mobile &#x2022; On-Demand &#x2022; Retail &#x2022; Software
-Software Engineering Intern supporting high-scale AWS backend services for video streaming, cloud DVR, authentication, entitlements, and content discovery. Responsibilities include developing Java or TypeScript microservices, writing automated tests, participating in code reviews and Agile ceremonies, optimizing databases and APIs, improving observability with Datadog, documenting architecture and operations, and presenting project results. The internship provides mentorship, professional development, networking, and hands-on experience with enterprise software engineering practices.
-Top Skills:
-AWS Ci/Cd Datadog Docker Documentdb DynamoDB Ec2 Git Gitlab Java JavaScript Kafka Kubernetes RabbitMQ Rest Apis S3 SQL Typescript
 Palantir Technologies
 Software Engineer, Internship - Connectivity Platform and Product
 <age> Saved
@@ -159,6 +137,32 @@ Artificial Intelligence &#x2022; Software
 Build connectivity products and integrations across backend services, frontend interfaces, and compute platforms. Develop SDKs, APIs, authentication flows, security frameworks, and high-scale data workflows connecting enterprise systems to Foundry. Diagnose performance and correctness issues, collaborate with infrastructure and product teams, and learn across multiple languages, services, networks, and execution environments. The role is approximately 75% backend and 25% frontend.
 Top Skills:
 Cassandra Envoy Git Go Gradle GraphQL HTTP Java Kubernetes Python React Tcp Tls Typescript Udp
+Citadel
+Software Engineer - Intern (US)
+<age> Saved
+In-Office
+4 Locations
+5K-6K Annually
+Internship
+5K-6K Annually
+Internship
+Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
+11-week software engineering internship building high-performance, large-data research platforms and trading tools. Work in small teams on system architectures, distributed systems, NLP and ML, and web frameworks while collaborating with senior engineers.
+Top Skills:
+Distributed Computing Machine Learning Natural Language Processing Web Frameworks
+New York Life
+2027 New York Life Direct Summer Internship Program - IBM i Developer
+<age> Saved
+Hybrid
+Tampa, FL, USA
+25-25 Hourly
+Internship
+25-25 Hourly
+Internship
+Artificial Intelligence &#x2022; Cloud &#x2022; Fintech &#x2022; Information Technology &#x2022; Insurance &#x2022; Financial Services &#x2022; Big Data Analytics
+Intern will develop, test, enhance, and support IBM i enterprise applications using RPG, CL, SQL, DB2 for i, and ILE concepts. Responsibilities include database development, debugging, testing, code reviews, application integration, automation, and exploring responsible Generative AI tools. The role includes mentorship, collaboration with technical and business teams, participation in the software development lifecycle, and completion and presentation of an internship project.
+Top Skills:
+APIs Control Language (Cl) Db2 For I Free-Format Rpg Generative Ai Git Ibm I Integrated Language Environment (Ile) Restful Web Services SQL Visual Studio Code
 1
 2
 3

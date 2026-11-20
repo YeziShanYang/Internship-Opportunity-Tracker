@@ -2,6 +2,12 @@ https://jefferies.tal.net/vx/mobile-0/appcentre-1/brand-4/candidate/jobboard/vac
 Campus Opportunities
 Jefferies
 <timestamp>
+https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2063-2027-Equities-Analyst-Principal-Investing-Team-New-York/en-GB
+2027 Equities Analyst - Principal Investing Team, New York
+<timestamp>
+<timestamp>
+ID:2063
+Title:2027 Equities Analyst - Principal Investing Team, New York
 https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2024-Class-of-2029-U-S-Women-in-Research-Mentorship-Program/en-GB
 Class of 2029: U.S. Women in Research Mentorship Program
 <timestamp>

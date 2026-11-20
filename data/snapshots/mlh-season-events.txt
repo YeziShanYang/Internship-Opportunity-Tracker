@@ -108,11 +108,6 @@ UGAHacks
 FEB 05 - 07
 Athens , Georgia, US
 In-Person
-West Lafayette , Indiana
-InnovateHer
-FEB 06 - 07
-West Lafayette, Indiana, US
-In-Person Diversity
 East Lansing , Michigan
 SpartaHack
 FEB 06 - 07
@@ -123,6 +118,11 @@ Hack_NCState
 FEB 06 - 07
 Raleigh, North Carolina, US
 In-Person Hardware
+West Lafayette , Indiana
+InnovateHer
+FEB 13 - 14
+West Lafayette, Indiana, US
+In-Person Diversity
 Toronto , Ontario
 MakeUofT
 FEB 13 - 14

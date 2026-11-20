@@ -36,6 +36,8 @@ Duke University, Department of Mathematics
 The EDGE Foundation
 [ EDGE2027 ] EDGE 2027 Summer Program &nbsp; Apply
 [ RUSKAI ] Ruskai Research Fund &nbsp; Apply
+Florida State University, Mathematics/REU program
+[ REU ] REU Site: Applied Mathematics in Real World Applications &nbsp; ez Apply
 IAS/Park City Mathematics Institute
 [ GSS2027 ] Graduate Summer School 2027 &nbsp; Apply
 [ RP2027 ] Research Program 2027 &nbsp; Apply
@@ -57,6 +59,8 @@ University of California, Los Angeles, Institute for Pure and Applied Mathematic
 [ RIPS2027 ] Research in Industrial Projects for Students (RIPS) &nbsp; Apply
 University of Chicago, Math/PSD
 [ REU ] University of Chicago Mathematics REU &nbsp; Apply
+University of Southern California, Mathematics
+[ MSRP ] USC RTG Mathematics Summer Research Program &nbsp; Apply
 Williams College, Mathematics and Statistics
 [ BREAKDIVISORS ] Williams College SMALL REU 2027: Generalized Break Divisors and Triangulations &nbsp; Apply
 [ COMMUTATIVEALGEBRA ] Williams College SMALL REU 2027: Commutative Algebra &nbsp; Apply
@@ -65,5 +69,5 @@ Williams College, Mathematics and Statistics
 [ NTPROBABILITY ] Williams College SMALL REU 2027: Number Theory and Probability &nbsp; Apply
 [ POLYMATHREU2027 ] Polymath Jr-REU2027 &nbsp; Apply
 [ TROPICAL ] Williams College SMALL REU 2027: Tropical Geometry &nbsp; Apply
-(30 programs listed)
+(32 programs listed)
 &copy; 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.
