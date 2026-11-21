@@ -20,7 +20,8 @@ Click on the following 'A' to 'Z' links to list only employers whose names start
 &nbsp; A &nbsp; B &nbsp; C &nbsp; D &nbsp; E &nbsp; F &nbsp; G &nbsp; H &nbsp; I &nbsp; J &nbsp; K &nbsp; L &nbsp; M &nbsp; N &nbsp; O &nbsp; P &nbsp; Q &nbsp; R &nbsp; S &nbsp; T &nbsp; U &nbsp; V &nbsp; W &nbsp; X &nbsp; Y &nbsp; Z &nbsp; All
 &nbsp;
 American Mathematical Society, AMS Prizes and Awards
-[ JPBM27 ] JPBM Communications Award &nbsp; (deadline 2026/09/15 11:59PM) &nbsp; Nominate
+[ JPBM27 ] JPBM Communications Award &nbsp; (deadline 2026/09/15 11:59PM * )
+[ JPBM28 ] JPBM Communications Award &nbsp; Nominate
 [ LIE27 ] George Lusztig Thesis Prize in Lie Theory &nbsp; (deadline 2026/07/31 11:59PM * )
 [ THESISALGEBRA27 ] George Lusztig Thesis Prize in Algebra &nbsp; (deadline 2026/07/31 11:59PM * )
 American Mathematical Society, Programs and Travel Grants
@@ -69,5 +70,5 @@ Williams College, Mathematics and Statistics
 [ NTPROBABILITY ] Williams College SMALL REU 2027: Number Theory and Probability &nbsp; Apply
 [ POLYMATHREU2027 ] Polymath Jr-REU2027 &nbsp; Apply
 [ TROPICAL ] Williams College SMALL REU 2027: Tropical Geometry &nbsp; Apply
-(32 programs listed)
+(33 programs listed)
 &copy; 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.

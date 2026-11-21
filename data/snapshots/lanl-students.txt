@@ -412,6 +412,7 @@ MPA-CINT/Center For Integrated Nanotechnologies Group
 MPA-MAG Lab NHMFL Group (MPA-MAGLAB)
 MPA-MAG LAB NHMFL GROUP/MPA-MAGLAB
 MPA-MAGLAB
+MPA-MAGLAB / Materials Physics and Applications Division
 MPA-MAGLAB / MPA-MAG LAB NHMFL GROUP
 MPA-MAGLAB/ National High Magnetic Field Laboratory
 MPA-Q / MPA-Quantum
@@ -624,6 +625,7 @@ SIGMA-1/ Fabrication Manufacturing Science
 SIGMA-1/Fabrication Manufacturing Science Group
 Sigma-1/Fabrication Manufacturing Sciences
 SIGMA-1/Fabrication Manufacturing Sciences Group
+SIGMA-2 / Finishing Manufacturing Science
 SIGMA-2/ Finishing Manufacturing Science
 SIGMA-2/Finishing Manufacturing Science
 Sigma-2/Finishing Manufacturing Science Group
@@ -739,6 +741,7 @@ XCP-2 / Eulerian Codes
 XCP-2/Eulerian Codes
 XCP-3/ Monte Carlo Codes
 XCP-4 / Continuum Models And Numerical Methods
+XCP-5 / Materials And Physical Data
 XCP-5/Materials and Physical Data
 XCP-AI4ND/Artificial Intelligence for Nuclear Deterrence Group
 XTD-DO /Theoretical Design
@@ -1053,6 +1056,7 @@ MPA-CINT/Center For Integrated Nanotechnologies Group
 MPA-MAG Lab NHMFL Group (MPA-MAGLAB)
 MPA-MAG LAB NHMFL GROUP/MPA-MAGLAB
 MPA-MAGLAB
+MPA-MAGLAB / Materials Physics and Applications Division
 MPA-MAGLAB / MPA-MAG LAB NHMFL GROUP
 MPA-MAGLAB/ National High Magnetic Field Laboratory
 MPA-Q / MPA-Quantum
@@ -1265,6 +1269,7 @@ SIGMA-1/ Fabrication Manufacturing Science
 SIGMA-1/Fabrication Manufacturing Science Group
 Sigma-1/Fabrication Manufacturing Sciences
 SIGMA-1/Fabrication Manufacturing Sciences Group
+SIGMA-2 / Finishing Manufacturing Science
 SIGMA-2/ Finishing Manufacturing Science
 SIGMA-2/Finishing Manufacturing Science
 Sigma-2/Finishing Manufacturing Science Group
@@ -1380,6 +1385,7 @@ XCP-2 / Eulerian Codes
 XCP-2/Eulerian Codes
 XCP-3/ Monte Carlo Codes
 XCP-4 / Continuum Models And Numerical Methods
+XCP-5 / Materials And Physical Data
 XCP-5/Materials and Physical Data
 XCP-AI4ND/Artificial Intelligence for Nuclear Deterrence Group
 XTD-DO /Theoretical Design
@@ -1430,11 +1436,13 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 31
+Showing 12 out of 33
 Job Title
 Job Number
 Organization
 City, State
+Undergraduate Student Internship IRC147160 MST-8 / Structure/Property Relations Los Alamos, NM
+RFID Undergraduate Student [Hardware Engineer, Software Engineer, Systems Analyst, Business Liaison] IRC147169 NEN-1 / Safeguards Science and Techno Los Alamos, NM
 PSS-4 Undergraduate Student-Computer Science IRC147090 PSS-4 / Factory Operations &amp; Industrial Engineering Los Alamos, NM
 PSS-4 Data, Insight, and Visualization Undergraduate Student IRC147075 PSS-4 / Factory Operations &amp; Industrial Engineering Los Alamos, NM
 ESH&amp;Q Undergraduate Student IRC147045 ALDESHQ / Associate Laboratory Directorate Environment, Safety, Health, and Quality Los Alamos, NM
@@ -1445,10 +1453,8 @@ Professional (non-STEM) - Undergraduate Student Intern IRC146778 MSS-OOI / MSS- 
 Undergrad Student ST 1 IRC146706 PSD-4 / Material Recovery and Recycle Los Alamos, NM
 Plasma Physics Undergraduate Students IRC146637 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 Applied Mathematics Undergraduate Students IRC146635 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
-RFID Software Developer - Undergraduate Student IRC146481 NEN-1 / Safeguards Science and Techno Los Alamos, NM
-ALDDP Undergraduate Student IRC146477 ALDDP / Associate Laboratory Director for Defense Protection Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 31
+Showing 12 out of 33
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

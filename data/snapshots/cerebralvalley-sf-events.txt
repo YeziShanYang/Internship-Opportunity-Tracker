@@ -14,96 +14,6 @@ Events
 Submit Event
 Sign In
 Discover
-Nov 14
-Boat Hackathon Code Aboard The Historic Klamath
-Sat, Nov 14 · 1:00 PM PST LIVE
-Klamath (Historic Ship)
-Boat Hackathon will challenge builders to ship a project from aboard a boat, with selected teams demoing for investors and fellow builders at an invite-only showcase. Participants will have access to Boat.dev and Context.dev, and the grand prize will recognize the best private AI build.
-Nov 15
-vs · The Big Hack Game · Boba tea &amp; up to $10,000 in cash prizes
-Sun, Nov 15 · 10:00 AM PST LIVE
-UC Berkeley (Cal Alumni House) &amp; Stanford Campus
-The Big Hack Game will pit Stanford against Berkeley in a one-week sprint to build, launch, and grow AI products for real users and enterprise challenges. Participants will get mentorship from YC-backed teams, job referrals, and free boba at the campus kickoff.
-Nov 17
-Microsoft Ignite
-Tue, Nov 17 · 9:00 AM PST LIVE
-San Francisco, CA
-Microsoft Ignite will bring business and security leaders, IT professionals, developers, and partners together for major announcements, deep technical learning, hands-on labs, certifications, and access to experts. Attendees will also have opportunities to network and build practical skills.
-Nov 19
-LexTalk World San Francisco 2026
-Thu, Nov 19 · 9:00 AM PST LIVE
-South San Francisco Conference Center
-This two-day legal conference will bring general counsels, law firm partners, and legal-tech builders together to explore AI, regulation, and outside counsel spend through main-stage sessions, executive roundtables, and CLE-eligible programming. Networking meals and an awards ceremony will round out the agenda.
-Nov 19
-Tech Weekend November 19-20, 2026
-Thu, Nov 19 · 9:00 AM PST LIVE
-Allied Arts Guild
-Founders Village’s 48-hour Tech Weekend fundraising sprint will connect pre-seed to Series B founders with investors through one-on-one VC office hours, pitch competitions, and panels. Participating investors include general partners, venture partners, and associates from firms such as Advantary Capital, Primer Ventures, Spider Capital, and Fly Ventures, with interests spanning AI, deep tech, health tech, fintech, climate, and more.
-Nov 20
-Speech to Ship Hackathon: Speak It, Build It, Ship It
-Fri, Nov 20 · 9:00 AM PST
-San Francisco, CA
-Speech to Ship will be a one-day hackathon where builders of all experience levels use voice, Emergent’s AI app platform, and You.com’s live web search to create and ship an app from a surprise city-business-customer prompt. Teams will demo their projects for judging, with awards including $5,000 in credits and speech-themed hardware.
-Nov 20
-Tech Weekend | VC Panels, Pitch Competition &amp; Happy Hour
-Fri, Nov 20 · 9:00 AM PST
-Allied Arts Guild
-Tech Weekend will bring founders and investors together for a fast-paced fundraising sprint, featuring VC panels on AI fundraising and scaling, an AI pitch competition, crowdfunding showcases, and structured networking. The program will include Adam Menges and Giorgi Gulabyan of Crusoe, alongside investors and founders across frontier technology sectors.
-Nov 20
-AI Breakfast w. Avni Barman at 1 Hotel
-Fri, Nov 20 · 9:30 AM PST
-1 Hotel San Francisco
-An invite-only fireside chat will feature Avni Barman, Gen She founder and former Big Tech professional, sharing insights on personal branding in the AI era, solopreneurship, and viral growth. The event will also offer networking with women leaders across tech, venture capital, health, and fashion.
-Nov 20
-Personal Agents Hackathon
-Fri, Nov 20 · 9:30 AM PST
-San Francisco, CA
-Teams will build personal agents that move beyond chat demos and compete with today’s leading systems in a fast-paced hackathon, with compute credits, food, and project demos. Entries will be evaluated by engineering leaders from Meta and Intuit and the co-founder and CEO of Plato.
-Nov 20
-AI Startup Pitch Competition &amp; Happy Hour
-Fri, Nov 20 · 2:30 PM PST
-Allied Arts Guild
-Tech Weekend will feature live AI startup pitches judged by venture capitalists, followed by an audience-voted crowdfunding showcase. Founders and investors will then wrap up the 48-hour fundraising sprint with drinks and networking.
-Nov 20
-NANDA Human-Agent fLow (HAL) Kickoff
-Fri, Nov 20 · 3:00 PM PST
-Mountain View, CA
-NANDA’s HALHack pilot will explore how people can understand and shape interactions among AI agents through talks, demos, and hands-on projects involving open-source Nanda Town, NANDA Index, and a Roblox prototype. Developers, researchers, designers, students, and Roblox creators will test early experiences and build tools for agent discovery, oversight, and collaboration.
-Nov 20
-GPTZero Takes On: Cash bounties for false positives
-Fri, Nov 20 · 4:00 PM PST
-San Francisco, CA
-GPTZero will celebrate its MCP launch with co-founders Edward and Alex, who will discuss the company’s acquisition by Superhuman and how AI detectors work. Attendees will test GPTZero for false positives to compete for cash bounties, with premium access and refreshments on offer.
-Nov 20
-Gemini Meetup
-Fri, Nov 20 · 5:00 PM PST
-Mountain View, CA
-The evening will feature networking, “Magic Moments,” and an informal, discussion-based Gemini meetup. Attendees will need government-issued ID for security screening and should expect photography or video recording.
-Nov 20
-DeepEval SF Meetup | Latest Updates &amp; Hands-On Demos
-Fri, Nov 20 · 5:00 PM PST
-San Francisco, CA
-Confident AI CTO and co-founder Kritin Vongthongsri and founding GTM team member Tony Cueva Bravo will demo the latest DeepEval updates, showing how tracing, annotation, and evals work together to test and improve AI apps. Attendees will then try the onboarding workflow on their own projects and compare approaches with fellow AI builders.
-Nov 20
-From Community to Pipeline
-Fri, Nov 20 · 5:00 PM PST
-576 Folsom St floor 3
-This panel will explore how founders can turn events and community into measurable pipeline, when those channels make sense, and how to define success. Four experienced operators will bring perspectives spanning pipeline-focused experiential marketing, AI community building, venture-firm events, and seed-stage startup GTM.
-Nov 20
-Early Stage AI Startup Walk
-Fri, Nov 20 · 5:00 PM PST
-Marina Green Restroom East
-A relaxed 2.4-mile walk will kick off the weekend with fresh air, coffee, and casual networking. The group will walk at an easy pace, pause for a regroup and photos, then return along the same route.
-Nov 20
-Agentic Commerce Summit
-Fri, Nov 20 · 6:00 PM PST
-760 Market St
-SFPlayground will bring founders, investors, retailers, payment leaders, engineers, and commerce operators together to explore how AI agents will reshape product discovery, customer experience, payments, identity, and trust. The evening will feature a panel discussion and demos from startups building agentic commerce and related technologies.
-Nov 20
-Physical AI Founders × Investors: Supply Chains &amp; Scale
-Fri, Nov 20 · 6:00 PM PST
-Mission Robotics
-Physical AI founders, investors, and industry leaders will discuss fundraising, supply chains, and scaling robotics for commercial deployment. Speakers include leaders from Macro, Matter, Hub, Aexodus Capital, and Daxo Robotics, with experience spanning Tesla, Apple, Rivian, venture investing, and advanced robotics.
 Nov 21
 Field Day: Free AI Morning for Bay Area Contractors and Home Service Owners
 Sat, Nov 21 · 9:00 AM PST
@@ -114,3 +24,93 @@ AI War Room - Edition - Saturday, 10:00 AM
 Sat, Nov 21 · 10:00 AM PST
 JOE &amp; THE JUICE
 The discussion will explore what 2026 may bring for AI, from models, agents, and systems to ethics, law, business, art, and broader impact. It will also consider whether Claude Code could become a tool for everything.
+Nov 21
+Embodied AI Hackathon [with X Square Robot]
+Sat, Nov 21 · 10:00 AM PST
+San Francisco, CA
+The Embodied AI Hackathon will bring developers, researchers, students, and hobbyists together for three days of building on real robots, with a dedicated kit per team, compute credits, and support from X Square Robot’s robotics team. Participants will develop physical-AI applications across industries, compete for $9,000 in prizes, and receive a stipend if qualified.
+Nov 21
+Weekly New Founders Meetup: Welcome to SF
+Sat, Nov 21 · 11:00 AM PST
+San Francisco, CA
+This weekly Saturday morning meetup will connect founders new to San Francisco for relaxed conversation, city tips, and new friendships, with no pitches or sales talk. Host Dylan Zhang, founder and CEO of Pond AI and a solo founder who raised a $7.5M seed round backed by 30+ angel investors, will keep the small gathering nonprofit and welcoming.
+Nov 21
+Boat Hackathon: ShowBoat Demo Day
+Sat, Nov 21 · 1:00 PM PST
+Klamath (Historic Ship)
+Show Boat Demo Day will cap the inaugural Boat Hackathon, showcasing code built aboard a historic boat by top startup-minded builders. Boat-focused investors, angels, venture capitalists, and tech professionals will be among the attendees.
+Nov 21
+Open Intelligence: A documentary premiere
+Sat, Nov 21 · 4:30 PM PST
+Gray Area / Grand Theater
+This documentary will trace how open-source inference projects SGLang and vLLM shape the cost and scale of AI, asking whether accessible intelligence can truly be open to all. The premiere will feature a Q&amp;A with Charles Frye of Modal, followed by a reception and informal networking.
+Nov 21
+Friendsgiving Edition: DEMON HUNTER K-POP NIGHT Mandu Pop Celebration
+Sat, Nov 21 · 9:00 PM PST
+XeX
+Women in AI Club will bring K-pop and Mandopop back for a night of sing-along anthems, with DJs Justice and San Francisco favorite LUMÉ, known for blending raw emotion with high-energy sets, on the decks.
+Nov 22
+Recursive Self Improvement Hack: Autonomous Agent Businesses
+Sun, Nov 22 · 10:00 AM PST
+San Francisco, CA
+Sundai, an MIT- and Harvard-born community behind 135+ hacks, will bring builders together to tackle autonomous tools that help projects operate and improve themselves. With more than 90% of Anthropic’s code reportedly written by Claude, the event will explore what direction-setting means for humans, and agents.
+Nov 22
+Sundae Robotics 11: Beyond the Gripper — Teaching Robots Dexterity Through Touch, Vision, and Play
+Sun, Nov 22 · 2:00 PM PST
+San Francisco, CA
+Akash Sharma, an Amazon Frontier AI &amp; Robotics Research Scientist and CMU Robotics Institute PhD, will present four approaches to advancing dexterous robot manipulation through touch, vision, human demonstrations, and autonomous play. The talk will explore how these methods could help robots move beyond basic grippers and learn reliable, deployable in-hand skills.
+Nov 22
+Humanity in the Age of AI: A Reading of the Pope&#x27;s Encyclical
+Sun, Nov 22 · 4:45 PM PST
+Grace Cathedral
+A reading of Pope Leo XIV’s encyclical *Magnifica Humanitas* will explore what it means to be human in the age of AI, drawing on voices including Dorothy Day, Maria Montessori, Martin Luther King Jr., and J.R.R. Tolkien. The discussion will consider whether AI will fuel a new Tower of Babel or help build a society grounded in shared human and spiritual values.
+Nov 23
+Multiplayer AI Hackathon (Thanksgiving Special)
+Mon, Nov 23 · 9:30 AM PST
+AWS Builder Loft
+An upcoming AI-focused event will center on conversational AI, with AWS registration and Discord membership required. Attendees must be 18 or older and present a physical, government-issued photo ID.
+Nov 23
+Durable AI Meetup (November Edition)
+Mon, Nov 23 · 5:30 PM PST
+San Francisco, CA
+The upcoming Durable AI Meetup will feature Temporal and RocketRide.ai talks and demos on building reliable, production-scale AI agents, with technical discussions and networking. It will bring together AI, platform, infrastructure, backend, and product engineers working to make agents resilient, observable, and safe in production.
+Nov 23
+Founder Friendsgiving Dinner
+Mon, Nov 23 · 5:30 PM PST
+San Francisco, CA
+Founders’ Friendsgiving will bring 15 pre-seed and seed-stage B2B AI and SaaS founders together for dinner, candid stories about wins and hard lessons, and a creative activity. Hosted by Sprinto, an autonomous compliance platform helping growing businesses stay audit-ready with less operational overhead.
+Nov 23
+Healthcare AI Founder Roundtable
+Mon, Nov 23 · 6:00 PM PST
+142 Minna St, San Francisco, CA 94105
+Founders, engineers, and operators building at the intersection of AI and healthcare will trade practical insights in an intimate, pitch-free roundtable. The conversation will be hosted by Parsa and Tyler, co-founders of BloomText.
+Nov 23
+Degrees of Freedom: Embodied AI Builders Night
+Mon, Nov 23 · 6:00 PM PST
+San Francisco, CA
+Degrees of Freedom will bring Embodied AI builders together for a hands-on evening of grippers, simulation, and robotics policies, with peers offering practical feedback and troubleshooting. Attendees will share their projects at the start and end of the session, whether they’re working with hardware or software.
+Nov 23
+Agent Night Out: Making Agents Worth It in Production
+Mon, Nov 23 · 6:00 PM PST
+House of AI
+Agent Night Out will bring AI founders and builders together for conversations on long-running agents, while host StepFun shares Step 5 Preview, its latest open-weights model designed for complex, multi-step work.
+Nov 24
+Non-Slop Hackathon | Pangram x Kino x Capy x Paper
+Tue, Nov 24 · 5:00 PM PST
+San Francisco, CA
+Non-Slop is a one-day AI hackathon challenging participants to build something with meaning beyond a prompt and explain their creative choices. Teams can use tools including Pangram, Kino, Capy, and Paper, with $4,000 in cash prizes and judges spanning design, filmmaking, research, and creative technology.
+Nov 24
+Marvelous Talks #02: Special Guest
+Tue, Nov 24 · 5:00 PM PST
+Founders, Inc. | San Francisco Lab
+Marvelous Talks will bring a carefully curated group of ambitious founders, investors, and operators together for a candid conversation with a special guest to be revealed closer to the event. The gathering will feature thoughtful introductions and meaningful connections, with attendance limited and approval-based.
+Nov 24
+Artificial Analysis: State of Open Weights
+Tue, Nov 24 · 6:00 PM PST
+San Francisco, CA
+Leaders from Arcee AI, Google DeepMind, NVIDIA, Reflection, and Thinking Machines will discuss the state of open-weight models, emerging trends, and the trade-offs behind greater control and customization. The Artificial Analysis team will bring its expertise to the conversation.
+Nov 24
+Agents: AI&#x27;s Killer App?
+Tue, Nov 24 · 6:00 PM PST
+O’Reilly’s Pub
+The session will explore how standout software, games, and utilities can drive mass platform adoption by delivering clear value to a broad audience.
