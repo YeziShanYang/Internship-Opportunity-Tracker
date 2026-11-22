@@ -59,19 +59,6 @@ Other &#x2022; Utilities
 This 11-week internship supports T-Mobile’s Fiber Growth team through ad hoc data analysis, market archetyping, machine learning modeling, automated dashboards, and backend data infrastructure. The intern will use Python, SQL, Databricks, and GitLab to answer marketing questions, build data pulls, develop market insights, and translate findings into commercial tactics. Responsibilities also include presenting insights to technical and non-technical audiences and collaborating with marketing managers.
 Top Skills:
 Databricks Jobs Gitlab Python Sharepoint SQL Tableau
-T-Mobile
-Summer 2027 Data Analyst Internship
-<age> Saved
-In-Office
-Bellevue, WA, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Support fiber customer acquisition and marketing strategy through ad hoc data analysis, market archetyping, machine learning modeling, and automated dashboards. Use Python, SQL, and Databricks to answer business questions, build data infrastructure, organize code, and present insights to technical and non-technical stakeholders. Partner with commercial marketing managers to translate findings into market tactics and growth plans.
-Top Skills:
-Databricks Databricks Jobs Gitlab Machine Learning Python Sharepoint SQL Tableau
 FieldPulse
 Data Migrations Internship
 <age> Saved
@@ -94,10 +81,6 @@ Fintech &#x2022; Information Technology &#x2022; Financial Services
 This internship develops quantitative analytics and financial engineering solutions for BlackRock’s Aladdin platform. Responsibilities include building financial risk models, applying quantitative techniques to investment and client-business problems, developing Python-based solutions, delivering actionable analytics, and collaborating with investment and business teams. Interns gain experience in financial markets, investment products, quantitative research, technology, and the Aladdin platform.
 Top Skills:
 Aladdin Generative Ai Machine Learning Python
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Ahold Delhaize USA
 Demand Systems Analyst Intern
 <age> Saved
@@ -111,6 +94,10 @@ AdTech &#x2022; eCommerce &#x2022; Food &#x2022; Marketing Tech &#x2022; Retail
 Analyze machine-learning settings in the RELEX demand planning module, with emphasis on weather data for retail forecasting. Evaluate forecast performance, assess data integrity and workflows, and develop configuration recommendations for the superuser team. The intern will support demand planning systems, business process improvement, and data-driven decision-making while participating in mentoring, development, networking, and project presentation activities.
 Top Skills:
 Data Analytics Machine Learning Excel MS Office Microsoft Powerpoint Programming Relex
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Spectrum
 2027 Summer Intern: Associate Billing Solutions Analyst (Customer Operations)
 <age> Saved

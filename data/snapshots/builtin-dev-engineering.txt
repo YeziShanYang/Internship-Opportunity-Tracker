@@ -95,8 +95,8 @@ Develop data pipelines, scalable software components, analytics applications, da
 Top Skills:
 Agile AI Analytics Applications Cloud Technologies Data Pipelines Data Visualization Statistical Methods
 New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
 Use For Free
 EchoStar
 Software Engineering Intern
@@ -168,7 +168,7 @@ Distributed Computing Machine Learning Natural Language Processing Web Framework
 5
 ...
 ...
-79
+80
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

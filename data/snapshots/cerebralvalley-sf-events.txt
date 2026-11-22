@@ -15,40 +15,10 @@ Submit Event
 Sign In
 Discover
 Nov 21
-Field Day: Free AI Morning for Bay Area Contractors and Home Service Owners
-Sat, Nov 21 · 9:00 AM PST
-Mountain View, CA
-Contractors and tradespeople will see live AI demos on real phones, swap ideas with fellow business owners, and enjoy coffee during a free Saturday morning session that wraps by noon.
-Nov 21
-AI War Room - Edition - Saturday, 10:00 AM
-Sat, Nov 21 · 10:00 AM PST
-JOE &amp; THE JUICE
-The discussion will explore what 2026 may bring for AI, from models, agents, and systems to ethics, law, business, art, and broader impact. It will also consider whether Claude Code could become a tool for everything.
-Nov 21
 Embodied AI Hackathon [with X Square Robot]
-Sat, Nov 21 · 10:00 AM PST
+Sat, Nov 21 · 10:00 AM PST LIVE
 San Francisco, CA
 The Embodied AI Hackathon will bring developers, researchers, students, and hobbyists together for three days of building on real robots, with a dedicated kit per team, compute credits, and support from X Square Robot’s robotics team. Participants will develop physical-AI applications across industries, compete for $9,000 in prizes, and receive a stipend if qualified.
-Nov 21
-Weekly New Founders Meetup: Welcome to SF
-Sat, Nov 21 · 11:00 AM PST
-San Francisco, CA
-This weekly Saturday morning meetup will connect founders new to San Francisco for relaxed conversation, city tips, and new friendships, with no pitches or sales talk. Host Dylan Zhang, founder and CEO of Pond AI and a solo founder who raised a $7.5M seed round backed by 30+ angel investors, will keep the small gathering nonprofit and welcoming.
-Nov 21
-Boat Hackathon: ShowBoat Demo Day
-Sat, Nov 21 · 1:00 PM PST
-Klamath (Historic Ship)
-Show Boat Demo Day will cap the inaugural Boat Hackathon, showcasing code built aboard a historic boat by top startup-minded builders. Boat-focused investors, angels, venture capitalists, and tech professionals will be among the attendees.
-Nov 21
-Open Intelligence: A documentary premiere
-Sat, Nov 21 · 4:30 PM PST
-Gray Area / Grand Theater
-This documentary will trace how open-source inference projects SGLang and vLLM shape the cost and scale of AI, asking whether accessible intelligence can truly be open to all. The premiere will feature a Q&amp;A with Charles Frye of Modal, followed by a reception and informal networking.
-Nov 21
-Friendsgiving Edition: DEMON HUNTER K-POP NIGHT Mandu Pop Celebration
-Sat, Nov 21 · 9:00 PM PST
-XeX
-Women in AI Club will bring K-pop and Mandopop back for a night of sing-along anthems, with DJs Justice and San Francisco favorite LUMÉ, known for blending raw emotion with high-energy sets, on the decks.
 Nov 22
 Recursive Self Improvement Hack: Autonomous Agent Businesses
 Sun, Nov 22 · 10:00 AM PST
@@ -70,6 +40,11 @@ Mon, Nov 23 · 9:30 AM PST
 AWS Builder Loft
 An upcoming AI-focused event will center on conversational AI, with AWS registration and Discord membership required. Attendees must be 18 or older and present a physical, government-issued photo ID.
 Nov 23
+Build Lean, Scale Global: India’s STEM Talent to Fundings from UAE &amp; Singapore (Multiplayer AI Special Session)
+Mon, Nov 23 · 3:30 PM PST
+San Francisco, CA
+This founder-focused session will show AI startups how to build lean teams with vetted engineering talent, expand into international markets, and access funding and growth opportunities. It will also explore strategies for scaling beyond a hackathon demo, including regional market entry and government-backed startup programs.
+Nov 23
 Durable AI Meetup (November Edition)
 Mon, Nov 23 · 5:30 PM PST
 San Francisco, CA
@@ -80,37 +55,61 @@ Mon, Nov 23 · 5:30 PM PST
 San Francisco, CA
 Founders’ Friendsgiving will bring 15 pre-seed and seed-stage B2B AI and SaaS founders together for dinner, candid stories about wins and hard lessons, and a creative activity. Hosted by Sprinto, an autonomous compliance platform helping growing businesses stay audit-ready with less operational overhead.
 Nov 23
-Healthcare AI Founder Roundtable
+Agent Night Out: Making Agents Worth It in Production
 Mon, Nov 23 · 6:00 PM PST
-142 Minna St, San Francisco, CA 94105
-Founders, engineers, and operators building at the intersection of AI and healthcare will trade practical insights in an intimate, pitch-free roundtable. The conversation will be hosted by Parsa and Tyler, co-founders of BloomText.
+House of AI
+Agent Night Out will bring AI founders and builders together for conversations on long-running agents, while host StepFun shares Step 5 Preview, its latest open-weights model designed for complex, multi-step work.
 Nov 23
 Degrees of Freedom: Embodied AI Builders Night
 Mon, Nov 23 · 6:00 PM PST
 San Francisco, CA
 Degrees of Freedom will bring Embodied AI builders together for a hands-on evening of grippers, simulation, and robotics policies, with peers offering practical feedback and troubleshooting. Attendees will share their projects at the start and end of the session, whether they’re working with hardware or software.
 Nov 23
-Agent Night Out: Making Agents Worth It in Production
+Healthcare AI Founder Roundtable
 Mon, Nov 23 · 6:00 PM PST
-House of AI
-Agent Night Out will bring AI founders and builders together for conversations on long-running agents, while host StepFun shares Step 5 Preview, its latest open-weights model designed for complex, multi-step work.
-Nov 24
-Non-Slop Hackathon | Pangram x Kino x Capy x Paper
-Tue, Nov 24 · 5:00 PM PST
-San Francisco, CA
-Non-Slop is a one-day AI hackathon challenging participants to build something with meaning beyond a prompt and explain their creative choices. Teams can use tools including Pangram, Kino, Capy, and Paper, with $4,000 in cash prizes and judges spanning design, filmmaking, research, and creative technology.
+142 Minna St, San Francisco, CA 94105
+Founders, engineers, and operators building at the intersection of AI and healthcare will trade practical insights in an intimate, pitch-free roundtable. The conversation will be hosted by Parsa and Tyler, co-founders of BloomText.
 Nov 24
 Marvelous Talks #02: Special Guest
 Tue, Nov 24 · 5:00 PM PST
 Founders, Inc. | San Francisco Lab
 Marvelous Talks will bring a carefully curated group of ambitious founders, investors, and operators together for a candid conversation with a special guest to be revealed closer to the event. The gathering will feature thoughtful introductions and meaningful connections, with attendance limited and approval-based.
 Nov 24
-Artificial Analysis: State of Open Weights
+Non-Slop Hackathon | Pangram x Kino x Capy x Paper
+Tue, Nov 24 · 5:00 PM PST
+San Francisco, CA
+Non-Slop is a one-day AI hackathon challenging participants to build something with meaning beyond a prompt and explain their creative choices. Teams can use tools including Pangram, Kino, Capy, and Paper, with $4,000 in cash prizes and judges spanning design, filmmaking, research, and creative technology.
+Nov 24
+Agentic Workflows Show &amp; Tell
 Tue, Nov 24 · 6:00 PM PST
 San Francisco, CA
-Leaders from Arcee AI, Google DeepMind, NVIDIA, Reflection, and Thinking Machines will discuss the state of open-weight models, emerging trends, and the trade-offs behind greater control and customization. The Artificial Analysis team will bring its expertise to the conversation.
+Attendees will share practical agentic workflows they’re using across coding, growth, sales, operations, research, and everyday life, showing reusable approaches, not just tools.
 Nov 24
 Agents: AI&#x27;s Killer App?
 Tue, Nov 24 · 6:00 PM PST
 O’Reilly’s Pub
 The session will explore how standout software, games, and utilities can drive mass platform adoption by delivering clear value to a broad audience.
+Nov 24
+Artificial Analysis: State of Open Weights
+Tue, Nov 24 · 6:00 PM PST
+San Francisco, CA
+Leaders from Arcee AI, Google DeepMind, NVIDIA, Reflection, and Thinking Machines will discuss the state of open-weight models, emerging trends, and the trade-offs behind greater control and customization. The Artificial Analysis team will bring its expertise to the conversation.
+Nov 24
+Physical AI Hardware Founder Dinner
+Tue, Nov 24 · 6:30 PM PST
+San Francisco, CA
+A curated, 30-person dinner will bring hardware and climate founders, engineers, investors, and builders at every company stage together for three courses, focused discussion, and an asks-and-offers session. Co-host Rho, a business banking platform purpose-built for startups, will support the evening.
+Nov 24
+ML Suds &amp; Science: Who&#x27;s Running the Lab?
+Tue, Nov 24 · 7:00 PM PST
+San Francisco, CA
+ML Suds &amp; Science will spotlight researchers advancing AI-driven labs, from quantum experiment agents and self-driving chemistry systems to aerospace, physics, and model safety. Lightning talks and informal discussion will bring together builders shaping autonomous research workflows, with the event backed by Pebblebed, an early-stage VC founded by leaders with experience at OpenAI, Stripe, Facebook AI Research, Slack, and Sequoia.
+Nov 25
+Why LPs Are Going Direct — and What It Means for Your Fund
+Wed, Nov 25 · 8:00 AM PST
+Online Event
+Nov 25
+AI Tech &amp; Startup Night
+Wed, Nov 25 · 3:00 PM PST
+Liberties
+Nomad Global Hub will bring together builders, founders, and tech professionals for curated networking and high-impact startup pitches. Attendees will connect with experienced innovators and emerging ventures.

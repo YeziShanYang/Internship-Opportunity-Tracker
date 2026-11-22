@@ -73,6 +73,10 @@ San Jose State University (California), Ben Reed
 Site Info Link: https://ben.homeofcode.com/icpc/icpc2026
 Whitworth (Spokane WA micro-site), Kent Jones: ICPC 2026: Pacific NW Regional Programming Contest Spokane Microsite
 CSU Humboldt (micro-site), Sherrene Bogle
+Make a Difference with ICPC NA
+Join our team of dedicated volunteers and help us deliver exceptional events that inspire and challenge the brightest minds in competitive programming. Your contribution is invaluable to our mission.
+Contest Director: Tom Capaul ( tcapaul@ewu.edu )
+&nbsp;
 West Division
 Pacific Northwest
 Southern California
