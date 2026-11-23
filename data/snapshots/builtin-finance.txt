@@ -83,21 +83,6 @@ Cloud &#x2022; Fintech &#x2022; Software &#x2022; Business Intelligence &#x2022;
 Audit interns perform audit, review, and compliance testing; prepare financial statements, footnotes, management reports, and engagement deliverables; communicate with clients and engagement leaders; analyze data; identify process improvements; and develop competency in GAAP. The role provides hands-on experience across diverse client industries while requiring an accounting degree, tax coursework, CPA eligibility, strong communication, organization, and deadline-management skills.
 Top Skills:
 Data Analytics Gaap
-Globe Life
-Investments Intern - 2027 Summer Internship
-<age> Saved
-In-Office
-McKinney, TX, USA
-Internship
-Internship
-Insurance &#x2022; Financial Services
-Supports corporate bond and municipal credit research by analyzing debt issuers, credit risk, financial statements, and market developments. Performs reinvestment break-even, scenario, and sensitivity analyses; presents sector outlooks; and contributes investment recommendations to management. The 10-week, on-site internship provides exposure to asset management, security analysis, capital markets, and valuation.
-Top Skills:
-Bloomberg Terminal MS Office
-New
-Cut your apply time in half.
-Use our AI Assistant to automatically fill your job applications.
-Use For Free
 BlackRock
 2027 MBA Internship Program - Investments - Direct Private Opportunities - Portfolio Management - New York
 <age> Saved
@@ -109,6 +94,10 @@ Internship
 Internship
 Fintech &#x2022; Information Technology &#x2022; Financial Services
 Nine-week MBA Summer Associate internship supporting BlackRock’s Direct Private Opportunities team. Responsibilities include evaluating, underwriting, structuring, executing, and monitoring investments across industries and transaction types; conducting financial modeling, due diligence, scenario analysis, and sensitivity analysis; preparing investment committee materials; and supporting transaction negotiations and portfolio management.
+New
+Track Smarter, Apply Better.
+Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Use For Free
 Rocket
 Cash Management Intern - Summer 2027
 <age> Saved
@@ -153,6 +142,17 @@ Big Data &#x2022; Fintech &#x2022; Information Technology &#x2022; Business Inte
 Accounting Intern supporting the US Markets accounting team with monthly close activities, journal entries, account reconciliations, balance sheet analysis, financial reporting schedules, data validation, and special projects. The role is a paid 12-week hybrid summer internship involving at least two days per week in a TransUnion office, along with professional development workshops and networking opportunities.
 Top Skills:
 Excel Microsoft Powerpoint
+PwC
+Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027
+<age> Saved
+Hybrid
+2 Locations
+29K-48K Hourly
+Internship
+29K-48K Hourly
+Internship
+Artificial Intelligence &#x2022; Professional Services &#x2022; Business Intelligence &#x2022; Consulting &#x2022; Cybersecurity &#x2022; Generative AI
+Supports transfer pricing and international tax projects through research, analysis, tax return assistance, intercompany pricing strategy development, and compliance activities. Collaborates with the Japanese Business Network to build cultural and market insight while learning PwC tax methodologies. The intern gathers information, identifies patterns, contributes to client-service projects, seeks feedback, and develops professional skills.
 1
 2
 3
@@ -160,7 +160,7 @@ Excel Microsoft Powerpoint
 5
 ...
 ...
-166
+164
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

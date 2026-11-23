@@ -7,26 +7,6 @@ Filter events This Month Next Month Diversity Focused Region Sort: Date
 Sponsored
 Upcoming Events
 2026
-London , Ontario
-Hack Western 13
-NOV 20 - 22
-London, Ontario, CA
-In-Person Hardware
-St. John&#x27;s , Newfoundland and Labrador / Avalon Peninsula
-Tech For Community 2026
-NOV 21 - 22
-St. John&#x27;s, Newfoundland and Labrador / Avalon Peninsula, CA
-In-Person High school Hardware
-Wellesley , Massachesetts
-WHACK (Wellesley Hackathon)
-NOV 21 - 22
-Wellesley , Massachesetts, US
-In-Person
-Boston , MA
-BostonHacks
-NOV 21 - 22
-Boston, MA, US
-In-Person
 Lleida , Lleida, Spain
 HackEPS
 NOV 28 - 29
@@ -58,6 +38,11 @@ uOttaHack 9
 JAN 15 - 17
 Ottawa, Ontario , CA
 In-Person
+Rajpura , Punjab
+Techacks 5.0
+JAN 15 - 16
+Rajpura, Punjab, IN
+In-Person Hardware
 Toronto , Ontario
 UofTHacks
 JAN 15 - 17
@@ -127,6 +112,21 @@ Toronto , Ontario
 MakeUofT
 FEB 13 - 14
 Toronto, Ontario, CA
+In-Person
+San Francisco , CA
+SF Hacks
+FEB 19 - 21
+San Francisco, CA, US
+In-Person
+Clemson , SC
+CUhackit
+FEB 20 - 21
+Clemson, SC, US
+In-Person
+Atlanta , GA
+Hacklytics 2027
+FEB 26 - 28
+Atlanta, GA, US
 In-Person
 24 upcoming and 24 past events shown
 Location data © OpenStreetMap contributors

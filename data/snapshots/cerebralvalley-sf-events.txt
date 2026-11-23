@@ -14,35 +14,32 @@ Events
 Submit Event
 Sign In
 Discover
-Nov 21
-Embodied AI Hackathon [with X Square Robot]
-Sat, Nov 21 · 10:00 AM PST LIVE
-San Francisco, CA
-The Embodied AI Hackathon will bring developers, researchers, students, and hobbyists together for three days of building on real robots, with a dedicated kit per team, compute credits, and support from X Square Robot’s robotics team. Participants will develop physical-AI applications across industries, compete for $9,000 in prizes, and receive a stipend if qualified.
-Nov 22
-Recursive Self Improvement Hack: Autonomous Agent Businesses
-Sun, Nov 22 · 10:00 AM PST
-San Francisco, CA
-Sundai, an MIT- and Harvard-born community behind 135+ hacks, will bring builders together to tackle autonomous tools that help projects operate and improve themselves. With more than 90% of Anthropic’s code reportedly written by Claude, the event will explore what direction-setting means for humans, and agents.
-Nov 22
-Sundae Robotics 11: Beyond the Gripper — Teaching Robots Dexterity Through Touch, Vision, and Play
-Sun, Nov 22 · 2:00 PM PST
-San Francisco, CA
-Akash Sharma, an Amazon Frontier AI &amp; Robotics Research Scientist and CMU Robotics Institute PhD, will present four approaches to advancing dexterous robot manipulation through touch, vision, human demonstrations, and autonomous play. The talk will explore how these methods could help robots move beyond basic grippers and learn reliable, deployable in-hand skills.
-Nov 22
-Humanity in the Age of AI: A Reading of the Pope&#x27;s Encyclical
-Sun, Nov 22 · 4:45 PM PST
-Grace Cathedral
-A reading of Pope Leo XIV’s encyclical *Magnifica Humanitas* will explore what it means to be human in the age of AI, drawing on voices including Dorothy Day, Maria Montessori, Martin Luther King Jr., and J.R.R. Tolkien. The discussion will consider whether AI will fuel a new Tower of Babel or help build a society grounded in shared human and spiritual values.
+Featured Previous slide
+Next slide
+Nov 24
+HackwithBay 4.0
+Tue, Nov 24 · 9:30 AM PST
+AWS Builder Loft
+HackwithBay 4.0 will bring tech and creative talent together for an eight-hour hackathon focused on building innovative ideas. The event will take place at AWS Builder Loft.
+Nov 30
+re:Invent 2026 Watch Parties
+Mon, Nov 30 · 5:30 PM PST
+AWS Builder Loft
+The AWS Builder Loft will host a livestream of the re:Invent 2026 Developer Keynote, featuring the latest announcements and tools for builders. Attendees will get a front-row look at what’s next for the developer community.
+Dec 1
+How to train LLMs to beat frontier models
+Tue, Dec 1 · 6:00 PM PST
+AWS Builder Loft
+AWS experts will lead a hands-on workshop showing how to train a specialized model to outperform a frontier model on a narrow task. The session will unpack Phonely’s approach, then guide attendees through fine-tuning their own model.
 Nov 23
 Multiplayer AI Hackathon (Thanksgiving Special)
-Mon, Nov 23 · 9:30 AM PST
+Mon, Nov 23 · 9:30 AM PST LIVE
 AWS Builder Loft
 An upcoming AI-focused event will center on conversational AI, with AWS registration and Discord membership required. Attendees must be 18 or older and present a physical, government-issued photo ID.
 Nov 23
 Build Lean, Scale Global: India’s STEM Talent to Fundings from UAE &amp; Singapore (Multiplayer AI Special Session)
 Mon, Nov 23 · 3:30 PM PST
-San Francisco, CA
+AWS Builder Loft
 This founder-focused session will show AI startups how to build lean teams with vetted engineering talent, expand into international markets, and access funding and growth opportunities. It will also explore strategies for scaling beyond a hackathon demo, including regional market entry and government-backed startup programs.
 Nov 23
 Durable AI Meetup (November Edition)
@@ -64,36 +61,31 @@ Degrees of Freedom: Embodied AI Builders Night
 Mon, Nov 23 · 6:00 PM PST
 San Francisco, CA
 Degrees of Freedom will bring Embodied AI builders together for a hands-on evening of grippers, simulation, and robotics policies, with peers offering practical feedback and troubleshooting. Attendees will share their projects at the start and end of the session, whether they’re working with hardware or software.
-Nov 23
-Healthcare AI Founder Roundtable
-Mon, Nov 23 · 6:00 PM PST
-142 Minna St, San Francisco, CA 94105
-Founders, engineers, and operators building at the intersection of AI and healthcare will trade practical insights in an intimate, pitch-free roundtable. The conversation will be hosted by Parsa and Tyler, co-founders of BloomText.
 Nov 24
-Marvelous Talks #02: Special Guest
-Tue, Nov 24 · 5:00 PM PST
-Founders, Inc. | San Francisco Lab
-Marvelous Talks will bring a carefully curated group of ambitious founders, investors, and operators together for a candid conversation with a special guest to be revealed closer to the event. The gathering will feature thoughtful introductions and meaningful connections, with attendance limited and approval-based.
+HackwithBay 4.0
+Tue, Nov 24 · 9:30 AM PST
+AWS Builder Loft
+HackwithBay 4.0 will bring tech and creative talent together for an eight-hour hackathon focused on building innovative ideas. The event will take place at AWS Builder Loft.
 Nov 24
 Non-Slop Hackathon | Pangram x Kino x Capy x Paper
 Tue, Nov 24 · 5:00 PM PST
 San Francisco, CA
 Non-Slop is a one-day AI hackathon challenging participants to build something with meaning beyond a prompt and explain their creative choices. Teams can use tools including Pangram, Kino, Capy, and Paper, with $4,000 in cash prizes and judges spanning design, filmmaking, research, and creative technology.
 Nov 24
-Agentic Workflows Show &amp; Tell
-Tue, Nov 24 · 6:00 PM PST
-San Francisco, CA
-Attendees will share practical agentic workflows they’re using across coding, growth, sales, operations, research, and everyday life, showing reusable approaches, not just tools.
-Nov 24
-Agents: AI&#x27;s Killer App?
-Tue, Nov 24 · 6:00 PM PST
-O’Reilly’s Pub
-The session will explore how standout software, games, and utilities can drive mass platform adoption by delivering clear value to a broad audience.
+Marvelous Talks #02: Special Guest
+Tue, Nov 24 · 5:00 PM PST
+Founders, Inc. | San Francisco Lab
+Marvelous Talks will bring a carefully curated group of ambitious founders, investors, and operators together for a candid conversation with a special guest to be revealed closer to the event. The gathering will feature thoughtful introductions and meaningful connections, with attendance limited and approval-based.
 Nov 24
 Artificial Analysis: State of Open Weights
 Tue, Nov 24 · 6:00 PM PST
 San Francisco, CA
 Leaders from Arcee AI, Google DeepMind, NVIDIA, Reflection, and Thinking Machines will discuss the state of open-weight models, emerging trends, and the trade-offs behind greater control and customization. The Artificial Analysis team will bring its expertise to the conversation.
+Nov 24
+Agents: AI&#x27;s Killer App?
+Tue, Nov 24 · 6:00 PM PST
+O’Reilly’s Pub
+The session will explore how standout software, games, and utilities can drive mass platform adoption by delivering clear value to a broad audience.
 Nov 24
 Physical AI Hardware Founder Dinner
 Tue, Nov 24 · 6:30 PM PST
@@ -113,3 +105,28 @@ AI Tech &amp; Startup Night
 Wed, Nov 25 · 3:00 PM PST
 Liberties
 Nomad Global Hub will bring together builders, founders, and tech professionals for curated networking and high-impact startup pitches. Attendees will connect with experienced innovators and emerging ventures.
+Nov 25
+Wiki3: Own Your Own AI Workshop
+Wed, Nov 25 · 6:00 PM PST
+San Francisco, CA
+The free, hands-on Wiki3 AI Owners Group workshop will show attendees how to run AI models on their own computers. The session will focus on practical, self-hosted AI skills for participants curious about taking control of their AI tools.
+Nov 25
+The Bay Area Founder Room
+Wed, Nov 25 · 7:00 PM PST
+Studio 45
+Founders working across AI, jewelry, and watches will compare notes and tackle real business questions. Expect practical conversations aimed at uncovering a clear next step.
+Nov 25
+Startup Pitch &amp; Networking
+Wed, Nov 25 · 7:00 PM PST
+AI Start Academy
+Four to six selected founders will pitch with decks and receive candid feedback during Q&amp;A, alongside structured networking with angel investors, VC partners, venture scouts, and startup operators. The evening will connect early-stage and serial founders with experienced investors and industry professionals seeking promising teams.
+Nov 25
+Startup Tech &amp; AI Networking
+Wed, Nov 25 · 7:00 PM PST
+San Jose, CA
+Tech professionals will build valuable connections with investors, technology experts, and entrepreneurs, creating opportunities for collaboration and stronger industry relationships.
+Nov 28
+Physical AI Hack
+Sat, Nov 28 · 9:30 AM PST
+San Francisco, CA
+On November 28, robotics and AI engineers, researchers, and builders will team up with Google DeepMind to prototype Physical AI across perception, spatial reasoning, dexterity, autonomy, and human-machine interaction. The day will feature hands-on building with robotics and simulation tools, finalist demos, and judging by NVIDIA Gen AI Solutions Architect Vineeth Kalluru.

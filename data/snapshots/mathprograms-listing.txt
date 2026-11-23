@@ -54,6 +54,8 @@ Ross Mathematics Foundation, Ross Mathematics Program
 [ RP2 ] Mentor / Course Assistant at RP2 &nbsp; Apply
 Simons Laufer Mathematical Sciences Institute (formerly MSRI)
 [ PROOF ] PROOF 2027 (Promoting Research Opportunities and Open Forums) &nbsp; (deadline 2026/10/17 04:00AM) &nbsp; ez Apply
+Texas A&M University, Department of Mathematics
+[ PDESCHOOL27 ] Undergraduate Summer School on Modeling and Simulation with PDEs &nbsp; Apply
 University of California, Los Angeles, Department of Mathematics
 [ RMSA1 ] Rising Mathematics Scholars Award &nbsp; Apply
 University of California, Los Angeles, Institute for Pure and Applied Mathematics
@@ -70,5 +72,5 @@ Williams College, Mathematics and Statistics
 [ NTPROBABILITY ] Williams College SMALL REU 2027: Number Theory and Probability &nbsp; Apply
 [ POLYMATHREU2027 ] Polymath Jr-REU2027 &nbsp; Apply
 [ TROPICAL ] Williams College SMALL REU 2027: Tropical Geometry &nbsp; Apply
-(33 programs listed)
+(34 programs listed)
 &copy; 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.
