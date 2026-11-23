@@ -413,12 +413,12 @@ def run(args: argparse.Namespace) -> int:
         discovery_lines=discovery_lines, status_only=status_only,
         enriched=bodies, filters=filters, usage=judged.usage,
         pinned=judged.pinned, coverage_line=coverage_line,
+        # Inside the render, not appended after it, so they count toward the issue's
+        # body limit.
+        notes=discovery_notes,
     )
     title, body = digest.render(judgments, metrics, by_id, **render_args)
     _, full_body = digest.render(judgments, metrics, by_id, limit=None, **render_args)
-    for note in discovery_notes:
-        body += f"\n- ⚠ {note}"
-        full_body += f"\n- ⚠ {note}"
 
     # The exact bytes that would be posted. This is the artifact worth having most: it
     # is what a later `run.py render` has to reproduce byte-for-byte, and it is the

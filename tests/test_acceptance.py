@@ -3178,6 +3178,60 @@ class BodyLimitTests(_IsolatedState, unittest.TestCase):
         self.assertIn("■ OPPORTUNITIES (400)", full)
         self.assertEqual(full.count("| Firm "), 400, "every row, none withheld")
 
+    def _ruled_out(self, n: int, why: str):
+        return [
+            models.Judgment(
+                change=models.Change(source_id="s", kind="added",
+                                     key=f"Firm {i} / Analyst Intern", detail="x"),
+                relevant=False, outcome=models.MODEL, why=why,
+                ruled_out_by=digest.ELIGIBILITY)
+            for i in range(n)
+        ]
+
+    def _assert_delivers(self, body: str):
+        self.assertLessEqual(len(body), paths.MAX_ISSUE_BODY_CHARS,
+                             "the body must fit, or GitHub opens no issue at all")
+        self.assertIn("■ CALENDAR", body)
+        self.assertIn("■ HEALTH", body, "the health block is the blind-source alarm")
+
+    def test_a_digest_too_long_without_its_table_still_fits(self):
+        """2026-11-23: 301 changes, and the body was still too long with every table row
+        gone. `_fit` returned it whole, the issue 422'd, and the email and the state
+        commit never ran. The rule-outs are trimmed once the table cannot make room."""
+        judgments = self._judgments(5, "D" * 50) + self._ruled_out(500, "E" * 200)
+        _, body = digest.render(judgments, [], {})
+        self._assert_delivers(body)
+        self.assertIn("rule-outs did not fit GitHub's", body)
+        _, full = digest.render(judgments, [], {}, limit=None)
+        self.assertEqual(full.count("Analyst Intern"), 500, "the email keeps every one")
+
+    def test_a_digest_with_no_table_at_all_still_fits(self):
+        """The old guard needed a table to trim and gave up without one."""
+        _, body = digest.render(self._ruled_out(500, "F" * 200), [], {})
+        self._assert_delivers(body)
+        self.assertIn("rule-outs did not fit GitHub's", body)
+        self.assertNotIn("■ OPPORTUNITIES", body)
+
+    def test_the_weekly_notes_count_toward_the_limit(self):
+        """They used to be appended after the fit, so they could push a body that fitted
+        back over the limit."""
+        judgments = self._judgments(200, "G" * 200)
+        notes = [f"discovery: note {i} " + "H" * 200 for i in range(40)]
+        _, body = digest.render(judgments, [], {}, notes=notes)
+        self._assert_delivers(body)
+        self.assertIn(f"- ⚠ discovery: note 39 ", body, "every note survives the trim")
+        self.assertIn("rows did not fit GitHub's", body)
+
+    def test_the_last_resort_is_a_cut_that_says_so(self):
+        """Nothing trimmable is left and it still does not fit: cut at a line, and say
+        so, rather than open nothing."""
+        notes = [f"note {i} " + "J" * 500 for i in range(200)]
+        _, body = digest.render(self._judgments(3, "K"), [], {}, notes=notes)
+        self.assertLessEqual(len(body), paths.MAX_ISSUE_BODY_CHARS)
+        self.assertTrue(body.endswith("The emailed digest is complete._"))
+        self.assertIn("This issue was cut at GitHub's", body)
+        self.assertIn("■ HEALTH", body)
+
 
 class EmailTests(_IsolatedState, unittest.TestCase):
     """The full digest by email, alongside the issue rather than instead of it."""

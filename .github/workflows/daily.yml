@@ -95,6 +95,20 @@ jobs:
           DIGEST_EMAIL_TO: ${{ secrets.DIGEST_EMAIL_TO }}
         run: python run.py all
 
+      # The rendered digest of a failed run, which `.run/` would otherwise take away
+      # with the runner. 2026-11-23's 422 could only be diagnosed by re-running the
+      # morning to see which block had overflowed. The digest files only: the issue
+      # already publishes this content, and the fetched bodies are ~43MB.
+      - name: Keep the rendered digest of a failed run
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-${{ github.run_id }}
+          path: .run/digest*
+          include-hidden-files: true # `.run` is a dot-directory, excluded by default
+          if-no-files-found: ignore
+          retention-days: 7
+
       # The xlsx is rebuilt only when the CSVs actually changed. openpyxl output is not
       # byte-stable (zip timestamps), so rebuilding it unconditionally would put a
       # binary diff in every single commit and bury the line-level CSV history that is

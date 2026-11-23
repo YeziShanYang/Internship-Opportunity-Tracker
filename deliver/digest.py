@@ -383,6 +383,7 @@ def render(
     usage: models.Usage | None = None,
     pinned: list[models.PinnedRow] | None = None,
     coverage_line: str | None = None,
+    notes: list[str] | None = None,
     limit: int | None = paths.MAX_ISSUE_BODY_CHARS,
 ) -> tuple[str, str]:
     """Return (title, body).
@@ -390,6 +391,10 @@ def render(
     `limit` is the issue's body ceiling, and the default is what gets posted. The email
     passes None and gets every row: it has no 65,536-character ceiling, so the rows the
     issue withholds on a busy morning are exactly the ones it exists to carry.
+
+    `notes` are the weekly pass's warnings, printed as the last HEALTH lines. They are
+    rendered here rather than appended by the caller so that they count toward the
+    limit: appended after the fit, they could push a body that fitted back over it.
 
     `status_only` says there was no news -- it only picks the title. The body is the
     same shape every day: on a quiet day that is the calendar block and the health
@@ -441,6 +446,10 @@ def render(
     # here every morning until its posting comes down; one that moved today prints its
     # full cell, and a carried one prints compactly -- see `_pinned_row`. Stanford's own
     # programme pages join them on the morning they change; see `urgency.is_stanford`.
+    # The blocks `_fit` may shorten if the whole body will not fit, keyed by what it
+    # trims first. Each is built best-first, so trimming from the end is always safe.
+    blocks: dict[str, _Block] = {}
+
     moved = {j.change.change_id for j in judgments}
     first_years = [_judgment_row(j, ranked=False) for j in underclass]
     first_years += [_pinned_row(pin, today) for pin in (pinned or [])
@@ -454,6 +463,7 @@ def render(
         body.append("")
         body.append("| Company | Position | Notes |")
         body.append("|---|---|---|")
+        blocks[_FRESHMEN] = _Block(len(body), len(first_years))
         body += first_years
         body.append("")
 
@@ -461,17 +471,15 @@ def render(
     # cell of the grid put it there. Blind sources are not in it (2026-11-19): they are
     # SOURCE BLIND lines in HEALTH, and the table is only things to apply to.
     #
-    # Collected as a list rather than appended straight onto the body, because the table
-    # is the one block that can be trimmed if the whole digest will not fit. Built in
+    # The table is the first block trimmed if the whole digest will not fit. Built in
     # priority order, so trimming from the end always drops the least urgent row.
     table: list[str] = [_judgment_row(j) for j in postings]
-    table_index = None
     if table:
         body.append(f"## ■ OPPORTUNITIES ({len(table)})")
         body.append("")
         body.append("| Priority | Company | Position | Notes |")
         body.append("|---|---|---|---|")
-        table_index = len(body)
+        blocks[_TABLE] = _Block(len(body), len(table))
         body += table
         body.append("")
 
@@ -481,6 +489,7 @@ def render(
         body.append("_Pages that changed with no posting to apply to. Open the page to "
                     "see what moved._")
         body.append("")
+        blocks[_PAGE_CHANGES] = _Block(len(body), len(page_changes))
         for judgment in page_changes:
             company, position = _company_and_position(judgment)
             label = _cell(position).replace("[", "(").replace("]", ")")
@@ -495,6 +504,7 @@ def render(
         body.append("")
         # Value first: they are the arguable ones, and the reader who opens this block
         # is usually opening it to disagree with one.
+        blocks[_RULED_OUT] = _Block(len(body), len(ruled_out))
         for judgment in sorted(ruled_out, key=lambda j: j.ruled_out_by != VALUE):
             body.append(_ruled_out_line(judgment))
         body.append("")
@@ -503,6 +513,7 @@ def render(
 
     if discovery_lines:
         body.append("## ■ DISCOVERED")
+        blocks[_DISCOVERED] = _Block(len(body), len(discovery_lines))
         body += discovery_lines
         body.append("")
 
@@ -583,48 +594,107 @@ def render(
             f"- {len(ruled_out)} of {len(judgments)} changes were filtered out by the "
             "classifier (see RULED OUT above)."
         )
+    for note in notes or []:
+        body.append(f"- ⚠ {note}")
 
     if limit is None:
         return title, "\n".join(body)
-    return title, _fit(body, table, table_index, len(judgments), limit)
+    return title, _fit(body, blocks, limit)
+
+
+class _Block:
+    """A run of `size` lines starting at `start` in the body, which `_fit` may shorten."""
+
+    def __init__(self, start: int, size: int) -> None:
+        self.start, self.size = start, size
+
+
+_TABLE, _RULED_OUT, _PAGE_CHANGES, _DISCOVERED, _FRESHMEN = (
+    "table", "ruled_out", "page_changes", "discovered", "freshmen")
+
+# The order `_fit` trims in, and the note each trimmed block ends with. The table goes
+# first because it is the largest block and the one built for trimming from the end;
+# that was the only block trimmed before 2026-11-23, so the order leaves every digest
+# that used to fit, trimmed or not, byte-identical. The rest go only when the table
+# alone cannot make room, and the freshman block goes last because it is the most
+# valuable rows in the digest.
+_TRIM_ORDER = (_TABLE, _RULED_OUT, _PAGE_CHANGES, _DISCOVERED, _FRESHMEN)
+_TRIM_NOTES = {
+    _TABLE: "rows did not fit GitHub's {limit:,}-character issue body limit and were "
+            "withheld here, least urgent first. The emailed digest carries every row, "
+            "and so does this morning's state commit.",
+    _RULED_OUT: "rule-outs did not fit GitHub's {limit:,}-character issue body limit and "
+                "were withheld here, value rule-outs kept first. The emailed digest "
+                "carries every one.",
+    _PAGE_CHANGES: "page changes did not fit GitHub's {limit:,}-character issue body "
+                   "limit and were withheld here. The emailed digest carries every one.",
+    _DISCOVERED: "discovery lines did not fit GitHub's {limit:,}-character issue body "
+                 "limit and were withheld here. The emailed digest carries every one.",
+    _FRESHMEN: "rows did not fit GitHub's {limit:,}-character issue body limit and were "
+               "withheld here. The emailed digest carries every row.",
+}
 
 
 def _fit(
-    body: list[str], table: list[str], table_index: int | None, total: int,
+    body: list[str], blocks: dict[str, _Block],
     limit: int = paths.MAX_ISSUE_BODY_CHARS,
 ) -> str:
-    """Join the body, trimming the table if GitHub would refuse the whole thing.
+    """Join the body, trimming blocks until GitHub will accept it. Always fits.
 
-    A 422 for an over-long body opens no issue at all, so without this a busy morning
-    loses the entire digest rather than its overflow -- the calendar, the health block
-    and every urgent row with it. That is the failure this project cares about most:
-    silence is supposed to mean broken, and it did, but the reader has no way to know
-    which morning it was or what it would have said.
+    A 422 for an over-long body opens no issue at all. The email and the state commit
+    both run after the issue opens, so a busy morning loses them too. That is the
+    failure this project cares about most. Silence is supposed to mean broken, and it
+    did, but the reader has no way to know which morning it was or what it would have
+    said.
 
     Trimming is the last resort and not a strategy. The digest is short because the
-    screen and the classifier are selective; when it is still too long, the least urgent
-    rows go, the count says exactly how many, and the state commit has all of them. It
-    does nothing at all to a digest that already fits, so the byte-identical re-render
-    property is untouched on every normal day.
+    screen and the classifier are selective; when it is still too long, rows go from
+    the end of each block in `_TRIM_ORDER`, and each trimmed block says how many it
+    withheld. It does nothing at all to a digest that already fits, so the
+    byte-identical re-render property is untouched on every normal day.
+
+    Until 2026-11-23 only the table could be trimmed, and a body still too long without
+    it was returned whole so that delivery would fail loudly. On that day's 301 changes
+    it did, and the email and the state commit were lost with the issue. The final
+    fallback is now a cut at a line boundary, followed by a line saying the issue was
+    cut. The email still carries everything.
     """
     rendered = "\n".join(body)
-    if len(rendered) <= limit or table_index is None:
+    if len(rendered) <= limit:
         return rendered
 
-    head, tail = body[:table_index], body[table_index + len(table):]
-    # Recomputed inside the loop: the note's own length is part of what has to fit, and
-    # its digits change as rows come off.
-    for keep in range(len(table) - 1, -1, -1):
-        note = (
-            f"- _{len(table) - keep} of {len(table)} rows did not fit GitHub's "
-            f"{limit:,}-character issue body limit and were withheld here, least "
-            "urgent first. The emailed digest carries every row, and so does this "
-            "morning's state commit._"
-        )
-        candidate = "\n".join(head + table[:keep] + [""] + [note] + tail)
-        if len(candidate) <= limit:
-            return candidate
-    # Every row removed and it still does not fit, so the overflow is not the table.
-    # Return the un-trimmed body rather than a silently mangled one: the delivery will
-    # fail loudly, which is the correct outcome for a bug this is not equipped to fix.
-    return rendered
+    kept = {name: block.size for name, block in blocks.items()}
+
+    def assemble() -> str:
+        out: list[str] = []
+        cursor = 0
+        for name, block in sorted(blocks.items(), key=lambda item: item[1].start):
+            keep = kept[name]
+            out += body[cursor:block.start + keep]
+            if keep < block.size:
+                note = _TRIM_NOTES[name].format(limit=limit)
+                out += ["", f"- _{block.size - keep} of {block.size} {note}_"]
+            cursor = block.start + block.size
+        return "\n".join(out + body[cursor:])
+
+    for name in _TRIM_ORDER:
+        if name not in blocks:
+            continue
+        # Reassembled each time: the note's own length is part of what has to fit, and
+        # its digits change as rows come off.
+        for keep in range(blocks[name].size - 1, -1, -1):
+            kept[name] = keep
+            candidate = assemble()
+            if len(candidate) <= limit:
+                return candidate
+    return _cut(assemble(), limit)
+
+
+def _cut(text: str, limit: int) -> str:
+    """The last resort: whole lines up to the limit, then a line saying it was cut."""
+    notice = (f"- ⚠ _This issue was cut at GitHub's {limit:,}-character issue body limit "
+              "after every trimmable block was emptied. The emailed digest is complete._")
+    head = text[:limit - len(notice) - 1]
+    if "\n" in head:
+        head = head[:head.rindex("\n")]
+    return head + "\n" + notice
