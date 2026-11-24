@@ -78,6 +78,11 @@ ElleHacks
 JAN 29 - 31
 Toronto, Ontario, CA
 In-Person Diversity
+Vestal , NY
+HackBU
+JAN 30 - 31
+Vestal, NY, US
+In-Person
 Providence , RI
 Hack@Brown 2027
 FEB 05 - 07
@@ -122,11 +127,6 @@ Clemson , SC
 CUhackit
 FEB 20 - 21
 Clemson, SC, US
-In-Person
-Atlanta , GA
-Hacklytics 2027
-FEB 26 - 28
-Atlanta, GA, US
 In-Person
 24 upcoming and 24 past events shown
 Location data © OpenStreetMap contributors

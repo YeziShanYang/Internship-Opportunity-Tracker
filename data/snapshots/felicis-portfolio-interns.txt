@@ -29,7 +29,15 @@ Powered by Consider
 10-100 employees, 1-10 employees
 Internships only
 Clear filters
-26 jobs
+29 jobs
+#LI-DNI Exowatt Mechanical Engineering Spring Intern (Austin, TX)
+Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
+Similar jobs pay USD 40,000 - 85,000 / year
+Austin, TX Posted less than 1 day ago
+Energy, Renewables &amp; Environment
+Series A, 10–100 employees
+Renewable Energy Robotics Solar Energy Computational Fluid Dynamics Fusion Prototyping Infrastructure Quality Assurance Sketch App Thermal Analysis
+Apply
 #LI-DNI Atalanta Forward Deployed Engineer Intern
 Always confirm salary details from the job posting.
 Salary range USD 100,000 - 150,000 / year
@@ -37,13 +45,27 @@ Washington, District of Columbia, United States Posted <age>
 Engineering
 AI
 10–100 employees
-Clearance Open Source Software Research Artificial Intelligence Scalable Architecture Decision-Making
+Clearance Research Artificial Intelligence Decision-Making Scalable Architecture Open Source Software
+Apply
+#LI-DNI Exowatt Mechanical Engineering Spring Intern (Miami, FL)
+Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
+Similar jobs pay USD 40,000 - 85,000 / year
+Miami, FL Posted less than 1 day ago
+Energy, Renewables &amp; Environment
+Series A, 10–100 employees
+Renewable Energy Robotics Solar Energy Computational Fluid Dynamics Fusion Prototyping Infrastructure Quality Assurance Sketch App Thermal Analysis
+Apply
+#LI-DNI Exowatt Software &amp; AI Spring Intern (Austin, TX)
+Austin, TX Posted less than 1 day ago
+Energy, Renewables &amp; Environment
+Series A, 10–100 employees
+Renewable Energy Marketing Strategy Solar Energy Infrastructure Artificial Intelligence Frontend Web Development Microsoft Certified Professional Spring Human Resources Finance
 Apply
 #LI-DNI Exowatt Robotics &amp; Physical AI Spring Intern (Miami)
 Miami, FL Posted <age>
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-3D Printing Drones SLAM CAD Artificial Intelligence PCB design Path Planning Spring Computer Vision OpenCV
+Renewable Energy Robotics Solar Energy C/C++ Drones Python REST Infrastructure Path Planning SLAM
 Apply
 #LI-DNI Atalanta Software Engineer Intern
 Always confirm salary details from the job posting.
@@ -52,7 +74,7 @@ Washington, District of Columbia, United States Posted <age>
 Software Engineering
 AI
 10–100 employees
-Clearance Open Source Software Research Artificial Intelligence Scalable Architecture Decision-Making
+Clearance Research Artificial Intelligence Decision-Making Scalable Architecture Open Source Software
 Apply
 #LI-DNI Skild AI Founding Brand Design Intern
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -61,13 +83,7 @@ San Mateo, CA Posted <age>
 Marketing
 AI, Research
 Growth, 10–100 employees
-Graphic Design Blender Figma Adobe Creative Suite Brand Design Modeling Artificial Intelligence 3D Motion Graphics Rendering
-Apply
-#LI-DNI Exowatt Supply Chain &amp; Manufacturing Spring Intern - Manufacturing (Austin)
-Austin, TX Posted <age>
-Energy, Renewables &amp; Environment
-Series A, 10–100 employees
-SolidWorks Lean Manufacturing Machining Infrastructure CAD Industrial Engineering Standard operating procedure Artificial Intelligence Six Sigma Renewable Energy
+Typography Compositing Brand Design Blender After Effects Adobe Creative Suite Figma Motion Graphics Artificial Intelligence Graphic Design
 Apply
 #LI-DNI Exowatt Global Supply Manager MBA Spring Intern (Austin)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -75,7 +91,7 @@ Similar jobs pay USD 40,000 - 70,000 / year
 Austin, TX Posted <age>
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Contract Manufacturing Aerospace Infrastructure Artificial Intelligence Cost Reduction Strategic Sourcing Renewable Energy Supply Chain Management Spring Solar Energy
+Renewable Energy Aerospace Solar Energy Supply Chain Management Infrastructure Procurement Artificial Intelligence Contract Manufacturing Strategic Sourcing Spring
 Apply
 #LI-DNI Exowatt Buyer / Supply Chain &amp; Logistics Spring Intern (Austin)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -83,7 +99,13 @@ Similar jobs pay USD 40,000 - 75,000 / year
 Austin, TX Posted <age>
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Power Electronics Logistics Infrastructure Industrial Engineering Artificial Intelligence Follow through Renewable Energy Supply Chain Management Spring Solar Energy
+Renewable Energy Attention to Detail Solar Energy Supply Chain Management Infrastructure Power Electronics SAP Procurement Artificial Intelligence ERP
+Apply
+#LI-DNI Exowatt Supply Chain &amp; Manufacturing Spring Intern - Manufacturing (Austin)
+Austin, TX Posted <age>
+Energy, Renewables &amp; Environment
+Series A, 10–100 employees
+Renewable Energy GD&amp;T Solar Energy Supply Chain Management Lean Manufacturing CAD Infrastructure SolidWorks Artificial Intelligence Fusion
 Apply
 #LI-DNI Solcoa Industries Mechanical Engineering Intern
 Always confirm salary details from the job posting.
@@ -92,7 +114,7 @@ San Francisco Bay Area, California, United States Posted 30+ days ago
 Engineering
 Energy Transition
 1–10 employees
-3D Printing SolidWorks Data Center CAD Chemistry Follow through Fusion Quality Assurance Attention to Detail
+3D Printing Attention to Detail CAD SolidWorks Fusion Quality Assurance Follow through Data Center Chemistry
 Apply
 #LI-DNI Deep Infra Software Engineer Intern (US)
 Always confirm salary details from the job posting.
@@ -101,7 +123,7 @@ Palo Alto Posted 30+ days ago
 Engineering
 AI
 Seed, 10–100 employees
-Design Patterns Algorithms and Data Structures Machine Learning Git TensorFlow Version Control Systems Cross-functional Team Leadership Python Artificial Intelligence Pandas
+Machine Learning Pandas SciPy Artificial Intelligence PyTorch Design Patterns NumPy Version Control Systems Git Cross-functional Team Leadership
 Apply
 #LI-DNI Atalanta Software Understanding Researcher (PhD Internship)
 Always confirm salary details from the job posting.
@@ -110,14 +132,14 @@ Washington, District of Columbia, United States Posted 30+ days ago
 Internships
 AI
 10–100 employees
-Machine Learning Program Analysis Algorithms Inform Research Artificial Intelligence Reinforcement Learning Strategic Partnerships Formal Verification Decision-Making
+Algorithms Machine Learning Technical Communication Research Artificial Intelligence Program Analysis Formal Verification Reinforcement Learning Strategic Partnerships Decision-Making
 Apply
 #LI-DNI Periodic Labs Research Intern, Thin Films
 Menlo Park, California, United States Posted 30+ days ago
 Science
 AI, Research
 Seed, 10–100 employees
-Good Lab Practice Photolithography Photonics Nanofabrication Semiconductor Devices Research Sputtering Artificial Intelligence Characterization SEM
+Good Lab Practice Sensors Sputtering SEM Characterization Semiconductor Devices Research Optoelectronics Artificial Intelligence Process Flow Documentation
 Apply
 #LI-DNI Simular GTM Intern, Content &amp; Distribution
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -126,32 +148,7 @@ Remote Palo Alto, California, United States Posted 30+ days ago
 Go-to-Market
 AI
 Series A, 10–100 employees
-Newsletters Marketing Strategy Video Editing Organizing Artificial Intelligence Motion Graphics
-Apply
-#LI-DNI Deep Infra Software Engineer Intern (Europe)
-Remote Posted 30+ days ago
-Engineering
-AI
-Seed, 10–100 employees
-Design Patterns Algorithms and Data Structures Machine Learning Git TensorFlow Version Control Systems Cross-functional Team Leadership Python Artificial Intelligence Pandas
-Apply
-#LI-DNI Singularity Defense Mechanical Engineer - Co-op
-Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
-Similar jobs pay USD 40,000 - 85,000 / year
-Gardena, CA Posted 30+ days ago
-Mechanical
-Defense &amp; Space, Manufacturing
-Series A, 10–100 employees
-SolidWorks Aerospace PTC Creo CAD NX Prototyping
-Apply
-#LI-DNI Revel Internship: Forward Deployed Engineer, Software
-Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
-Similar jobs pay USD 40,000 - 65,000 / year
-Los Angeles, California, United States, San Francisco, California, United States Posted 30+ days ago
-Internship
-Hardware, Manufacturing
-Growth, 10–100 employees
-C/C++ Test Equipment Build Automation Software Aerospace Systems Engineering C Python Artificial Intelligence Industrial Automation Data Acquisition
+Marketing Strategy Video Editing Motion Graphics Artificial Intelligence Newsletters Organizing
 Apply
 Show more jobs Back to top
 Share these results

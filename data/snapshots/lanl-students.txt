@@ -147,6 +147,7 @@ ALDDP-OCCI/Office of Classification and Controlled Information
 ALDESHQ / Associate Laboratory Directorate Environment, Safety, Health, and Quality
 ALDESHQ-RSO/Repository Science and Operations
 ALDGS/Associate Laboratory Director for Global Security
+ALDPI/Functional Performance Monitoring
 ALDPI/LIP Decontamination &amp; Decommissioning
 ALDPI/LIP Late Install Division
 ALDPI/LIP-DD Decontamination &amp; Decommissioning
@@ -180,6 +181,7 @@ Applied Mathematics And Plasma Physics/T-5
 ASD/Advance Sources and Detectors
 ASD-TSPE/ASD Technical Support and Project Execution
 ASD-VVT/ASD V&amp;V Testing
+ASM Projects &amp; Initiatives (ASM-PI)
 Associate Laboratory Director for Facilities and Operations (ALDFO)
 Associate Laboratory Directorate for Environment, Safety, Health and Quality (ALDESHQ)
 Automation, Robotics &amp; Controls
@@ -353,6 +355,7 @@ ISR-6/Space Remote Sensing and Data Science
 ISR-7/ Space Systems Assurance and Implementation
 ISR-7/Space Systems Assurance &amp; Implementation
 ISR-7/Space Systems Assurance &amp; Implementation Group
+ISR-7/Space Systems Assurance and Implementation
 ISR-8/Space Nuclear Sensing
 ISR-DO/Intelligence &amp; Space Research
 ISR-DO/Intelligence and Space Research
@@ -464,6 +467,7 @@ NSEC-PSPO/Postdoc and Student Programs Office
 NUC &amp; PARTICLE PHYS, ASTROPHYS &amp; COSMOL/T-2
 Nuclear &amp; Radiochemistry
 Nuclear Criticality Safety (NCS)
+Nuclear Criticality Safety Division (NCS)
 Nuclear Engineering &amp; Nonproliferation: Safeguards Science and Techno (NEN-1)
 Nuclear Material Control and Accountability Group (NMCA)
 Nuclear Materials and TRU Waste Shipping (NPI-7)
@@ -791,6 +795,7 @@ ALDDP-OCCI/Office of Classification and Controlled Information
 ALDESHQ / Associate Laboratory Directorate Environment, Safety, Health, and Quality
 ALDESHQ-RSO/Repository Science and Operations
 ALDGS/Associate Laboratory Director for Global Security
+ALDPI/Functional Performance Monitoring
 ALDPI/LIP Decontamination &amp; Decommissioning
 ALDPI/LIP Late Install Division
 ALDPI/LIP-DD Decontamination &amp; Decommissioning
@@ -824,6 +829,7 @@ Applied Mathematics And Plasma Physics/T-5
 ASD/Advance Sources and Detectors
 ASD-TSPE/ASD Technical Support and Project Execution
 ASD-VVT/ASD V&amp;V Testing
+ASM Projects &amp; Initiatives (ASM-PI)
 Associate Laboratory Director for Facilities and Operations (ALDFO)
 Associate Laboratory Directorate for Environment, Safety, Health and Quality (ALDESHQ)
 Automation, Robotics &amp; Controls
@@ -997,6 +1003,7 @@ ISR-6/Space Remote Sensing and Data Science
 ISR-7/ Space Systems Assurance and Implementation
 ISR-7/Space Systems Assurance &amp; Implementation
 ISR-7/Space Systems Assurance &amp; Implementation Group
+ISR-7/Space Systems Assurance and Implementation
 ISR-8/Space Nuclear Sensing
 ISR-DO/Intelligence &amp; Space Research
 ISR-DO/Intelligence and Space Research
@@ -1108,6 +1115,7 @@ NSEC-PSPO/Postdoc and Student Programs Office
 NUC &amp; PARTICLE PHYS, ASTROPHYS &amp; COSMOL/T-2
 Nuclear &amp; Radiochemistry
 Nuclear Criticality Safety (NCS)
+Nuclear Criticality Safety Division (NCS)
 Nuclear Engineering &amp; Nonproliferation: Safeguards Science and Techno (NEN-1)
 Nuclear Material Control and Accountability Group (NMCA)
 Nuclear Materials and TRU Waste Shipping (NPI-7)

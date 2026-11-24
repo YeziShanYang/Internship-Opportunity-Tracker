@@ -16,11 +16,6 @@ Sign In
 Discover
 Featured Previous slide
 Next slide
-Nov 24
-HackwithBay 4.0
-Tue, Nov 24 · 9:30 AM PST
-AWS Builder Loft
-HackwithBay 4.0 will bring tech and creative talent together for an eight-hour hackathon focused on building innovative ideas. The event will take place at AWS Builder Loft.
 Nov 30
 re:Invent 2026 Watch Parties
 Mon, Nov 30 · 5:30 PM PST
@@ -31,39 +26,14 @@ How to train LLMs to beat frontier models
 Tue, Dec 1 · 6:00 PM PST
 AWS Builder Loft
 AWS experts will lead a hands-on workshop showing how to train a specialized model to outperform a frontier model on a narrow task. The session will unpack Phonely’s approach, then guide attendees through fine-tuning their own model.
-Nov 23
-Multiplayer AI Hackathon (Thanksgiving Special)
-Mon, Nov 23 · 9:30 AM PST LIVE
-AWS Builder Loft
-An upcoming AI-focused event will center on conversational AI, with AWS registration and Discord membership required. Attendees must be 18 or older and present a physical, government-issued photo ID.
-Nov 23
-Build Lean, Scale Global: India’s STEM Talent to Fundings from UAE &amp; Singapore (Multiplayer AI Special Session)
-Mon, Nov 23 · 3:30 PM PST
-AWS Builder Loft
-This founder-focused session will show AI startups how to build lean teams with vetted engineering talent, expand into international markets, and access funding and growth opportunities. It will also explore strategies for scaling beyond a hackathon demo, including regional market entry and government-backed startup programs.
-Nov 23
-Durable AI Meetup (November Edition)
-Mon, Nov 23 · 5:30 PM PST
-San Francisco, CA
-The upcoming Durable AI Meetup will feature Temporal and RocketRide.ai talks and demos on building reliable, production-scale AI agents, with technical discussions and networking. It will bring together AI, platform, infrastructure, backend, and product engineers working to make agents resilient, observable, and safe in production.
-Nov 23
-Founder Friendsgiving Dinner
-Mon, Nov 23 · 5:30 PM PST
-San Francisco, CA
-Founders’ Friendsgiving will bring 15 pre-seed and seed-stage B2B AI and SaaS founders together for dinner, candid stories about wins and hard lessons, and a creative activity. Hosted by Sprinto, an autonomous compliance platform helping growing businesses stay audit-ready with less operational overhead.
-Nov 23
-Agent Night Out: Making Agents Worth It in Production
-Mon, Nov 23 · 6:00 PM PST
-House of AI
-Agent Night Out will bring AI founders and builders together for conversations on long-running agents, while host StepFun shares Step 5 Preview, its latest open-weights model designed for complex, multi-step work.
-Nov 23
-Degrees of Freedom: Embodied AI Builders Night
-Mon, Nov 23 · 6:00 PM PST
-San Francisco, CA
-Degrees of Freedom will bring Embodied AI builders together for a hands-on evening of grippers, simulation, and robotics policies, with peers offering practical feedback and troubleshooting. Attendees will share their projects at the start and end of the session, whether they’re working with hardware or software.
 Nov 24
 HackwithBay 4.0
-Tue, Nov 24 · 9:30 AM PST
+Tue, Nov 24 · 9:30 AM PST LIVE
+AWS Builder Loft
+HackwithBay 4.0 will bring tech and creative talent together for an eight-hour hackathon focused on building innovative ideas. The event will take place at AWS Builder Loft.
+Nov 24
+HackwithBay 4.0
+Tue, Nov 24 · 9:30 AM PST LIVE
 AWS Builder Loft
 HackwithBay 4.0 will bring tech and creative talent together for an eight-hour hackathon focused on building innovative ideas. The event will take place at AWS Builder Loft.
 Nov 24
@@ -77,15 +47,20 @@ Tue, Nov 24 · 5:00 PM PST
 Founders, Inc. | San Francisco Lab
 Marvelous Talks will bring a carefully curated group of ambitious founders, investors, and operators together for a candid conversation with a special guest to be revealed closer to the event. The gathering will feature thoughtful introductions and meaningful connections, with attendance limited and approval-based.
 Nov 24
+Agents: AI&#x27;s Killer App?
+Tue, Nov 24 · 6:00 PM PST
+O’Reilly’s Pub
+The session will explore how standout software, games, and utilities can drive mass platform adoption by delivering clear value to a broad audience.
+Nov 24
 Artificial Analysis: State of Open Weights
 Tue, Nov 24 · 6:00 PM PST
 San Francisco, CA
 Leaders from Arcee AI, Google DeepMind, NVIDIA, Reflection, and Thinking Machines will discuss the state of open-weight models, emerging trends, and the trade-offs behind greater control and customization. The Artificial Analysis team will bring its expertise to the conversation.
 Nov 24
-Agents: AI&#x27;s Killer App?
+des workflows &amp; waffles
 Tue, Nov 24 · 6:00 PM PST
-O’Reilly’s Pub
-The session will explore how standout software, games, and utilities can drive mass platform adoption by delivering clear value to a broad audience.
+San Francisco, CA
+Designers will share screens and unpack a real recent project, from files, prompts, and tools to where AI helped or got in the way, in a casual, no-slides show-and-tell. The approval-based evening will be limited to about 35 attendees.
 Nov 24
 Physical AI Hardware Founder Dinner
 Tue, Nov 24 · 6:30 PM PST
@@ -125,8 +100,33 @@ Startup Tech &amp; AI Networking
 Wed, Nov 25 · 7:00 PM PST
 San Jose, CA
 Tech professionals will build valuable connections with investors, technology experts, and entrepreneurs, creating opportunities for collaboration and stronger industry relationships.
+Nov 26
+Friendsgiving! A Thanksgiving Night for Those Away from Home
+Thu, Nov 26 · 5:00 PM PST
+San Francisco, CA
+Imbue, the team behind Imbue Studio, a safe AI platform for building personal software with any model, no coding experience required, will host a lively Thanksgiving gathering for those spending the holiday in town. Guests will share food, traditions, heartfelt toasts, and games throughout an evening of feasting and after-dinner fun.
 Nov 28
 Physical AI Hack
 Sat, Nov 28 · 9:30 AM PST
 San Francisco, CA
 On November 28, robotics and AI engineers, researchers, and builders will team up with Google DeepMind to prototype Physical AI across perception, spatial reasoning, dexterity, autonomy, and human-machine interaction. The day will feature hands-on building with robotics and simulation tools, finalist demos, and judging by NVIDIA Gen AI Solutions Architect Vineeth Kalluru.
+Nov 28
+Weekly New Founders Meetup: Welcome to SF
+Sat, Nov 28 · 11:00 AM PST
+San Francisco, CA
+This Saturday meetup will bring together founders who are new to the city for relaxed conversation, practical tips, and new connections, without pitches or promotion. Host Dylan Zhang, founder and CEO of Pond AI, is a solo founder who raised a $7.5M seed round from 30+ angel investors and will keep the gathering small and nonprofit.
+Nov 29
+× MIT Hack Day: Peptides
+Sun, Nov 29 · 10:00 AM PST
+AGI House SF
+The second SF × MIT hack day will focus on building agents for peptide design, human-evidence research, and scientific evaluation, helping models predict which candidates may bind targets, remain stable, and be safe. It will be organized by Superradiant founders Micah Stubbs and Alejandro Zarzuelo Urdiales, alongside communities and teams with track records including 130+ hackathons and work on autonomous learning and scientific agents.
+Nov 29
+Sundae Robotics 12: What Scale Does Not Fix — Representation and Architecture in Robot Manipulation
+Sun, Nov 29 · 2:00 PM PST
+Founders
+Sundae Robotics 12 will explore world models, contact-rich manipulation, and robot foundation models, featuring Devol Robots Co-founder and CTO Elijah Yi Herng Ong on architectures designed to make physical interaction more reliable. His talk will present Interaction World Model and Devol-ONE, including reported 92% average success on contact-rich tasks with substantially fewer action parameters than leading baselines.
+Nov 30
+Richard Socher | Why AI is Key to Unlocking New Era of Scientific Discovery
+Mon, Nov 30 · 12:00 PM PST
+Gates Computer Science
+On November 30, 2026, Richard Socher, CEO of Recursive, will speak as part of the lab’s seminar series.

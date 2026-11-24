@@ -89,26 +89,26 @@ Who we&rsquo;re looking for : First-year students or sophomores pursuing a quant
 For more info:&nbsp; Analyst Early Experiences - AnalystEE@capitalone.com &nbsp;
 Check out the Students &amp; Grads event page to find info sessions on the programs and connect with the recruiting teams.
 ALL JOBS
-R999065
-Sr. Data Process Specialist
-R243593
-Manager, Data Scientist, Travel Intelligence, Hotels
-R236894
-Sr. Operations Representative
-R1005518
-Senior Associate Product Manager - Claims
-R1006399
-Senior Associate, Process Manager- Bankruptcy
-R1006357
-Full-stack Engineer 4
-R1006407
-Principal Associate, Data Science - GPN
-R1006338
-Cloud Engineer 4
-R1006091
-Associate, Recruiting Coordinator
-R1006271
-Full-stack Engineer 4 (Python, Vue, AWS)
+R248021
+Business Analysis Manager - Retail and Small Business Bank Orgs
+R243129
+Senior Software Engineer - Full Stack
+R1006455
+Director, Staff Engineer
+R1006314
+Director, Data Scientist - Predictive Analytics
+R1006447
+Director, Staff Engineer
+R1006497
+AI Engineer 5 (GenAI Platform Services)
+R1006473
+Senior Associate - Global Operations -HR Services
+R1006478
+Full Time Branch Ambassador - Bogalusa Area
+R1006481
+Data Engineer 5 (Senior Manager, IC)-Enterprise Data Tech
+R1006178
+Sr. Associate, Financial Analyst
 View all of our available opportunities
 Related Content
 Explore Capital One Internships

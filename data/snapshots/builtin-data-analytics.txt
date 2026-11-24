@@ -31,6 +31,19 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Data &amp; Analytics Jobs
+Takeda
+2027 Summer Internship Program: Digital Complaint System Developer
+<age> Saved
+Hybrid
+Lexington, MA, USA
+21-46 Hourly
+Internship
+21-46 Hourly
+Internship
+Healthtech &#x2022; Software &#x2022; Analytics &#x2022; Biotech &#x2022; Pharmaceutical &#x2022; Manufacturing
+Supports development of a medical device complaint investigation dashboard and centralized knowledge-base database. Responsibilities include cleaning and organizing historical complaint and laboratory testing data, identifying trends, creating visual reports, documenting data-quality issues, exploring GenAI tools, and preparing project demonstrations and handover documentation. The intern collaborates with engineers and complaint analysts in a regulated pharmaceutical environment and gains experience with data analytics, knowledge management, laboratory operations, and quality systems.
+Top Skills:
+Claude Copilot Excel Genai Power BI Python
 Gusto
 Gusto Insights Intern
 <age> Saved
@@ -81,6 +94,10 @@ Fintech &#x2022; Information Technology &#x2022; Financial Services
 This internship develops quantitative analytics and financial engineering solutions for BlackRock’s Aladdin platform. Responsibilities include building financial risk models, applying quantitative techniques to investment and client-business problems, developing Python-based solutions, delivering actionable analytics, and collaborating with investment and business teams. Interns gain experience in financial markets, investment products, quantitative research, technology, and the Aladdin platform.
 Top Skills:
 Aladdin Generative Ai Machine Learning Python
+New
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
+Use For Free
 Ahold Delhaize USA
 Demand Systems Analyst Intern
 <age> Saved
@@ -94,10 +111,6 @@ AdTech &#x2022; eCommerce &#x2022; Food &#x2022; Marketing Tech &#x2022; Retail
 Analyze machine-learning settings in the RELEX demand planning module, with emphasis on weather data for retail forecasting. Evaluate forecast performance, assess data integrity and workflows, and develop configuration recommendations for the superuser team. The intern will support demand planning systems, business process improvement, and data-driven decision-making while participating in mentoring, development, networking, and project presentation activities.
 Top Skills:
 Data Analytics Machine Learning Excel MS Office Microsoft Powerpoint Programming Relex
-New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
-Use For Free
 Spectrum
 2027 Summer Intern: Associate Billing Solutions Analyst (Customer Operations)
 <age> Saved
@@ -142,19 +155,6 @@ eCommerce &#x2022; Fashion &#x2022; Retail &#x2022; Sales &#x2022; Wearables &#x
 A 10-week hybrid internship offering tracks in cybersecurity, data analytics, product management, and digital experience. Interns may support threat detection, SIEM monitoring, data preparation, ETL, dashboards, product roadmaps, digital platforms, DevOps, CI/CD, and performance reporting while gaining hands-on experience with enterprise technologies.
 Top Skills:
 AWS Azure Ci/Cd Cis CSS Dns Encryption ETL Git Git HTML JavaScript Linux macOS Mitre Att&amp;Ck Nist Csf Plum Slice Power BI Python R Salesforce Commerce Cloud Salesforce Marketing Cloud Salesforce Service Cloud SIEM SQL Tableau Tcp/Ip Vpn Windows
-Citadel
-Quantitative Research Engineer - PhD Intern (US)
-<age> Saved
-In-Office
-4 Locations
-5K-5K Hourly
-Internship
-5K-5K Hourly
-Internship
-Information Technology &#x2022; Software &#x2022; Financial Services &#x2022; Big Data Analytics
-As a PhD intern, you will design and develop software solutions for automated trading systems, collaborating closely with the Quantitative Research team.
-Top Skills:
-C&#x2B;&#x2B; Python R
 1
 2
 3

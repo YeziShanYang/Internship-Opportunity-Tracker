@@ -95,7 +95,7 @@ Rutgers University
 Piscataway, NJ 08854-8018
 Phone: (848) 445-5928
 Fax: (732) 445-5932
-Web:&nbsp; http://dimacs.rutgers.edu
+Web:&nbsp; https://dimacs.rutgers.edu/
 Email:&nbsp; center-admin@dimacs.rutgers.edu
 Twitter
 LinkedIn
