@@ -18,6 +18,13 @@ Job Location (Descending)
 Overview (Ascending)
 Overview (Descending)
 Job Title
+Senior DeFi Trading Systems Engineer
+GTS is seeking a Senior DeFi Trading Systems Engineer to build and scale our quantitative trading capabilities across decentralized markets. We are looking for a highly capable, hands-on developer who combines strong software engineering expertise with a quantitative trading background and practical experience developing production DeFi trading systems.In this role, you will design, develop, and optimize high-performance trading applications supporting automated market making, pricing, liquidity provision, execution, and risk management. You will work...
+Job Location
+US-NY-New York
+Additional Locations
+UK-London
+Job Title
 Senior Institutional Options Platform Sales
 GTS Execution Services seeks a senior salesperson to grow institutional adoption of its electronic U.S. listed options execution platform. You&rsquo;ll own the client relationship from initial engagement through onboarding, live trading both electronic and high touch, and ongoing coverage. The role requires hands-on experience with all listed and FLEX options strategies, as well as the ability to explain electronic order lifecycle from OMS/EMS origination to GTS high or low-touch execution and downstream reporting.
 &nbsp;
@@ -44,19 +51,8 @@ This is a management-first role with hands-on technical oversight. You will lead
 Job Location
 US-NY-New York
 Job Title
-Data Center Engineer
-Our Information Technology team builds, maintains, and continuously improves the infrastructure supporting our trading and business operations. We value technical excellence, collaboration, continuous learning, and efficient service delivery.
-GTS is a collection of financial services companies spanning a wide array of asset classes and investment approaches, all powered by the combination of market expertise with innovative, proprietary technology. &nbsp;With roots as a quantitative trading firm continually building for the future, the GTS family of companies are able to leverage the...
-Job Location
-US-NY-New York
-Job Title
 Senior Block Options Trader
 GTS is seeking an experienced Block Options Trader to help build and grow a block-options trading capability within our Wholesale Market Making business. The role will provide liquidity and risk-transfer solutions to institutional, broker-dealer and wealth-management counterparties across single-name and ETF options.&nbsp; This is a risk-taking and franchise-building role, not simply an execution position. The trader will price, facilitate and execute large and complex transactions, commit capital where appropriate, manage the resulting volatility and directional risk, and help establish GTS as a trusted liquidity...
-Job Location
-US-NY-New York
-Job Title
-Senior DeFi Trading Systems Engineer
-GTS is seeking a Senior DeFi Trading Systems Engineer to help build and scale our decentralized finance trading infrastructure. In this role, you will work closely with quantitative traders, researchers, and engineers to design, develop, and optimize high-performance trading systems supporting automated market making, liquidity provision, and on-chain execution across decentralized exchanges and protocols. The ideal candidate combines deep C++ engineering expertise with hands-on institutional DeFi experience and a strong understanding of smart contracts, AMM mechanics, and blockchain execution. This is an opportunity to solve complex technical challenges at the intersection of quantitative...
 Job Location
 US-NY-New York
 Job Title

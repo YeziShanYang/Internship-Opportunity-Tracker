@@ -68,6 +68,7 @@ Denver
 India
 London
 Off-site
+Shanghai
 Singapore
 offices.
 Viewing 4 of
@@ -212,9 +213,6 @@ Legal &amp; Compliance
 New York
 Compliance Officer : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive and detail-oriented compliance professional to join its Legal & Compliance team. This role supports multiple aspects of the firm's&hellip;
 Legal &amp; Compliance
-New York
-Legal Analyst : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive, detail-oriented legal analyst to join its Legal & Compliance team. This individual will collaborate closely with attorneys, contributing&hellip;
-Legal &amp; Compliance
 London
 Legal Analyst and Contract Negotiator (London) : The D.&nbsp;E.&nbsp;Shaw group seeks a proactive, detail-oriented legal analyst and Contract Negotiator to join its Legal & Compliance team. This individual will collaborate closely with&hellip;
 Legal &amp; Compliance
@@ -331,6 +329,9 @@ Video and Voice Engineer : The D.&nbsp;E.&nbsp;Shaw group seeks a voice and vide
 Technology
 New York
 All Positions in Systems : Are you looking for new challenges and collaborative problem-solving opportunities at the firm, but finding that the perfect role for you might not be currently available? If you’d like&hellip;
+Trading
+Shanghai
+Junior Execution Trader (Shanghai) : The D.&nbsp;E.&nbsp;Shaw group seeks an execution trader to support the day-to-day trading of our Systematic Futures strategy. The trader will work closely with colleagues in Shanghai,&hellip;
 Various
 Off-site
 Chief Executive Officer, AI-Native Healthcare RCM Platform : The D.&nbsp;E.&nbsp;Shaw group seeks an accomplished and hands-on chief executive officer to lead Cove’s new AI-native healthcare revenue cycle management (RCM) platform. Cove, the firm’s&hellip;

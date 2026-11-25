@@ -154,6 +154,7 @@ ALDPI/LIP-DD Decontamination &amp; Decommissioning
 ALDPI/Strategic Planning
 ALDPI/The Line Item Project-Early Installs (LIP-EI)
 ALDPI/The Line-Item Projects - Early Installs (LIP-EI)
+ALDPS / Associate Laboratory Directorate for Physical Sciences
 ALDPS/Associate Laboratory Directorate for Physical Sciences
 ALDW-DAQ/Design Agency Quality
 ALDW-PIO-MISP/ALDW Program Integration - Mission Integration &amp; Special Projects
@@ -169,6 +170,7 @@ AOT-IC/Instrumentation and Controls
 AOT-IC/Operations and Techonology Instrumentation and Controls
 AOT-MDE - Mechanical Design Engineering
 AOT-MDE / Mechanical Design Engineering
+AOT-MDE/ Mechanical Design Engineering
 AOT-MDE/Mechanical Design Engineering
 AOT-OPS / Accelerator Operations
 AOT-OPS/Accelerator Operations
@@ -280,6 +282,7 @@ EES-DO/ Earth &amp; Environmental Sciences
 EES-DO/Earth &amp; Environmental Sciences
 EM-OPS/Emergency Operations
 EM-PREP/Emergency Management Preparedness
+EM-Resp/Emergency Management Response
 EM-RESP/Emergency Response
 Engineering (PFE-RCMR)
 Engineering Services - Fire Protection Engineering/ES-FPE
@@ -293,6 +296,7 @@ ES-FPS/Engineering Services - Fire Protection Systems
 ES-LFO/Engineering Services - LANSCE Facility Operations
 Essential Balance of Plant Group (PFE-EBP)
 ES-STO/Engineering Services - Science &amp; Technology Operations
+ES-UI / Facility System Engineering Util &amp; Infrastructure
 ES-UI/Engineering Services - Utilities &amp; Infrastructure
 ES-UPD/Engineering Services - Utilities &amp; Infrastructure Project Delivery
 ES-WFO/Engineering Services - Weapons Facilities Operations
@@ -538,6 +542,7 @@ PIE-CRO/ Construction Readiness Office
 PIE-DO/ Plutonium Infrastructure Engineering Division Office
 PIE-DO/Plutonium Infrastructure Engineering Division Office
 PIE-EPF1/Plutonium Infrastructure Engineering
+PIE-ETS/ Engineering Technical Support
 Pit Technologies Team
 Pit Technologies/PT-DO
 Plutonium Assembly &amp; Welding/PT-3
@@ -635,6 +640,7 @@ SIGMA-2/Finishing Manufacturing Science
 Sigma-2/Finishing Manufacturing Science Group
 Sigma-2/Finishing Manufacturing Sciences
 SIGMA-DO / SIGMA DIVISION
+SIGMA-DO/ SIGMA Division
 SIGMA-DO/SIGMA Division Office
 SIGMA-DO/Sigma Manufacturing Science Division
 SIGMA-DO/SIGMA-DIvision Office
@@ -694,6 +700,7 @@ Technical Training Center - Training Systems &amp; Standards (TTC-TSS)
 Technical Training Center (TTC-DO)
 The Dynamic Structure Design, Engineering, and Vessel Operations Group/ J-2
 The Technical Training Center (TTC) Training Systems and Standards Group
+TTC-TSS/ Training Systems &amp; Standards
 UI-EST/UI - Electric, Steam &amp; Turbine Operations
 UI-EST/UI - Electric, Steam and Turbine Operations
 UI-PATS/UI - Parking and Transportation Services
@@ -702,6 +709,7 @@ UI-RM/Utilities &amp; Infrastructure - Reinvestment and Modernization
 UI-TOS/UI - Traffic &amp; Open Space Operations
 UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
 UI-WGW/UI - Water, Gas and Waste Water Operations
+V-14 / Test Engineering
 V-14/Test Engineering
 V-21/Weapons Test Execution
 V-6 / Nondestructive Testing &amp; Evaluation
@@ -802,6 +810,7 @@ ALDPI/LIP-DD Decontamination &amp; Decommissioning
 ALDPI/Strategic Planning
 ALDPI/The Line Item Project-Early Installs (LIP-EI)
 ALDPI/The Line-Item Projects - Early Installs (LIP-EI)
+ALDPS / Associate Laboratory Directorate for Physical Sciences
 ALDPS/Associate Laboratory Directorate for Physical Sciences
 ALDW-DAQ/Design Agency Quality
 ALDW-PIO-MISP/ALDW Program Integration - Mission Integration &amp; Special Projects
@@ -817,6 +826,7 @@ AOT-IC/Instrumentation and Controls
 AOT-IC/Operations and Techonology Instrumentation and Controls
 AOT-MDE - Mechanical Design Engineering
 AOT-MDE / Mechanical Design Engineering
+AOT-MDE/ Mechanical Design Engineering
 AOT-MDE/Mechanical Design Engineering
 AOT-OPS / Accelerator Operations
 AOT-OPS/Accelerator Operations
@@ -928,6 +938,7 @@ EES-DO/ Earth &amp; Environmental Sciences
 EES-DO/Earth &amp; Environmental Sciences
 EM-OPS/Emergency Operations
 EM-PREP/Emergency Management Preparedness
+EM-Resp/Emergency Management Response
 EM-RESP/Emergency Response
 Engineering (PFE-RCMR)
 Engineering Services - Fire Protection Engineering/ES-FPE
@@ -941,6 +952,7 @@ ES-FPS/Engineering Services - Fire Protection Systems
 ES-LFO/Engineering Services - LANSCE Facility Operations
 Essential Balance of Plant Group (PFE-EBP)
 ES-STO/Engineering Services - Science &amp; Technology Operations
+ES-UI / Facility System Engineering Util &amp; Infrastructure
 ES-UI/Engineering Services - Utilities &amp; Infrastructure
 ES-UPD/Engineering Services - Utilities &amp; Infrastructure Project Delivery
 ES-WFO/Engineering Services - Weapons Facilities Operations
@@ -1186,6 +1198,7 @@ PIE-CRO/ Construction Readiness Office
 PIE-DO/ Plutonium Infrastructure Engineering Division Office
 PIE-DO/Plutonium Infrastructure Engineering Division Office
 PIE-EPF1/Plutonium Infrastructure Engineering
+PIE-ETS/ Engineering Technical Support
 Pit Technologies Team
 Pit Technologies/PT-DO
 Plutonium Assembly &amp; Welding/PT-3
@@ -1283,6 +1296,7 @@ SIGMA-2/Finishing Manufacturing Science
 Sigma-2/Finishing Manufacturing Science Group
 Sigma-2/Finishing Manufacturing Sciences
 SIGMA-DO / SIGMA DIVISION
+SIGMA-DO/ SIGMA Division
 SIGMA-DO/SIGMA Division Office
 SIGMA-DO/Sigma Manufacturing Science Division
 SIGMA-DO/SIGMA-DIvision Office
@@ -1342,6 +1356,7 @@ Technical Training Center - Training Systems &amp; Standards (TTC-TSS)
 Technical Training Center (TTC-DO)
 The Dynamic Structure Design, Engineering, and Vessel Operations Group/ J-2
 The Technical Training Center (TTC) Training Systems and Standards Group
+TTC-TSS/ Training Systems &amp; Standards
 UI-EST/UI - Electric, Steam &amp; Turbine Operations
 UI-EST/UI - Electric, Steam and Turbine Operations
 UI-PATS/UI - Parking and Transportation Services
@@ -1350,6 +1365,7 @@ UI-RM/Utilities &amp; Infrastructure - Reinvestment and Modernization
 UI-TOS/UI - Traffic &amp; Open Space Operations
 UI-TOS/Utilities &amp; Infrastructure Traffic &amp; Open Space Operations
 UI-WGW/UI - Water, Gas and Waste Water Operations
+V-14 / Test Engineering
 V-14/Test Engineering
 V-21/Weapons Test Execution
 V-6 / Nondestructive Testing &amp; Evaluation
@@ -1444,11 +1460,12 @@ Filter Jobs
 Join Our Talent Network
 Talent Network
 ×
-Showing 12 out of 33
+Showing 12 out of 34
 Job Title
 Job Number
 Organization
 City, State
+Student Design and Drafting Assistant IRC147225 ES-UI / Facility System Engineering Util &amp; Infrastructure Los Alamos, NM
 Undergraduate Student Internship IRC147160 MST-8 / Structure/Property Relations Los Alamos, NM
 RFID Undergraduate Student [Hardware Engineer, Software Engineer, Systems Analyst, Business Liaison] IRC147169 NEN-1 / Safeguards Science and Techno Los Alamos, NM
 PSS-4 Undergraduate Student-Computer Science IRC147090 PSS-4 / Factory Operations &amp; Industrial Engineering Los Alamos, NM
@@ -1460,9 +1477,8 @@ LANL LAESF Scholars Administrative Internship Program IRC147039 PAT / Production
 Professional (non-STEM) - Undergraduate Student Intern IRC146778 MSS-OOI / MSS- Office of Improvement Los Alamos, NM
 Undergrad Student ST 1 IRC146706 PSD-4 / Material Recovery and Recycle Los Alamos, NM
 Plasma Physics Undergraduate Students IRC146637 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
-Applied Mathematics Undergraduate Students IRC146635 T-5/ Applied Mathematics And Plasma Physics Los Alamos, NM
 Load more jobs Load more jobs
-Showing 12 out of 33
+Showing 12 out of 34
 Los Alamos National Laboratory
 P.O. Box 1663
 Los Alamos, NM 87545

@@ -6,7 +6,7 @@ a16z
 Software Is Eating the World
 X LinkedIn Substack
 © 2026 Andreessen Horowitz . All Portfolio Jobs Companies Disclosures
-708 companies. 18,325 jobs. It’s time to build.
+708 companies. 18,891 jobs. It’s time to build.
 All Portfolio Jobs Jobs by Company a16z Jobs
 Filter jobs by role and more
 Roles
@@ -21,7 +21,12 @@ Internships only Remote options All jobs
 Salary Any
 Posted <age>
 Country:us Seed Venture Clear filters
-47 jobs
+45 jobs
+Senra Systems
+Emerging Talent - Industrial Engineering Intern Summer 2027
+USD 30 (Pay range) · Cypress, California, United States · Posted <age>
+American Dynamism · Series B · 51–200 employees
+Apply Interested
 Exowatt
 Mechanical Engineering Spring Intern (Austin, TX)
 Austin, TX · Posted <age>
@@ -39,7 +44,7 @@ American Dynamism · Series A · 51–200 employees
 Apply Interested
 Senra Systems
 Emerging Talent - Manufacturing Engineering Intern Summer 2027
-USD 30 (Pay range) · Redondo Beach, California, United States · Posted <age>
+USD 30 (Pay range) · Cypress, California, United States · Posted <age>
 American Dynamism · Series B · 51–200 employees
 Apply Interested
 Exowatt
@@ -87,21 +92,6 @@ Test Engineering Intern
 $40 – $55 per hour · East Bay Area · Posted <age>
 American Dynamism · Seed · 51–200 employees
 Apply Interested
-Exowatt
-Global Supply Manager MBA Spring Intern (Austin)
-Austin, TX · Posted <age>
-American Dynamism · Series A · 51–200 employees
-Apply Interested
-Exowatt
-Buyer / Supply Chain &amp; Logistics Spring Intern (Austin)
-Austin, TX · Posted <age>
-American Dynamism · Series A · 51–200 employees
-Apply Interested
-Exowatt
-Supply Chain &amp; Manufacturing Spring Intern - Manufacturing (Austin)
-Austin, TX · Posted <age>
-American Dynamism · Series A · 51–200 employees
-Apply Interested
 Heron Power
 Intern, Firmware Engineering
 Scotts Valley, California, United States · Posted <age>
@@ -146,5 +136,15 @@ Amca
 Growth Internship (Summer 2027)
 USD 30–50 (Hourly Pay Range) · El Segundo, CA · Posted <age>
 American Dynamism · Series B · 201–500 employees
+Apply Interested
+Neighbor
+Data Science Internship (Current PhD) - Summer 2027
+Lehi, UT · Posted <age>
+Consumer · Series B · 51–200 employees
+Apply Interested
+Genesis Molecular AI
+Software Engineer Intern - 2027
+San Mateo, CA, New York, NY · Posted <age>
+Bio + Health, CLF · Series B · 51–200 employees
 Apply Interested
 Show more jobs

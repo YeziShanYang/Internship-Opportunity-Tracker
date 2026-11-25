@@ -6,6 +6,7 @@ MaticRobots
 NorthwoodSpace
 Serval
 Sierra
+Superhuman%20Platform%20Inc
 abundant
 afterquery
 allen-control-systems
@@ -85,7 +86,6 @@ qumulo
 realmalliance
 reflect-orbital
 replit
-revel
 rhoda-ai
 rilla
 rivianvw.tech
@@ -157,6 +157,8 @@ Sierra	Research Intern @ San Francisco, CA	Type=Intern; URL=https://jobs.ashbyhq
 Sierra	Software Engineer Intern, Agent (Summer 2027) @ San Francisco, CA	Type=Intern; URL=https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e
 Sierra	Software Engineer, Agent (New Grad 2027) @ San Francisco, CA	Type=FullTime; URL=https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00
 Sierra	Strategist, Agent Development (MBA Grad 2027) @ San Francisco, CA	Type=FullTime; URL=https://jobs.ashbyhq.com/Sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96
+Superhuman%20Platform%20Inc	Commercial Legal Intern (New York) @ Hub - New York	Type=Intern; URL=https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/27e71e6d-71a3-439d-8c1a-d918f6fb4917
+Superhuman%20Platform%20Inc	Product Legal Intern (San Francisco) @ Hub - San Francisco	Type=Intern; URL=https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/67f2ea53-e05d-4924-81b7-96c928d29c45
 abundant	Member of Technical Staff, Research (Intern) @ San Francisco	Type=FullTime; URL=https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996
 afterquery	AI/ML Research Intern @ San Francisco	Type=Intern; URL=https://jobs.ashbyhq.com/AfterQuery/00cd591f-6894-4259-83b6-36c999351dde
 afterquery	Software Engineering Intern @ San Francisco	Type=Intern; URL=https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b
@@ -169,12 +171,17 @@ antares	Electrical Engineering Intern - Summer 2027 @ Los Angeles	Type=Intern; U
 antares	Government Affairs Intern @ DC	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/0ba5a72f-35b5-451e-b05a-8f96c9d3101e
 antares	IT Helpdesk Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/c06333ba-ce06-43c2-be34-615a3582d5df
 antares	Multiphysics Software Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/922a527d-9826-446d-9aba-ffc611995830
-antares	Nuclear Engineering Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8
 antares	Nuclear Operations & Licensing Engineering Intern - Summer 2027 @ Idaho Falls	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/ec96a761-509f-44e9-90aa-e1fee5388aa1
 antares	Quality Engineering Intern - Summer 2027 @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/Antares/9335fe9a-a994-4209-bd97-9a6070f4e94f
 apex-technology-inc	Avionics Test Engineering Internship (Spring 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673
+apex-technology-inc	Flight Software Engineering Internship (Summer 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3
+apex-technology-inc	Ground Software Engineering Internship (Spring or Summer 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c
+apex-technology-inc	Mechanical Ground Systems Engineering Internship (Summer 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/e34724bd-0db2-4433-9352-7ad49d37e627
 apex-technology-inc	Mission Integration Engineer Internship (Spring or Summer 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/be3c0535-d2e8-4129-855d-c79b23c0c68e
+apex-technology-inc	Software Engineer, Test Automation Internship (Summer 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/2268adcb-a0f6-4e12-a206-8f99e048486d
 apex-technology-inc	Software Engineering Internship, Embedded Systems (Spring or Summer 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda
+apex-technology-inc	Software Engineering Internship, Test & Automation (Summer 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344
+apex-technology-inc	Software Engineering, Operating Systems Internship (Summer 2027) @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915
 applied	Build & Release Engineer - New Grad (2027) @ Sunnyvale	Type=FullTime; URL=https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352
 applied	Cybersecurity Software Engineer - New Grad (2027) @ Sunnyvale	Type=FullTime; URL=https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e
 applied	Embedded Software Engineer - New Grad (2027) @ Sunnyvale	Type=FullTime; URL=https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44
@@ -219,6 +226,7 @@ base-power	Member Experience (New Grad) @ Austin, TX	Type=FullTime; URL=https://
 base-power	Member Experience Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/bef96e47-d08d-4717-a2be-28975b367a89
 base-power	Organic Social Content Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/c52ee85f-368f-4fdf-ad6d-b44b5c4a9977
 base-power	Power Systems Engineering Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443
+base-power	Quantitative Developer Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e
 base-power	Sales Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/fe71e011-a23a-4651-8f8a-9c0fcb5f1f22
 base-power	Software Engineering Intern @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc
 base-power	Supply Chain Intern - Procurement @ Austin, TX	Type=Intern; URL=https://jobs.ashbyhq.com/base-power/61f6d0de-3a8e-4c53-90bc-eb5a9f890de9
@@ -402,7 +410,6 @@ reflect-orbital	Ground Software Engineering Intern @ Hawthorne, CA	Type=Intern; 
 reflect-orbital	IT Support Specialist Intern @ Hawthorne, CA	Type=Intern; URL=https://jobs.ashbyhq.com/reflect-orbital/8f4f8e74-b386-41b4-8154-7e5e50a34205
 reflect-orbital	Mission Operations Engineering Intern @ Hawthorne, CA	Type=Intern; URL=https://jobs.ashbyhq.com/reflect-orbital/7ec00657-344f-4a53-b1b2-b6623a8b95bc
 replit	Cohort 0 @ Foster City, CA	Type=Intern; URL=https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c
-revel	Internship: Forward Deployed Engineer, Software @ Los Angeles	Type=Intern; URL=https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc
 rhoda-ai	Optical Sensing Intern - Robot Perception @ Sunnyvale, CA	Type=Intern; URL=https://jobs.ashbyhq.com/rhoda-ai/df2aa2a4-ca56-4fa6-b106-89a7fc6a9bb4
 rhoda-ai	Research Intern @ Sunnyvale, CA	Type=FullTime; URL=https://jobs.ashbyhq.com/rhoda-ai/20056166-79de-420b-8569-d0b15ee83599
 rhoda-ai	Software Engineer Intern, Inference @ Sunnyvale, CA	Type=Intern; URL=https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4

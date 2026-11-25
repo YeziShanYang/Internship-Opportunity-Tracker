@@ -57,6 +57,8 @@ Simons Laufer Mathematical Sciences Institute (formerly MSRI)
 Texas A&M University, Department of Mathematics
 [ PDESCHOOL27 ] Undergraduate Summer School on Modeling and Simulation with PDEs &nbsp; Apply
 University of California, Los Angeles, Department of Mathematics
+[ DHBSRI ] David Harold Blackwell Summer Research Institute &nbsp; Apply
+[ REUCAM27 ] Applied and Computational Mathematics REU Program &nbsp; Apply
 [ RMSA1 ] Rising Mathematics Scholars Award &nbsp; Apply
 University of California, Los Angeles, Institute for Pure and Applied Mathematics
 [ RIPS2027 ] Research in Industrial Projects for Students (RIPS) &nbsp; Apply
@@ -72,5 +74,5 @@ Williams College, Mathematics and Statistics
 [ NTPROBABILITY ] Williams College SMALL REU 2027: Number Theory and Probability &nbsp; Apply
 [ POLYMATHREU2027 ] Polymath Jr-REU2027 &nbsp; Apply
 [ TROPICAL ] Williams College SMALL REU 2027: Tropical Geometry &nbsp; Apply
-(34 programs listed)
+(36 programs listed)
 &copy; 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.

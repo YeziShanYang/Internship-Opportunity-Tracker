@@ -40,19 +40,6 @@ Convening a diverse group of multidisciplinary innovators, experts and decision 
 The Stanford Regulation, Evaluation, and Governance Lab (RegLab) partners with government agencies and nonprofits to leverage AI and data science to modernize and revitalize the public sector. We are an interdisciplinary team of legal experts, data scientists, social scientists, and engineers who build and evaluate high-impact demonstration projects focused on some of society’s most urgent challenges.
 RegLab is hiring for a range of full-time and part-time positions. Please refer to the RegLab website for the most up-to-date information.
 Student Research Opportunities | Stanford HAI
-Stay Up To Date
-Get the latest news, advances in research, policy work, and education program updates from HAI in your inbox weekly.
-Sign Up For Latest News
-Navigate
-About
-Events
-AI Glossary
-Careers
-Search
-Participate
-Get Involved
-Support HAI
-Contact Us
 Skip to content
 About About
 About
@@ -89,3 +76,16 @@ News
 Events
 Industry
 Centers &amp; Labs
+Navigate
+About
+Events
+AI Glossary
+Careers
+Search
+Participate
+Get Involved
+Support HAI
+Contact Us
+Stay Up To Date
+Get the latest news, advances in research, policy work, and education program updates from HAI in your inbox weekly.
+Sign Up For Latest News

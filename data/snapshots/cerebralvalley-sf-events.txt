@@ -26,60 +26,21 @@ How to train LLMs to beat frontier models
 Tue, Dec 1 · 6:00 PM PST
 AWS Builder Loft
 AWS experts will lead a hands-on workshop showing how to train a specialized model to outperform a frontier model on a narrow task. The session will unpack Phonely’s approach, then guide attendees through fine-tuning their own model.
-Nov 24
-HackwithBay 4.0
-Tue, Nov 24 · 9:30 AM PST LIVE
-AWS Builder Loft
-HackwithBay 4.0 will bring tech and creative talent together for an eight-hour hackathon focused on building innovative ideas. The event will take place at AWS Builder Loft.
-Nov 24
-HackwithBay 4.0
-Tue, Nov 24 · 9:30 AM PST LIVE
-AWS Builder Loft
-HackwithBay 4.0 will bring tech and creative talent together for an eight-hour hackathon focused on building innovative ideas. The event will take place at AWS Builder Loft.
-Nov 24
-Non-Slop Hackathon | Pangram x Kino x Capy x Paper
-Tue, Nov 24 · 5:00 PM PST
+Dec 5
+Hackallax: Presented by Parallax &amp; Anthropic
+Sat, Dec 5 · 9:00 AM PST
 San Francisco, CA
-Non-Slop is a one-day AI hackathon challenging participants to build something with meaning beyond a prompt and explain their creative choices. Teams can use tools including Pangram, Kino, Capy, and Paper, with $4,000 in cash prizes and judges spanning design, filmmaking, research, and creative technology.
-Nov 24
-Marvelous Talks #02: Special Guest
-Tue, Nov 24 · 5:00 PM PST
-Founders, Inc. | San Francisco Lab
-Marvelous Talks will bring a carefully curated group of ambitious founders, investors, and operators together for a candid conversation with a special guest to be revealed closer to the event. The gathering will feature thoughtful introductions and meaningful connections, with attendance limited and approval-based.
-Nov 24
-Agents: AI&#x27;s Killer App?
-Tue, Nov 24 · 6:00 PM PST
-O’Reilly’s Pub
-The session will explore how standout software, games, and utilities can drive mass platform adoption by delivering clear value to a broad audience.
-Nov 24
-Artificial Analysis: State of Open Weights
-Tue, Nov 24 · 6:00 PM PST
-San Francisco, CA
-Leaders from Arcee AI, Google DeepMind, NVIDIA, Reflection, and Thinking Machines will discuss the state of open-weight models, emerging trends, and the trade-offs behind greater control and customization. The Artificial Analysis team will bring its expertise to the conversation.
-Nov 24
-des workflows &amp; waffles
-Tue, Nov 24 · 6:00 PM PST
-San Francisco, CA
-Designers will share screens and unpack a real recent project, from files, prompts, and tools to where AI helped or got in the way, in a casual, no-slides show-and-tell. The approval-based evening will be limited to about 35 attendees.
-Nov 24
-Physical AI Hardware Founder Dinner
-Tue, Nov 24 · 6:30 PM PST
-San Francisco, CA
-A curated, 30-person dinner will bring hardware and climate founders, engineers, investors, and builders at every company stage together for three courses, focused discussion, and an asks-and-offers session. Co-host Rho, a business banking platform purpose-built for startups, will support the evening.
-Nov 24
-ML Suds &amp; Science: Who&#x27;s Running the Lab?
-Tue, Nov 24 · 7:00 PM PST
-San Francisco, CA
-ML Suds &amp; Science will spotlight researchers advancing AI-driven labs, from quantum experiment agents and self-driving chemistry systems to aerospace, physics, and model safety. Lightning talks and informal discussion will bring together builders shaping autonomous research workflows, with the event backed by Pebblebed, an early-stage VC founded by leaders with experience at OpenAI, Stripe, Facebook AI Research, Slack, and Sequoia.
-Nov 25
-Why LPs Are Going Direct — and What It Means for Your Fund
-Wed, Nov 25 · 8:00 AM PST
-Online Event
+Parallax and Anthropic will host a hands-on hardware-building weekend, where teams will use industrial tools like CNC cutters, 3D printers, and laser welders to build an air-powered motor or create a freestyle project. The event will feature live testing, demonstrations, a fireside chat, and prizes including 3D printers and Claude API credits, with support from Founders Fund, Lux Capital, Diffusion, and Eclipse.
 Nov 25
 AI Tech &amp; Startup Night
 Wed, Nov 25 · 3:00 PM PST
 Liberties
 Nomad Global Hub will bring together builders, founders, and tech professionals for curated networking and high-impact startup pitches. Attendees will connect with experienced innovators and emerging ventures.
+Nov 25
+AI Owners Club at Hacker Dojo
+Wed, Nov 25 · 6:00 PM PST
+San Jose, CA
+The AI Owners Club will explore using Agent Zero for local AI bookkeeping, alongside tools such as Unsloth Desktop and OpenRouter. The discussion will cover local-first agentic systems and practical applications including deep research, website building, data imports, and home automation.
 Nov 25
 Wiki3: Own Your Own AI Workshop
 Wed, Nov 25 · 6:00 PM PST
@@ -91,20 +52,25 @@ Wed, Nov 25 · 7:00 PM PST
 Studio 45
 Founders working across AI, jewelry, and watches will compare notes and tackle real business questions. Expect practical conversations aimed at uncovering a clear next step.
 Nov 25
-Startup Pitch &amp; Networking
-Wed, Nov 25 · 7:00 PM PST
-AI Start Academy
-Four to six selected founders will pitch with decks and receive candid feedback during Q&amp;A, alongside structured networking with angel investors, VC partners, venture scouts, and startup operators. The evening will connect early-stage and serial founders with experienced investors and industry professionals seeking promising teams.
-Nov 25
 Startup Tech &amp; AI Networking
 Wed, Nov 25 · 7:00 PM PST
 San Jose, CA
 Tech professionals will build valuable connections with investors, technology experts, and entrepreneurs, creating opportunities for collaboration and stronger industry relationships.
+Nov 25
+Startup Pitch &amp; Networking
+Wed, Nov 25 · 7:00 PM PST
+AI Start Academy
+Four to six selected founders will pitch with decks and receive candid feedback during Q&amp;A, alongside structured networking with angel investors, VC partners, venture scouts, and startup operators. The evening will connect early-stage and serial founders with experienced investors and industry professionals seeking promising teams.
 Nov 26
 Friendsgiving! A Thanksgiving Night for Those Away from Home
 Thu, Nov 26 · 5:00 PM PST
 San Francisco, CA
 Imbue, the team behind Imbue Studio, a safe AI platform for building personal software with any model, no coding experience required, will host a lively Thanksgiving gathering for those spending the holiday in town. Guests will share food, traditions, heartfelt toasts, and games throughout an evening of feasting and after-dinner fun.
+Nov 27
+Build Tools for Good: An Afternoon of Giving Back
+Fri, Nov 27 · 12:30 PM PST
+San Francisco, CA
+This Thanksgiving, Imbue will bring people of all backgrounds together to turn their skills into practical, openly shared tools for nonprofits, communities, and people who could use a helping hand, no coding experience required. Attendees will explore real needs, collaborate in teams, get hands-on with Imbue Studio, and share what they build.
 Nov 28
 Physical AI Hack
 Sat, Nov 28 · 9:30 AM PST
@@ -115,6 +81,11 @@ Weekly New Founders Meetup: Welcome to SF
 Sat, Nov 28 · 11:00 AM PST
 San Francisco, CA
 This Saturday meetup will bring together founders who are new to the city for relaxed conversation, practical tips, and new connections, without pitches or promotion. Host Dylan Zhang, founder and CEO of Pond AI, is a solo founder who raised a $7.5M seed round from 30+ angel investors and will keep the gathering small and nonprofit.
+Nov 28
+Breaking Models AI Security
+Sat, Nov 28 · 2:30 PM PST
+San Jose, CA
+This AI security meetup will unpack OWASP LLM06 Unbounded Consumption through live demos of LLMjacking, CPU-freezing regex, and prompts that drive excessive model usage. Attendees will see why simple size limits fall short and explore practical lessons for securing AI applications.
 Nov 29
 × MIT Hack Day: Peptides
 Sun, Nov 29 · 10:00 AM PST
@@ -130,3 +101,33 @@ Richard Socher | Why AI is Key to Unlocking New Era of Scientific Discovery
 Mon, Nov 30 · 12:00 PM PST
 Gates Computer Science
 On November 30, 2026, Richard Socher, CEO of Recursive, will speak as part of the lab’s seminar series.
+Nov 30
+Deep Tech Founders&#x27; Social | MFV Partners x Rho
+Mon, Nov 30 · 5:30 PM PST
+San Francisco, CA
+MFV Partners will bring deep tech founders together for an evening of food, drinks, and conversation, with Rho supporting as an ecosystem partner. The gathering will create space for founders to connect and share perspectives.
+Nov 30
+re:Invent 2026 Watch Parties
+Mon, Nov 30 · 5:30 PM PST
+AWS Builder Loft
+The AWS Builder Loft will host a livestream of the re:Invent 2026 Developer Keynote, featuring the latest announcements and tools for builders. Attendees will get a front-row look at what’s next for the developer community.
+Nov 30
+Year-End AI Automation Sprint &amp; Founder Lounge
+Mon, Nov 30 · 5:30 PM PST
+Alloy Collective
+Attendees will build and test a practical AI-assisted workflow for 2027 using safe sample data, then wrap up the year with relaxed conversation among founders.
+Nov 30
+CapCut x ElevenLabs - Chroma Awards - San Francisco Creator Meetup
+Mon, Nov 30 · 6:00 PM PST
+San Francisco, CA
+The Chroma Awards Season 2 gathering will bring together filmmakers, animators, musicians, game creators, entrants, finalists, judges, and AI creative technologists for a CapCut demo and screening, Q&amp;A, and networking. Attendees will connect with the creative teams behind the season and explore generative video, audio, and 3D tools.
+Nov 30
+The Future of You: Rethinking Your Value in the Age of AI
+Mon, Nov 30 · 6:00 PM PST
+San Francisco, CA
+Light Dao’s salon will bring conscious entrepreneurs and investors into conversation about how AI will reshape work, human value, and new opportunities for contribution. Managing Partner of Daymaker Ventures Tonya Long, whose 25-year career spans corporate leadership, enterprise technology, and entrepreneurship, including 400+ products brought to market and 20+ M&amp;A transactions, will discuss the future of work with Light Dao co-founder Ruby Yeh.
+Nov 30
+art x robotics salon
+Mon, Nov 30 · 6:30 PM PST
+San Francisco, CA
+Artists, designers, and builders working in human-robot interaction will explore how robots should look, feel, and connect with people, with projects, prototypes, and perspectives in the mix. The BCI company will sponsor the evening.
