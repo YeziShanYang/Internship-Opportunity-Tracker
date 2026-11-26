@@ -89,10 +89,18 @@ Who we&rsquo;re looking for : First-year students or sophomores pursuing a quant
 For more info:&nbsp; Analyst Early Experiences - AnalystEE@capitalone.com &nbsp;
 Check out the Students &amp; Grads event page to find info sessions on the programs and connect with the recruiting teams.
 ALL JOBS
-R248901
-Business Manager
+R1004323
+Director - Software Engineering
+R1004322
+Director - AI Engineering
+R249841
+Senior Associate - Direct Marketing (Partnerships) Hybrid
 R245641
 Senior Sales Development Representative (SDR) - Plano, TX
+R243129
+Senior Software Engineer - Full Stack
+R1006553
+Manager, Project Management - Commercial Bank
 R1006482
 Full Time Branch Ambassador - Oakton
 R1006487
@@ -101,14 +109,6 @@ R1006516
 Full-stack Engineer 5 (IC)
 R1006264
 Senior Manager, Product Management- Real Time Builds
-R1005057
-Manager, Associate Services
-R1006542
-Full-stack Engineer 4
-R1006154
-Senior Manager, Product Manager - Fraud Decisioning
-R1005707
-Full-stack Engineer 4 (Bank Tech)
 View all of our available opportunities
 Related Content
 Explore Capital One Internships

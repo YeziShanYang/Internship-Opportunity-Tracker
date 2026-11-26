@@ -31,6 +31,32 @@ Save Job Alert
 Save Alert
 Maximum of 25 job preferences reached.
 Top Internship Software Engineer Jobs
+T-Mobile
+Summer 2027 Software Engineering Intern
+<age> Saved
+In-Office
+Overland Park, KS, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+Build and test web applications using modern software technologies and frameworks. Collaborate with senior developers, enhance existing systems, develop new features, apply user-centered design, participate in Agile processes, create user stories, estimate work, and learn emerging engineering practices while supporting T-Mobile’s legal response capabilities.
+Top Skills:
+Angularjs Docker Java Kubernetes Oracle Postgres Spring Boot
+T-Mobile
+Summer 2027 Software Engineer Internship
+<age> Saved
+In-Office
+Overland Park, KS, USA
+27-50 Hourly
+Internship
+27-50 Hourly
+Internship
+Other &#x2022; Utilities
+Supports modernization of T-Mobile’s sales compensation platform by migrating from Varicent to an AWS-based solution. Responsibilities include software development, data integration, ETL, testing, validation, reconciliation, troubleshooting, Agile collaboration, automation, and improving platform scalability and reliability. The internship provides hands-on engineering experience through an 11-week paid learning program.
+Top Skills:
+AWS ETL Java Python Relational Databases SQL Varicent
 The Options Clearing Corporation (OCC)
 Year-Round Intern - ServiceNow
 <age> Saved
@@ -44,32 +70,6 @@ Big Data &#x2022; Cloud &#x2022; Fintech &#x2022; Information Technology &#x2022
 Year-round ServiceNow intern supporting platform administration, modernization, automation, reporting, QA testing, documentation, catalog health, knowledge-base cleanup, and CMDB data quality. Projects may include migrating dashboards to Platform Analytics, creating ATF tests, building Flow Designer automations, documenting test cases, and improving workflows. Applicants must be enrolled students graduating in December 2027 or May/August 2028, with interest in information systems, computer science, analytics, business, writing, or communications.
 Top Skills:
 APIs Cmdb CSS Excel Flow Designer HTML Itil Itsm JavaScript Platform Analytics Power Platform Salesforce Servicenow Servicenow Automated Test Framework (Atf) SQL
-T-Mobile
-Summer 2027 Software Engineering Internship
-<age> Saved
-In-Office
-Bellevue, WA, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Participate in an 11-week software engineering internship building and testing features for T-Mobile’s Argos observability platform. Projects may span front-end, back-end, data, automation, APIs, dashboards, and integrations. Interns will use AI tools, work with operational data from Splunk and OpenTelemetry, collaborate in an Agile team, contribute to documentation and code reviews, and present their final project and findings.
-Top Skills:
-AWS Databases Docker Git Git Gitlab Go Java JavaScript Kubernetes Opentelemetry Python Rest Apis Servicenow Splunk SQL Typescript
-T-Mobile
-Summer 2027 Software Engineering Internship
-<age> Saved
-In-Office
-Bellevue, WA, USA
-27-50 Hourly
-Internship
-27-50 Hourly
-Internship
-Other &#x2022; Utilities
-Paid 11-week software engineering internship on T-Mobile’s Argos observability platform. Interns design, build, test, and document dashboards, APIs, data integrations, and automation using operational data from Splunk and OpenTelemetry. Responsibilities include Agile collaboration, AI-assisted development, code reviews, sprint activities, problem-solving, and presenting project results. Work may span front-end, back-end, data, or automation engineering.
-Top Skills:
-Ai Tools AWS Databases Docker Git Git Gitlab Go Java JavaScript Kubernetes Opentelemetry Python Rest Apis Servicenow Splunk SQL Typescript
 BAE Systems, Inc.
 Software Developer Intern III, Summer 2027
 <age> Saved
@@ -97,8 +97,8 @@ Summer software engineering interns will design, implement, test, and debug soft
 Top Skills:
 Agile/Scrum C C&#x2B;&#x2B; Cloud Platforms Databases Distributed Systems Embedded Systems Git Java JavaScript Microcontrollers Mobile Application Frameworks Networking Python PyTorch Real-Time Operating Systems TensorFlow Web Frameworks
 New
-Track Smarter, Apply Better.
-Ditch the spreadsheets. Organize your job search with our free Application Tracker.
+Cut your apply time in half.
+Use our AI Assistant to automatically fill your job applications.
 Use For Free
 Benchling
 Software Engineer, Intern (Summer 2027)
@@ -181,7 +181,7 @@ APIs Generative Ai JavaScript JSON Linux macOS Python Rf Time-Series Databases T
 5
 ...
 ...
-80
+82
 Let Your Resume Do The Work
 Upload your resume to be matched with jobs you're a great fit for.
 All Filters

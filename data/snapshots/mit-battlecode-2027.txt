@@ -1,55 +1,78 @@
-Battlecode | Battlecode is a real-time strategy game, for which you will write an autonomous player. Your AI player will need to strategically manage a robot army and control how your robots work together to defeat the enemy team. As a contestant, you will learn to use artificial intelligence, pathfinding, distributed algorithms, and communications to make your player as competitive as possible.
+Battlecode | MIT Battlecode
 Home
 About
-Schedule
+Schedule & FAQ
+Sponsors
 Past Years
 Team
-Enter 2026
-MIT's Premier Programming Competition
-Battlecode 2026 ended on January 31st, 2026!
-Register Now!
-What is Battlecode?
-In Battlecode, two teams of virtual robots roam the screen, managing resources and executing different offensive strategies against each other. Plan, code, and compete throughout the month of January for a chance at more than $20,000 in prizes!
-Join our Mailing List
+Register
+BATTLECODE
+2027
+REGISTER
+JOIN DISCORD
+About Us
+Be the commander of your very own robot army!
+In Battlecode, your team of virtual robots will roam the screen, manage resources, and execute different offensive strategies against other teams. We were founded in 2001 and are MIT's longest running programming competition!
+Plan, code, and compete throughout the month of January for a chance at more than $40,000 in prizes!
+Learn more about Battlecode →
+Schedule &amp; FAQ
+Schedule
+DECEMBER 1
+Registration opens
+Sign up to participate in Battlecode 2027!
+JANUARY 4
+Competition begins
+The competition officially kicks off. Start building and competing!
+JANUARY 31
+Final tournament
+The top teams compete in the final tournament, culminating in the championship finals on January 31.
+FAQ
+Select a question to learn more.
+01
+Who can participate?
+↗
+02
+What languages are supported?
+↗
+03
+Wait, AI as in machine learning?
+↗
+04
+Do I have to be good at programming?
+↗
+05
+What is the tournament format?
+↗
+06
+What is considered a ‘transition phase’?
+↗
+More information →
 Who can participate?
 Anyone is welcome to participate in Battlecode! Any team is eligible to participate in the Sprint Tournaments for prize money. However, only student teams (including non-MIT student teams) are eligible for the remaining tournaments and prize money.
-Full Eligibility Rules
-Want to sponsor Battlecode 2027?
-Contact us at battlecode-sponsorship@mit.edu for more information! We offer multiple sponsorship tiers which can include tech talks, final tournament booths, and more.
-Email Us
-Sponsors will be updated soon! Battlecode 2026 sponsors are listed below.
+BATTLECODE · FREQUENTLY ASKED QUESTIONS
+Thank you to our
+Sponsors
 Platinum Sponsor
-Amplitude
-&nbsp;
-Gold Sponsors
-Hudson River Trading
-&nbsp;
-Jump Trading
-&nbsp;
-Samsara
-&nbsp;
-Silver Sponsors
-Jane Street
-&nbsp;
-Spark
-&nbsp;
-Bronze Sponsors
-The D. E. Shaw Group
-&nbsp;
-Citadel
-&nbsp;
-Other Sponsors
-Wilkens Family
-&nbsp;
-Site Links
-Home
+Silver Sponsor
+Gold Sponsor
+Silver Sponsor
+Platinum Sponsor
+Silver Sponsor
+Silver Sponsor
+Spotter AI
+MIT's premier programming competition. Write a bot, command a robot army, and compete every January.
+Explore
 About
-Schedule
-Team
-Mailing List
-Sign up here
-Contact
-Email
+Schedule &amp; FAQ
+Sponsors
+Past years
+Community
+Register
 Facebook
 Instagram
 Discord
+Contact
+battlecode@mit.edu
+Questions about eligibility or the competition? Email us!
+&copy; 2026 MIT Battlecode
+Back to top &uarr;

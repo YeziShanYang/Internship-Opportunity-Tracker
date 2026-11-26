@@ -26,6 +26,7 @@ American Mathematical Society, AMS Prizes and Awards
 [ THESISALGEBRA27 ] George Lusztig Thesis Prize in Algebra &nbsp; (deadline 2026/07/31 11:59PM * )
 American Mathematical Society, Programs and Travel Grants
 [ AYSP27 ] AMS Young Scholars Program &nbsp; Apply
+[ CHINA27 ] AMS China Exchange Program: Ky and Yu-Fen Fan Fund Travel Grants &nbsp; Apply
 Association for Women in Mathematics
 [ ESSAY27 ] 2027 AWM/MfA Essay Contest &nbsp; Apply
 Baruch College (CUNY), Mathematics
@@ -64,6 +65,8 @@ University of California, Los Angeles, Institute for Pure and Applied Mathematic
 [ RIPS2027 ] Research in Industrial Projects for Students (RIPS) &nbsp; Apply
 University of Chicago, Math/PSD
 [ REU ] University of Chicago Mathematics REU &nbsp; Apply
+University of Michigan, Mathematics
+[ UMREU ] 2027 Mathematics REU Program - University of Michigan &nbsp; ez Apply
 University of Southern California, Mathematics
 [ MSRP ] USC RTG Mathematics Summer Research Program &nbsp; Apply
 Williams College, Mathematics and Statistics
@@ -74,5 +77,5 @@ Williams College, Mathematics and Statistics
 [ NTPROBABILITY ] Williams College SMALL REU 2027: Number Theory and Probability &nbsp; Apply
 [ POLYMATHREU2027 ] Polymath Jr-REU2027 &nbsp; Apply
 [ TROPICAL ] Williams College SMALL REU 2027: Tropical Geometry &nbsp; Apply
-(36 programs listed)
+(38 programs listed)
 &copy; 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.

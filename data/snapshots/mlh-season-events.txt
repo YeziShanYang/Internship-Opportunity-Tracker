@@ -17,6 +17,11 @@ HackSheffield11
 NOV 28 - 29
 Sheffield, South Yorkshire, GB
 In-Person
+Pleasanton , CA
+Workday Internal Hackathon
+NOV 30 - DEC 02
+Pleasanton, CA, US
+In-Person
 Manhattan , Kansas
 Hack Cats
 DEC 04 - 06
@@ -28,6 +33,11 @@ Hack Canada 2027
 JAN 08 - 10
 Toronto, Ontario, CA
 In-Person Hardware
+London , Ontario
+SheHacks+ 11
+JAN 08 - 10
+London, Ontario, CA
+In-Person Diversity
 Hamilton , Ontario
 DeltaHacks
 JAN 09 - 10
@@ -68,10 +78,10 @@ Hoya Hacks
 JAN 22 - 24
 Washington, DC, US
 In-Person
-Missisauga , Ontario
+Oakville , Ontario
 Hackville 2027
 JAN 23 - 24
-Missisauga, Ontario, CA
+Oakville, Ontario, CA
 In-Person Diversity Hardware
 Toronto , Ontario
 ElleHacks
@@ -117,16 +127,6 @@ Toronto , Ontario
 MakeUofT
 FEB 13 - 14
 Toronto, Ontario, CA
-In-Person
-San Francisco , CA
-SF Hacks
-FEB 19 - 21
-San Francisco, CA, US
-In-Person
-Clemson , SC
-CUhackit
-FEB 20 - 21
-Clemson, SC, US
 In-Person
 24 upcoming and 24 past events shown
 Location data © OpenStreetMap contributors

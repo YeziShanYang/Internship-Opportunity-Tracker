@@ -30,37 +30,7 @@ Dec 5
 Hackallax: Presented by Parallax &amp; Anthropic
 Sat, Dec 5 · 9:00 AM PST
 San Francisco, CA
-Parallax and Anthropic will host a hands-on hardware-building weekend, where teams will use industrial tools like CNC cutters, 3D printers, and laser welders to build an air-powered motor or create a freestyle project. The event will feature live testing, demonstrations, a fireside chat, and prizes including 3D printers and Claude API credits, with support from Founders Fund, Lux Capital, Diffusion, and Eclipse.
-Nov 25
-AI Tech &amp; Startup Night
-Wed, Nov 25 · 3:00 PM PST
-Liberties
-Nomad Global Hub will bring together builders, founders, and tech professionals for curated networking and high-impact startup pitches. Attendees will connect with experienced innovators and emerging ventures.
-Nov 25
-AI Owners Club at Hacker Dojo
-Wed, Nov 25 · 6:00 PM PST
-San Jose, CA
-The AI Owners Club will explore using Agent Zero for local AI bookkeeping, alongside tools such as Unsloth Desktop and OpenRouter. The discussion will cover local-first agentic systems and practical applications including deep research, website building, data imports, and home automation.
-Nov 25
-Wiki3: Own Your Own AI Workshop
-Wed, Nov 25 · 6:00 PM PST
-San Francisco, CA
-The free, hands-on Wiki3 AI Owners Group workshop will show attendees how to run AI models on their own computers. The session will focus on practical, self-hosted AI skills for participants curious about taking control of their AI tools.
-Nov 25
-The Bay Area Founder Room
-Wed, Nov 25 · 7:00 PM PST
-Studio 45
-Founders working across AI, jewelry, and watches will compare notes and tackle real business questions. Expect practical conversations aimed at uncovering a clear next step.
-Nov 25
-Startup Tech &amp; AI Networking
-Wed, Nov 25 · 7:00 PM PST
-San Jose, CA
-Tech professionals will build valuable connections with investors, technology experts, and entrepreneurs, creating opportunities for collaboration and stronger industry relationships.
-Nov 25
-Startup Pitch &amp; Networking
-Wed, Nov 25 · 7:00 PM PST
-AI Start Academy
-Four to six selected founders will pitch with decks and receive candid feedback during Q&amp;A, alongside structured networking with angel investors, VC partners, venture scouts, and startup operators. The evening will connect early-stage and serial founders with experienced investors and industry professionals seeking promising teams.
+Parallax and Anthropic will host a hands-on hardware-building weekend, where teams will use industrial tools to create an air-powered motor or freestyle machine, followed by live demos and an awards showcase. The event is backed by Founders Fund, Lux Capital, Diffusion, and Eclipse, with prizes including Bambu Labs 3D printers and Claude API credits.
 Nov 26
 Friendsgiving! A Thanksgiving Night for Those Away from Home
 Thu, Nov 26 · 5:00 PM PST
@@ -71,6 +41,11 @@ Build Tools for Good: An Afternoon of Giving Back
 Fri, Nov 27 · 12:30 PM PST
 San Francisco, CA
 This Thanksgiving, Imbue will bring people of all backgrounds together to turn their skills into practical, openly shared tools for nonprofits, communities, and people who could use a helping hand, no coding experience required. Attendees will explore real needs, collaborate in teams, get hands-on with Imbue Studio, and share what they build.
+Nov 28
+Padel x AI Founders #2
+Sat, Nov 28 · 8:30 AM PST
+San Francisco, CA
+AI founders actively building products will compete in an Americano Padel format, switching partners each round and playing for one individual winner, no pitching, just spirited games and good company. Host Nick Havryliak is a repeat founder and angel investor; all skill levels are welcome, and courts, equipment, and drinks will be provided.
 Nov 28
 Physical AI Hack
 Sat, Nov 28 · 9:30 AM PST
@@ -92,15 +67,35 @@ Sun, Nov 29 · 10:00 AM PST
 AGI House SF
 The second SF × MIT hack day will focus on building agents for peptide design, human-evidence research, and scientific evaluation, helping models predict which candidates may bind targets, remain stable, and be safe. It will be organized by Superradiant founders Micah Stubbs and Alejandro Zarzuelo Urdiales, alongside communities and teams with track records including 130+ hackathons and work on autonomous learning and scientific agents.
 Nov 29
+GTM &amp; AI Builders Brunch
+Sun, Nov 29 · 10:00 AM PST
+425 Bush St
+GTM engineers, RevOps and sales/marketing operators, and product and engineering builders experimenting with AI will share practical workflows, knowledge-factory projects, and predictions for 2027 over brunch. The morning will feature quick demos, candid conversations, and collaborative predictions, without slides or vendor pitches.
+Nov 29
 Sundae Robotics 12: What Scale Does Not Fix — Representation and Architecture in Robot Manipulation
 Sun, Nov 29 · 2:00 PM PST
 Founders
 Sundae Robotics 12 will explore world models, contact-rich manipulation, and robot foundation models, featuring Devol Robots Co-founder and CTO Elijah Yi Herng Ong on architectures designed to make physical interaction more reliable. His talk will present Interaction World Model and Devol-ONE, including reported 92% average success on contact-rich tasks with substantially fewer action parameters than leading baselines.
+Nov 29
+Stop AI Meeting Berkeley
+Sun, Nov 29 · 6:00 PM PST
+Tender Greens
+Over a bite, attendees will discuss AI’s potential impact on jobs and humanity, from workplace disruption to existential risks.
 Nov 30
 Richard Socher | Why AI is Key to Unlocking New Era of Scientific Discovery
 Mon, Nov 30 · 12:00 PM PST
 Gates Computer Science
 On November 30, 2026, Richard Socher, CEO of Recursive, will speak as part of the lab’s seminar series.
+Nov 30
+Humanoid Happy Hour
+Mon, Nov 30 · 5:00 PM PST
+San Francisco, CA
+Akkar, OMNI Ventures and OPTIM will host a relaxed, small-group drinks gathering ahead of Humanoids Summit, bringing together founders, engineers, operators and investors working in humanoids, physical AI and robotics, without talks or pitches. Hosts bring deep experience in engineering talent, early-stage manufacturing investment, factory access and real-world AI communities.
+Nov 30
+Year-End AI Automation Sprint &amp; Founder Lounge
+Mon, Nov 30 · 5:30 PM PST
+Alloy Collective
+Attendees will build and test a practical AI-assisted workflow for 2027 using safe sample data, then wrap up the year with relaxed conversation among founders.
 Nov 30
 Deep Tech Founders&#x27; Social | MFV Partners x Rho
 Mon, Nov 30 · 5:30 PM PST
@@ -111,11 +106,6 @@ re:Invent 2026 Watch Parties
 Mon, Nov 30 · 5:30 PM PST
 AWS Builder Loft
 The AWS Builder Loft will host a livestream of the re:Invent 2026 Developer Keynote, featuring the latest announcements and tools for builders. Attendees will get a front-row look at what’s next for the developer community.
-Nov 30
-Year-End AI Automation Sprint &amp; Founder Lounge
-Mon, Nov 30 · 5:30 PM PST
-Alloy Collective
-Attendees will build and test a practical AI-assisted workflow for 2027 using safe sample data, then wrap up the year with relaxed conversation among founders.
 Nov 30
 CapCut x ElevenLabs - Chroma Awards - San Francisco Creator Meetup
 Mon, Nov 30 · 6:00 PM PST
@@ -129,5 +119,15 @@ Light Dao’s salon will bring conscious entrepreneurs and investors into conver
 Nov 30
 art x robotics salon
 Mon, Nov 30 · 6:30 PM PST
-San Francisco, CA
+Mission Robotics
 Artists, designers, and builders working in human-robot interaction will explore how robots should look, feel, and connect with people, with projects, prototypes, and perspectives in the mix. The BCI company will sponsor the evening.
+Nov 30
+SF Lean Meetup
+Mon, Nov 30 · 7:00 PM PST
+Mox
+The weekly Lean meetup will feature presentations and discussions on formal methods, software verification, AI, and mathematics, with beginners welcome. Mox, a coworking and community space for AI safety, will host.
+Nov 30
+How to build a sales agent
+Mon, Nov 30 · 7:00 PM PST
+San Francisco, CA
+The event will explore how agentic AI can move sales systems beyond constant human direction and help determine what to do next. Attendee qualifications are not specified.
