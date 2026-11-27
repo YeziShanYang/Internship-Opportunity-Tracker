@@ -36,7 +36,7 @@ Livermore, California, United States Posted <age>
 Design and Engineering
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Plasma Physics Classification Algorithms Analytics Tools Automation Export Controls Matlab Machining Data Acquisition C/C++ Python
+Export Controls Automation Access Control Machining Clearance Classification Algorithms Optics Matlab Analytics Tools Python
 Apply
 #LI-DNI Armadin Security Summer 2027 Internship - Member of Technical Staff - Frontend
 Always confirm salary details from the job posting.
@@ -45,7 +45,7 @@ Palo Alto, California, United States Posted 30+ days ago
 Internships
 AI, Computer &amp; Network Security
 Growth
-Artificial Intelligence Data Visualization Python D3.js User Experience Rendering
+D3.js Artificial Intelligence Rendering Python User Experience Data Visualization
 Apply
 #LI-DNI Odyssey Research Internship
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -54,7 +54,7 @@ Palo Alto, California, United States, London, England, United Kingdom Posted 30+
 Engineering
 AI
 Growth, 10–100 employees
-Artificial Intelligence Mentorship Infrastructure Robotics Online Gaming Research
+Online Gaming Robotics Research Artificial Intelligence Mentorship Infrastructure
 Apply
 #LI-DNI Armadin Security Summer 2027 Internship - Member of Technical Staff - Agent Systems
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -63,7 +63,7 @@ Palo Alto, California, United States Posted 30+ days ago
 Internships
 AI, Computer &amp; Network Security
 Growth
-Agent Systems Artificial Intelligence Data Visualization Python D3.js Rendering
+D3.js Artificial Intelligence Rendering Python Data Visualization Agent Systems
 Apply
 #LI-DNI Flick GTM Intern
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -71,7 +71,7 @@ Similar jobs pay USD 40,000 - 290,000 / year
 Remote Remote (US) Posted 30+ days ago
 AI
 Seed, 10–100 employees
-Instagram Marketing Strategy Discord
+Marketing Strategy Instagram Discord
 Apply
 #LI-DNI Gravity Business Intern
 New York, New York, United States Posted 30+ days ago
