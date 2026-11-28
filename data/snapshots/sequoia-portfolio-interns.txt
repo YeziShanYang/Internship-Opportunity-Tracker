@@ -24,17 +24,17 @@ Clear filters
 5 jobs
 Series A 10–100 employees Renewables &amp; Environment Los Angeles, California
 Reflect Orbital is developing technology to sell sunlight to those who need it. We imagine a future where sunlight continues powering solar farms and providing lighting after the sun sets. We’re a small team of engineers who make progress by building things quickly and iteratively. Time is our greatest constraint. Join us.
-#LI-DNI Embedded Firmware Engineering Intern
+#LI-DNI IT Support Specialist Intern
 Hawthorne, California, United States Posted 30+ days ago Engineering
-UART C Power Supplies Troubleshooting Ethernet SPI Communication Protocols Device Drivers Python C/C++
+VPC Knowledge Management Computer Repair Identity &amp; Access Management (IAM) Networking Technologies Laptops CloudWatch Linux Amazon S3 Amazon EC2
 Apply
 #LI-DNI Ground Software Engineering Intern
 Hawthorne, California, United States Posted 30+ days ago Engineering
-Full Stack Development Research Aerospace Networking Technologies Python Volunteer Management
+Research Volunteer Management Python Networking Technologies Full Stack Development Aerospace
 Apply
 #LI-DNI Mission Operations Engineering Intern
 Hawthorne, California, United States Posted 30+ days ago Engineering
-Analytics Research Scripting Aerospace Mechanics Spacecraft Python Volunteer Management
+Research Volunteer Management Spacecraft Python Mechanics Aerospace Analytics Scripting
 Apply
 5 matching jobs at Reflect Orbital All jobs at Reflect Orbital
 Share these results

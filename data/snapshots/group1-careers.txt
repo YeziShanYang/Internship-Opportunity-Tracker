@@ -33,6 +33,7 @@ Drexel University December 2026 OCR
 * Please note, the schedule is subject to change .
 Below is a list of the current job openings with our company. Click on the job title to learn more about the opening. (Please note- You must be an active student in order to be considered for an internship.)
 Current Job Listings
+AI Platform Engineer
 Application Support Specialist
 Desktop Engineer Intern
 Principal Data Engineer

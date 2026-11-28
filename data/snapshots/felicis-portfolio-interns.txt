@@ -30,13 +30,13 @@ Powered by Consider
 Internships only
 Clear filters
 25 jobs
-#LI-DNI Exowatt Mechanical Engineering Spring Intern (Austin, TX)
+#LI-DNI Exowatt Mechanical Engineering Spring Intern (Miami, FL)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
 Similar jobs pay USD 40,000 - 85,000 / year
-Austin, TX Posted <age>
+Miami, FL Posted <age>
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Computational Fluid Dynamics Quality Assurance 3D CAD Infrastructure Solar Energy Robotics ANSYS PTC Creo Spreadsheets Fusion
+Solar Energy ANSYS Sketch App SolidWorks Fusion Computational Fluid Dynamics Artificial Intelligence PTC Creo Renewable Energy Robotics
 Apply
 #LI-DNI Atalanta Forward Deployed Engineer Intern
 Always confirm salary details from the job posting.
@@ -45,27 +45,27 @@ Washington, District of Columbia, United States Posted <age>
 Engineering
 AI
 10–100 employees
-Open Source Software Research Clearance Decision-Making Scalable Architecture Artificial Intelligence
+Artificial Intelligence Research Decision-Making Scalable Architecture Clearance Open Source Software
 Apply
-#LI-DNI Exowatt Mechanical Engineering Spring Intern (Miami, FL)
+#LI-DNI Exowatt Mechanical Engineering Spring Intern (Austin, TX)
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
 Similar jobs pay USD 40,000 - 85,000 / year
-Miami, FL Posted <age>
+Austin, TX Posted <age>
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Computational Fluid Dynamics Quality Assurance 3D CAD Infrastructure Solar Energy Robotics ANSYS PTC Creo Spreadsheets Fusion
+Solar Energy ANSYS Sketch App SolidWorks Fusion Computational Fluid Dynamics Artificial Intelligence PTC Creo Renewable Energy Robotics
 Apply
 #LI-DNI Exowatt Software &amp; AI Spring Intern (Austin, TX)
 Austin, TX Posted <age>
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Solar Energy Frontend Web Development Marketing Strategy Spring Microsoft Certified Professional Human Resources Finance Artificial Intelligence Renewable Energy Infrastructure
+Artificial Intelligence Spring Human Resources Marketing Strategy Solar Energy Microsoft Certified Professional Frontend Web Development Renewable Energy Infrastructure Finance
 Apply
 #LI-DNI Exowatt Robotics &amp; Physical AI Spring Intern (Miami)
 Miami, FL Posted <age>
 Energy, Renewables &amp; Environment
 Series A, 10–100 employees
-Path Planning Team Leadership Act-On C/C++ Infrastructure PCB design Solar Energy Robotics SLAM Drones
+Firmware Solar Energy Drones 3D Printing SLAM ROS Act-On Sensors Artificial Intelligence Computer Vision
 Apply
 #LI-DNI Atalanta Software Engineer Intern
 Always confirm salary details from the job posting.
@@ -74,7 +74,7 @@ Washington, District of Columbia, United States Posted <age>
 Software Engineering
 AI
 10–100 employees
-Open Source Software Research Clearance Decision-Making Scalable Architecture Artificial Intelligence
+Artificial Intelligence Research Decision-Making Scalable Architecture Clearance Open Source Software
 Apply
 #LI-DNI Skild AI Founding Brand Design Intern
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -83,7 +83,7 @@ San Mateo, CA Posted <age>
 Marketing
 AI, Research
 Growth, 10–100 employees
-Motion Graphics After Effects Brand Design Workflow Scheduling Figma Compositing Modeling Graphic Design 3D Artificial Intelligence
+Graphic Design Artificial Intelligence Rendering Typography Blender 3D Adobe Creative Suite After Effects Motion Graphics Modeling
 Apply
 #LI-DNI Solcoa Industries Mechanical Engineering Intern
 Always confirm salary details from the job posting.
@@ -92,7 +92,7 @@ San Francisco Bay Area, California, United States Posted 30+ days ago
 Engineering
 Energy Transition
 1–10 employees
-CAD Attention to Detail Data Center Quality Assurance Fusion Follow through Chemistry 3D Printing SolidWorks
+Quality Assurance Attention to Detail SolidWorks Data Center Follow through CAD Chemistry 3D Printing Fusion
 Apply
 #LI-DNI Deep Infra Software Engineer Intern (US)
 Always confirm salary details from the job posting.
@@ -101,7 +101,7 @@ Palo Alto Posted 30+ days ago
 Engineering
 AI
 Seed, 10–100 employees
-NumPy PyTorch Git Cross-functional Team Leadership Design Patterns Pandas Artificial Intelligence Python SciPy Machine Learning
+Artificial Intelligence Cross-functional Team Leadership Version Control Systems Python TensorFlow Algorithms and Data Structures Git Design Patterns Machine Learning Pandas
 Apply
 #LI-DNI Atalanta Software Understanding Researcher (PhD Internship)
 Always confirm salary details from the job posting.
@@ -110,14 +110,14 @@ Washington, District of Columbia, United States Posted 30+ days ago
 Internships
 AI
 10–100 employees
-Inform Formal Verification Technical Communication Strategic Partnerships Research Algorithms Decision-Making Reinforcement Learning Artificial Intelligence Program Analysis
+Artificial Intelligence Research Decision-Making Technical Communication Algorithms Reinforcement Learning Program Analysis Machine Learning Formal Verification Strategic Partnerships
 Apply
 #LI-DNI Periodic Labs Research Intern, Thin Films
 Menlo Park, California, United States Posted 30+ days ago
 Science
 AI, Research
 Seed, 10–100 employees
-Nanofabrication Process Flow Documentation Photolithography SEM Good Lab Practice Semiconductor Devices Research Optoelectronics MEMS Photonics
+Research Artificial Intelligence Optoelectronics Semiconductor Devices Photonics Thin Films MEMS Good Lab Practice Photolithography SEM
 Apply
 #LI-DNI Simular GTM Intern, Content &amp; Distribution
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -126,14 +126,14 @@ Remote Palo Alto, California, United States Posted 30+ days ago
 Go-to-Market
 AI
 Series A, 10–100 employees
-Motion Graphics Marketing Strategy Video Editing Artificial Intelligence Newsletters Organizing
+Artificial Intelligence Marketing Strategy Motion Graphics Newsletters Organizing Video Editing
 Apply
 #LI-DNI Deep Infra Software Engineer Intern (Europe)
 Remote Posted 30+ days ago
 Engineering
 AI
 Seed, 10–100 employees
-NumPy PyTorch Git Cross-functional Team Leadership Design Patterns Pandas Artificial Intelligence Python SciPy Machine Learning
+Artificial Intelligence Cross-functional Team Leadership Version Control Systems Python TensorFlow Algorithms and Data Structures Git Design Patterns Machine Learning Pandas
 Apply
 #LI-DNI Singularity Defense Mechanical Engineer - Co-op
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -142,7 +142,7 @@ Gardena, CA Posted 30+ days ago
 Mechanical
 Defense &amp; Space, Manufacturing
 Series A, 10–100 employees
-SolidWorks Prototyping PTC Creo Aerospace NX CAD
+NX Prototyping PTC Creo CAD SolidWorks Aerospace
 Apply
 #LI-DNI Simular GTM Intern, Growth Operations
 Based on jobs posted for similar roles and locations by various companies. The actual compensation will be determined by the employer.
@@ -151,7 +151,7 @@ Remote Palo Alto, California, United States Posted 30+ days ago
 Go-to-Market
 AI
 Series A, 10–100 employees
-Attention to Detail Automation Analytics Marketing Strategy HubSpot Salesforce CRM
+HubSpot Analytics Automation Attention to Detail Salesforce Marketing Strategy CRM
 Apply
 Show more jobs Back to top
 Share these results

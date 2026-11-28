@@ -30,12 +30,7 @@ Dec 5
 Hackallax: Presented by Parallax &amp; Anthropic
 Sat, Dec 5 · 9:00 AM PST
 San Francisco, CA
-Parallax and Anthropic will host a hands-on hardware-building weekend, where teams will use industrial tools to create an air-powered motor or freestyle machine, followed by live demos and an awards showcase. The event is backed by Founders Fund, Lux Capital, Diffusion, and Eclipse, with prizes including Bambu Labs 3D printers and Claude API credits.
-Nov 27
-Build Tools for Good: An Afternoon of Giving Back
-Fri, Nov 27 · 12:30 PM PST
-San Francisco, CA
-This Thanksgiving, Imbue will bring people of all backgrounds together to turn their skills into practical, openly shared tools for nonprofits, communities, and people who could use a helping hand, no coding experience required. Attendees will explore real needs, collaborate in teams, get hands-on with Imbue Studio, and share what they build.
+Parallax and Anthropic will host a hands-on hardware-building weekend featuring industrial fabrication tools, an air-powered motor challenge, and open-ended prototyping. The event will wrap with live demos, a fireside chat, and awards, with prizes including 3D printers and Claude API credits.
 Nov 28
 Padel x AI Founders #2
 Sat, Nov 28 · 8:30 AM PST
@@ -51,6 +46,11 @@ Weekly New Founders Meetup: Welcome to SF
 Sat, Nov 28 · 11:00 AM PST
 San Francisco, CA
 This Saturday meetup will bring together founders who are new to the city for relaxed conversation, practical tips, and new connections, without pitches or promotion. Host Dylan Zhang, founder and CEO of Pond AI, is a solo founder who raised a $7.5M seed round from 30+ angel investors and will keep the gathering small and nonprofit.
+Nov 28
+FBC Private Mixer | AI Researcher, Founder &amp; Investor
+Sat, Nov 28 · 1:00 PM PST
+San Francisco, CA
+Founder Builder Club will host an intimate afternoon of conversation on frontier AI, emerging research, startups, and venture opportunities, bringing together researchers, founders, investors, and engineers. The gathering will also celebrate a housewarming, with informal networking, drinks, and light bites.
 Nov 28
 Breaking Models AI Security
 Sat, Nov 28 · 2:30 PM PST
